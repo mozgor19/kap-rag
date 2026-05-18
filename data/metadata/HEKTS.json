@@ -1,0 +1,1427 @@
+[
+  {
+    "index": 1608451,
+    "publish_datetime": "2026-05-18T12:30:20",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608451",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1608451_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608451"
+      }
+    ]
+  },
+  {
+    "index": 1608379,
+    "publish_datetime": "2026-05-18T10:47:33",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608379",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1608379_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608379"
+      }
+    ]
+  },
+  {
+    "index": 1607557,
+    "publish_datetime": "2026-05-14T20:30:12",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607557",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1607557_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607557"
+      }
+    ]
+  },
+  {
+    "index": 1606888,
+    "publish_datetime": "2026-05-13T17:12:24",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606888",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1606888_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606888"
+      }
+    ]
+  },
+  {
+    "index": 1604109,
+    "publish_datetime": "2026-05-11T10:02:32",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604109",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1604109_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604109"
+      }
+    ]
+  },
+  {
+    "index": 1604046,
+    "publish_datetime": "2026-05-11T09:39:10",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şirketimiz hakim ortağı Oyak'ın sahip olduğu Şirketimiz sermayesinin yaklaşık %10'una karşılık gelen Borsada işlem görmeyen statüdeki payların, Borsada toptan satışı hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604046",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1604046_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604046"
+      }
+    ]
+  },
+  {
+    "index": 1603445,
+    "publish_datetime": "2026-05-08T17:39:20",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ADEL",
+      "BIENY",
+      "BRKT",
+      "DERHL",
+      "DNFIN",
+      "EKTVK",
+      "HEKTS",
+      "HLVKS",
+      "KATVK",
+      "NURVK",
+      "PETUN",
+      "SMRFA",
+      "SMRVA",
+      "YATVK"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603445",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1603445_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603445"
+      }
+    ]
+  },
+  {
+    "index": 1602979,
+    "publish_datetime": "2026-05-08T10:28:59",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Finansman Bonosu İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602979",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1602979_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602979"
+      }
+    ]
+  },
+  {
+    "index": 1602859,
+    "publish_datetime": "2026-05-07T21:13:34",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı Sermaye Tavanının Yükseltilmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602859",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1602859_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602859"
+      },
+      {
+        "filename": "ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "local_path": "data/pdfs/HEKTS/1602859_ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e03a140c00323"
+      },
+      {
+        "filename": "AMENDMENT TEXT.pdf",
+        "local_path": "data/pdfs/HEKTS/1602859_AMENDMENT TEXT.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e03a140ca0324"
+      }
+    ]
+  },
+  {
+    "index": 1602858,
+    "publish_datetime": "2026-05-07T21:13:01",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602858",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1602858_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602858"
+      }
+    ]
+  },
+  {
+    "index": 1602857,
+    "publish_datetime": "2026-05-07T21:12:47",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Kar Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602857",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1602857_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602857"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/HEKTS/1602857_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e039e188802ea"
+      },
+      {
+        "filename": "Dividant Distribution.pdf",
+        "local_path": "data/pdfs/HEKTS/1602857_Dividant Distribution.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e039e189102eb"
+      }
+    ]
+  },
+  {
+    "index": 1602855,
+    "publish_datetime": "2026-05-07T21:00:50",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602855",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1602855_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602855"
+      },
+      {
+        "filename": "Toplantı_Tutanağı.pdf",
+        "local_path": "data/pdfs/HEKTS/1602855_Toplantı_Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e02f31c5e48d6"
+      },
+      {
+        "filename": "Meeting_Minutes.pdf",
+        "local_path": "data/pdfs/HEKTS/1602855_Meeting_Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e02f31ca048d7"
+      },
+      {
+        "filename": "Hazirun.pdf",
+        "local_path": "data/pdfs/HEKTS/1602855_Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e02f31d1048d8"
+      }
+    ]
+  },
+  {
+    "index": 1601442,
+    "publish_datetime": "2026-05-05T20:00:42",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601442",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1601442_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601442"
+      }
+    ]
+  },
+  {
+    "index": 1601441,
+    "publish_datetime": "2026-05-05T20:00:28",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "01.01.2026-31.03.2026 Dönemi Yönetim Kurulu Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601441",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1601441_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601441"
+      },
+      {
+        "filename": "31.03.2026 Yönetim Kurulu Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/HEKTS/1601441_31.03.2026 Yönetim Kurulu Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df883f3f95c8f"
+      },
+      {
+        "filename": "QI Interim Report.pdf",
+        "local_path": "data/pdfs/HEKTS/1601441_QI Interim Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df883f5a75c90"
+      }
+    ]
+  },
+  {
+    "index": 1601440,
+    "publish_datetime": "2026-05-05T20:00:13",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601440",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1601440_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601440"
+      },
+      {
+        "filename": "032026_HEKTAS_Konsolide_SPK_Raporu.pdf",
+        "local_path": "data/pdfs/HEKTS/1601440_032026_HEKTAS_Konsolide_SPK_Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8d000e26396"
+      },
+      {
+        "filename": "032026_HEKTAS_Konsolide_ENG_SPK_Raporu.pdf",
+        "local_path": "data/pdfs/HEKTS/1601440_032026_HEKTAS_Konsolide_ENG_SPK_Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8d001646397"
+      }
+    ]
+  },
+  {
+    "index": 1596330,
+    "publish_datetime": "2026-04-21T20:00:35",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara-Yüksek Teknoloji Merkezimiz İçin Ar-ge Merkezi Başvurusu Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596330",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1596330_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596330"
+      }
+    ]
+  },
+  {
+    "index": 1595935,
+    "publish_datetime": "2026-04-21T12:25:27",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595935",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1595935_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595935"
+      }
+    ]
+  },
+  {
+    "index": 1592617,
+    "publish_datetime": "2026-04-13T20:04:21",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Konunun Gündemde Yer Aldığı Genel Kurul Tarihi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592617",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "local_path": "data/pdfs/HEKTS/1592617_ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d87cb67635a41"
+      },
+      {
+        "filename": "AMENDMENT TEXT.pdf",
+        "local_path": "data/pdfs/HEKTS/1592617_AMENDMENT TEXT.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d87cb676e5a42"
+      }
+    ]
+  },
+  {
+    "index": 1592593,
+    "publish_datetime": "2026-04-13T20:00:56",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592593",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1592592,
+    "publish_datetime": "2026-04-13T20:00:39",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592592",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/HEKTS/1592592_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d8591eb4c067d"
+      },
+      {
+        "filename": "Dividant Distribution.pdf",
+        "local_path": "data/pdfs/HEKTS/1592592_Dividant Distribution.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d8591eb56067e"
+      }
+    ]
+  },
+  {
+    "index": 1592589,
+    "publish_datetime": "2026-04-13T20:00:21",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Duyurusu ve Bilgilendirme Dokümanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592589",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Davet Yazısı.pdf",
+        "local_path": "data/pdfs/HEKTS/1592589_Davet Yazısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d865389041e73"
+      },
+      {
+        "filename": "Invitation Letter.pdf",
+        "local_path": "data/pdfs/HEKTS/1592589_Invitation Letter.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d8653890c1e74"
+      },
+      {
+        "filename": "2025 Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/HEKTS/1592589_2025 Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d865389141e75"
+      }
+    ]
+  },
+  {
+    "index": 1585269,
+    "publish_datetime": "2026-04-06T20:00:34",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585269",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Başvuru Formu.pdf",
+        "local_path": "data/pdfs/HEKTS/1585269_Başvuru Formu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61908b8b6e0c"
+      },
+      {
+        "filename": "Onaylı_İhraç_Belgesi.pdf",
+        "local_path": "data/pdfs/HEKTS/1585269_Onaylı_İhraç_Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61908bc76e0d"
+      }
+    ]
+  },
+  {
+    "index": 1585268,
+    "publish_datetime": "2026-04-06T20:00:18",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585268",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Başvuru Formu.pdf",
+        "local_path": "data/pdfs/HEKTS/1585268_Başvuru Formu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6192ba736e70"
+      },
+      {
+        "filename": "Onaylı_İhraç_Belgesi.pdf",
+        "local_path": "data/pdfs/HEKTS/1585268_Onaylı_İhraç_Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6192baa96e71"
+      }
+    ]
+  },
+  {
+    "index": 1575882,
+    "publish_datetime": "2026-03-25T20:00:27",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "SPK'ya Başvuru Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575882",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567826,
+    "publish_datetime": "2026-03-06T22:02:58",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567826",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567825,
+    "publish_datetime": "2026-03-06T22:02:45",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567825",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567824,
+    "publish_datetime": "2026-03-06T22:02:28",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567824",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567820,
+    "publish_datetime": "2026-03-06T22:01:06",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567820",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567819,
+    "publish_datetime": "2026-03-06T22:00:53",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "Yaygın ve Süreklilik Arz Eden İşlemlere İlişkin Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567819",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567818,
+    "publish_datetime": "2026-03-06T22:00:42",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567818",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567817,
+    "publish_datetime": "2026-03-06T22:00:29",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567817",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "FAALİYET RAPORU 2025.pdf",
+        "local_path": "data/pdfs/HEKTS/1567817_FAALİYET RAPORU 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cc421a0cb6b6d"
+      },
+      {
+        "filename": "ANNUAL ACTIVITY REPORT 2025.pdf",
+        "local_path": "data/pdfs/HEKTS/1567817_ANNUAL ACTIVITY REPORT 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cc421a10b6b6e"
+      }
+    ]
+  },
+  {
+    "index": 1567816,
+    "publish_datetime": "2026-03-06T22:00:13",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567816",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1567816_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567816"
+      },
+      {
+        "filename": "Hektaş 31.12.2025 Rapor TR.pdf",
+        "local_path": "data/pdfs/HEKTS/1567816_Hektaş 31.12.2025 Rapor TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc407b86c208e"
+      },
+      {
+        "filename": "Hektaş 31.12.2025 Rapor EN.pdf",
+        "local_path": "data/pdfs/HEKTS/1567816_Hektaş 31.12.2025 Rapor EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc407b8d8208f"
+      }
+    ]
+  },
+  {
+    "index": 1566766,
+    "publish_datetime": "2026-03-05T22:56:10",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Ayrılma Hakkı Kullanımına İlişkin Bildirim",
+    "summary": "Esas Sözleşme Tadili Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566766",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1566766_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566766"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/HEKTS/1566766_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cbf8e7518673b"
+      },
+      {
+        "filename": "AMENDMENT TEXT.pdf",
+        "local_path": "data/pdfs/HEKTS/1566766_AMENDMENT TEXT.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cbf8e751f673c"
+      }
+    ]
+  },
+  {
+    "index": 1566765,
+    "publish_datetime": "2026-03-05T22:55:56",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Tadili ve SPK Başvurusu Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566765",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1566765_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566765"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/HEKTS/1566765_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbe989b1e3e4f"
+      },
+      {
+        "filename": "AMENDMENT TEXT.pdf",
+        "local_path": "data/pdfs/HEKTS/1566765_AMENDMENT TEXT.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbe989b243e50"
+      }
+    ]
+  },
+  {
+    "index": 1564437,
+    "publish_datetime": "2026-03-02T21:58:17",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Mevcut Paylarda İmtiyaz Öngörülmesi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564437",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1564437_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564437"
+      }
+    ]
+  },
+  {
+    "index": 1561121,
+    "publish_datetime": "2026-02-24T20:00:20",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561121",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1561121_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561121"
+      }
+    ]
+  },
+  {
+    "index": 1559134,
+    "publish_datetime": "2026-02-19T16:38:52",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "HEKTS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559134",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1559134_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559134"
+      }
+    ]
+  },
+  {
+    "index": 1557880,
+    "publish_datetime": "2026-02-17T20:00:14",
+    "company_name": "HEKTAŞ TİCARET T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HEKTS"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "2025 Yılı 4.Dönem Geçici Vergi Beyannamesi Verilmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557880",
+    "ticker": "HEKTS",
+    "company_oid": "33E5FED703D800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140ee35c00140ee5d194a0055",
+    "kap_company_code": "978",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/HEKTS/1557880_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557880"
+      },
+      {
+        "filename": "Geçici Vergi 2025.pdf",
+        "local_path": "data/pdfs/HEKTS/1557880_Geçici Vergi 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6bfa24cd723b"
+      },
+      {
+        "filename": "Geçici Vergi 2025-EN.pdf",
+        "local_path": "data/pdfs/HEKTS/1557880_Geçici Vergi 2025-EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6bfa24d3723c"
+      }
+    ]
+  }
+]

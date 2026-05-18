@@ -1,0 +1,1540 @@
+[
+  {
+    "index": 1605483,
+    "publish_datetime": "2026-05-11T19:26:56",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 1.Çeyrek Sunumu ve 31 Mart 2026 Avro UFRS Konsolide Finansal Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605483",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1605483_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605483"
+      },
+      {
+        "filename": "PGSUS 1Ç26 Sonuçları Sunumu.pdf",
+        "local_path": "data/pdfs/PGSUS/1605483_PGSUS 1Ç26 Sonuçları Sunumu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17b863f700cc"
+      },
+      {
+        "filename": "PGSUS 1Q26 results presentation.pdf",
+        "local_path": "data/pdfs/PGSUS/1605483_PGSUS 1Q26 results presentation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17b8654f00cd"
+      },
+      {
+        "filename": "PGSUS IFRS 31032026.pdf",
+        "local_path": "data/pdfs/PGSUS/1605483_PGSUS IFRS 31032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17b865cc00ce"
+      }
+    ]
+  },
+  {
+    "index": 1605481,
+    "publish_datetime": "2026-05-11T19:26:42",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605481",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1605481_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605481"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Ara Dönem Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/PGSUS/1605481_PGSUS 31.03.2026 Ara Dönem Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17be88a35480"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Interim Activity Report.pdf",
+        "local_path": "data/pdfs/PGSUS/1605481_PGSUS 31.03.2026 Interim Activity Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17be8a4c5491"
+      }
+    ]
+  },
+  {
+    "index": 1605480,
+    "publish_datetime": "2026-05-11T19:26:26",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605480",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1605480_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605480"
+      },
+      {
+        "filename": "PGSUS 31032026 .pdf",
+        "local_path": "data/pdfs/PGSUS/1605480_PGSUS 31032026 .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17cc353b6f18"
+      },
+      {
+        "filename": "PGSUS 31032026 EN.pdf",
+        "local_path": "data/pdfs/PGSUS/1605480_PGSUS 31032026 EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17cc354b6f19"
+      }
+    ]
+  },
+  {
+    "index": 1605478,
+    "publish_datetime": "2026-05-11T19:26:07",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605478",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1605478_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605478"
+      }
+    ]
+  },
+  {
+    "index": 1605260,
+    "publish_datetime": "2026-05-11T18:34:59",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 yılı Nisan ayı trafik verileri ve karbon emisyonu istatistikleri ektedir.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605260",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1605260_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605260"
+      },
+      {
+        "filename": "PGSUS NISAN 2026 TRAFİK.pdf",
+        "local_path": "data/pdfs/PGSUS/1605260_PGSUS NISAN 2026 TRAFİK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e177e01e33742"
+      },
+      {
+        "filename": "PGSUS APRIL 2026 TRAFFIC.pdf",
+        "local_path": "data/pdfs/PGSUS/1605260_PGSUS APRIL 2026 TRAFFIC.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e177e027c3743"
+      }
+    ]
+  },
+  {
+    "index": 1601072,
+    "publish_datetime": "2026-05-05T14:19:12",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "İhraç Belgesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601072",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1601072_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601072"
+      },
+      {
+        "filename": "Ek_1_İhraçbelgesi.pdf",
+        "local_path": "data/pdfs/PGSUS/1601072_Ek_1_İhraçbelgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df7b06cf66737"
+      }
+    ]
+  },
+  {
+    "index": 1601053,
+    "publish_datetime": "2026-05-05T13:58:10",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CEMZY",
+      "DAPGM",
+      "ENSRI",
+      "EUPWR",
+      "ISKPL",
+      "IZENR",
+      "KBORU",
+      "PGSUS",
+      "RUBNS",
+      "TERA"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601053",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1601053_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601053"
+      }
+    ]
+  },
+  {
+    "index": 1600656,
+    "publish_datetime": "2026-05-04T17:39:02",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CEMZY",
+      "DAPGM",
+      "ISBIR",
+      "IZENR",
+      "LKMNH",
+      "PGSUS",
+      "RUBNS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600656",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1600656_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600656"
+      }
+    ]
+  },
+  {
+    "index": 1600432,
+    "publish_datetime": "2026-05-04T13:26:04",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında Satılmak Üzere Borçlanma Aracı İhraç Edilmesi Hakkında SPK İhraç Tavanı Başvurusu Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600432",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1600432_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600432"
+      },
+      {
+        "filename": "Ek_1_İhraçbelgesi.pdf",
+        "local_path": "data/pdfs/PGSUS/1600432_Ek_1_İhraçbelgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df239a5252f44"
+      }
+    ]
+  },
+  {
+    "index": 1594449,
+    "publish_datetime": "2026-04-16T19:55:53",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594449",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1594449_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594449"
+      }
+    ]
+  },
+  {
+    "index": 1592342,
+    "publish_datetime": "2026-04-13T18:30:42",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 yılı Mart ayı trafik verileri ve karbon emisyonu istatistikleri ektedir.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592342",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1592342_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592342"
+      },
+      {
+        "filename": "PGSUS MART 2026 TRAFİK.pdf",
+        "local_path": "data/pdfs/PGSUS/1592342_PGSUS MART 2026 TRAFİK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d8746e01038bb"
+      },
+      {
+        "filename": "PGSUS MARCH 2026 TRAFFIC.pdf",
+        "local_path": "data/pdfs/PGSUS/1592342_PGSUS MARCH 2026 TRAFFIC.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d8746e01938bc"
+      }
+    ]
+  },
+  {
+    "index": 1586338,
+    "publish_datetime": "2026-04-07T15:42:09",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "\t\n31.03.2026 tarihli Olağan Genel Kurul Toplantısı Sonuçlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 13,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586338",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1586338_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586338"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GK Toplantı Tutanağı KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1586338_PGSUS 31.03.2026 GK Toplantı Tutanağı KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d67e3b13c7d2d"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GA Meeting Minutes KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1586338_PGSUS 31.03.2026 GA Meeting Minutes KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d67e3b14f7d2e"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GK Hazır Bulunanlar Listesi KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1586338_PGSUS 31.03.2026 GK Hazır Bulunanlar Listesi KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d67e3b1567d2f"
+      }
+    ]
+  },
+  {
+    "index": 1584126,
+    "publish_datetime": "2026-04-03T23:53:40",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağımsız Yönetim Kurulu Üyesi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584126",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1584126_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584126"
+      }
+    ]
+  },
+  {
+    "index": 1584010,
+    "publish_datetime": "2026-04-03T18:55:01",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584010",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1584010_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584010"
+      }
+    ]
+  },
+  {
+    "index": 1580376,
+    "publish_datetime": "2026-03-31T15:22:46",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Görev Dağılımı ve Yönetim Kurulu Komiteleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580376",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1580376_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580376"
+      }
+    ]
+  },
+  {
+    "index": 1580370,
+    "publish_datetime": "2026-03-31T15:16:46",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Dönem Karının Kullanımına İlişkin Genel Kurul Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580370",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1580370_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580370"
+      },
+      {
+        "filename": "PGSUS 2025 Kar Payı Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/PGSUS/1580370_PGSUS 2025 Kar Payı Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d43ced5d461eb"
+      },
+      {
+        "filename": "PGSUS 2025 Profit Distribution Chart.pdf",
+        "local_path": "data/pdfs/PGSUS/1580370_PGSUS 2025 Profit Distribution Chart.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d43ced5de61ec"
+      }
+    ]
+  },
+  {
+    "index": 1580365,
+    "publish_datetime": "2026-03-31T15:10:50",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Tutanağı ve Hazır Bulunanlar Listesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 12,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580365",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1580365_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580365"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GK Toplantı Tutanağı KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1580365_PGSUS 31.03.2026 GK Toplantı Tutanağı KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d43c671525eff"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GA Meeting Minutes KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1580365_PGSUS 31.03.2026 GA Meeting Minutes KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d43c6716c5f00"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 GK Hazır Bulunanlar Listesi KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1580365_PGSUS 31.03.2026 GK Hazır Bulunanlar Listesi KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d43c671765f01"
+      }
+    ]
+  },
+  {
+    "index": 1575322,
+    "publish_datetime": "2026-03-24T22:01:18",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağımsız Yönetim Kurulu Üye Adayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575322",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1575322_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575322"
+      },
+      {
+        "filename": "Neyran ARSLANTÜRK.pdf",
+        "local_path": "data/pdfs/PGSUS/1575322_Neyran ARSLANTÜRK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d19bd9a913f88"
+      }
+    ]
+  },
+  {
+    "index": 1573618,
+    "publish_datetime": "2026-03-17T18:21:10",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında Satılmak Üzere Borçlanma Aracı İhraç Edilmesi Hakkında Karar Alınması ve SPK İhraç Tavanı Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573618",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1573618_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573618"
+      }
+    ]
+  },
+  {
+    "index": 1573193,
+    "publish_datetime": "2026-03-16T18:50:38",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 yılı Şubat ayı trafik verileri ve karbon emisyonu istatistikleri ektedir.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573193",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1573193_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573193"
+      },
+      {
+        "filename": "PGSUS ŞUBAT 2026 TRAFİK.pdf",
+        "local_path": "data/pdfs/PGSUS/1573193_PGSUS ŞUBAT 2026 TRAFİK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf6f5a88f6c36"
+      },
+      {
+        "filename": "PGSUS FEBRUARY 2026 TRAFFIC.pdf",
+        "local_path": "data/pdfs/PGSUS/1573193_PGSUS FEBRUARY 2026 TRAFFIC.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf6f5a89d6c37"
+      }
+    ]
+  },
+  {
+    "index": 1572436,
+    "publish_datetime": "2026-03-13T17:07:00",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572436",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1572436_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572436"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1570707,
+    "publish_datetime": "2026-03-11T18:35:05",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt Dışı Tahvil 3. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570707",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1570707_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570707"
+      }
+    ]
+  },
+  {
+    "index": 1570704,
+    "publish_datetime": "2026-03-11T18:34:54",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt Dışı Tahvil 3. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570704",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1570704_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570704"
+      }
+    ]
+  },
+  {
+    "index": 1566505,
+    "publish_datetime": "2026-03-05T18:20:05",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566505",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566505_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566505"
+      }
+    ]
+  },
+  {
+    "index": 1566121,
+    "publish_datetime": "2026-03-04T23:31:59",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Sürdürülebilirlik Raporu",
+    "summary": "2025 Sürdürülebilirlik Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566121",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566121_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566121"
+      },
+      {
+        "filename": "PGSUS 2025 TSRS Sürdürülebilirlik Raporu KAP.pdf",
+        "local_path": "data/pdfs/PGSUS/1566121_PGSUS 2025 TSRS Sürdürülebilirlik Raporu KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cba8bb9287302"
+      }
+    ]
+  },
+  {
+    "index": 1566095,
+    "publish_datetime": "2026-03-04T21:22:15",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına İlişkin Olağan Genel Kurul Toplantısı İçin Bilgilendirme Dokümanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566095",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566095_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566095"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Olağan Genel Kurul Toplantı Daveti ve Gündem.pdf",
+        "local_path": "data/pdfs/PGSUS/1566095_PGSUS 31.03.2026 Olağan Genel Kurul Toplantı Daveti ve Gündem.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cba13a9d06f19"
+      },
+      {
+        "filename": "PGSUS 31.03.2025 Annual General Assembly Meeting Invitation and Agenda.pdf",
+        "local_path": "data/pdfs/PGSUS/1566095_PGSUS 31.03.2025 Annual General Assembly Meeting Invitation and Agenda.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cba13a9dd6f1a"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Genel Kurul Vekaletname Örneği.pdf",
+        "local_path": "data/pdfs/PGSUS/1566095_PGSUS 31.03.2026 Genel Kurul Vekaletname Örneği.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cba13a9e36f1b"
+      }
+    ]
+  },
+  {
+    "index": 1566093,
+    "publish_datetime": "2026-03-04T21:18:17",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Dönem Karı/Zararı Hakkında Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566093",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566093_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566093"
+      },
+      {
+        "filename": "PGSUS 2025 Kar Payı Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/PGSUS/1566093_PGSUS 2025 Kar Payı Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb960a18f5edc"
+      },
+      {
+        "filename": "PGSUS 2025 Profit Distribution Chart.pdf",
+        "local_path": "data/pdfs/PGSUS/1566093_PGSUS 2025 Profit Distribution Chart.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb960a1a05edd"
+      }
+    ]
+  },
+  {
+    "index": 1566092,
+    "publish_datetime": "2026-03-04T21:15:54",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566092",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566092_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566092"
+      }
+    ]
+  },
+  {
+    "index": 1566091,
+    "publish_datetime": "2026-03-04T21:15:27",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566091",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566091"
+      }
+    ]
+  },
+  {
+    "index": 1566090,
+    "publish_datetime": "2026-03-04T21:14:12",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566090",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566090_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566090"
+      }
+    ]
+  },
+  {
+    "index": 1566089,
+    "publish_datetime": "2026-03-04T21:08:06",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 4.Çeyrek Sunumu ve 31 Aralık 2025 Avro UFRS Konsolide Finansal Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566089",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566089_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566089"
+      },
+      {
+        "filename": "PGSUS 4Ç25 Sonuçları Sunumu.pdf",
+        "local_path": "data/pdfs/PGSUS/1566089_PGSUS 4Ç25 Sonuçları Sunumu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb9c928ef1cfb"
+      },
+      {
+        "filename": "PGSUS 4Q25 results presentation.pdf",
+        "local_path": "data/pdfs/PGSUS/1566089_PGSUS 4Q25 results presentation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb9c929181cfc"
+      },
+      {
+        "filename": "PGSUS 31122025 IFRS.pdf",
+        "local_path": "data/pdfs/PGSUS/1566089_PGSUS 31122025 IFRS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb9c9292f1cfd"
+      }
+    ]
+  },
+  {
+    "index": 1566088,
+    "publish_datetime": "2026-03-04T21:07:34",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566088",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566088"
+      },
+      {
+        "filename": "PGSUS 31.12.2025 Yıllık Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/PGSUS/1566088_PGSUS 31.12.2025 Yıllık Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9ff35b769f9"
+      },
+      {
+        "filename": "PGSUS 31.12.2025 Annual Activity Report.pdf",
+        "local_path": "data/pdfs/PGSUS/1566088_PGSUS 31.12.2025 Annual Activity Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9ff35dc69fa"
+      }
+    ]
+  },
+  {
+    "index": 1566087,
+    "publish_datetime": "2026-03-04T21:07:23",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566087",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566087_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566087"
+      },
+      {
+        "filename": "PGSUS 31122025.pdf",
+        "local_path": "data/pdfs/PGSUS/1566087_PGSUS 31122025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9f95dc16988"
+      },
+      {
+        "filename": "PGSUS 31122025 EN.pdf",
+        "local_path": "data/pdfs/PGSUS/1566087_PGSUS 31122025 EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9f95dd96989"
+      }
+    ]
+  },
+  {
+    "index": 1566086,
+    "publish_datetime": "2026-03-04T21:07:12",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566086",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1566086_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566086"
+      }
+    ]
+  },
+  {
+    "index": 1561109,
+    "publish_datetime": "2026-02-24T19:46:28",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına İlişkin Olağan Genel Kurul Toplantısı Çağrısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561109",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1561109_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561109"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Olağan Genel Kurul Toplantı Daveti ve Gündem.pdf",
+        "local_path": "data/pdfs/PGSUS/1561109_PGSUS 31.03.2026 Olağan Genel Kurul Toplantı Daveti ve Gündem.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c8e39a46941c5"
+      },
+      {
+        "filename": "PGSUS 31.03.2025 Annual General Assembly Meeting Invitation and Agenda.pdf",
+        "local_path": "data/pdfs/PGSUS/1561109_PGSUS 31.03.2025 Annual General Assembly Meeting Invitation and Agenda.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c8e39a47641c6"
+      },
+      {
+        "filename": "PGSUS 31.03.2026 Genel Kurul Vekaletname Örneği.pdf",
+        "local_path": "data/pdfs/PGSUS/1561109_PGSUS 31.03.2026 Genel Kurul Vekaletname Örneği.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c8e39a47d41c7"
+      }
+    ]
+  },
+  {
+    "index": 1558436,
+    "publish_datetime": "2026-02-18T17:39:00",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PGSUS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558436",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PGSUS/1558436_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558436"
+      }
+    ]
+  },
+  {
+    "index": 1557942,
+    "publish_datetime": "2026-02-17T20:56:47",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557942",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557937,
+    "publish_datetime": "2026-02-17T20:56:11",
+    "company_name": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PGSUS"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "2025 Yılı 4. Dönem Geçici Vergi Beyannamesi Ekinde Sunulan Gelir Tablosu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557937",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "PGSUS_Gelir Tablosu.pdf",
+        "local_path": "data/pdfs/PGSUS/1557937_PGSUS_Gelir Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6ca310bd3255"
+      },
+      {
+        "filename": "PGSUS_Profit_Loss.pdf",
+        "local_path": "data/pdfs/PGSUS/1557937_PGSUS_Profit_Loss.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6ca310c23256"
+      }
+    ]
+  },
+  {
+    "index": 1557487,
+    "publish_datetime": "2026-02-17T16:49:59",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CANTE",
+      "KAYSE",
+      "KRGYO",
+      "MGROS",
+      "PGSUS",
+      "SEGYO",
+      "TUCLK",
+      "TUPRS",
+      "VBTYZ",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557487",
+    "ticker": "PGSUS",
+    "company_oid": "33E5FED7060700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a78014232e751bc22a4",
+    "kap_company_code": "1710",
+    "source": "kap_web",
+    "attachments": []
+  }
+]

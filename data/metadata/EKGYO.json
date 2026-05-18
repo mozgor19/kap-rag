@@ -1,0 +1,3502 @@
+[
+  {
+    "index": 1608019,
+    "publish_datetime": "2026-05-15T17:02:31",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 2. Etap 2. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608019",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1608019_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608019"
+      },
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1608019_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a0019e2bebd86e4541"
+      }
+    ]
+  },
+  {
+    "index": 1608018,
+    "publish_datetime": "2026-05-15T17:02:19",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Ümraniye Tepeüstü İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608018",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1608018_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608018"
+      },
+      {
+        "filename": "Tepeüstü İhale İlanı.pdf",
+        "local_path": "data/pdfs/EKGYO/1608018_Tepeüstü İhale İlanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2a8dec080c53"
+      }
+    ]
+  },
+  {
+    "index": 1607815,
+    "publish_datetime": "2026-05-15T13:59:13",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607815",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1607815_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607815"
+      }
+    ]
+  },
+  {
+    "index": 1607462,
+    "publish_datetime": "2026-05-14T18:18:31",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İhracı Nitelikli Yatırımcıya Satışın Tamamlanması Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607462",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1607462_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607462"
+      }
+    ]
+  },
+  {
+    "index": 1607348,
+    "publish_datetime": "2026-05-14T16:48:31",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Tescili Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607348",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1607348_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607348"
+      },
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/EKGYO/1607348_2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e266fb28c1782"
+      },
+      {
+        "filename": "General Assembly Invitation 2025.pdf",
+        "local_path": "data/pdfs/EKGYO/1607348_General Assembly Invitation 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e266fb2941783"
+      },
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1607348_2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e266fb2b51784"
+      }
+    ]
+  },
+  {
+    "index": 1606425,
+    "publish_datetime": "2026-05-12T18:14:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AHGAZ",
+      "ALTNY",
+      "ASTOR",
+      "AVOD",
+      "AZTEK",
+      "BIOEN",
+      "BORLS",
+      "BORSK",
+      "BRKO",
+      "CANTE",
+      "CVKMD",
+      "DMSAS",
+      "DOFRB",
+      "DUNYH",
+      "EGPRO",
+      "EKGYO",
+      "ESEN",
+      "FADE",
+      "GLBMD",
+      "GSRAY",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "KCAER",
+      "KENT",
+      "KOCMT",
+      "KOPOL",
+      "LXGYO",
+      "PATEK",
+      "PCILT",
+      "PENGD",
+      "PSGYO",
+      "SANFM",
+      "SASA",
+      "SEYKM",
+      "SISE",
+      "SKTAS",
+      "SOKM",
+      "SURGY",
+      "SUWEN",
+      "TKFEN",
+      "TSGYO",
+      "YKSLN"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606425",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1606425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606425"
+      }
+    ]
+  },
+  {
+    "index": 1606382,
+    "publish_datetime": "2026-05-12T17:46:41",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "EKGYO.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606382",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1606382_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606382"
+      }
+    ]
+  },
+  {
+    "index": 1605832,
+    "publish_datetime": "2026-05-11T23:11:00",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2026 1. Çeyrek Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605832",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1605832_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605832"
+      },
+      {
+        "filename": "FAALİYET RAPORU 2026 1. CEYREK.pdf",
+        "local_path": "data/pdfs/EKGYO/1605832_FAALİYET RAPORU 2026 1. CEYREK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e18a7b1ab7f2e"
+      }
+    ]
+  },
+  {
+    "index": 1605819,
+    "publish_datetime": "2026-05-11T22:59:55",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 1.Çeyrek Faaliyet Raporu ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605819",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1605819_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605819"
+      },
+      {
+        "filename": "FAALİYET RAPORU 2026 1. CEYREK.pdf",
+        "local_path": "data/pdfs/EKGYO/1605819_FAALİYET RAPORU 2026 1. CEYREK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e18995cd40535"
+      }
+    ]
+  },
+  {
+    "index": 1605818,
+    "publish_datetime": "2026-05-11T22:59:41",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605818",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1605818_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605818"
+      },
+      {
+        "filename": "Konsolide Emlak Konut GYO A.Ş. 31.03.2026.pdf",
+        "local_path": "data/pdfs/EKGYO/1605818_Konsolide Emlak Konut GYO A.Ş. 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e17d515723752"
+      },
+      {
+        "filename": "ENG Consolidated Emlak Konut GYO A.Ş. 31.03.2026 Report.pdf",
+        "local_path": "data/pdfs/EKGYO/1605818_ENG Consolidated Emlak Konut GYO A.Ş. 31.03.2026 Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e17d516653753"
+      }
+    ]
+  },
+  {
+    "index": 1605817,
+    "publish_datetime": "2026-05-11T22:59:24",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605817",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1605817_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605817"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.03.2026 SPK Solo Finansal Rapor.pdf",
+        "local_path": "data/pdfs/EKGYO/1605817_Emlak Konut GYO A.Ş. 31.03.2026 SPK Solo Finansal Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e17d3f95a36d9"
+      },
+      {
+        "filename": "ENG_Emlak Konut GYO A.Ş. 31.03.2026 Standalone Report.pdf",
+        "local_path": "data/pdfs/EKGYO/1605817_ENG_Emlak Konut GYO A.Ş. 31.03.2026 Standalone Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e17d3fa5136dd"
+      }
+    ]
+  },
+  {
+    "index": 1605816,
+    "publish_datetime": "2026-05-11T22:58:56",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31 Mart 2026 tarihli Finansal Tablolarla İlgili Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605816",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1605816_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605816"
+      }
+    ]
+  },
+  {
+    "index": 1604449,
+    "publish_datetime": "2026-05-11T14:24:38",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 2. Etap İhalesi 2. Oturum Tarihi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604449",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1604449_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604449"
+      }
+    ]
+  },
+  {
+    "index": 1604186,
+    "publish_datetime": "2026-05-11T10:59:13",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında\nGerçekleştirilen İşlemler 27.04.2026-8.05.2026",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604186",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1604186_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604186"
+      }
+    ]
+  },
+  {
+    "index": 1603582,
+    "publish_datetime": "2026-05-08T18:17:01",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "İHRAÇ BELGESİ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603582",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1603582_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603582"
+      },
+      {
+        "filename": "EMLAK KONUT GYO İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1603582_EMLAK KONUT GYO İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0814b7fa464a"
+      },
+      {
+        "filename": "EMLAK KONUT GYO HUKUKİ DURUM RAPORU (ÖZOK 17042026).pdf",
+        "local_path": "data/pdfs/EKGYO/1603582_EMLAK KONUT GYO HUKUKİ DURUM RAPORU (ÖZOK 17042026).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0814bbc1464b"
+      }
+    ]
+  },
+  {
+    "index": 1603574,
+    "publish_datetime": "2026-05-08T18:16:35",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "İhraç Tavanına İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603574",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "EMLAK KONUT GYO İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1603574_EMLAK KONUT GYO İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e0811722b45be"
+      },
+      {
+        "filename": "EMLAK KONUT GYO HUKUKİ DURUM RAPORU (ÖZOK 17042026).pdf",
+        "local_path": "data/pdfs/EKGYO/1603574_EMLAK KONUT GYO HUKUKİ DURUM RAPORU (ÖZOK 17042026).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e081175e245bf"
+      }
+    ]
+  },
+  {
+    "index": 1602957,
+    "publish_datetime": "2026-05-08T09:47:38",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 9.Tertip İhraç Belgesi\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602957",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Emlak Konut GYO 9. Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1602957_Emlak Konut GYO 9. Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e065126bd03dc"
+      }
+    ]
+  },
+  {
+    "index": 1601862,
+    "publish_datetime": "2026-05-06T17:06:25",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 2.  Etap 1. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601862",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1601862_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd67e320311e"
+      }
+    ]
+  },
+  {
+    "index": 1601066,
+    "publish_datetime": "2026-05-05T14:09:45",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601066",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601052,
+    "publish_datetime": "2026-05-05T13:56:13",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 1. Etap Yer Teslimi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601052",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1600503,
+    "publish_datetime": "2026-05-04T14:46:03",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "EKGYO.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600503",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1599016,
+    "publish_datetime": "2026-04-29T19:47:04",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Kar Dağıtımı Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599016",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EKGYO/1599016_Emlak Konut GYO A.Ş. 31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dda13edad6103"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Profit Distribution Table_EN.pdf",
+        "local_path": "data/pdfs/EKGYO/1599016_Emlak Konut GYO A.Ş. 31.12.2025 Profit Distribution Table_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dda13ee196104"
+      }
+    ]
+  },
+  {
+    "index": 1598999,
+    "publish_datetime": "2026-04-29T19:23:49",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Bağımsız Üye Adayları Hakkında ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598999",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598997,
+    "publish_datetime": "2026-04-29T19:23:34",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Komiteleri Güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598997",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598996,
+    "publish_datetime": "2026-04-29T19:23:07",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598996",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598995,
+    "publish_datetime": "2026-04-29T19:22:54",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu ve Komiteler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598995",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598993,
+    "publish_datetime": "2026-04-29T19:22:31",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598993",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/EKGYO/1598993_2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd8e6b2f35189"
+      },
+      {
+        "filename": "General Assembly Invitation 2025.pdf",
+        "local_path": "data/pdfs/EKGYO/1598993_General Assembly Invitation 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd8e6b306518a"
+      },
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1598993_2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd8e6b323518b"
+      }
+    ]
+  },
+  {
+    "index": 1598766,
+    "publish_datetime": "2026-04-29T17:29:34",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 1. Çeyrek Satış Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598766",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598632,
+    "publish_datetime": "2026-04-29T15:46:54",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 8.Tertip İhraç Belgesi\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598632",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1598632_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598632"
+      },
+      {
+        "filename": "Emlak Konut GYO 8.Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1598632_Emlak Konut GYO 8.Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd93f38a87381"
+      }
+    ]
+  },
+  {
+    "index": 1598425,
+    "publish_datetime": "2026-04-28T21:56:30",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 2. Etap İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598425",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1598425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598425"
+      },
+      {
+        "filename": "İstanbul Eyüpsultan Kemerburgaz 2 Etap.pdf",
+        "local_path": "data/pdfs/EKGYO/1598425_İstanbul Eyüpsultan Kemerburgaz 2 Etap.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd433aac13aa2"
+      }
+    ]
+  },
+  {
+    "index": 1597642,
+    "publish_datetime": "2026-04-27T17:18:55",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kira Sertifikası İhracına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597642",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1597642_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597642"
+      }
+    ]
+  },
+  {
+    "index": 1597641,
+    "publish_datetime": "2026-04-27T17:18:46",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 1. Etap Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597641",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1597641_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597641"
+      }
+    ]
+  },
+  {
+    "index": 1597390,
+    "publish_datetime": "2026-04-27T10:36:06",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında Gerçekleştirilen İşlemler 13.04.2026-24.04.2026",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597390",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1597390_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597390"
+      }
+    ]
+  },
+  {
+    "index": 1595925,
+    "publish_datetime": "2026-04-21T11:41:11",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595925",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1595925_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595925"
+      }
+    ]
+  },
+  {
+    "index": 1595738,
+    "publish_datetime": "2026-04-20T18:40:41",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İhracı Nitelikli Yatırımcıya Satışın Tamamlanması Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595738",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1595738_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595738"
+      }
+    ]
+  },
+  {
+    "index": 1594936,
+    "publish_datetime": "2026-04-17T18:27:51",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Bağımsız Üye Adayları Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594936",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1594936_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594936"
+      },
+      {
+        "filename": "Bağımsızlık-Beyanları.pdf",
+        "local_path": "data/pdfs/EKGYO/1594936_Bağımsızlık-Beyanları.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d9bed231b6c89"
+      }
+    ]
+  },
+  {
+    "index": 1594682,
+    "publish_datetime": "2026-04-17T14:18:52",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 13.Tertip İhraç Belgesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594682",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1594682_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594682"
+      },
+      {
+        "filename": "Emlak Konut GYO 13. Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1594682_Emlak Konut GYO 13. Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d9b29d5497b61"
+      }
+    ]
+  },
+  {
+    "index": 1594657,
+    "publish_datetime": "2026-04-17T13:58:56",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kredi Kullanımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594657",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1594657_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594657"
+      }
+    ]
+  },
+  {
+    "index": 1594656,
+    "publish_datetime": "2026-04-17T13:58:18",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Damla Kent Projesi Gayrimenkul Sertifikası İnşaat İlerlemesi ve Asli Edim Gerçekleşmeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594656",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1594656_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594656"
+      },
+      {
+        "filename": "Gayrimenkul Sertifikası Fact Sheet 15.04.2026_.pdf",
+        "local_path": "data/pdfs/EKGYO/1594656_Gayrimenkul Sertifikası Fact Sheet 15.04.2026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019d9193ad8d2396"
+      }
+    ]
+  },
+  {
+    "index": 1592447,
+    "publish_datetime": "2026-04-13T19:13:14",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tasfiye Protokolü",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592447",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1592447_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592447"
+      }
+    ]
+  },
+  {
+    "index": 1592446,
+    "publish_datetime": "2026-04-13T19:13:01",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Varlık Kiralama Şirketi Kuruluşu Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592446",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1592446_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592446"
+      }
+    ]
+  },
+  {
+    "index": 1591836,
+    "publish_datetime": "2026-04-13T13:52:11",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Çorum Merkez Bahçelievler İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591836",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1591836_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591836"
+      },
+      {
+        "filename": "Corum Merkez Bahcelievler.pdf",
+        "local_path": "data/pdfs/EKGYO/1591836_Corum Merkez Bahcelievler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d860907ac109a"
+      }
+    ]
+  },
+  {
+    "index": 1591194,
+    "publish_datetime": "2026-04-13T09:45:01",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında Gerçekleştirilen İşlemler 30.03.2026-10.04.2026",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591194",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1591194_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591194"
+      }
+    ]
+  },
+  {
+    "index": 1591046,
+    "publish_datetime": "2026-04-10T19:30:42",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Çankaya Alacaatlı İhalesi 2. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591046",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1591046_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591046"
+      },
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1591046_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d7830c76d0b4d"
+      }
+    ]
+  },
+  {
+    "index": 1590826,
+    "publish_datetime": "2026-04-10T16:32:55",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Çekmeköy 3. Etap 1. Kısım Kesin Kabulü ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590826",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1590826_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590826"
+      }
+    ]
+  },
+  {
+    "index": 1590825,
+    "publish_datetime": "2026-04-10T16:32:46",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Çekmeköy 1. Etap Kesin Kabulü ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590825",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1590825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590825"
+      }
+    ]
+  },
+  {
+    "index": 1588553,
+    "publish_datetime": "2026-04-08T16:22:35",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Çankaya Alacaatlı ihalesi 2. Oturum Tarihi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588553",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1588553_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588553"
+      }
+    ]
+  },
+  {
+    "index": 1588077,
+    "publish_datetime": "2026-04-08T13:47:34",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588077",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1588077_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588077"
+      }
+    ]
+  },
+  {
+    "index": 1588076,
+    "publish_datetime": "2026-04-08T13:47:11",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588076",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1588076_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588076"
+      }
+    ]
+  },
+  {
+    "index": 1586977,
+    "publish_datetime": "2026-04-07T18:34:12",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İhracı Nitelikli Yatırımcıya Satışın Tamamlanması Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586977",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1586977_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586977"
+      }
+    ]
+  },
+  {
+    "index": 1586976,
+    "publish_datetime": "2026-04-07T18:33:28",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İhracı Nitelikli Yatırımcıya Satışın Tamamlanması Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586976",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1586976_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586976"
+      }
+    ]
+  },
+  {
+    "index": 1585299,
+    "publish_datetime": "2026-04-06T23:50:01",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585299",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1585299_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585299"
+      }
+    ]
+  },
+  {
+    "index": 1585298,
+    "publish_datetime": "2026-04-06T23:48:42",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585298",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1585298_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585298"
+      },
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/EKGYO/1585298_2025 Mali Yılı Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6470071b3b13"
+      },
+      {
+        "filename": "General Assembly Invitation 2025.pdf",
+        "local_path": "data/pdfs/EKGYO/1585298_General Assembly Invitation 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d647007213b14"
+      },
+      {
+        "filename": "2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1585298_2025 Mali Yılı Olağan Genel Kurul Davetiyesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d647007283b15"
+      }
+    ]
+  },
+  {
+    "index": 1585297,
+    "publish_datetime": "2026-04-06T23:18:21",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Hasdal 1. Etap Yer Teslimi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585297",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1585297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585297"
+      }
+    ]
+  },
+  {
+    "index": 1585296,
+    "publish_datetime": "2026-04-06T23:18:10",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Gölbaşı Taşpınar İhalesi 2. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585296",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1585296_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585296"
+      },
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1585296_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6317b0e12687"
+      }
+    ]
+  },
+  {
+    "index": 1584287,
+    "publish_datetime": "2026-04-06T10:32:52",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 7.Tertip İhraç Belgesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584287",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1584287_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584287"
+      },
+      {
+        "filename": "Emlak Konut GYO 7.Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1584287_Emlak Konut GYO 7.Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61b2da2723e7"
+      }
+    ]
+  },
+  {
+    "index": 1584286,
+    "publish_datetime": "2026-04-06T10:32:41",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 12.Tertip İhraç Belgesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584286",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1584286_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584286"
+      },
+      {
+        "filename": "Emlak Konut GYO 12.Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1584286_Emlak Konut GYO 12.Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d61a4beed228c"
+      }
+    ]
+  },
+  {
+    "index": 1584088,
+    "publish_datetime": "2026-04-03T20:17:25",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tasfiye Protokolü",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584088",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1584088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584088"
+      }
+    ]
+  },
+  {
+    "index": 1584078,
+    "publish_datetime": "2026-04-03T19:10:56",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Kira Sertifikası İhracına İlişkin Yönetim Kurulu Kararı Alınması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584078",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1584078_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584078"
+      }
+    ]
+  },
+  {
+    "index": 1584011,
+    "publish_datetime": "2026-04-03T18:59:28",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Kira Sertifikası İhracı ve Yetkilendirmeler Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584011",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1584011_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584011"
+      }
+    ]
+  },
+  {
+    "index": 1582691,
+    "publish_datetime": "2026-04-02T13:21:35",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İtfa ve Getiri Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582691",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1582691_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582691"
+      }
+    ]
+  },
+  {
+    "index": 1582524,
+    "publish_datetime": "2026-04-01T20:21:48",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Gölbaşı Taşpınar İhalesi  2. Oturum Tarihi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582524",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1582524_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582524"
+      }
+    ]
+  },
+  {
+    "index": 1582415,
+    "publish_datetime": "2026-04-01T18:19:38",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faizsiz)",
+    "summary": "Yurtiçi Kira Sertifikası İhracı Nitelikli Yatırımcıya Satışın Tamamlanması Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582415",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1582415_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582415"
+      }
+    ]
+  },
+  {
+    "index": 1580693,
+    "publish_datetime": "2026-03-31T17:32:28",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Ataşehir Küçükbakkalköy Yer Teslimi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580693",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1580693_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580693"
+      }
+    ]
+  },
+  {
+    "index": 1580691,
+    "publish_datetime": "2026-03-31T17:32:08",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Nezihpark Bahçekent Kısmi Geçici Kabul ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580691",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1580691_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580691"
+      }
+    ]
+  },
+  {
+    "index": 1580690,
+    "publish_datetime": "2026-03-31T17:31:53",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Kartal Millet Bahçesi Kısmi Geçici Kabul ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580690",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1580690_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580690"
+      }
+    ]
+  },
+  {
+    "index": 1578049,
+    "publish_datetime": "2026-03-30T10:51:36",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında Gerçekleştirilen İşlemler 16.03.2026-27.03.2026 ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578049",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1578049_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578049"
+      }
+    ]
+  },
+  {
+    "index": 1577844,
+    "publish_datetime": "2026-03-27T22:37:04",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Gölbaşı Taşpınar İhalesi 1. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577844",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1577844_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577844"
+      },
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1577844_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2ee4c018626f"
+      }
+    ]
+  },
+  {
+    "index": 1577843,
+    "publish_datetime": "2026-03-27T22:36:40",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Hasdal 1. Etap Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577843",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1577843_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577843"
+      }
+    ]
+  },
+  {
+    "index": 1577570,
+    "publish_datetime": "2026-03-27T17:32:26",
+    "company_name": "HALK VARLIK KİRALAMA A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HLVKS"
+    ],
+    "subject": "Tertip İhraç Belgesi",
+    "summary": "Emlak Konut GYO 6.Tertip İhraç Belgesi\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577570",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1577570_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577570"
+      },
+      {
+        "filename": "Emlak Konut GYO 6.Tertip İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/EKGYO/1577570_Emlak Konut GYO 6.Tertip İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d2f977aba02f8"
+      }
+    ]
+  },
+  {
+    "index": 1575616,
+    "publish_datetime": "2026-03-25T16:40:56",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Çankaya Alacaatlı İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575616",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1575616_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575616"
+      },
+      {
+        "filename": "Ankara Cankaya Alacaatlı.pdf",
+        "local_path": "data/pdfs/EKGYO/1575616_Ankara Cankaya Alacaatlı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1ed9daad697b"
+      }
+    ]
+  },
+  {
+    "index": 1574789,
+    "publish_datetime": "2026-03-23T18:01:14",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Ataşehir Küçükbakkalköy Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574789",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1574789_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574789"
+      }
+    ]
+  },
+  {
+    "index": 1573038,
+    "publish_datetime": "2026-03-16T16:05:54",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara Gölbaşı Taşpınar İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573038",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1573038_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573038"
+      },
+      {
+        "filename": "ihale ilanı.pdf",
+        "local_path": "data/pdfs/EKGYO/1573038_ihale ilanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cf69431ae07b5"
+      }
+    ]
+  },
+  {
+    "index": 1572761,
+    "publish_datetime": "2026-03-16T09:43:59",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında Gerçekleştirilen İşlemler 02.03.2026-13.03.2026 ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572761",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1572761_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572761"
+      }
+    ]
+  },
+  {
+    "index": 1571792,
+    "publish_datetime": "2026-03-12T15:33:45",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Beşiktaş Dikilitaş Güney Yer Teslimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571792",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1571792_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571792"
+      }
+    ]
+  },
+  {
+    "index": 1571542,
+    "publish_datetime": "2026-03-12T11:24:37",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Küçükçekmece Halkalı Batı 1. Etap İhalesi 2. Oturum Tarihi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571542",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1571542_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571542"
+      }
+    ]
+  },
+  {
+    "index": 1569462,
+    "publish_datetime": "2026-03-10T15:01:22",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İş Birliği Protokolü",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569462",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1569462_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569462"
+      }
+    ]
+  },
+  {
+    "index": 1568917,
+    "publish_datetime": "2026-03-09T18:12:17",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568917",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1568917_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568917"
+      }
+    ]
+  },
+  {
+    "index": 1568478,
+    "publish_datetime": "2026-03-09T15:17:52",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Küçükçekmece Halkalı Batı 1.  Etap 1. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568478",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Kücükcekmece Halkalı.pdf",
+        "local_path": "data/pdfs/EKGYO/1568478_Kücükcekmece Halkalı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd278dfc43bd6"
+      }
+    ]
+  },
+  {
+    "index": 1567869,
+    "publish_datetime": "2026-03-07T00:40:50",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Finansal Dönem Hakkında Bilgilendirme",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567869",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567868,
+    "publish_datetime": "2026-03-07T00:36:16",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567868",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567867,
+    "publish_datetime": "2026-03-07T00:36:06",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Beşiktaş Dikilitaş Güney Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567867",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567866,
+    "publish_datetime": "2026-03-07T00:35:34",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu 2025",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567866",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567865,
+    "publish_datetime": "2026-03-07T00:35:24",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Başakşehir Doğu 1. Etap 2. Oturum Tarihi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567865",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567864,
+    "publish_datetime": "2026-03-07T00:35:13",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Batı Yakası Kısmi Kesin Kabul",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567864",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567863,
+    "publish_datetime": "2026-03-07T00:34:52",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu 2025",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567863",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567862,
+    "publish_datetime": "2026-03-07T00:34:06",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu 2025",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567862",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567861,
+    "publish_datetime": "2026-03-07T00:32:32",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Kar Payı Dağıtımı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567861",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EKGYO/1567861_Emlak Konut GYO A.Ş. 31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f04b0b76b6"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Profit Distribution Table_EN.pdf",
+        "local_path": "data/pdfs/EKGYO/1567861_Emlak Konut GYO A.Ş. 31.12.2025 Profit Distribution Table_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f04b1676b7"
+      }
+    ]
+  },
+  {
+    "index": 1567860,
+    "publish_datetime": "2026-03-07T00:32:08",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567860",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "EKGYO_2025 Yılsonu Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/EKGYO/1567860_EKGYO_2025 Yılsonu Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4cc1f84730c"
+      }
+    ]
+  },
+  {
+    "index": 1567859,
+    "publish_datetime": "2026-03-07T00:31:43",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31 Aralık 2025 tarihli Finansal Tablolarla İlgili Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567859",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567858,
+    "publish_datetime": "2026-03-07T00:31:28",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567858",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Konsolide Finansal Rapor.pdf",
+        "local_path": "data/pdfs/EKGYO/1567858_Emlak Konut GYO A.Ş. 31.12.2025 Konsolide Finansal Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f54a12780f"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 SPK Konsolide Finansal Rapor ENG.pdf",
+        "local_path": "data/pdfs/EKGYO/1567858_Emlak Konut GYO A.Ş. 31.12.2025 SPK Konsolide Finansal Rapor ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f54a2d7810"
+      }
+    ]
+  },
+  {
+    "index": 1567857,
+    "publish_datetime": "2026-03-07T00:30:56",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567857",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Solo Finansal Rapor.pdf",
+        "local_path": "data/pdfs/EKGYO/1567857_Emlak Konut GYO A.Ş. 31.12.2025 Solo Finansal Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f3c37e7770"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 SPK Solo Finansal Rapor ENG.pdf",
+        "local_path": "data/pdfs/EKGYO/1567857_Emlak Konut GYO A.Ş. 31.12.2025 SPK Solo Finansal Rapor ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc4f3c3957771"
+      }
+    ]
+  },
+  {
+    "index": 1565781,
+    "publish_datetime": "2026-03-04T17:45:56",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Başakşehir Doğu 1. Etap İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565781",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Katılımcılar  Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1565781_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb8a7fc1343c2"
+      }
+    ]
+  },
+  {
+    "index": 1563857,
+    "publish_datetime": "2026-03-02T18:01:00",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Varlık Kiralama Şirketi Kuruluşu Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563857",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1563538,
+    "publish_datetime": "2026-03-02T14:57:00",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Küçükçekmece Halkalı Batı 1. Etap İhale İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563538",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1563538_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563538"
+      },
+      {
+        "filename": "Kücükcekmece Halkalı.pdf",
+        "local_path": "data/pdfs/EKGYO/1563538_Kücükcekmece Halkalı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9e24d47c22eb"
+      }
+    ]
+  },
+  {
+    "index": 1563345,
+    "publish_datetime": "2026-03-02T09:35:40",
+    "company_name": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HALKI",
+      "HLY"
+    ],
+    "subject": "Likidite Sağlayıcılık Kapsamındaki İşlemler",
+    "summary": "Emlak Konut Damlakent Projesi Gayrimenkul Sertifikalarında (DMLKT.G) Likidite Sağlayacılık Kapsamında Gerçekleştirilen İşlemler 16.02.2026-27.02.2026",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563345",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1563345_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563345"
+      }
+    ]
+  },
+  {
+    "index": 1561811,
+    "publish_datetime": "2026-02-26T13:32:29",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "     İstanbul Başakşehir Güney Ticaret 1. Etap Yer Teslimi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561811",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1561811_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561811"
+      }
+    ]
+  },
+  {
+    "index": 1561758,
+    "publish_datetime": "2026-02-26T11:53:30",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Tuzla Aydınlı 1. Etap Yer Teslimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561758",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1561758_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561758"
+      }
+    ]
+  },
+  {
+    "index": 1560707,
+    "publish_datetime": "2026-02-24T08:30:06",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Ataşehir Kayışdağı Yer Teslimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560707",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1560707_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560707"
+      }
+    ]
+  },
+  {
+    "index": 1560706,
+    "publish_datetime": "2026-02-24T08:29:20",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İzmir Bayraklı 1. Etap Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560706",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1560706_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560706"
+      }
+    ]
+  },
+  {
+    "index": 1560254,
+    "publish_datetime": "2026-02-23T13:22:00",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İzmir Çeşme Musalla 1. Etap Arsa Satışı Karşılığı Gelir Paylaşımı İşi Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560254",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1560254_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560254"
+      }
+    ]
+  },
+  {
+    "index": 1559574,
+    "publish_datetime": "2026-02-20T11:54:51",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Eyüpsultan Kemerburgaz 1. Etap İhalesi 2. Oturum Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559574",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1559574_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559574"
+      },
+      {
+        "filename": "Katılımcılar Bidders.pdf",
+        "local_path": "data/pdfs/EKGYO/1559574_Katılımcılar Bidders.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c7651202b0624"
+      }
+    ]
+  },
+  {
+    "index": 1557850,
+    "publish_datetime": "2026-02-17T19:43:34",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Ataşehir Kayışdağı Arsa Satışı Karşılığı Gelir Paylaşımı İşi Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557850",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1557850_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557850"
+      }
+    ]
+  },
+  {
+    "index": 1557849,
+    "publish_datetime": "2026-02-17T19:43:23",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İstanbul Başakşehir Güney Ticaret 1.Etap Sözleşme İmzalanması ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557849",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1557849_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557849"
+      }
+    ]
+  },
+  {
+    "index": 1557848,
+    "publish_datetime": "2026-02-17T19:43:14",
+    "company_name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EKGYO"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "2025 4. Dönem Geçici Vergi Beyannamesine ait Gelir Tablosu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557848",
+    "ticker": "EKGYO",
+    "company_oid": "33E5FED7058E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a780142513cda5b232e",
+    "kap_company_code": "1531",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EKGYO/1557848_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557848"
+      },
+      {
+        "filename": "Emlak Konut GYO A.Ş. 31.12.2025 Tarihli Gelir Tablosu.pdf",
+        "local_path": "data/pdfs/EKGYO/1557848_Emlak Konut GYO A.Ş. 31.12.2025 Tarihli Gelir Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6c538f080a49"
+      }
+    ]
+  }
+]

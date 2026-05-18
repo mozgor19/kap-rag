@@ -1,0 +1,3411 @@
+[
+  {
+    "index": 1608658,
+    "publish_datetime": "2026-05-18T18:10:30",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Tahvil, sermaye benzeri borçlanmalar, özkaynak hesaplamasına dahil edilecek borçlanma aracı ihracı SPK başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608658",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1608658_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608658"
+      }
+    ]
+  },
+  {
+    "index": 1608503,
+    "publish_datetime": "2026-05-18T14:31:04",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings kredi derecelendirme notları hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608503",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1608503_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608503"
+      }
+    ]
+  },
+  {
+    "index": 1608141,
+    "publish_datetime": "2026-05-15T18:24:00",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608141",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1608141_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608141"
+      }
+    ]
+  },
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1608123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608123"
+      }
+    ]
+  },
+  {
+    "index": 1608107,
+    "publish_datetime": "2026-05-15T18:11:47",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili gecikmiş alacak portföy satışı hk. ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608107",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1608107_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608107"
+      }
+    ]
+  },
+  {
+    "index": 1607485,
+    "publish_datetime": "2026-05-14T18:24:58",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607485",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607485_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607485"
+      }
+    ]
+  },
+  {
+    "index": 1607483,
+    "publish_datetime": "2026-05-14T18:24:39",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607483",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607483_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607483"
+      }
+    ]
+  },
+  {
+    "index": 1607479,
+    "publish_datetime": "2026-05-14T18:24:18",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607479",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607479_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607479"
+      }
+    ]
+  },
+  {
+    "index": 1607474,
+    "publish_datetime": "2026-05-14T18:23:52",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607474",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607474_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607474"
+      }
+    ]
+  },
+  {
+    "index": 1607458,
+    "publish_datetime": "2026-05-14T18:12:26",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607458",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607458_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607458"
+      }
+    ]
+  },
+  {
+    "index": 1607139,
+    "publish_datetime": "2026-05-14T11:00:20",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607139",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1607139_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607139"
+      }
+    ]
+  },
+  {
+    "index": 1606979,
+    "publish_datetime": "2026-05-13T18:18:43",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606979",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1606979_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606979"
+      }
+    ]
+  },
+  {
+    "index": 1606970,
+    "publish_datetime": "2026-05-13T18:15:56",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606970",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1606970_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606970"
+      }
+    ]
+  },
+  {
+    "index": 1606968,
+    "publish_datetime": "2026-05-13T18:15:23",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606968",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1606968_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606968"
+      }
+    ]
+  },
+  {
+    "index": 1606967,
+    "publish_datetime": "2026-05-13T18:15:10",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606967",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1606967_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606967"
+      }
+    ]
+  },
+  {
+    "index": 1606426,
+    "publish_datetime": "2026-05-12T18:14:26",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606426",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1606426_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606426"
+      }
+    ]
+  },
+  {
+    "index": 1605077,
+    "publish_datetime": "2026-05-11T18:16:46",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605077",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1605077_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605077"
+      }
+    ]
+  },
+  {
+    "index": 1603549,
+    "publish_datetime": "2026-05-08T18:13:29",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603549",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1603549_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603549"
+      }
+    ]
+  },
+  {
+    "index": 1603544,
+    "publish_datetime": "2026-05-08T18:12:52",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı İhraç Limiti Yönetim Kurulu Kararı ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603544",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1603544_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603544"
+      }
+    ]
+  },
+  {
+    "index": 1602629,
+    "publish_datetime": "2026-05-07T18:12:08",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı ilişkileri bölümü görev paylaşımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602629",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1602629_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602629"
+      }
+    ]
+  },
+  {
+    "index": 1602083,
+    "publish_datetime": "2026-05-06T18:41:43",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602083",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1602083_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602083"
+      }
+    ]
+  },
+  {
+    "index": 1601878,
+    "publish_datetime": "2026-05-06T17:26:25",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "ALNUS",
+      "BNPPI",
+      "BRKVY",
+      "CAGFA",
+      "EMVAR",
+      "GARAN",
+      "GRYAT",
+      "GSIPD",
+      "INFO",
+      "ISMEN",
+      "KARTN",
+      "KATVK",
+      "KFILO",
+      "KTSVK",
+      "MEKMD",
+      "MRBAS",
+      "NRBNK",
+      "OSMEN",
+      "QFINF",
+      "QNBFK",
+      "SMRVA",
+      "TKNSA",
+      "TRYKI",
+      "ZOREN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601878",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1601878_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601878"
+      }
+    ]
+  },
+  {
+    "index": 1599929,
+    "publish_datetime": "2026-04-30T19:07:25",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+    "summary": "Yatırım Kuruluşu Varantları İtfa Fiyatları ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599929",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1599929_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599929"
+      }
+    ]
+  },
+  {
+    "index": 1599928,
+    "publish_datetime": "2026-04-30T19:07:11",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599928",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1599928_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599928"
+      }
+    ]
+  },
+  {
+    "index": 1598912,
+    "publish_datetime": "2026-04-29T18:24:21",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "29 Nisan 2026 Finansal Sonuçlara İlişkin sunum hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598912",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598912_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598912"
+      },
+      {
+        "filename": "1Ç26_BDDK_Konsolide_Finansal_Sonuclara_İliskin_Sunum_.pdf",
+        "local_path": "data/pdfs/GARAN/1598912_1Ç26_BDDK_Konsolide_Finansal_Sonuclara_İliskin_Sunum_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd9b5611971dd"
+      },
+      {
+        "filename": "1Q26_BRSA_Consolidated_Earnings_Presentation.pdf",
+        "local_path": "data/pdfs/GARAN/1598912_1Q26_BRSA_Consolidated_Earnings_Presentation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd9b5612e71de"
+      }
+    ]
+  },
+  {
+    "index": 1598824,
+    "publish_datetime": "2026-04-29T18:10:54",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "31.03.2026 T.Garanti Bankası A.Ş Konsolide Olmayan Sorumluluk Beyanı ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598824",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598824_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598824"
+      }
+    ]
+  },
+  {
+    "index": 1598819,
+    "publish_datetime": "2026-04-29T18:10:39",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31.03.2026 T.Garanti Bankası A.Ş Konsolide Sorumluluk Beyanı ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598819",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598819_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598819"
+      }
+    ]
+  },
+  {
+    "index": 1598816,
+    "publish_datetime": "2026-04-29T18:10:25",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598816",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598816_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598816"
+      },
+      {
+        "filename": "T GARANTİ BANKASI AŞ 31 03 2026 SOLO FİNANSAL TABLO VE DİPNOT AÇIKLAMALARI.pdf",
+        "local_path": "data/pdfs/GARAN/1598816_T GARANTİ BANKASI AŞ 31 03 2026 SOLO FİNANSAL TABLO VE DİPNOT AÇIKLAMALARI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dd4e820ca15c1"
+      }
+    ]
+  },
+  {
+    "index": 1598813,
+    "publish_datetime": "2026-04-29T18:10:07",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598813",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598813_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598813"
+      },
+      {
+        "filename": "T GARANTİ BANKASI AŞ 31 03 2026 KONSOLİDE FİNANSAL TABLO VE DİPNOT AÇIKLAMALARI.pdf",
+        "local_path": "data/pdfs/GARAN/1598813_T GARANTİ BANKASI AŞ 31 03 2026 KONSOLİDE FİNANSAL TABLO VE DİPNOT AÇIKLAMALARI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dd4e74de81568"
+      }
+    ]
+  },
+  {
+    "index": 1598298,
+    "publish_datetime": "2026-04-28T18:22:02",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598298",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598298_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598298"
+      }
+    ]
+  },
+  {
+    "index": 1598295,
+    "publish_datetime": "2026-04-28T18:21:51",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598295",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598295_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598295"
+      }
+    ]
+  },
+  {
+    "index": 1598294,
+    "publish_datetime": "2026-04-28T18:21:38",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598294",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1598294_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598294"
+      }
+    ]
+  },
+  {
+    "index": 1597742,
+    "publish_datetime": "2026-04-27T18:21:39",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597742",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597742_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597742"
+      }
+    ]
+  },
+  {
+    "index": 1597740,
+    "publish_datetime": "2026-04-27T18:21:25",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597740",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597740_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597740"
+      }
+    ]
+  },
+  {
+    "index": 1597242,
+    "publish_datetime": "2026-04-24T18:31:41",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname-İhraççı Bİlgi Dokümanı (SPK Tarafından Onaylanan)",
+    "summary": "İzahname  İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597242",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597242_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597242"
+      },
+      {
+        "filename": "2026 04 24 IBD.pdf",
+        "local_path": "data/pdfs/GARAN/1597242_2026 04 24 IBD.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dc01afd43377f"
+      }
+    ]
+  },
+  {
+    "index": 1597240,
+    "publish_datetime": "2026-04-24T18:31:31",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname-Sermaye Piyasası Aracı Notu (SPK Tarafından Onaylanan)",
+    "summary": "İzahname  Sermaye Piyasası Aracı Notu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597240",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597240_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597240"
+      },
+      {
+        "filename": "2026 04 24 SPAN .pdf",
+        "local_path": "data/pdfs/GARAN/1597240_2026 04 24 SPAN .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dc0180eb03742"
+      }
+    ]
+  },
+  {
+    "index": 1597239,
+    "publish_datetime": "2026-04-24T18:31:21",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname-Özet (SPK Tarafından Onaylanan)",
+    "summary": "İzahname  Özet",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597239",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597239_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597239"
+      },
+      {
+        "filename": "2026 04 24 Ozet.pdf",
+        "local_path": "data/pdfs/GARAN/1597239_2026 04 24 Ozet.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dc00bf1253565"
+      }
+    ]
+  },
+  {
+    "index": 1597238,
+    "publish_datetime": "2026-04-24T18:31:07",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Araçları Onayı - SPK Bülten",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597238",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1597238_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597238"
+      }
+    ]
+  },
+  {
+    "index": 1595237,
+    "publish_datetime": "2026-04-20T13:08:40",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Borçlanma Araçları Onayı - SPK Bülten",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595237",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1595237_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595237"
+      },
+      {
+        "filename": "Ek_1_GarantiBankasıİhraçBelgesiveEki.pdf",
+        "local_path": "data/pdfs/GARAN/1595237_Ek_1_GarantiBankasıİhraçBelgesiveEki.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019da9fe9dd138a6"
+      }
+    ]
+  },
+  {
+    "index": 1595235,
+    "publish_datetime": "2026-04-20T13:08:27",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595235",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1595235_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595235"
+      }
+    ]
+  },
+  {
+    "index": 1595234,
+    "publish_datetime": "2026-04-20T13:08:12",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Araçları Onayı - SPK Bülten",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595234",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1595234_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595234"
+      }
+    ]
+  },
+  {
+    "index": 1594983,
+    "publish_datetime": "2026-04-17T19:53:08",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594983",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1594983_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594983"
+      }
+    ]
+  },
+  {
+    "index": 1593860,
+    "publish_datetime": "2026-04-15T18:11:22",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İhale sonrası Devir ve Temlik İşlemlerinin tamamlanması hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593860",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1593860_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593860"
+      }
+    ]
+  },
+  {
+    "index": 1593426,
+    "publish_datetime": "2026-04-14T19:13:22",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings kredi derecelendirme notları hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593426",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1593426_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593426"
+      }
+    ]
+  },
+  {
+    "index": 1592336,
+    "publish_datetime": "2026-04-13T18:26:48",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili gecikmiş alacak portföy satışı hk. ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592336",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1592336_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592336"
+      }
+    ]
+  },
+  {
+    "index": 1590990,
+    "publish_datetime": "2026-04-10T18:27:30",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590990",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1590990_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590990"
+      }
+    ]
+  },
+  {
+    "index": 1590124,
+    "publish_datetime": "2026-04-09T17:02:02",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "YGGYO"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590124",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1590124_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590124"
+      }
+    ]
+  },
+  {
+    "index": 1585315,
+    "publish_datetime": "2026-04-07T09:05:07",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "YGGYO"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585315",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1585315_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585315"
+      }
+    ]
+  },
+  {
+    "index": 1584902,
+    "publish_datetime": "2026-04-06T16:49:04",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "YGGYO"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584902",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1584902_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584902"
+      }
+    ]
+  },
+  {
+    "index": 1583757,
+    "publish_datetime": "2026-04-03T17:11:08",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKDFA",
+      "AKMEN",
+      "BNPPI",
+      "BRKT",
+      "CAGFA",
+      "EKTVK",
+      "EMVAR",
+      "ERCB",
+      "GARAN",
+      "GRYAT",
+      "GSIPD",
+      "HALKB",
+      "INFO",
+      "ISMEN",
+      "NRBNK",
+      "QNBIN",
+      "VESTL",
+      "ZKBVK",
+      "ZKBVR"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583757",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1583757_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583757"
+      }
+    ]
+  },
+  {
+    "index": 1582986,
+    "publish_datetime": "2026-04-02T18:17:10",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu seçiminin tescil ve ilanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582986",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1582986_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582986"
+      }
+    ]
+  },
+  {
+    "index": 1582985,
+    "publish_datetime": "2026-04-02T18:16:58",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Tescili hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582985",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1582985_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582985"
+      },
+      {
+        "filename": "2026 03 31 Olağan Genel Kurul Toplantı Tutanağı KAP.pdf",
+        "local_path": "data/pdfs/GARAN/1582985_2026 03 31 Olağan Genel Kurul Toplantı Tutanağı KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e7e828a271a"
+      },
+      {
+        "filename": "2026 03 31 General Assembly Meeting Minutes.pdf",
+        "local_path": "data/pdfs/GARAN/1582985_2026 03 31 General Assembly Meeting Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e7e82a4271b"
+      },
+      {
+        "filename": "2026 03 31 Hazirun KAP.pdf",
+        "local_path": "data/pdfs/GARAN/1582985_2026 03 31 Hazirun KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e7e82ae271c"
+      }
+    ]
+  },
+  {
+    "index": 1582976,
+    "publish_datetime": "2026-04-02T18:12:45",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582976",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1582976_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582976"
+      }
+    ]
+  },
+  {
+    "index": 1582687,
+    "publish_datetime": "2026-04-02T12:54:51",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Araçları Onayı ? BDDK onay",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582687",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1582687_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582687"
+      }
+    ]
+  },
+  {
+    "index": 1581058,
+    "publish_datetime": "2026-03-31T19:26:20",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581058",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1581057,
+    "publish_datetime": "2026-03-31T19:25:52",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581057",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1581054,
+    "publish_datetime": "2026-03-31T19:25:23",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581054",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1581052,
+    "publish_datetime": "2026-03-31T19:24:56",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581052",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1581050,
+    "publish_datetime": "2026-03-31T19:24:22",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+    "summary": "Yatırım Kuruluşu Varantları İtfa Fiyatları ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581050",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1581049,
+    "publish_datetime": "2026-03-31T19:23:50",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kar Dağıtımı Hk.\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581049",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 Kâr Dağıtım Tablosu_TR.pdf",
+        "local_path": "data/pdfs/GARAN/1581049_2025 Kâr Dağıtım Tablosu_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d4400b0c311de"
+      },
+      {
+        "filename": "2025 Kâr Dağıtım Tablosu_ENG.pdf",
+        "local_path": "data/pdfs/GARAN/1581049_2025 Kâr Dağıtım Tablosu_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d4400b0cc11df"
+      }
+    ]
+  },
+  {
+    "index": 1580493,
+    "publish_datetime": "2026-03-31T15:59:28",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Bankamız Olağan Genel Kurul Toplantısı?nda alınan kararlar hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580493",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2026 03 31 Olağan Genel Kurul Toplantı Tutanağı KAP.pdf",
+        "local_path": "data/pdfs/GARAN/1580493_2026 03 31 Olağan Genel Kurul Toplantı Tutanağı KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43ea31c5465f"
+      },
+      {
+        "filename": "2026 03 31 General Assembly Meeting Minutes.pdf",
+        "local_path": "data/pdfs/GARAN/1580493_2026 03 31 General Assembly Meeting Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43ea324b4660"
+      },
+      {
+        "filename": "2026 03 31 Hazirun KAP.pdf",
+        "local_path": "data/pdfs/GARAN/1580493_2026 03 31 Hazirun KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43ea325f4661"
+      }
+    ]
+  },
+  {
+    "index": 1578859,
+    "publish_datetime": "2026-03-30T18:12:06",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578859",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1578857,
+    "publish_datetime": "2026-03-30T18:11:54",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578857",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1577861,
+    "publish_datetime": "2026-03-28T03:45:29",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Garanti Bank S.A.?nın satışı ve 10.03.2026 tarihli açıklamamız",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577861",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1577225,
+    "publish_datetime": "2026-03-27T10:06:08",
+    "company_name": "DOĞRU VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DOGVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577225",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1575755,
+    "publish_datetime": "2026-03-25T18:10:45",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575755",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1574837,
+    "publish_datetime": "2026-03-23T18:31:50",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574837",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1573601,
+    "publish_datetime": "2026-03-17T18:14:15",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573601",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1573598,
+    "publish_datetime": "2026-03-17T18:13:58",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573598",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1573598_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573598"
+      }
+    ]
+  },
+  {
+    "index": 1573597,
+    "publish_datetime": "2026-03-17T18:13:41",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573597",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1573597_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573597"
+      }
+    ]
+  },
+  {
+    "index": 1573147,
+    "publish_datetime": "2026-03-16T18:13:10",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili gecikmiş alacak portföy satışı hk.  ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573147",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1573147_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573147"
+      }
+    ]
+  },
+  {
+    "index": 1573048,
+    "publish_datetime": "2026-03-16T16:25:07",
+    "company_name": "DOĞRU VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DOGVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573048",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1573048_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573048"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1569935,
+    "publish_datetime": "2026-03-10T18:57:24",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Haber ve Söylentilere İlişkin Açıklama",
+    "summary": "Haber ve söylentilerin doğrulanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569935",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1569935_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569935"
+      }
+    ]
+  },
+  {
+    "index": 1567625,
+    "publish_datetime": "2026-03-06T18:16:14",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yeşil/Sürdürülebilir Borçlanma Aracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567625",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1567625_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567625"
+      },
+      {
+        "filename": "2026 03 T.GarantiBankasıİhraçBelgesi.pdf",
+        "local_path": "data/pdfs/GARAN/1567625_2026 03 T.GarantiBankasıİhraçBelgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc35dd655230b"
+      }
+    ]
+  },
+  {
+    "index": 1567624,
+    "publish_datetime": "2026-03-06T18:16:05",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Yeşil/Sürdürülebilir Borçlanma Aracı SPK Onayı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567624",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1567624_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567624"
+      },
+      {
+        "filename": "2026 03 T.GarantiBankasıİhraçBelgesi.pdf",
+        "local_path": "data/pdfs/GARAN/1567624_2026 03 T.GarantiBankasıİhraçBelgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc367ac2524e9"
+      }
+    ]
+  },
+  {
+    "index": 1566492,
+    "publish_datetime": "2026-03-05T18:14:46",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "MTN ihracı itfası ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566492",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566492_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566492"
+      }
+    ]
+  },
+  {
+    "index": 1566085,
+    "publish_datetime": "2026-03-04T21:04:08",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566085",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566085_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566085"
+      }
+    ]
+  },
+  {
+    "index": 1566050,
+    "publish_datetime": "2026-03-04T19:47:09",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkeleri Uyum Çerçevesi kapsamında açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566050",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566050_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566050"
+      }
+    ]
+  },
+  {
+    "index": 1566049,
+    "publish_datetime": "2026-03-04T19:46:57",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566049",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566049_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566049"
+      }
+    ]
+  },
+  {
+    "index": 1566048,
+    "publish_datetime": "2026-03-04T19:46:43",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "Garanti Bankası 2025 Entegre Faaliyet Raporu ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566048",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566048_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566048"
+      },
+      {
+        "filename": "Garanti BBVA 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/GARAN/1566048_Garanti BBVA 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb843c3b838b4"
+      },
+      {
+        "filename": "Garanti BBVA 2025 Integrated Annual Report.pdf",
+        "local_path": "data/pdfs/GARAN/1566048_Garanti BBVA 2025 Integrated Annual Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb843c3f938b5"
+      }
+    ]
+  },
+  {
+    "index": 1566047,
+    "publish_datetime": "2026-03-04T19:46:32",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Faaliyet Raporu Sorumluluk Beyanı hk.",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566047",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566047_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566047"
+      },
+      {
+        "filename": "2025 Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/GARAN/1566047_2025 Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb8352fe5376f"
+      },
+      {
+        "filename": "2025 Faaliyet Raporu Sorumluluk ENG.pdf",
+        "local_path": "data/pdfs/GARAN/1566047_2025 Faaliyet Raporu Sorumluluk ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb8352fec3770"
+      }
+    ]
+  },
+  {
+    "index": 1566046,
+    "publish_datetime": "2026-03-04T19:46:12",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Garanti Bankası 2025 Entegre Faaliyet Raporu ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566046",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566046_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566046"
+      },
+      {
+        "filename": "Garanti BBVA 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/GARAN/1566046_Garanti BBVA 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb922beeb5250"
+      },
+      {
+        "filename": "Garanti BBVA 2025 Integrated Annual Report.pdf",
+        "local_path": "data/pdfs/GARAN/1566046_Garanti BBVA 2025 Integrated Annual Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb922bf605251"
+      }
+    ]
+  },
+  {
+    "index": 1566045,
+    "publish_datetime": "2026-03-04T19:46:00",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kar Dağıtımına İlişkin Yönetim Kurulu Kararı Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566045",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1566045_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566045"
+      },
+      {
+        "filename": "2025 Kâr Dağıtım Tablosu_TR.pdf",
+        "local_path": "data/pdfs/GARAN/1566045_2025 Kâr Dağıtım Tablosu_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9bbeed400b0"
+      },
+      {
+        "filename": "2025 Kâr Dağıtım Tablosu_ENG.pdf",
+        "local_path": "data/pdfs/GARAN/1566045_2025 Kâr Dağıtım Tablosu_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb9bbeee700b1"
+      }
+    ]
+  },
+  {
+    "index": 1565992,
+    "publish_datetime": "2026-03-04T18:49:12",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Bankamız Olağan Genel Kurul Toplantısı hk.     ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565992",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1565992_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565992"
+      },
+      {
+        "filename": "2026 03 31 Genel Kurul Bilgilendirme Dokumani.pdf",
+        "local_path": "data/pdfs/GARAN/1565992_2026 03 31 Genel Kurul Bilgilendirme Dokumani.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb91925c1643c"
+      },
+      {
+        "filename": "2026 03 31 General Assembly Information Document.pdf",
+        "local_path": "data/pdfs/GARAN/1565992_2026 03 31 General Assembly Information Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb91925ce643d"
+      },
+      {
+        "filename": "2026 03 31 Genel Kurul Gazete Ilanı.pdf",
+        "local_path": "data/pdfs/GARAN/1565992_2026 03 31 Genel Kurul Gazete Ilanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb91925d7643e"
+      }
+    ]
+  },
+  {
+    "index": 1565764,
+    "publish_datetime": "2026-03-04T17:13:50",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKFK",
+      "AKMEN",
+      "BNPPI",
+      "BRKT",
+      "DGRVK",
+      "ENJSA",
+      "GARAN",
+      "GRYAT",
+      "GSIPD",
+      "HALKI",
+      "HDFFL",
+      "HDFVK",
+      "HUZFA",
+      "INFO",
+      "ISATR",
+      "ISMEN",
+      "KPTGY",
+      "KTSVK",
+      "LIDFA",
+      "SKBNK",
+      "SMRTG",
+      "TAMFA",
+      "VDFAS"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565764",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1565764_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565764"
+      }
+    ]
+  },
+  {
+    "index": 1565091,
+    "publish_datetime": "2026-03-03T17:24:51",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "GARAN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565091",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1565091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565091"
+      }
+    ]
+  },
+  {
+    "index": 1563447,
+    "publish_datetime": "2026-03-02T11:58:20",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname (İhraççı Bilgi Dokümanı-SPK Onayına Sunulan)",
+    "summary": "İzahname  İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563447",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1563447_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563447"
+      },
+      {
+        "filename": "GB IBD 2026.pdf",
+        "local_path": "data/pdfs/GARAN/1563447_GB IBD 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cad9508d33f47"
+      }
+    ]
+  },
+  {
+    "index": 1563446,
+    "publish_datetime": "2026-03-02T11:57:53",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname (Sermaye Piyasası Aracı Notu-SPK Onayına Sunulan)",
+    "summary": "İzahname  Sermaye Piyasası Aracı Notu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563446",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1563446_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563446"
+      },
+      {
+        "filename": "GB SPAN 2026.pdf",
+        "local_path": "data/pdfs/GARAN/1563446_GB SPAN 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cad8bb7403d9b"
+      }
+    ]
+  },
+  {
+    "index": 1563444,
+    "publish_datetime": "2026-03-02T11:57:26",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İzahname (Özet-SPK Onayına Sunulan)",
+    "summary": "İzahname -  Özet ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563444",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1563444_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563444"
+      },
+      {
+        "filename": "GB OZET 2026.pdf",
+        "local_path": "data/pdfs/GARAN/1563444_GB OZET 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cad7da80a3c4a"
+      }
+    ]
+  },
+  {
+    "index": 1563443,
+    "publish_datetime": "2026-03-02T11:56:49",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı ihracı BDDK ve SPK başvurusu ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563443",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1563443_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563443"
+      }
+    ]
+  },
+  {
+    "index": 1563442,
+    "publish_datetime": "2026-03-02T11:56:15",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı ihracı SPK başvurusu ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563442",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1563442_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563442"
+      }
+    ]
+  },
+  {
+    "index": 1562964,
+    "publish_datetime": "2026-02-27T18:44:53",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+    "summary": "Yatırım Kuruluşu Varantları İtfa Fiyatları ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562964",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1562964_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562964"
+      }
+    ]
+  },
+  {
+    "index": 1561056,
+    "publish_datetime": "2026-02-24T18:37:03",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İhale sonrası Devir ve Temlik İşlemlerinin tamamlanması hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561056",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1561056_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561056"
+      }
+    ]
+  },
+  {
+    "index": 1560974,
+    "publish_datetime": "2026-02-24T17:26:39",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Rekabet Kurulu tarafından başlatılan soruşturma hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560974",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1560974_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560974"
+      }
+    ]
+  },
+  {
+    "index": 1560509,
+    "publish_datetime": "2026-02-23T17:27:14",
+    "company_name": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BRKVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı - İhaleye Konu Alacakların Devrine Yönelik Sözleşmenin İmza Sürecinin Tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560509",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1560509_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560509"
+      }
+    ]
+  },
+  {
+    "index": 1559303,
+    "publish_datetime": "2026-02-19T18:13:05",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili gecikmiş alacak portföy satışı hk. ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559303",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1559303_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559303"
+      }
+    ]
+  },
+  {
+    "index": 1558425,
+    "publish_datetime": "2026-02-18T17:33:10",
+    "company_name": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GARAN",
+      "TGB"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558425",
+    "ticker": "GARAN",
+    "company_oid": "33E5FED7044B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37cb2a601b7",
+    "kap_company_code": "2422",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/GARAN/1558425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558425"
+      }
+    ]
+  }
+]

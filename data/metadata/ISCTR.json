@@ -1,0 +1,2413 @@
+[
+  {
+    "index": 1608772,
+    "publish_datetime": "2026-05-18T21:17:10",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bazı Bankamız Çalışanlarının İsminin Geçtiği Adli Soruşturma Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608772",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1608772_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608772"
+      }
+    ]
+  },
+  {
+    "index": 1607765,
+    "publish_datetime": "2026-05-15T12:13:38",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607765",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1607765_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607765"
+      }
+    ]
+  },
+  {
+    "index": 1601723,
+    "publish_datetime": "2026-05-06T14:28:12",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601723",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601723_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601723"
+      }
+    ]
+  },
+  {
+    "index": 1601722,
+    "publish_datetime": "2026-05-06T14:26:05",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-1",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601722",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601722_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601722"
+      }
+    ]
+  },
+  {
+    "index": 1601721,
+    "publish_datetime": "2026-05-06T14:25:48",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601721",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601721_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601721"
+      }
+    ]
+  },
+  {
+    "index": 1601312,
+    "publish_datetime": "2026-05-05T18:12:55",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Konsolide Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601312",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601312_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601312"
+      },
+      {
+        "filename": "Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/ISCTR/1601312_Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df83f19d94638"
+      }
+    ]
+  },
+  {
+    "index": 1601308,
+    "publish_datetime": "2026-05-05T18:12:27",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601308",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601308_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601308"
+      },
+      {
+        "filename": "ISBTR-31032026-Konsolide Finansal Rapor.pdf",
+        "local_path": "data/pdfs/ISCTR/1601308_ISBTR-31032026-Konsolide Finansal Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df89ee4ae4fa9"
+      }
+    ]
+  },
+  {
+    "index": 1601306,
+    "publish_datetime": "2026-05-05T18:10:50",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "Konsolide Olmayan Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601306",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601306_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601306"
+      },
+      {
+        "filename": "Sorumluluk Beyanı_Solo_03.2026.pdf",
+        "local_path": "data/pdfs/ISCTR/1601306_Sorumluluk Beyanı_Solo_03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8899b2c0a14"
+      }
+    ]
+  },
+  {
+    "index": 1601304,
+    "publish_datetime": "2026-05-05T18:10:18",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601304",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1601304_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601304"
+      },
+      {
+        "filename": "ISBTR-31032026-Konsolide Olmayan Finansal Rapor.pdf",
+        "local_path": "data/pdfs/ISCTR/1601304_ISBTR-31032026-Konsolide Olmayan Finansal Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df87413517dc0"
+      }
+    ]
+  },
+  {
+    "index": 1598200,
+    "publish_datetime": "2026-04-28T16:59:56",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKDFA",
+      "AKFK",
+      "ATAVK",
+      "ISATR",
+      "ISMEN",
+      "NURVK",
+      "VESBE",
+      "ZKBVK",
+      "ZOREN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598200",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1598200_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598200"
+      }
+    ]
+  },
+  {
+    "index": 1597936,
+    "publish_datetime": "2026-04-28T10:47:26",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtiçi TL cinsi katkı sermaye hesaplamasına dahil edilecek borçlanma aracı kupon ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597936",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597936_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597936"
+      }
+    ]
+  },
+  {
+    "index": 1597935,
+    "publish_datetime": "2026-04-28T10:46:54",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "28.04.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597935",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597935_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597935"
+      }
+    ]
+  },
+  {
+    "index": 1597181,
+    "publish_datetime": "2026-04-24T17:35:42",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597181",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597181_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597181"
+      }
+    ]
+  },
+  {
+    "index": 1597180,
+    "publish_datetime": "2026-04-24T17:35:21",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597180",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597180_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597180"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/ISCTR/1597180_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dbfb6044f5428"
+      },
+      {
+        "filename": "Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/ISCTR/1597180_Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dbfb6047a5429"
+      },
+      {
+        "filename": "Hazirun Cetveli - KVKK.pdf",
+        "local_path": "data/pdfs/ISCTR/1597180_Hazirun Cetveli - KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dbfb60493542a"
+      }
+    ]
+  },
+  {
+    "index": 1597147,
+    "publish_datetime": "2026-04-24T17:01:59",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALNUS",
+      "CCOLA",
+      "ISATR",
+      "LIDFA",
+      "NRBNK",
+      "PNSUT",
+      "SMRVA",
+      "TCRYT",
+      "TV8TV"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597147",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597147_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597147"
+      }
+    ]
+  },
+  {
+    "index": 1597001,
+    "publish_datetime": "2026-04-24T10:05:08",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "24.04.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597001",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597001_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597001"
+      }
+    ]
+  },
+  {
+    "index": 1597000,
+    "publish_datetime": "2026-04-24T10:04:51",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "24.04.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597000",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1597000_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597000"
+      }
+    ]
+  },
+  {
+    "index": 1593598,
+    "publish_datetime": "2026-04-15T12:01:34",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Derecelendirme Notuna İlişkin",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593598",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1593598_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593598"
+      }
+    ]
+  },
+  {
+    "index": 1587616,
+    "publish_datetime": "2026-04-08T10:26:35",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Global Medium Term Note Programı Senelik Güncelleme ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587616",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1587616_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587616"
+      }
+    ]
+  },
+  {
+    "index": 1583782,
+    "publish_datetime": "2026-04-03T17:17:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "SAHOL"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583782",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1583782_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583782"
+      }
+    ]
+  },
+  {
+    "index": 1582864,
+    "publish_datetime": "2026-04-02T16:31:26",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komitelerindeki Değişiklikler Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582864",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1582864_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582864"
+      }
+    ]
+  },
+  {
+    "index": 1582055,
+    "publish_datetime": "2026-04-01T10:46:06",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Katkı Sermaye Hesaplamasına Dahil Edilecek Türk Lirası Borçlanma Aracı ek getiri oranı düzeltilmiştir.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582055",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1582055_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582055"
+      }
+    ]
+  },
+  {
+    "index": 1582006,
+    "publish_datetime": "2026-04-01T09:16:01",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582006",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1582006_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582006"
+      }
+    ]
+  },
+  {
+    "index": 1581788,
+    "publish_datetime": "2026-03-31T23:53:49",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Kararları",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581788",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1581788_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581788"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/ISCTR/1581788_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d45a87d44753e"
+      },
+      {
+        "filename": "Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/ISCTR/1581788_Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d45a87dbe7540"
+      },
+      {
+        "filename": "Hazirun Cetveli - KVKK.pdf",
+        "local_path": "data/pdfs/ISCTR/1581788_Hazirun Cetveli - KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d45a87e407541"
+      }
+    ]
+  },
+  {
+    "index": 1580724,
+    "publish_datetime": "2026-03-31T17:48:00",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISCTR",
+      "ISFAK",
+      "KATVK",
+      "OYYAT",
+      "PETUN",
+      "QNBTR"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580724",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580724_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580724"
+      }
+    ]
+  },
+  {
+    "index": 1580643,
+    "publish_datetime": "2026-03-31T17:02:26",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580643",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580643_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580643"
+      }
+    ]
+  },
+  {
+    "index": 1580602,
+    "publish_datetime": "2026-03-31T16:52:54",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli Yatırımcılara Katkı Sermaye Hesaplamasına Dahil Edilecek Türk Lirası Borçlanma Aracı Satışının Tamamlanması ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580602",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580602_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580602"
+      }
+    ]
+  },
+  {
+    "index": 1580375,
+    "publish_datetime": "2026-03-31T15:22:23",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580375",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580375_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580375"
+      }
+    ]
+  },
+  {
+    "index": 1580260,
+    "publish_datetime": "2026-03-31T14:16:40",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımı Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580260",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580260_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580260"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/ISCTR/1580260_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d4398b96a6cbb"
+      },
+      {
+        "filename": "Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/ISCTR/1580260_Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d4398b9936cbc"
+      }
+    ]
+  },
+  {
+    "index": 1580235,
+    "publish_datetime": "2026-03-31T13:49:24",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Kararları",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580235",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1580235_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580235"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/ISCTR/1580235_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d437626517719"
+      },
+      {
+        "filename": "Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/ISCTR/1580235_Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d4376269f771a"
+      },
+      {
+        "filename": "Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/ISCTR/1580235_Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d437626dc771b"
+      }
+    ]
+  },
+  {
+    "index": 1578290,
+    "publish_datetime": "2026-03-30T15:17:43",
+    "company_name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISGYO"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "Tapu Devir İşleminin Tamamlanması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578290",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1578290_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578290"
+      }
+    ]
+  },
+  {
+    "index": 1575921,
+    "publish_datetime": "2026-03-25T23:35:30",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üye Adayları Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575921",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1575921_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575921"
+      },
+      {
+        "filename": "Yönetim Kurulu Üye Adayları Özgeçmişleri.pdf",
+        "local_path": "data/pdfs/ISCTR/1575921_Yönetim Kurulu Üye Adayları Özgeçmişleri.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d26b290865b92"
+      },
+      {
+        "filename": "Resumes of Board Member Nominees .pdf",
+        "local_path": "data/pdfs/ISCTR/1575921_Resumes of Board Member Nominees .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d26b290955b93"
+      }
+    ]
+  },
+  {
+    "index": 1575801,
+    "publish_datetime": "2026-03-25T18:21:43",
+    "company_name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISGYO"
+    ],
+    "subject": "Maddi Duran Varlık Alımı",
+    "summary": "Kuledibi Binasının Satın Alınması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575801",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1575801_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575801"
+      },
+      {
+        "filename": "Kuledibi Binası Değerleme Raporu.pdf",
+        "local_path": "data/pdfs/ISCTR/1575801_Kuledibi Binası Değerleme Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d255573b614ae"
+      }
+    ]
+  },
+  {
+    "index": 1574638,
+    "publish_datetime": "2026-03-23T13:49:21",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ISCTR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ISCTR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574638",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1574638_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574638"
+      }
+    ]
+  },
+  {
+    "index": 1574400,
+    "publish_datetime": "2026-03-19T12:15:30",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DYBNK",
+      "EXIMB",
+      "ISATR",
+      "VAKVK",
+      "YFMEN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574400",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1574400_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574400"
+      }
+    ]
+  },
+  {
+    "index": 1574308,
+    "publish_datetime": "2026-03-19T09:24:27",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtiçi TL cinsi katkı sermaye hesaplamasına dahil edilecek borçlanma aracı kupon ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574308",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1574308_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574308"
+      }
+    ]
+  },
+  {
+    "index": 1574111,
+    "publish_datetime": "2026-03-18T17:31:30",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALKLC",
+      "BNPPI",
+      "CAGFA",
+      "CCOLA",
+      "DENVA",
+      "DSYAT",
+      "EKER",
+      "EKTVK",
+      "EMVAR",
+      "INFO",
+      "ISATR",
+      "ISMEN",
+      "KARSN",
+      "KORTS",
+      "OTOSR",
+      "SMRFA",
+      "TRYKI",
+      "VESBE"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574111",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1574111_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574111"
+      }
+    ]
+  },
+  {
+    "index": 1573802,
+    "publish_datetime": "2026-03-18T12:11:02",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "18.03.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573802",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1573802_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573802"
+      }
+    ]
+  },
+  {
+    "index": 1572535,
+    "publish_datetime": "2026-03-13T18:18:25",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Satışı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572535",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1572535_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572535"
+      }
+    ]
+  },
+  {
+    "index": 1572528,
+    "publish_datetime": "2026-03-13T18:16:09",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bankamız Genel Müdür Yardımcılığı Görevlerinde Meydana Gelen Değişiklikler Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572528",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1572528_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572528"
+      }
+    ]
+  },
+  {
+    "index": 1570258,
+    "publish_datetime": "2026-03-11T11:13:24",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtiçi TL cinsi katkı sermaye hesaplamasına dahil edilecek borçlanma aracı kupon ödemesi ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570258",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1570258_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570258"
+      }
+    ]
+  },
+  {
+    "index": 1569871,
+    "publish_datetime": "2026-03-10T18:29:06",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İhale sonrası Devir ve Temlik İşlemlerinin tamamlanması hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569871",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569871_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569871"
+      }
+    ]
+  },
+  {
+    "index": 1569176,
+    "publish_datetime": "2026-03-09T22:01:33",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569176",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569176_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569176"
+      },
+      {
+        "filename": "İş Bankası 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ISCTR/1569176_İş Bankası 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd3e640b772d8"
+      }
+    ]
+  },
+  {
+    "index": 1569175,
+    "publish_datetime": "2026-03-09T22:01:08",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Entegre Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569175",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569175_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569175"
+      },
+      {
+        "filename": "2025 Entegre Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/ISCTR/1569175_2025 Entegre Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd3b2b4b96f5c"
+      }
+    ]
+  },
+  {
+    "index": 1569075,
+    "publish_datetime": "2026-03-09T20:00:15",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569075",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569075_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569075"
+      }
+    ]
+  },
+  {
+    "index": 1569070,
+    "publish_datetime": "2026-03-09T19:56:41",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569070",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569070_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569070"
+      }
+    ]
+  },
+  {
+    "index": 1569068,
+    "publish_datetime": "2026-03-09T19:56:28",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569068",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1569068_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569068"
+      }
+    ]
+  },
+  {
+    "index": 1568828,
+    "publish_datetime": "2026-03-09T17:23:47",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtiçi TL cinsi katkı sermaye hesaplamasına dahil edilecek borçlanma aracı kupon oranı açıklaması ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568828",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1568828_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568828"
+      }
+    ]
+  },
+  {
+    "index": 1567476,
+    "publish_datetime": "2026-03-06T17:16:03",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ISCTR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ISCTR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567476",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1567476_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567476"
+      }
+    ]
+  },
+  {
+    "index": 1565847,
+    "publish_datetime": "2026-03-04T18:12:40",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Yapılmasına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565847",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1565847_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565847"
+      },
+      {
+        "filename": "Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/ISCTR/1565847_Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb923ada807d3"
+      },
+      {
+        "filename": "Information Document.pdf",
+        "local_path": "data/pdfs/ISCTR/1565847_Information Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb923adb207d4"
+      }
+    ]
+  },
+  {
+    "index": 1565764,
+    "publish_datetime": "2026-03-04T17:13:50",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKFK",
+      "AKMEN",
+      "BNPPI",
+      "BRKT",
+      "DGRVK",
+      "ENJSA",
+      "GARAN",
+      "GRYAT",
+      "GSIPD",
+      "HALKI",
+      "HDFFL",
+      "HDFVK",
+      "HUZFA",
+      "INFO",
+      "ISATR",
+      "ISMEN",
+      "KPTGY",
+      "KTSVK",
+      "LIDFA",
+      "SKBNK",
+      "SMRTG",
+      "TAMFA",
+      "VDFAS"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565764",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1565764_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565764"
+      }
+    ]
+  },
+  {
+    "index": 1565483,
+    "publish_datetime": "2026-03-04T10:52:13",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "04.03.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565483",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1565483_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565483"
+      }
+    ]
+  },
+  {
+    "index": 1565092,
+    "publish_datetime": "2026-03-03T17:26:30",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ISCTR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ISCTR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565092",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1565092_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565092"
+      }
+    ]
+  },
+  {
+    "index": 1563915,
+    "publish_datetime": "2026-03-02T18:14:40",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563915",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1563915_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563915"
+      }
+    ]
+  },
+  {
+    "index": 1563651,
+    "publish_datetime": "2026-03-02T17:02:04",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CRFSA",
+      "EMVAR",
+      "ISATR",
+      "ISFIN",
+      "KTP",
+      "MRBAS",
+      "SMRVA",
+      "VVP",
+      "YKYAT"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563651",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1563651_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563651"
+      }
+    ]
+  },
+  {
+    "index": 1563379,
+    "publish_datetime": "2026-03-02T10:04:57",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "02.03.2026 vadeli T. İş Bankası A.Ş. Finansman Bonosu İtfası Hakkında ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563379",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1563379_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563379"
+      }
+    ]
+  },
+  {
+    "index": 1562006,
+    "publish_datetime": "2026-02-26T18:10:39",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562006",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1562006_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562006"
+      }
+    ]
+  },
+  {
+    "index": 1561582,
+    "publish_datetime": "2026-02-25T18:54:09",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561582",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1561582_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561582"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/ISCTR/1561582_Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9532d5af2e10"
+      },
+      {
+        "filename": "Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/ISCTR/1561582_Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9532d5bb2e11"
+      }
+    ]
+  },
+  {
+    "index": 1560839,
+    "publish_datetime": "2026-02-24T14:11:09",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Rekabet Kurulunca Açılan Soruşturma Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560839",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1560839_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560839"
+      }
+    ]
+  },
+  {
+    "index": 1559749,
+    "publish_datetime": "2026-02-20T17:08:38",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559749",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1559749_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559749"
+      }
+    ]
+  },
+  {
+    "index": 1558809,
+    "publish_datetime": "2026-02-19T11:51:56",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli Yatırımcılara Finansman Bonosu Satışının Tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558809",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1558809_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558809"
+      }
+    ]
+  },
+  {
+    "index": 1558786,
+    "publish_datetime": "2026-02-19T11:15:13",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ISCTR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ISCTR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558786",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ISCTR/1558786_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558786"
+      }
+    ]
+  },
+  {
+    "index": 1558726,
+    "publish_datetime": "2026-02-19T09:59:31",
+    "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "TIB"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli Yatırımcılara Finansman Bonosu Satışının Tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558726",
+    "ticker": "ISCTR",
+    "company_oid": "33E5FED7044D00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201411682b0cb05c6",
+    "kap_company_code": "2425",
+    "source": "kap_web",
+    "attachments": []
+  }
+]

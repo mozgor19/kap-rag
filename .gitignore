@@ -1,0 +1,32 @@
+# Environment & secrets
+.env
+*.key
+*.secret
+kap-bist30_api_key.txt
+kap-bist30_url.txt
+
+# Agent/Codex files
+.agent
+.codex
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated data (chunks.jsonl — regenerate with: python -m src.pipeline --steps parse)
+data/text/
+
+# Qdrant local storage
+qdrant_storage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1400 @@
+[
+  {
+    "index": 1606484,
+    "publish_datetime": "2026-05-12T19:43:52",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Koç Finansman A.Ş Paylarının Satın Alımına İlişkin BDDK Onayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606484",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1606484_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606484"
+      }
+    ]
+  },
+  {
+    "index": 1603641,
+    "publish_datetime": "2026-05-08T18:30:16",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603641",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1603641_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603641"
+      }
+    ]
+  },
+  {
+    "index": 1603638,
+    "publish_datetime": "2026-05-08T18:30:04",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Finansal raporların açıklanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603638",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1603638_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603638"
+      }
+    ]
+  },
+  {
+    "index": 1603573,
+    "publish_datetime": "2026-05-08T18:16:34",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603573",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1603573_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603573"
+      }
+    ]
+  },
+  {
+    "index": 1603571,
+    "publish_datetime": "2026-05-08T18:16:18",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "01.01.2026-31.03.2026 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603571",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1603571_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603571"
+      },
+      {
+        "filename": "Koç Holding Ara Dönem Faaliyet Raporu_1Ç26.pdf",
+        "local_path": "data/pdfs/KCHOL/1603571_Koç Holding Ara Dönem Faaliyet Raporu_1Ç26.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e07f07ce32abb"
+      }
+    ]
+  },
+  {
+    "index": 1603568,
+    "publish_datetime": "2026-05-08T18:16:03",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603568",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1603568_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603568"
+      },
+      {
+        "filename": "KOÇ HOLDİNG A.Ş. SPK TR - 31.03.2026.pdf",
+        "local_path": "data/pdfs/KCHOL/1603568_KOÇ HOLDİNG A.Ş. SPK TR - 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e07e954be3964"
+      }
+    ]
+  },
+  {
+    "index": 1600711,
+    "publish_datetime": "2026-05-04T18:15:34",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600711",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1600711_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600711"
+      }
+    ]
+  },
+  {
+    "index": 1600709,
+    "publish_datetime": "2026-05-04T18:15:23",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Organizasyonel değişiklik ve atama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600709",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1600709_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600709"
+      }
+    ]
+  },
+  {
+    "index": 1594423,
+    "publish_datetime": "2026-04-16T18:42:38",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağlı ortaklık yönetim kurulunca kâr payı avansı dağıtımına ilişkin karar alınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594423",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1594423_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594423"
+      }
+    ]
+  },
+  {
+    "index": 1592323,
+    "publish_datetime": "2026-04-13T18:15:18",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592323",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1592323_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592323"
+      }
+    ]
+  },
+  {
+    "index": 1582005,
+    "publish_datetime": "2026-04-01T09:11:11",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ABG",
+      "CRDFA",
+      "GUNDG",
+      "KCHOL",
+      "OZC",
+      "OZKGY",
+      "PCS",
+      "PDE",
+      "TUPRS"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582005",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1582005_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582005"
+      },
+      {
+        "filename": "31032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/KCHOL/1582005_31032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d47986c4b56fe"
+      }
+    ]
+  },
+  {
+    "index": 1580840,
+    "publish_datetime": "2026-03-31T18:15:12",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay satış işleminin tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580840",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1580840_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580840"
+      }
+    ]
+  },
+  {
+    "index": 1577704,
+    "publish_datetime": "2026-03-27T18:22:14",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız denetim kuruluşu seçiminin tescili ve TTSG'de ilanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577704",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1577704_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577704"
+      }
+    ]
+  },
+  {
+    "index": 1577703,
+    "publish_datetime": "2026-03-27T18:21:57",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan genel kurul kararlarının tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577703",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1577703_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577703"
+      },
+      {
+        "filename": "Hazir Bulunanlar Listesi - KAP.pdf",
+        "local_path": "data/pdfs/KCHOL/1577703_Hazir Bulunanlar Listesi - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d2fc88eaa0edb"
+      },
+      {
+        "filename": "Genel Kurul Toplantı Tutanagı - KAP.pdf",
+        "local_path": "data/pdfs/KCHOL/1577703_Genel Kurul Toplantı Tutanagı - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d2fc88eca0edc"
+      }
+    ]
+  },
+  {
+    "index": 1577548,
+    "publish_datetime": "2026-03-27T17:13:11",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGESA",
+      "KCHOL"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577548",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1577548_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577548"
+      }
+    ]
+  },
+  {
+    "index": 1576637,
+    "publish_datetime": "2026-03-26T18:28:17",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL",
+      "TUPRS"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576637",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1576637_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576637"
+      },
+      {
+        "filename": "Alıcı Listesi.pdf",
+        "local_path": "data/pdfs/KCHOL/1576637_Alıcı Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2ab836b53e87"
+      },
+      {
+        "filename": "Alıcı Üye Listesi.pdf",
+        "local_path": "data/pdfs/KCHOL/1576637_Alıcı Üye Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2ab836c53e88"
+      }
+    ]
+  },
+  {
+    "index": 1576079,
+    "publish_datetime": "2026-03-26T09:55:40",
+    "company_name": "ÜNLÜ MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "UNLUS",
+      "UNS"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "TUPRS toptan alış satış işlem bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576079",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1576079_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576079"
+      },
+      {
+        "filename": "TSP BAŞVURU DİLEKÇE TUPRS.pdf",
+        "local_path": "data/pdfs/KCHOL/1576079_TSP BAŞVURU DİLEKÇE TUPRS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d28e9b7165c20"
+      }
+    ]
+  },
+  {
+    "index": 1575944,
+    "publish_datetime": "2026-03-26T00:16:57",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Hisse satış sürecinde işlem detaylarının belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575944",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1575944_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575944"
+      }
+    ]
+  },
+  {
+    "index": 1575866,
+    "publish_datetime": "2026-03-25T19:00:04",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Hisse satışına ilişkin yetkilendirme ve satış sürecinin başlangıcı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575866",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1575866_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575866"
+      }
+    ]
+  },
+  {
+    "index": 1575671,
+    "publish_datetime": "2026-03-25T17:16:55",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS",
+      "BTCIM",
+      "DAPGM",
+      "ISBIR",
+      "KCHOL",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575671",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1575671_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575671"
+      }
+    ]
+  },
+  {
+    "index": 1575354,
+    "publish_datetime": "2026-03-25T09:26:16",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGESA",
+      "KCHOL"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575354",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1575354_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575354"
+      }
+    ]
+  },
+  {
+    "index": 1575118,
+    "publish_datetime": "2026-03-24T16:53:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGESA",
+      "KCHOL"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575118",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1575118_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575118"
+      }
+    ]
+  },
+  {
+    "index": 1574210,
+    "publish_datetime": "2026-03-18T19:21:12",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574210",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574210_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574210"
+      }
+    ]
+  },
+  {
+    "index": 1574209,
+    "publish_datetime": "2026-03-18T19:20:19",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574209",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574209_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574209"
+      }
+    ]
+  },
+  {
+    "index": 1574208,
+    "publish_datetime": "2026-03-18T19:19:08",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim kurulu komitelerinin üyeliklerinin belirlenmesi ve yatırımcı ilişkileri birimi görevlendirmeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574208",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574208_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574208"
+      }
+    ]
+  },
+  {
+    "index": 1574206,
+    "publish_datetime": "2026-03-18T19:18:17",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız denetim kuruluşu seçiminin genel kurulca onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574206",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574206_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574206"
+      }
+    ]
+  },
+  {
+    "index": 1574205,
+    "publish_datetime": "2026-03-18T19:17:13",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımına İlişkin Genel Kurul Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574205",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574205_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574205"
+      },
+      {
+        "filename": "Kâr Payı Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/KCHOL/1574205_Kâr Payı Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d01b983675c20"
+      },
+      {
+        "filename": "Dividend Distribution Table.pdf",
+        "local_path": "data/pdfs/KCHOL/1574205_Dividend Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d01b9836e5c21"
+      }
+    ]
+  },
+  {
+    "index": 1574202,
+    "publish_datetime": "2026-03-18T19:09:56",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574202",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1574202_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574202"
+      },
+      {
+        "filename": "Hazir Bulunanlar Listesi - KAP.pdf",
+        "local_path": "data/pdfs/KCHOL/1574202_Hazir Bulunanlar Listesi - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d01a488295a24"
+      },
+      {
+        "filename": "Genel Kurul Toplantı Tutanagı - KAP.pdf",
+        "local_path": "data/pdfs/KCHOL/1574202_Genel Kurul Toplantı Tutanagı - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d01a488355a25"
+      }
+    ]
+  },
+  {
+    "index": 1572139,
+    "publish_datetime": "2026-03-13T08:47:54",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Koç Finansman A.Ş Paylarının Satın Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572139",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1572139_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572139"
+      }
+    ]
+  },
+  {
+    "index": 1572138,
+    "publish_datetime": "2026-03-13T08:47:43",
+    "company_name": "ARÇELİK A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ARCLK"
+    ],
+    "subject": "Finansal Duran Varlık Satışı",
+    "summary": "Koç Finansman A.Ş. paylarının satışı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572138",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1572138_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572138"
+      }
+    ]
+  },
+  {
+    "index": 1572137,
+    "publish_datetime": "2026-03-13T08:47:22",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Finansal Duran Varlık Satışı",
+    "summary": "Koç Finansman A.Ş. paylarının satışı ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572137",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1572137_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572137"
+      }
+    ]
+  },
+  {
+    "index": 1561433,
+    "publish_datetime": "2026-02-25T16:38:01",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKENR",
+      "ARCLK",
+      "BULGS",
+      "EMKEL",
+      "GUNDG",
+      "KCHOL",
+      "MARKA",
+      "MNDRS",
+      "TMSN",
+      "TOASO",
+      "TUCLK"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561433",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561433_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561433"
+      }
+    ]
+  },
+  {
+    "index": 1561078,
+    "publish_datetime": "2026-02-24T18:57:09",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağlı ortaklık yönetim kurulunca temettü dağıtımına ilişkin karar alınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561078",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561078_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561078"
+      }
+    ]
+  },
+  {
+    "index": 1561077,
+    "publish_datetime": "2026-02-24T18:56:54",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "SPK Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561077",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561077_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561077"
+      }
+    ]
+  },
+  {
+    "index": 1561076,
+    "publish_datetime": "2026-02-24T18:56:38",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561076",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561076_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561076"
+      }
+    ]
+  },
+  {
+    "index": 1561075,
+    "publish_datetime": "2026-02-24T18:55:20",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561075",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561075_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561075"
+      }
+    ]
+  },
+  {
+    "index": 1561074,
+    "publish_datetime": "2026-02-24T18:55:07",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561074",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561074_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561074"
+      }
+    ]
+  },
+  {
+    "index": 1561073,
+    "publish_datetime": "2026-02-24T18:54:55",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 yılı Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561073",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1561073_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561073"
+      },
+      {
+        "filename": "Koç Holding 2025 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/KCHOL/1561073_Koç Holding 2025 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c904726276a70"
+      }
+    ]
+  },
+  {
+    "index": 1559308,
+    "publish_datetime": "2026-02-19T18:15:29",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Daveti ve Bilgilendirme Dokümanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559308",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1559308_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559308"
+      },
+      {
+        "filename": "Invitation to AGM.pdf",
+        "local_path": "data/pdfs/KCHOL/1559308_Invitation to AGM.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c766f88b32d5d"
+      },
+      {
+        "filename": "Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/KCHOL/1559308_Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c766f88bd2d5e"
+      },
+      {
+        "filename": "General Assembly Meeting Informative Document.pdf",
+        "local_path": "data/pdfs/KCHOL/1559308_General Assembly Meeting Informative Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c766f88da2d5f"
+      }
+    ]
+  },
+  {
+    "index": 1559307,
+    "publish_datetime": "2026-02-19T18:15:12",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559307",
+    "ticker": "KCHOL",
+    "company_oid": "33E5FED703F500EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f2f4d6c70039",
+    "kap_company_code": "1005",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KCHOL/1559307_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559307"
+      },
+      {
+        "filename": "Kâr Payı Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/KCHOL/1559307_Kâr Payı Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c766e55c72d10"
+      },
+      {
+        "filename": "Dividend Distribution Table.pdf",
+        "local_path": "data/pdfs/KCHOL/1559307_Dividend Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c766e55cd2d11"
+      }
+    ]
+  }
+]

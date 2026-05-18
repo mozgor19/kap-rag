@@ -1,0 +1,1223 @@
+[
+  {
+    "index": 1608235,
+    "publish_datetime": "2026-05-15T19:18:24",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608235",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608235_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608235"
+      }
+    ]
+  },
+  {
+    "index": 1608234,
+    "publish_datetime": "2026-05-15T19:16:54",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Görevden Ayrılma",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608234",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608234_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608234"
+      }
+    ]
+  },
+  {
+    "index": 1608233,
+    "publish_datetime": "2026-05-15T19:15:31",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608233",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608233_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608233"
+      }
+    ]
+  },
+  {
+    "index": 1608232,
+    "publish_datetime": "2026-05-15T19:13:43",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyelerinin Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608232",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608232_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608232"
+      }
+    ]
+  },
+  {
+    "index": 1608231,
+    "publish_datetime": "2026-05-15T19:10:59",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Değişikliğinin Onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608231",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608231_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608231"
+      },
+      {
+        "filename": "Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/PETKM/1608231_Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e20810a074b05"
+      },
+      {
+        "filename": "Approved AoA Amandment.pdf",
+        "local_path": "data/pdfs/PETKM/1608231_Approved AoA Amandment.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e20810a0f4b06"
+      }
+    ]
+  },
+  {
+    "index": 1608224,
+    "publish_datetime": "2026-05-15T19:07:22",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Şirketi Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608224",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608224_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608224"
+      }
+    ]
+  },
+  {
+    "index": 1608216,
+    "publish_datetime": "2026-05-15T19:04:18",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Karının/Zararının Kullanım Şeklinin Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608216",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608216_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608216"
+      },
+      {
+        "filename": "2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/PETKM/1608216_2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a1019e2c5f802b30ae"
+      },
+      {
+        "filename": "2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/PETKM/1608216_2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a1019e2c5f803430af"
+      }
+    ]
+  },
+  {
+    "index": 1608194,
+    "publish_datetime": "2026-05-15T18:57:00",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608194",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608194_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608194"
+      },
+      {
+        "filename": "Tutanak KVKK.pdf",
+        "local_path": "data/pdfs/PETKM/1608194_Tutanak KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a1019e2c597f352eff"
+      },
+      {
+        "filename": "Hazirun_KVKK.pdf",
+        "local_path": "data/pdfs/PETKM/1608194_Hazirun_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a1019e2c597f402f00"
+      },
+      {
+        "filename": "2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/PETKM/1608194_2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a1019e2c597f482f01"
+      }
+    ]
+  },
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1608123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608123"
+      }
+    ]
+  },
+  {
+    "index": 1602155,
+    "publish_datetime": "2026-05-07T07:30:28",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "Yaygın ve Süreklilik Arz Eden İşlemlere İlişkin Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602155",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1602155_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602155"
+      },
+      {
+        "filename": "Rapor.pdf",
+        "local_path": "data/pdfs/PETKM/1602155_Rapor.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfcb7f97423ce"
+      }
+    ]
+  },
+  {
+    "index": 1602154,
+    "publish_datetime": "2026-05-07T07:26:23",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602154",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1602153,
+    "publish_datetime": "2026-05-07T07:26:01",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602153",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Ara Dönem Faaliyet Raporu Mart 2026.pdf",
+        "local_path": "data/pdfs/PETKM/1602153_Ara Dönem Faaliyet Raporu Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019ddf6e2dca0f16"
+      }
+    ]
+  },
+  {
+    "index": 1602152,
+    "publish_datetime": "2026-05-07T07:25:40",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602152",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.03.2026 - TR.pdf",
+        "local_path": "data/pdfs/PETKM/1602152_PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.03.2026 - TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e00a7a238491c"
+      },
+      {
+        "filename": "PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.03.2026 - ENG.pdf",
+        "local_path": "data/pdfs/PETKM/1602152_PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.03.2026 - ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e00a7a252491d"
+      }
+    ]
+  },
+  {
+    "index": 1599381,
+    "publish_datetime": "2026-04-30T16:28:00",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599381",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1595805,
+    "publish_datetime": "2026-04-20T20:36:50",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Karının/Zararının Kullanım Şeklinin Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595805",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/PETKM/1595805_2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dabf4f48928d2"
+      },
+      {
+        "filename": "2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/PETKM/1595805_2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dabf4f49028d3"
+      }
+    ]
+  },
+  {
+    "index": 1595800,
+    "publish_datetime": "2026-04-20T19:57:55",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595800",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BILGILENDIRME DOKUMANI2026.pdf",
+        "local_path": "data/pdfs/PETKM/1595800_BILGILENDIRME DOKUMANI2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dab31bed5371c"
+      },
+      {
+        "filename": "INFORMATION DOCUMENT2026.pdf",
+        "local_path": "data/pdfs/PETKM/1595800_INFORMATION DOCUMENT2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dab31bee6371d"
+      }
+    ]
+  },
+  {
+    "index": 1595798,
+    "publish_datetime": "2026-04-20T19:57:43",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Şirketi Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595798",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1594764,
+    "publish_datetime": "2026-04-17T16:24:42",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594764",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1589219,
+    "publish_datetime": "2026-04-08T18:27:31",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Değişikliğine İlişkin Ticaret Bakanlığı'nın Onayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1589219",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "AoA Amendment.pdf",
+        "local_path": "data/pdfs/PETKM/1589219_AoA Amendment.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db03ecb543b"
+      },
+      {
+        "filename": "SPK Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/PETKM/1589219_SPK Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db03ed2543c"
+      },
+      {
+        "filename": "Bakanlık Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/PETKM/1589219_Bakanlık Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6db03ef8543d"
+      }
+    ]
+  },
+  {
+    "index": 1584249,
+    "publish_datetime": "2026-04-06T09:55:21",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme değişikliğine ilişkin SPK onayı hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584249",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SPK Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/PETKM/1584249_SPK Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5d8ba6371bb2"
+      },
+      {
+        "filename": "AoA Amendment.pdf",
+        "local_path": "data/pdfs/PETKM/1584249_AoA Amendment.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d5d8ba63d1bb3"
+      }
+    ]
+  },
+  {
+    "index": 1582959,
+    "publish_datetime": "2026-04-02T17:48:39",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582959",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1576938,
+    "publish_datetime": "2026-03-26T21:10:24",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Değişikliği",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576938",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/PETKM/1576938_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d25ff920a57d1"
+      },
+      {
+        "filename": "AoA Amendment.pdf",
+        "local_path": "data/pdfs/PETKM/1576938_AoA Amendment.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d25ff921057d2"
+      }
+    ]
+  },
+  {
+    "index": 1574746,
+    "publish_datetime": "2026-03-23T17:12:48",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574746",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1568161,
+    "publish_datetime": "2026-03-09T12:05:37",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568161",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1568161_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568161"
+      }
+    ]
+  },
+  {
+    "index": 1567676,
+    "publish_datetime": "2026-03-06T18:41:21",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567676",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1567676_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567676"
+      }
+    ]
+  },
+  {
+    "index": 1567397,
+    "publish_datetime": "2026-03-06T16:47:54",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567397",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1567397_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567397"
+      }
+    ]
+  },
+  {
+    "index": 1566624,
+    "publish_datetime": "2026-03-05T18:43:40",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi derecelendirmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566624",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566624_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566624"
+      }
+    ]
+  },
+  {
+    "index": 1566148,
+    "publish_datetime": "2026-03-05T08:16:58",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566148",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566148_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566148"
+      }
+    ]
+  },
+  {
+    "index": 1566147,
+    "publish_datetime": "2026-03-05T08:16:45",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566147",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566147_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566147"
+      }
+    ]
+  },
+  {
+    "index": 1566146,
+    "publish_datetime": "2026-03-05T08:15:25",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkeleri Uyum Çerçevesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566146",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566146_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566146"
+      }
+    ]
+  },
+  {
+    "index": 1566145,
+    "publish_datetime": "2026-03-05T08:12:19",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566145",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566145_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566145"
+      }
+    ]
+  },
+  {
+    "index": 1566144,
+    "publish_datetime": "2026-03-05T08:11:35",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu ve TSRS Kapsamındaki Açıklamalar",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566144",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566144_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566144"
+      },
+      {
+        "filename": "Petkim 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/PETKM/1566144_Petkim 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbc4e94c726b0"
+      }
+    ]
+  },
+  {
+    "index": 1566143,
+    "publish_datetime": "2026-03-05T08:10:28",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566143",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1566143_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566143"
+      },
+      {
+        "filename": "PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.12.2025 - TR .pdf",
+        "local_path": "data/pdfs/PETKM/1566143_PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.12.2025 - TR .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbc1dc50a2501"
+      },
+      {
+        "filename": "PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.12.2025 - ENG .pdf",
+        "local_path": "data/pdfs/PETKM/1566143_PETKİM PETROKİMYA HOLDİNG A.Ş. - 31.12.2025 - ENG .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbc1dc5352502"
+      }
+    ]
+  },
+  {
+    "index": 1565465,
+    "publish_datetime": "2026-03-04T10:27:00",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565465",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1565465_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565465"
+      }
+    ]
+  },
+  {
+    "index": 1559127,
+    "publish_datetime": "2026-02-19T16:29:18",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "PETKM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559127",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1559127_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559127"
+      }
+    ]
+  },
+  {
+    "index": 1557795,
+    "publish_datetime": "2026-02-17T18:55:27",
+    "company_name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "PETKM"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557795",
+    "ticker": "PETKM",
+    "company_oid": "33E5FED7042A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef470141165c566a03e4",
+    "kap_company_code": "1053",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/PETKM/1557795_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557795"
+      },
+      {
+        "filename": "Petkim 2025 VUK Gelir Tablosu.pdf",
+        "local_path": "data/pdfs/PETKM/1557795_Petkim 2025 VUK Gelir Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c671b3b223745"
+      },
+      {
+        "filename": "Petkim 2025 TPL Income Statement.pdf",
+        "local_path": "data/pdfs/PETKM/1557795_Petkim 2025 TPL Income Statement.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c671b3b273746"
+      }
+    ]
+  }
+]

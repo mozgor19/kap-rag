@@ -1,0 +1,1015 @@
+[
+  {
+    "index": 1607025,
+    "publish_datetime": "2026-05-13T18:53:55",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607025",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1607025_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607025"
+      },
+      {
+        "filename": "GK İlan Metni 2025.pdf",
+        "local_path": "data/pdfs/AKSEN/1607025_GK İlan Metni 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e220ac4ff3fe4"
+      },
+      {
+        "filename": "GK İlan Metni 2025 - ENG.pdf",
+        "local_path": "data/pdfs/AKSEN/1607025_GK İlan Metni 2025 - ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e220ac5413fe5"
+      },
+      {
+        "filename": "GK 2025 Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/AKSEN/1607025_GK 2025 Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e220ac5c23fe6"
+      }
+    ]
+  },
+  {
+    "index": 1607023,
+    "publish_datetime": "2026-05-13T18:51:06",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımı Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607023",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1607023_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607023"
+      },
+      {
+        "filename": "2025 AKSEN KAR DAĞITIM TABLOSU.pdf",
+        "local_path": "data/pdfs/AKSEN/1607023_2025 AKSEN KAR DAĞITIM TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e220846af3f89"
+      },
+      {
+        "filename": "2025 AKSEN DIVIDEND DISTRIBUTION TABLE.pdf",
+        "local_path": "data/pdfs/AKSEN/1607023_2025 AKSEN DIVIDEND DISTRIBUTION TABLE.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e220846d53f8a"
+      }
+    ]
+  },
+  {
+    "index": 1607020,
+    "publish_datetime": "2026-05-13T18:47:00",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Firması Seçimi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607020",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1607020_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607020"
+      }
+    ]
+  },
+  {
+    "index": 1606997,
+    "publish_datetime": "2026-05-13T18:28:39",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606997",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1606997_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606997"
+      },
+      {
+        "filename": "2025 TSRS UYUMLU SÜRDÜRÜLEBİLİRLİK RAPORU.pdf",
+        "local_path": "data/pdfs/AKSEN/1606997_2025 TSRS UYUMLU SÜRDÜRÜLEBİLİRLİK RAPORU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e21f3b0b66c34"
+      }
+    ]
+  },
+  {
+    "index": 1605569,
+    "publish_datetime": "2026-05-11T19:57:47",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "1Ç 26 Finansal Sonuçlar Sunumu Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605569",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605569_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605569"
+      }
+    ]
+  },
+  {
+    "index": 1605548,
+    "publish_datetime": "2026-05-11T19:44:56",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605548",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605548_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605548"
+      }
+    ]
+  },
+  {
+    "index": 1605544,
+    "publish_datetime": "2026-05-11T19:44:03",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605544",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605544_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605544"
+      },
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıklar 31 Mart 2026 SPK Raporu.pdf",
+        "local_path": "data/pdfs/AKSEN/1605544_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıklar 31 Mart 2026 SPK Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17a58f0e7850"
+      }
+    ]
+  },
+  {
+    "index": 1605542,
+    "publish_datetime": "2026-05-11T19:43:38",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Mart 2026 Faaliyet Raporu  ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605542",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605542_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605542"
+      },
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıklar 31 Mart 2026 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/AKSEN/1605542_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıklar 31 Mart 2026 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17b0b7d87d63"
+      }
+    ]
+  },
+  {
+    "index": 1605539,
+    "publish_datetime": "2026-05-11T19:43:21",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Mart 2026 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605539",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605539_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605539"
+      },
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Mart 2026 Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/AKSEN/1605539_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Mart 2026 Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e17b62e6c7fac"
+      }
+    ]
+  },
+  {
+    "index": 1605525,
+    "publish_datetime": "2026-05-11T19:42:08",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Yılı Beklentileri Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605525",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1605525_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605525"
+      },
+      {
+        "filename": "AKSEN_2026 Yılı Beklentileri.pdf",
+        "local_path": "data/pdfs/AKSEN/1605525_AKSEN_2026 Yılı Beklentileri.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e17e9f4e755ce"
+      },
+      {
+        "filename": "AKSEN_2026 Guidance.pdf",
+        "local_path": "data/pdfs/AKSEN/1605525_AKSEN_2026 Guidance.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e17e9f51155cf"
+      }
+    ]
+  },
+  {
+    "index": 1602345,
+    "publish_datetime": "2026-05-07T14:37:49",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kayseri ili Fatih Depolamalı Güneş Enerjisi Santrali Üretim Lisansının EPDK Onayı Hakkında ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602345",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1602345_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602345"
+      }
+    ]
+  },
+  {
+    "index": 1592743,
+    "publish_datetime": "2026-04-14T09:31:19",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Africa Finance Corporation (AFC) ile imzalanan kredi sözleşmesi hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592743",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1592743_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592743"
+      }
+    ]
+  },
+  {
+    "index": 1577983,
+    "publish_datetime": "2026-03-30T09:34:51",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+    "summary": "Kurumsal Yönetim Derecelendirme Sözleşmesinin Yenilenmesi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577983",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1577983_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577983"
+      }
+    ]
+  },
+  {
+    "index": 1577646,
+    "publish_datetime": "2026-03-27T17:58:57",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AKSEN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577646",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1577646_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577646"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/AKSEN/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/AKSEN/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1572172,
+    "publish_datetime": "2026-03-13T09:40:51",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Van Zümrüt Depolamalı Güneş Enerjisi Santrali Yatırımı Hakkında ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572172",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1572172_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572172"
+      }
+    ]
+  },
+  {
+    "index": 1567606,
+    "publish_datetime": "2026-03-06T18:13:03",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567606",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1567606_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567606"
+      }
+    ]
+  },
+  {
+    "index": 1566687,
+    "publish_datetime": "2026-03-05T19:33:01",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yılsonu Konsolide Finansal Sonuçlara İlişkin Sunum Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566687",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566687_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566687"
+      }
+    ]
+  },
+  {
+    "index": 1566686,
+    "publish_datetime": "2026-03-05T19:31:54",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566686",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566686_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566686"
+      }
+    ]
+  },
+  {
+    "index": 1566685,
+    "publish_datetime": "2026-03-05T19:31:40",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566685",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566685_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566685"
+      }
+    ]
+  },
+  {
+    "index": 1566684,
+    "publish_datetime": "2026-03-05T19:31:10",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566684",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566684_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566684"
+      }
+    ]
+  },
+  {
+    "index": 1566682,
+    "publish_datetime": "2026-03-05T19:29:49",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566682",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566682_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566682"
+      }
+    ]
+  },
+  {
+    "index": 1566681,
+    "publish_datetime": "2026-03-05T19:29:00",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566681",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566681_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566681"
+      },
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Konsolide SPK Raporu.pdf",
+        "local_path": "data/pdfs/AKSEN/1566681_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Konsolide SPK Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbec1a5ea6baf"
+      }
+    ]
+  },
+  {
+    "index": 1566680,
+    "publish_datetime": "2026-03-05T19:28:33",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Konsolide Faaliyet Raporu\n ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566680",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKSEN/1566680_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566680"
+      },
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Konsolide Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/AKSEN/1566680_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Konsolide Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbec3f8766bfb"
+      }
+    ]
+  },
+  {
+    "index": 1566678,
+    "publish_datetime": "2026-03-05T19:27:56",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Sorumluluk Beyanı ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566678",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/AKSEN/1566678_Aksa Enerji Üretim A.Ş. ve Bağlı Ortaklıkları 31 Aralık 2025 Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbed0e5826cf7"
+      }
+    ]
+  },
+  {
+    "index": 1562625,
+    "publish_datetime": "2026-02-27T16:26:42",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AKSEN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562625",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1559543,
+    "publish_datetime": "2026-02-20T10:31:09",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Divriği Depolamalı Rüzgar Enerjisi Santrali ÇED Süreci Hakkında ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559543",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557743,
+    "publish_datetime": "2026-02-17T18:30:21",
+    "company_name": "AKSA ENERJİ ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSEN"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "Herhangi Bir Otoriteye Mali Tablo Verilmesi ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557743",
+    "ticker": "AKSEN",
+    "company_oid": "33E5FED7057300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241733d42014179341a147ddb",
+    "kap_company_code": "1505",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "AKSA ENERJİ ÜRETİM A.Ş. 2025 SOLO.pdf",
+        "local_path": "data/pdfs/AKSEN/1557743_AKSA ENERJİ ÜRETİM A.Ş. 2025 SOLO.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6c3829ab1e66"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1521 @@
+[
+  {
+    "index": 1602802,
+    "publish_datetime": "2026-05-07T19:20:35",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.03.2026 Tarihli Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602802",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1602802_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602802"
+      },
+      {
+        "filename": "1C26 Finansal Sonuc Bilgilendirme Bülteni.pdf",
+        "local_path": "data/pdfs/OYAKC/1602802_1C26 Finansal Sonuc Bilgilendirme Bülteni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e02ad1df73d4b"
+      },
+      {
+        "filename": "1Q26 Financial Results Bulletin.pdf",
+        "local_path": "data/pdfs/OYAKC/1602802_1Q26 Financial Results Bulletin.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e02ad1e263d4c"
+      }
+    ]
+  },
+  {
+    "index": 1602801,
+    "publish_datetime": "2026-05-07T19:20:15",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "1 Ocak - 31 Mart 2026 Dönemine İlişkin Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602801",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1602801_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602801"
+      }
+    ]
+  },
+  {
+    "index": 1602800,
+    "publish_datetime": "2026-05-07T19:19:55",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "1 Ocak - 31 Mart 2026 Dönemine Ait Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602800",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1602800_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602800"
+      },
+      {
+        "filename": "OYAK Çimento Faaliyet Raporu_31032026_.pdf",
+        "local_path": "data/pdfs/OYAKC/1602800_OYAK Çimento Faaliyet Raporu_31032026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e019beea45cf4"
+      },
+      {
+        "filename": "OYAK Çimento Activity_31032026_.pdf",
+        "local_path": "data/pdfs/OYAKC/1602800_OYAK Çimento Activity_31032026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e019bef6b5cf5"
+      }
+    ]
+  },
+  {
+    "index": 1602799,
+    "publish_datetime": "2026-05-07T19:19:23",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602799",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1602799_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602799"
+      },
+      {
+        "filename": "OYAK Çimento Fabrikaları A.Ş.- 31.03.2026 - SPK Rapor (TR)_final.pdf",
+        "local_path": "data/pdfs/OYAKC/1602799_OYAK Çimento Fabrikaları A.Ş.- 31.03.2026 - SPK Rapor (TR)_final.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e02fe03870536"
+      },
+      {
+        "filename": "OYAK Çimento Fabrikaları A.Ş.- 31.03.2026 - CMB Report (ENG)_final.pdf",
+        "local_path": "data/pdfs/OYAKC/1602799_OYAK Çimento Fabrikaları A.Ş.- 31.03.2026 - CMB Report (ENG)_final.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e02fe057b0537"
+      }
+    ]
+  },
+  {
+    "index": 1601087,
+    "publish_datetime": "2026-05-05T14:38:11",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Yönetim Kurulu Komite Üyelerinin Güncellenmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601087",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1601087_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601087"
+      }
+    ]
+  },
+  {
+    "index": 1600796,
+    "publish_datetime": "2026-05-04T19:19:36",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600796",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1600796_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600796"
+      }
+    ]
+  },
+  {
+    "index": 1600794,
+    "publish_datetime": "2026-05-04T19:19:23",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600794",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1600794_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600794"
+      }
+    ]
+  },
+  {
+    "index": 1600793,
+    "publish_datetime": "2026-05-04T19:19:11",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Başkanı ve Başkan Vekilinin Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600793",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1600793_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600793"
+      }
+    ]
+  },
+  {
+    "index": 1593934,
+    "publish_datetime": "2026-04-15T19:19:04",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Güneş Enerjisi Santralinin Devreye Alınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593934",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1593934_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593934"
+      }
+    ]
+  },
+  {
+    "index": 1582989,
+    "publish_datetime": "2026-04-02T18:20:36",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2024, 2025, 2026 Yılı TSRS Uyumlu Sürdürülebilirlik Raporlanının Güvence Denetimi Kuruluşunun Tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582989",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1582989_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582989"
+      }
+    ]
+  },
+  {
+    "index": 1582988,
+    "publish_datetime": "2026-04-02T18:20:24",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Genel Kurul Toplantısı 2026 Yılı Bağımsız Denetim Şirketi Tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582988",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1582988_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582988"
+      }
+    ]
+  },
+  {
+    "index": 1582861,
+    "publish_datetime": "2026-04-02T16:28:52",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582861",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1582861_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582861"
+      },
+      {
+        "filename": "31032026_Olagan Genel Kurul Toplantısı Toplantı Tutanagı.pdf",
+        "local_path": "data/pdfs/OYAKC/1582861_31032026_Olagan Genel Kurul Toplantısı Toplantı Tutanagı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e5004bb1fec"
+      },
+      {
+        "filename": "31032026_Ordinary General Assembly Meeting Minute.pdf",
+        "local_path": "data/pdfs/OYAKC/1582861_31032026_Ordinary General Assembly Meeting Minute.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e5004c31fed"
+      },
+      {
+        "filename": "31032026 Olagan Genel Kurul Toplantısı Hazır Bulunanlar Listesi.pdf",
+        "local_path": "data/pdfs/OYAKC/1582861_31032026 Olagan Genel Kurul Toplantısı Hazır Bulunanlar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d4e5004c91fee"
+      }
+    ]
+  },
+  {
+    "index": 1581464,
+    "publish_datetime": "2026-03-31T23:15:25",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581464",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581464_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581464"
+      }
+    ]
+  },
+  {
+    "index": 1581260,
+    "publish_datetime": "2026-03-31T21:31:32",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Kar Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581260",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581260_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581260"
+      },
+      {
+        "filename": "01.01.2025-31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/OYAKC/1581260_01.01.2025-31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d4525e5713554"
+      },
+      {
+        "filename": "01.01.2025-31.12.2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/OYAKC/1581260_01.01.2025-31.12.2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d4525e5963555"
+      }
+    ]
+  },
+  {
+    "index": 1581194,
+    "publish_datetime": "2026-03-31T20:42:21",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Genel Kurul Toplantısı 2024, 2025, 2026 Yılı TSRS Uyumlu Sürdürülebilirlik Raporlanının Güvence Denetimi Kuruluşunun Seçim Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581194",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581194_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581194"
+      }
+    ]
+  },
+  {
+    "index": 1581193,
+    "publish_datetime": "2026-03-31T20:41:39",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Genel Kurul Toplantısı 2026 Yılı Bağımsız Denetim Şirketi Seçim Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581193",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581193_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581193"
+      }
+    ]
+  },
+  {
+    "index": 1581189,
+    "publish_datetime": "2026-03-31T20:40:11",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına İlişkin Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581189",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581189_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581189"
+      },
+      {
+        "filename": "31032026_Olagan Genel Kurul Toplantısı Toplantı Tutanagı.pdf",
+        "local_path": "data/pdfs/OYAKC/1581189_31032026_Olagan Genel Kurul Toplantısı Toplantı Tutanagı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d446aeec93b77"
+      },
+      {
+        "filename": "31032026_Ordinary General Assembly Meeting Minute.pdf",
+        "local_path": "data/pdfs/OYAKC/1581189_31032026_Ordinary General Assembly Meeting Minute.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d446aeee93b78"
+      },
+      {
+        "filename": "31032026 Olagan Genel Kurul Toplantısı Hazır Bulunanlar Listesi.pdf",
+        "local_path": "data/pdfs/OYAKC/1581189_31032026 Olagan Genel Kurul Toplantısı Hazır Bulunanlar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d446aef063b79"
+      }
+    ]
+  },
+  {
+    "index": 1581187,
+    "publish_datetime": "2026-03-31T20:38:52",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tüzel Kişi Yönetim Kurulu Üyesi Temsilci Değişikliği",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581187",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1581187_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581187"
+      },
+      {
+        "filename": "İsmail Doğan_Özgeçmiş TR.pdf",
+        "local_path": "data/pdfs/OYAKC/1581187_İsmail Doğan_Özgeçmiş TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d44c9f0113bce"
+      },
+      {
+        "filename": "İsmail Doğan_Özgeçmiş ENG.pdf",
+        "local_path": "data/pdfs/OYAKC/1581187_İsmail Doğan_Özgeçmiş ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d44c9f0183bcf"
+      }
+    ]
+  },
+  {
+    "index": 1575282,
+    "publish_datetime": "2026-03-24T19:19:19",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı İhraç Edilmesi Hakkında Karar Alınması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575282",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1575282_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575282"
+      }
+    ]
+  },
+  {
+    "index": 1575281,
+    "publish_datetime": "2026-03-24T19:19:09",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 Yılı TSRS Uyumlu Sürdürülebilirlik Raporlanının Güvence Denetimi Kuruluşunun Belirlenmesi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575281",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1575281_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575281"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/OYAKC/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/OYAKC/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1573162,
+    "publish_datetime": "2026-03-16T18:15:35",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573162",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1573162_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573162"
+      }
+    ]
+  },
+  {
+    "index": 1573161,
+    "publish_datetime": "2026-03-16T18:15:22",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Üst Düzey Yönetici Görevden Ayrılma",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573161",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1573161_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573161"
+      }
+    ]
+  },
+  {
+    "index": 1568520,
+    "publish_datetime": "2026-03-09T15:52:19",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul İşlemlerine İlişkin Bildirim - Hak Kullanım İşlemleri Güncelleme",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568520",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1568520_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568520"
+      },
+      {
+        "filename": "OYAK Cimento_2025 General Assembly Invitation.pdf",
+        "local_path": "data/pdfs/OYAKC/1568520_OYAK Cimento_2025 General Assembly Invitation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd2849bd939f3"
+      },
+      {
+        "filename": "OYAK Cimento_2025 Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/OYAKC/1568520_OYAK Cimento_2025 Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd2849be139f4"
+      },
+      {
+        "filename": "OYAK Cimento_2025 General Assembly Information Document.pdf",
+        "local_path": "data/pdfs/OYAKC/1568520_OYAK Cimento_2025 General Assembly Information Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd2849bea39f5"
+      }
+    ]
+  },
+  {
+    "index": 1567720,
+    "publish_datetime": "2026-03-06T19:22:42",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 Yılı Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567720",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1567720_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567720"
+      }
+    ]
+  },
+  {
+    "index": 1567719,
+    "publish_datetime": "2026-03-06T19:22:33",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Olağan Genel Kurul Toplantısı'nda Aday Gösterilecek Bağımsız Yönetim Kurulu Üyeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567719",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1567719_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567719"
+      }
+    ]
+  },
+  {
+    "index": 1567718,
+    "publish_datetime": "2026-03-06T19:22:10",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567718",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1567718_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567718"
+      },
+      {
+        "filename": "01.01.2025-31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/OYAKC/1567718_01.01.2025-31.12.2025 Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc3d163f01a56"
+      },
+      {
+        "filename": "01.01.2025-31.12.2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/OYAKC/1567718_01.01.2025-31.12.2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cc3d163fc1a57"
+      }
+    ]
+  },
+  {
+    "index": 1567717,
+    "publish_datetime": "2026-03-06T19:20:10",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567717",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1567717_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567717"
+      },
+      {
+        "filename": "OYAK Cimento_2025 Yılı Olağan Genel Kurul Toplantı İlanı.pdf",
+        "local_path": "data/pdfs/OYAKC/1567717_OYAK Cimento_2025 Yılı Olağan Genel Kurul Toplantı İlanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc3e4ae9332c1"
+      },
+      {
+        "filename": "OYAK Cimento_2025 General Assembly Invitation.pdf",
+        "local_path": "data/pdfs/OYAKC/1567717_OYAK Cimento_2025 General Assembly Invitation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc3e4ae9a32c2"
+      },
+      {
+        "filename": "OYAK Cimento_2025 Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/OYAKC/1567717_OYAK Cimento_2025 Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc3e4aea132c3"
+      }
+    ]
+  },
+  {
+    "index": 1564200,
+    "publish_datetime": "2026-03-02T19:19:13",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 Yılı TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564200",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1564200_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564200"
+      },
+      {
+        "filename": "OYAK Cimento TSRS25 TR U30.pdf",
+        "local_path": "data/pdfs/OYAKC/1564200_OYAK Cimento TSRS25 TR U30.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cae6eeead623d"
+      },
+      {
+        "filename": "PDP Template_ENG v1.pdf",
+        "local_path": "data/pdfs/OYAKC/1564200_PDP Template_ENG v1.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cae6eeeb2623e"
+      }
+    ]
+  },
+  {
+    "index": 1563132,
+    "publish_datetime": "2026-02-27T20:34:44",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563132",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563132_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563132"
+      }
+    ]
+  },
+  {
+    "index": 1563043,
+    "publish_datetime": "2026-02-27T19:38:32",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 Yılı TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563043",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563043_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563043"
+      },
+      {
+        "filename": "OYAK Cimento TSRS25 TR U30.pdf",
+        "local_path": "data/pdfs/OYAKC/1563043_OYAK Cimento TSRS25 TR U30.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9fb93ecb76b6"
+      }
+    ]
+  },
+  {
+    "index": 1563040,
+    "publish_datetime": "2026-02-27T19:37:56",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563040",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563040_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563040"
+      }
+    ]
+  },
+  {
+    "index": 1563037,
+    "publish_datetime": "2026-02-27T19:37:21",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563037",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563037_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563037"
+      }
+    ]
+  },
+  {
+    "index": 1563033,
+    "publish_datetime": "2026-02-27T19:34:23",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563033",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563033_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563033"
+      }
+    ]
+  },
+  {
+    "index": 1563032,
+    "publish_datetime": "2026-02-27T19:33:25",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.12.2025 Tarihli Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563032",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563032_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563032"
+      },
+      {
+        "filename": "2025 Finansal Sonuc Bilgilendirme Bülteni_TR.pdf",
+        "local_path": "data/pdfs/OYAKC/1563032_2025 Finansal Sonuc Bilgilendirme Bülteni_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019c9fc87fdd0fc9"
+      },
+      {
+        "filename": "2025 Financial Results Earnings Release_ENG.pdf",
+        "local_path": "data/pdfs/OYAKC/1563032_2025 Financial Results Earnings Release_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019c9fc87fe30fca"
+      }
+    ]
+  },
+  {
+    "index": 1563030,
+    "publish_datetime": "2026-02-27T19:32:15",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "1 Ocak - 31 Aralık 2025 Dönemine İlişkin Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563030",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563030_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563030"
+      }
+    ]
+  },
+  {
+    "index": 1563029,
+    "publish_datetime": "2026-02-27T19:31:50",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "1 Ocak - 31 Aralık 2025 Dönemine Ait Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563029",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563029"
+      },
+      {
+        "filename": "31.12.2025 OYAK Çimento Board of Directors Report.pdf",
+        "local_path": "data/pdfs/OYAKC/1563029_31.12.2025 OYAK Çimento Board of Directors Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019c9fe679461426"
+      },
+      {
+        "filename": "31.12.2025 OYAK Çimento Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/OYAKC/1563029_31.12.2025 OYAK Çimento Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019c9fe6792a1425"
+      }
+    ]
+  },
+  {
+    "index": 1563017,
+    "publish_datetime": "2026-02-27T19:19:11",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563017",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1563017_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563017"
+      },
+      {
+        "filename": "OYAK Çimento Fabrikaları A.Ş.- 31.12.2025 - SPK Rapor (TR).pdf",
+        "local_path": "data/pdfs/OYAKC/1563017_OYAK Çimento Fabrikaları A.Ş.- 31.12.2025 - SPK Rapor (TR).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9fbb16a77740"
+      },
+      {
+        "filename": "OYAK Çimento Fabrikaları A.Ş.- 31.12.2025 - SPK Rapor (ENG).pdf",
+        "local_path": "data/pdfs/OYAKC/1563017_OYAK Çimento Fabrikaları A.Ş.- 31.12.2025 - SPK Rapor (ENG).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9fbb16da7741"
+      }
+    ]
+  },
+  {
+    "index": 1558990,
+    "publish_datetime": "2026-02-19T14:43:14",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "OYAKC.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558990",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1558990_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558990"
+      }
+    ]
+  },
+  {
+    "index": 1557533,
+    "publish_datetime": "2026-02-17T17:35:32",
+    "company_name": "OYAK ÇİMENTO FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "OYAKC"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "01.01.2025-31.12.2025 dönemine ait Geçici Vergi Beyannamesi ekinde verilen Gelir Tablosu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557533",
+    "ticker": "OYAKC",
+    "company_oid": "33E5FED7040300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f32377aa016c",
+    "kap_company_code": "1019",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/OYAKC/1557533_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557533"
+      },
+      {
+        "filename": "31.12.2025 Gelir Tablosu TR.pdf",
+        "local_path": "data/pdfs/OYAKC/1557533_31.12.2025 Gelir Tablosu TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6bcfc9f56979"
+      },
+      {
+        "filename": "31.12.2025 Gelir Tablosu EN.pdf",
+        "local_path": "data/pdfs/OYAKC/1557533_31.12.2025 Gelir Tablosu EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6bcfc9ff697a"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "index": 1608342,
+    "publish_datetime": "2026-05-18T09:46:42",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608342",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1607901,
+    "publish_datetime": "2026-05-15T15:58:15",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Pay Başına Düşen Temettü Tutarının Güncellenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607901",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025_v2.pdf",
+        "local_path": "data/pdfs/BIMAS/1607901_EK_Kar_Dagitim_Tablosu_2025_v2.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2ba014ad2035"
+      },
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025 ENG_v2.pdf",
+        "local_path": "data/pdfs/BIMAS/1607901_EK_Kar_Dagitim_Tablosu_2025 ENG_v2.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2ba014b22036"
+      }
+    ]
+  },
+  {
+    "index": 1607612,
+    "publish_datetime": "2026-05-15T09:12:21",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ADEL",
+      "BAGFS",
+      "BIMAS",
+      "DHI",
+      "DSTKF",
+      "GSDHO",
+      "IAS",
+      "IZFAS",
+      "MAC",
+      "MMCAS",
+      "PASEU",
+      "PDC",
+      "PRY",
+      "SASA",
+      "TP2",
+      "TRILC"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607612",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "14052026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/BIMAS/1607612_14052026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2a2fb9a5063b"
+      }
+    ]
+  },
+  {
+    "index": 1607080,
+    "publish_datetime": "2026-05-14T09:10:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS",
+      "EGPRO"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607080",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1607016,
+    "publish_datetime": "2026-05-13T18:39:04",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "VİOP Özsermaye Hali Duyuruları",
+    "summary": "VİOP ÖZSERMAYE HALİ DUYURUSU HK. (BIMAS)",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607016",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BIMAS_Özsermaye Hali Duyurusu_Corporate Action Notice.pdf",
+        "local_path": "data/pdfs/BIMAS/1607016_BIMAS_Özsermaye Hali Duyurusu_Corporate Action Notice.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e21faaa556d64"
+      }
+    ]
+  },
+  {
+    "index": 1606865,
+    "publish_datetime": "2026-05-13T16:55:01",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS",
+      "EGPRO"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606865",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1606642,
+    "publish_datetime": "2026-05-13T12:03:57",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Bedelsiz Pay Alma Hakkı Kullanım Başlangıç Tarihi Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606642",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SPK Onaylı İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/BIMAS/1606642_SPK Onaylı İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e207011ce31a8"
+      },
+      {
+        "filename": "SPK Onaylı Esas Sözleşme Tadili.pdf",
+        "local_path": "data/pdfs/BIMAS/1606642_SPK Onaylı Esas Sözleşme Tadili.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e2070167531a9"
+      }
+    ]
+  },
+  {
+    "index": 1606436,
+    "publish_datetime": "2026-05-12T18:16:54",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Bedelsiz Sermaye Artırımına İlişkin SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606436",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SPK Onaylı İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/BIMAS/1606436_SPK Onaylı İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1cbc0422063e"
+      },
+      {
+        "filename": "SPK Onaylı Esas Sözleşme Tadili.pdf",
+        "local_path": "data/pdfs/BIMAS/1606436_SPK Onaylı Esas Sözleşme Tadili.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1cbc086e063f"
+      }
+    ]
+  },
+  {
+    "index": 1605803,
+    "publish_datetime": "2026-05-11T22:40:10",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31 Mart 2026 Yatırımcı Sunumu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605803",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1605797,
+    "publish_datetime": "2026-05-11T22:35:19",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605797",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1605796,
+    "publish_datetime": "2026-05-11T22:35:02",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605796",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1605796_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605796"
+      }
+    ]
+  },
+  {
+    "index": 1605795,
+    "publish_datetime": "2026-05-11T22:34:46",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605795",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1605795_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605795"
+      },
+      {
+        "filename": "Faaliyet Raporu 31.03.2026.pdf",
+        "local_path": "data/pdfs/BIMAS/1605795_Faaliyet Raporu 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e18833c9d01cd"
+      }
+    ]
+  },
+  {
+    "index": 1605794,
+    "publish_datetime": "2026-05-11T22:34:33",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605794",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1605794_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605794"
+      },
+      {
+        "filename": "BIM - 31.03.2026 TR.pdf",
+        "local_path": "data/pdfs/BIMAS/1605794_BIM - 31.03.2026 TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e187e27260135"
+      },
+      {
+        "filename": "BIM - 31.03.2026 ENG.pdf",
+        "local_path": "data/pdfs/BIMAS/1605794_BIM - 31.03.2026 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e187e27430136"
+      }
+    ]
+  },
+  {
+    "index": 1604304,
+    "publish_datetime": "2026-05-11T12:22:00",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604304",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1604304_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604304"
+      }
+    ]
+  },
+  {
+    "index": 1601470,
+    "publish_datetime": "2026-05-05T21:37:32",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımına İlişkin Genel Kurul Kararı\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601470",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1601470_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601470"
+      },
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025.pdf",
+        "local_path": "data/pdfs/BIMAS/1601470_EK_Kar_Dagitim_Tablosu_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df9660f6e0e89"
+      },
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025 ENG.pdf",
+        "local_path": "data/pdfs/BIMAS/1601470_EK_Kar_Dagitim_Tablosu_2025 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df9660f920e8a"
+      }
+    ]
+  },
+  {
+    "index": 1601466,
+    "publish_datetime": "2026-05-05T21:20:14",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601466",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1601466_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601466"
+      },
+      {
+        "filename": "Genel Kurul Toplantı Tutanağı.pdf",
+        "local_path": "data/pdfs/BIMAS/1601466_Genel Kurul Toplantı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8cfc960141c"
+      },
+      {
+        "filename": "Hazirun_KAP.pdf",
+        "local_path": "data/pdfs/BIMAS/1601466_Hazirun_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8cfc981141d"
+      },
+      {
+        "filename": "Minutes of General Assembly.pdf",
+        "local_path": "data/pdfs/BIMAS/1601466_Minutes of General Assembly.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df8cfc989141e"
+      }
+    ]
+  },
+  {
+    "index": 1601465,
+    "publish_datetime": "2026-05-05T21:19:57",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601465",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1601465_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601465"
+      }
+    ]
+  },
+  {
+    "index": 1587326,
+    "publish_datetime": "2026-04-07T22:14:03",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587326",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1587326_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587326"
+      }
+    ]
+  },
+  {
+    "index": 1587325,
+    "publish_datetime": "2026-04-07T22:13:26",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağımsız Yönetim Kurulu Üye Adayları, Özgeçmişleri ve Bağımsızlık Beyanları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587325",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1587325_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587325"
+      },
+      {
+        "filename": "Bağımsız Üye Özgeçmişleri.pdf",
+        "local_path": "data/pdfs/BIMAS/1587325_Bağımsız Üye Özgeçmişleri.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d1f0238c14b57"
+      },
+      {
+        "filename": "Resumes of Independent BoD Candidates.pdf",
+        "local_path": "data/pdfs/BIMAS/1587325_Resumes of Independent BoD Candidates.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d1f0238c64b58"
+      },
+      {
+        "filename": "Bağımsızlık Beyanları.pdf",
+        "local_path": "data/pdfs/BIMAS/1587325_Bağımsızlık Beyanları.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d1f0238cb4b59"
+      }
+    ]
+  },
+  {
+    "index": 1587324,
+    "publish_datetime": "2026-04-07T22:12:43",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587324",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1587324_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587324"
+      }
+    ]
+  },
+  {
+    "index": 1587323,
+    "publish_datetime": "2026-04-07T22:12:31",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Karının Dağıtımı Hakkında Yönetim Kurulu Tavsiye Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587323",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1587323_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587323"
+      },
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025.pdf",
+        "local_path": "data/pdfs/BIMAS/1587323_EK_Kar_Dagitim_Tablosu_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d691b8a565b50"
+      },
+      {
+        "filename": "EK_Kar_Dagitim_Tablosu_2025 ENG.pdf",
+        "local_path": "data/pdfs/BIMAS/1587323_EK_Kar_Dagitim_Tablosu_2025 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d691b8a5c5b51"
+      }
+    ]
+  },
+  {
+    "index": 1587322,
+    "publish_datetime": "2026-04-07T22:11:42",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Çağrısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587322",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1587322_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587322"
+      },
+      {
+        "filename": "Genel Kurul Bilgilendirme Dökümanı_2025.pdf",
+        "local_path": "data/pdfs/BIMAS/1587322_Genel Kurul Bilgilendirme Dökümanı_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d692fe63a5dad"
+      },
+      {
+        "filename": "2025 Yılı Olağan Genel Kurul Daveti ve Gündem Maddeleri ve Vekaletname.pdf",
+        "local_path": "data/pdfs/BIMAS/1587322_2025 Yılı Olağan Genel Kurul Daveti ve Gündem Maddeleri ve Vekaletname.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d692fe6525dae"
+      },
+      {
+        "filename": "General Assembly Information Note_2025.pdf",
+        "local_path": "data/pdfs/BIMAS/1587322_General Assembly Information Note_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d692fe66c5daf"
+      }
+    ]
+  },
+  {
+    "index": 1576224,
+    "publish_datetime": "2026-03-26T14:48:47",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576224",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1576224_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576224"
+      },
+      {
+        "filename": "BIMAS_55216.pdf",
+        "local_path": "data/pdfs/BIMAS/1576224_BIMAS_55216.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d29f7c7856b19"
+      }
+    ]
+  },
+  {
+    "index": 1570161,
+    "publish_datetime": "2026-03-11T01:09:21",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570161",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570161_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570161"
+      }
+    ]
+  },
+  {
+    "index": 1570160,
+    "publish_datetime": "2026-03-11T01:09:11",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570160",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570160_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570160"
+      }
+    ]
+  },
+  {
+    "index": 1570159,
+    "publish_datetime": "2026-03-11T01:09:00",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yılı Yatırımcı Sunumu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570159",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570159_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570159"
+      }
+    ]
+  },
+  {
+    "index": 1570158,
+    "publish_datetime": "2026-03-11T01:08:46",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Yılı Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570158",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570158_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570158"
+      }
+    ]
+  },
+  {
+    "index": 1570157,
+    "publish_datetime": "2026-03-11T01:08:32",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Yılı Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570157",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570157_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570157"
+      }
+    ]
+  },
+  {
+    "index": 1570155,
+    "publish_datetime": "2026-03-11T01:07:04",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Yılı Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570155",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570155_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570155"
+      }
+    ]
+  },
+  {
+    "index": 1570154,
+    "publish_datetime": "2026-03-11T01:06:50",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "İlişkili Taraf İşlemleri Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570154",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570154_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570154"
+      }
+    ]
+  },
+  {
+    "index": 1570153,
+    "publish_datetime": "2026-03-11T01:06:31",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Yılı Beklentileri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570153",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570153_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570153"
+      }
+    ]
+  },
+  {
+    "index": 1570152,
+    "publish_datetime": "2026-03-11T01:06:11",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570152",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570152_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570152"
+      }
+    ]
+  },
+  {
+    "index": 1570151,
+    "publish_datetime": "2026-03-11T01:05:59",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570151",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570151_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570151"
+      },
+      {
+        "filename": "2025 Yılı Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/BIMAS/1570151_2025 Yılı Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd9a1cff23f06"
+      }
+    ]
+  },
+  {
+    "index": 1570150,
+    "publish_datetime": "2026-03-11T01:05:45",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570150",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1570150_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570150"
+      },
+      {
+        "filename": "BIM - 31.12.2025 TR.pdf",
+        "local_path": "data/pdfs/BIMAS/1570150_BIM - 31.12.2025 TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd9a7d82e3f56"
+      },
+      {
+        "filename": "BIM - 31.12.2025 ENG.pdf",
+        "local_path": "data/pdfs/BIMAS/1570150_BIM - 31.12.2025 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd9a7d83a3f57"
+      }
+    ]
+  },
+  {
+    "index": 1561911,
+    "publish_datetime": "2026-02-26T16:41:07",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "VİOP İşlem İptali Duyuruları",
+    "summary": "VİOP İşlem İptali Duyuruları",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561911",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1561911_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561911"
+      }
+    ]
+  },
+  {
+    "index": 1561152,
+    "publish_datetime": "2026-02-25T00:15:20",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Tadili SPK Başvurusu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561152",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1561152_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561152"
+      },
+      {
+        "filename": "BİM Anasözleşme Tadil Tasarısı.pdf",
+        "local_path": "data/pdfs/BIMAS/1561152_BİM Anasözleşme Tadil Tasarısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c90d3d5f80a74"
+      },
+      {
+        "filename": "BİM Articles of Association Amendments.pdf",
+        "local_path": "data/pdfs/BIMAS/1561152_BİM Articles of Association Amendments.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c90d3d5fc0a75"
+      }
+    ]
+  },
+  {
+    "index": 1561151,
+    "publish_datetime": "2026-02-25T00:15:08",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "İç Kaynaklardan Bedelsiz Sermaye Artırımı Kapsamında SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561151",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1561151_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561151"
+      },
+      {
+        "filename": "BİM Anasözleşme Tadil Tasarısı.pdf",
+        "local_path": "data/pdfs/BIMAS/1561151_BİM Anasözleşme Tadil Tasarısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c90c4809f0999"
+      },
+      {
+        "filename": "BİM Articles of Association Amendments.pdf",
+        "local_path": "data/pdfs/BIMAS/1561151_BİM Articles of Association Amendments.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c90c480ab099a"
+      }
+    ]
+  },
+  {
+    "index": 1560077,
+    "publish_datetime": "2026-02-20T23:21:01",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560077",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1560077_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560077"
+      }
+    ]
+  },
+  {
+    "index": 1560076,
+    "publish_datetime": "2026-02-20T23:20:36",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Bedelsiz sermaye artırımına ilişkin esas sözleşme tadil tasarısı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560076",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1560076_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560076"
+      },
+      {
+        "filename": "BİM Anasözleşme Tadil Tasarısı.pdf",
+        "local_path": "data/pdfs/BIMAS/1560076_BİM Anasözleşme Tadil Tasarısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c7b304474495e"
+      },
+      {
+        "filename": "BİM Articles of Association Amendments.pdf",
+        "local_path": "data/pdfs/BIMAS/1560076_BİM Articles of Association Amendments.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c7b30447a495f"
+      }
+    ]
+  },
+  {
+    "index": 1560075,
+    "publish_datetime": "2026-02-20T23:20:24",
+    "company_name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BIMAS"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "İç Kaynaklardan Bedelsiz Sermaye Artırımına ilişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560075",
+    "ticker": "BIMAS",
+    "company_oid": "33E5FED7053F00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95be70140ee1b7b030119",
+    "kap_company_code": "1406",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/BIMAS/1560075_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560075"
+      },
+      {
+        "filename": "BİM Anasözleşme Tadil Tasarısı.pdf",
+        "local_path": "data/pdfs/BIMAS/1560075_BİM Anasözleşme Tadil Tasarısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c7b45729c6789"
+      },
+      {
+        "filename": "BİM Articles of Association Amendments.pdf",
+        "local_path": "data/pdfs/BIMAS/1560075_BİM Articles of Association Amendments.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c7b4572a9678a"
+      }
+    ]
+  }
+]

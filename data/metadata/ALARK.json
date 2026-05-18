@@ -1,0 +1,1718 @@
+[
+  {
+    "index": 1605780,
+    "publish_datetime": "2026-05-11T22:12:17",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Alarko Enerji A.Ş. ve Cengiz Enerji Sanayii ve Ticaret A.Ş. Şirketleri arasında imzalanan ön protokol kapsamında Rekabet Kurumu İzni Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605780",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1605777,
+    "publish_datetime": "2026-05-11T22:11:36",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kar Payı Avansı Dağıtılmaması Hakkında Yönetim Kurulu Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605777",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1605773,
+    "publish_datetime": "2026-05-11T22:10:48",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Alarko Holding A.Ş. 31.03.2026 Tarihli Sorumluluk Beyanı\n",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605773",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ALARK-Beyan-Kons-31.03.2026.pdf",
+        "local_path": "data/pdfs/ALARK/1605773_ALARK-Beyan-Kons-31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e16cfc46173bf"
+      },
+      {
+        "filename": "Job 20430_ALARK-Beyan-Kons-31 03 2026.pdf",
+        "local_path": "data/pdfs/ALARK/1605773_Job 20430_ALARK-Beyan-Kons-31 03 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e16cfc4a873c0"
+      }
+    ]
+  },
+  {
+    "index": 1605771,
+    "publish_datetime": "2026-05-11T22:10:33",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Alarko Holding A.Ş. 31.03.2026 Tarihli Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605771",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ALARK-Kons-YKfaaliyet-Mart 2026.pdf",
+        "local_path": "data/pdfs/ALARK/1605771_ALARK-Kons-YKfaaliyet-Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e183fccf31859"
+      }
+    ]
+  },
+  {
+    "index": 1605770,
+    "publish_datetime": "2026-05-11T22:10:14",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605770",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ALARKO HOLDING - 31.03.2026 - SPK - TR.pdf",
+        "local_path": "data/pdfs/ALARK/1605770_ALARKO HOLDING - 31.03.2026 - SPK - TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1857b2a16a5c"
+      }
+    ]
+  },
+  {
+    "index": 1601903,
+    "publish_datetime": "2026-05-06T17:33:16",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "EGGUB",
+      "KFEIN"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601903",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601361,
+    "publish_datetime": "2026-05-05T18:35:34",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Sınırlı Hisse Edindirme Prim Planı Çerçevesinde Hisse Devri.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601361",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1600207,
+    "publish_datetime": "2026-05-04T09:02:52",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "EGGUB",
+      "KFEIN"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600207",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1599417,
+    "publish_datetime": "2026-04-30T16:50:30",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "EGGUB",
+      "KFEIN"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599417",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1599245,
+    "publish_datetime": "2026-04-30T13:24:55",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599245",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1599110,
+    "publish_datetime": "2026-04-30T09:05:36",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "AVHOL",
+      "BURCE",
+      "BURVA",
+      "OHI",
+      "OZATD",
+      "SMRVA",
+      "TLY",
+      "TRILC"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599110",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "29042026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/ALARK/1599110_29042026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019ddce5465311c9"
+      }
+    ]
+  },
+  {
+    "index": 1598915,
+    "publish_datetime": "2026-04-29T18:25:27",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Pay başına düşen temettü tutarının güncellenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598915",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Kar Dağıtım Tablosu 2025 Revize.pdf",
+        "local_path": "data/pdfs/ALARK/1598915_Kar Dağıtım Tablosu 2025 Revize.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd933b0f6730f"
+      },
+      {
+        "filename": "Dividend Distribution Table 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1598915_Dividend Distribution Table 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd933b0fc7310"
+      }
+    ]
+  },
+  {
+    "index": 1598777,
+    "publish_datetime": "2026-04-29T17:34:39",
+    "company_name": "ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALGYO"
+    ],
+    "subject": "Finansal Duran Varlık Satışı",
+    "summary": "Bağlı Ortaklığımız Mosalarko OJSC Şirketindeki Paylarımızın Satılması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598777",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1598777_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598777"
+      }
+    ]
+  },
+  {
+    "index": 1598770,
+    "publish_datetime": "2026-04-29T17:31:44",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598770",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1598770_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598770"
+      }
+    ]
+  },
+  {
+    "index": 1598355,
+    "publish_datetime": "2026-04-28T18:49:16",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Esas Sözleşme",
+    "summary": "Esas Sözleşme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598355",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1598355_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598355"
+      },
+      {
+        "filename": "Alarko Holding Esas Sözleşme Metni.pdf",
+        "local_path": "data/pdfs/ALARK/1598355_Alarko Holding Esas Sözleşme Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd4c40fbc4577"
+      },
+      {
+        "filename": "Alarko Holding ARTICLES OF ASSOCIATION.pdf",
+        "local_path": "data/pdfs/ALARK/1598355_Alarko Holding ARTICLES OF ASSOCIATION.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd4c40fc64578"
+      }
+    ]
+  },
+  {
+    "index": 1598186,
+    "publish_datetime": "2026-04-28T16:50:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özsermaye Hallerine İlişkin Borsa Duyurusu",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598186",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1598186_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598186"
+      }
+    ]
+  },
+  {
+    "index": 1597777,
+    "publish_datetime": "2026-04-27T18:38:25",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597777",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1597777_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597777"
+      }
+    ]
+  },
+  {
+    "index": 1597775,
+    "publish_datetime": "2026-04-27T18:38:16",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 Yılı için Seçilen Bağımsız Denetim Şirketinin Tescili.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597775",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1597775_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597775"
+      }
+    ]
+  },
+  {
+    "index": 1597774,
+    "publish_datetime": "2026-04-27T18:38:05",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Diğer Pay İhracı - İptaline İlişkin Bildirim",
+    "summary": "Sermaye Azaltımı İşlemlerinin Gerçekleştirilme Tarihinin Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597774",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1597774_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597774"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/ALARK/1597774_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dcf9566ac7347"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni - İngilizce.pdf",
+        "local_path": "data/pdfs/ALARK/1597774_Esas Sözleşme Tadil Metni - İngilizce.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dcf9566b47348"
+      }
+    ]
+  },
+  {
+    "index": 1597768,
+    "publish_datetime": "2026-04-27T18:35:03",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597768",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1597768_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597768"
+      },
+      {
+        "filename": "hazirun_1040171_13.04.2026_.pdf",
+        "local_path": "data/pdfs/ALARK/1597768_hazirun_1040171_13.04.2026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dcefaf3466cbc"
+      },
+      {
+        "filename": "Holding Tutanak.pdf",
+        "local_path": "data/pdfs/ALARK/1597768_Holding Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dcefaf3506cbd"
+      },
+      {
+        "filename": "Holding - Meeting minutes.pdf",
+        "local_path": "data/pdfs/ALARK/1597768_Holding - Meeting minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dcefaf3596cbe"
+      }
+    ]
+  },
+  {
+    "index": 1592464,
+    "publish_datetime": "2026-04-13T19:17:59",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Belirlenen Bağımsız Denetim Şirketinin Genel Kurul'ca Onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592464",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1592464_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592464"
+      }
+    ]
+  },
+  {
+    "index": 1592463,
+    "publish_datetime": "2026-04-13T19:17:33",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Diğer Pay İhracı - İptaline İlişkin Bildirim",
+    "summary": "Sermaye Azaltımı İşleminin Olağan Genel Kurul Tarafından Onaylanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592463",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1592463_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592463"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/ALARK/1592463_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d879d25b039d7"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni - İngilizce.pdf",
+        "local_path": "data/pdfs/ALARK/1592463_Esas Sözleşme Tadil Metni - İngilizce.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d879d25b539d8"
+      }
+    ]
+  },
+  {
+    "index": 1592462,
+    "publish_datetime": "2026-04-13T19:17:22",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Nakit Kar Payı Ödeme Tarihi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592462",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1592462_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592462"
+      },
+      {
+        "filename": "Dividend Distribution Table- 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1592462_Dividend Distribution Table- 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d879aac7d4098"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1592462_Kar Dağıtım Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d879aaca84099"
+      }
+    ]
+  },
+  {
+    "index": 1592415,
+    "publish_datetime": "2026-04-13T19:06:49",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "13.04.2026 Tarihli Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592415",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1592415_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592415"
+      },
+      {
+        "filename": "hazirun_1040171_13.04.2026_.pdf",
+        "local_path": "data/pdfs/ALARK/1592415_hazirun_1040171_13.04.2026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d8790b5103987"
+      },
+      {
+        "filename": "Holding Tutanak.pdf",
+        "local_path": "data/pdfs/ALARK/1592415_Holding Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d8790b51a3988"
+      },
+      {
+        "filename": "Holding - Meeting minutes.pdf",
+        "local_path": "data/pdfs/ALARK/1592415_Holding - Meeting minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d8790b5223989"
+      }
+    ]
+  },
+  {
+    "index": 1583712,
+    "publish_datetime": "2026-04-03T16:51:36",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Yönetim Kurulu'nun Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583712",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1583712_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583712"
+      }
+    ]
+  },
+  {
+    "index": 1576781,
+    "publish_datetime": "2026-03-26T19:25:25",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağlı Ortaklığımız Alen Alarko Enerji Ticaret A.Ş.'nin Müstakil Elektrik Depolama Tesisi Kurulumu İçin Lisans Tadil Başvurusu Hakkında Güncelleme",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576781",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1576781_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576781"
+      }
+    ]
+  },
+  {
+    "index": 1574886,
+    "publish_datetime": "2026-03-23T20:13:37",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağlı Ortaklığımız Alsim Alarko Sanayi Tesisleri ve Ticaret A.Ş.'nin Finansal Duran Varlık Edinimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574886",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1574886_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574886"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/ALARK/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/ALARK/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1573700,
+    "publish_datetime": "2026-03-18T09:02:44",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "ALGYO",
+      "MANAS",
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573700",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1573700_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573700"
+      },
+      {
+        "filename": "17032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/ALARK/1573700_17032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cff825a8657cc"
+      }
+    ]
+  },
+  {
+    "index": 1573180,
+    "publish_datetime": "2026-03-16T18:27:42",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573180",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1573180_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573180"
+      },
+      {
+        "filename": "Dividend Distribution Table- 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1573180_Dividend Distribution Table- 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cf73fa10917e9"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1573180_Kar Dağıtım Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cf73fa13a17ea"
+      }
+    ]
+  },
+  {
+    "index": 1573173,
+    "publish_datetime": "2026-03-16T18:20:17",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Yıllık Olağan Genel Kurul Yapılmasına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573173",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1573173_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573173"
+      },
+      {
+        "filename": "Holding - İlan Metni.pdf",
+        "local_path": "data/pdfs/ALARK/1573173_Holding - İlan Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf678f1da5f8d"
+      },
+      {
+        "filename": "İnformation Documents.pdf",
+        "local_path": "data/pdfs/ALARK/1573173_İnformation Documents.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf678f1e05f8e"
+      },
+      {
+        "filename": "Genel Kurul Bilgilendirme Dökümanı_2025.pdf",
+        "local_path": "data/pdfs/ALARK/1573173_Genel Kurul Bilgilendirme Dökümanı_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf678f1ef5f8f"
+      }
+    ]
+  },
+  {
+    "index": 1573149,
+    "publish_datetime": "2026-03-16T18:13:20",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK",
+      "ALGYO"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573149",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1573149_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573149"
+      }
+    ]
+  },
+  {
+    "index": 1572382,
+    "publish_datetime": "2026-03-13T16:17:19",
+    "company_name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ISMEN",
+      "IYM"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "Alarko Gayrimenkul Yatırım Ortaklığı A.Ş. (ALGYO) Toptan Alış Satış İşlem Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572382",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1572382_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572382"
+      },
+      {
+        "filename": "ALGYO Toptan Alış Satış İşlem Bildirimi.pdf",
+        "local_path": "data/pdfs/ALARK/1572382_ALGYO Toptan Alış Satış İşlem Bildirimi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce752fda471b9"
+      }
+    ]
+  },
+  {
+    "index": 1572163,
+    "publish_datetime": "2026-03-13T09:28:40",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Alarko Gayrimenkul Yatırım Ortaklığı A.Ş. Paylarının Satın Alınması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572163",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1572163_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572163"
+      }
+    ]
+  },
+  {
+    "index": 1571046,
+    "publish_datetime": "2026-03-11T21:12:50",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Yılı Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571046",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1571046_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571046"
+      }
+    ]
+  },
+  {
+    "index": 1571045,
+    "publish_datetime": "2026-03-11T21:12:37",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 YILI KURUMSAL YÖNETİM BİLGİ FORMU ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571045",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1571045_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571045"
+      }
+    ]
+  },
+  {
+    "index": 1571040,
+    "publish_datetime": "2026-03-11T21:11:10",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 YILI KURUMSAL YÖNETİM UYUM RAPORU\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571040",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1571040_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571040"
+      }
+    ]
+  },
+  {
+    "index": 1571039,
+    "publish_datetime": "2026-03-11T21:10:59",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Alarko Holding A.Ş. 31.12.2025 Tarihli Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571039",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1571039_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571039"
+      },
+      {
+        "filename": "ALARK-Beyan-Kons-31 12 2025 Eng - Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ALARK/1571039_ALARK-Beyan-Kons-31 12 2025 Eng - Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cdcccc1aa1ecd"
+      },
+      {
+        "filename": "ALARK-Beyan-Kons-31 12 2025 - Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ALARK/1571039_ALARK-Beyan-Kons-31 12 2025 - Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cdcccc1b01ece"
+      }
+    ]
+  },
+  {
+    "index": 1571037,
+    "publish_datetime": "2026-03-11T21:10:49",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Alarko Holding A.Ş. 31.12.2025 Tarihli Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571037",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1571037_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571037"
+      },
+      {
+        "filename": "ALARK_2025 YILI FAALİYET RAPORU.pdf",
+        "local_path": "data/pdfs/ALARK/1571037_ALARK_2025 YILI FAALİYET RAPORU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cddddb0b47654"
+      }
+    ]
+  },
+  {
+    "index": 1570172,
+    "publish_datetime": "2026-03-11T04:06:26",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570172",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1570172_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570172"
+      }
+    ]
+  },
+  {
+    "index": 1570171,
+    "publish_datetime": "2026-03-11T04:06:13",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Alarko Holding A.Ş. 31.12.2025 Tarihli Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570171",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1570171_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570171"
+      },
+      {
+        "filename": "ALARK-Beyan-Kons-31 12 2025.pdf",
+        "local_path": "data/pdfs/ALARK/1570171_ALARK-Beyan-Kons-31 12 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd8bda785680b"
+      },
+      {
+        "filename": "ALARK-Beyan-Kons-31 12 2025 Eng.pdf",
+        "local_path": "data/pdfs/ALARK/1570171_ALARK-Beyan-Kons-31 12 2025 Eng.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd8bda78a680c"
+      }
+    ]
+  },
+  {
+    "index": 1570170,
+    "publish_datetime": "2026-03-11T04:06:01",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570170",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1570170_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570170"
+      },
+      {
+        "filename": "ALARKO HOLDING - 31.12.2025 - SPK - TR Final.pdf",
+        "local_path": "data/pdfs/ALARK/1570170_ALARKO HOLDING - 31.12.2025 - SPK - TR Final.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019cda60e97900bc"
+      }
+    ]
+  },
+  {
+    "index": 1564073,
+    "publish_datetime": "2026-03-02T18:35:32",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağımsız Yönetim Kurulu Üyesi Adaylarının SPK Uygunluk Onayı Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564073",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1564073_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564073"
+      },
+      {
+        "filename": "Bağımsızlık Beyanı - eng.pdf",
+        "local_path": "data/pdfs/ALARK/1564073_Bağımsızlık Beyanı - eng.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019caeccdb6b743a"
+      },
+      {
+        "filename": "Bağımsızlık Beyanı - tüm üyeler.pdf",
+        "local_path": "data/pdfs/ALARK/1564073_Bağımsızlık Beyanı - tüm üyeler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019caeccdb80743b"
+      },
+      {
+        "filename": "Bağımsız Üyeler Özgeçmiş.pdf",
+        "local_path": "data/pdfs/ALARK/1564073_Bağımsız Üyeler Özgeçmiş.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019caeccdb87743c"
+      }
+    ]
+  },
+  {
+    "index": 1561071,
+    "publish_datetime": "2026-02-24T18:50:43",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağlı Ortaklığımız Altek Alarko Elektrik Santralları Tesis İşletme ve Ticaret A.Ş.'nin Önlisans Başvurusu Sonucu Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561071",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1561071_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561071"
+      }
+    ]
+  },
+  {
+    "index": 1559907,
+    "publish_datetime": "2026-02-20T18:20:29",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Alarko Enerji A.Ş. ve Cengiz Enerji Sanayii ve Ticaret A.Ş. Şirketleri arasında imzalanan ön protokol kapsamında Rekabet Kurumu'na Başvuru",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559907",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1559907_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559907"
+      }
+    ]
+  },
+  {
+    "index": 1559008,
+    "publish_datetime": "2026-02-19T14:51:08",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ALARK.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559008",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1559008_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559008"
+      }
+    ]
+  },
+  {
+    "index": 1557470,
+    "publish_datetime": "2026-02-17T16:40:51",
+    "company_name": "ALARKO HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALARK"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "Herhangi Bir Otoriteye Mali Tablo Verilmesi ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557470",
+    "ticker": "ALARK",
+    "company_oid": "33E5FED7034B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241462fd80141500c738e36be",
+    "kap_company_code": "846",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ALARK/1557470_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557470"
+      },
+      {
+        "filename": "ALARK VUK GT 31.12.2025 ENG.pdf",
+        "local_path": "data/pdfs/ALARK/1557470_ALARK VUK GT 31.12.2025 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6bd0e1fa7d8c"
+      },
+      {
+        "filename": "ALARK VUK GT 31.12.2025.pdf",
+        "local_path": "data/pdfs/ALARK/1557470_ALARK VUK GT 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6bd0e1ff7d8d"
+      }
+    ]
+  }
+]

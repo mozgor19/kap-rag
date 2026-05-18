@@ -1,0 +1,965 @@
+[
+  {
+    "index": 1607072,
+    "publish_datetime": "2026-05-13T22:50:17",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607072",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607072_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607072"
+      }
+    ]
+  },
+  {
+    "index": 1607071,
+    "publish_datetime": "2026-05-13T22:24:16",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "2026 ASELSAN Kurumsal Yönetim Bilgi Formu-Güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607071",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607071_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607071"
+      }
+    ]
+  },
+  {
+    "index": 1607070,
+    "publish_datetime": "2026-05-13T22:16:13",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Komite Üyelerinin Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607070",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607070_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607070"
+      }
+    ]
+  },
+  {
+    "index": 1607069,
+    "publish_datetime": "2026-05-13T22:09:43",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu'nun Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607069",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607069_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607069"
+      }
+    ]
+  },
+  {
+    "index": 1607068,
+    "publish_datetime": "2026-05-13T22:02:16",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtım",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607068",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607068_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607068"
+      }
+    ]
+  },
+  {
+    "index": 1607065,
+    "publish_datetime": "2026-05-13T21:47:03",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Kararları",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607065",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607065_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607065"
+      },
+      {
+        "filename": "13.05.2026 ASELSAN Olağan Genel Kurul Toplantısı Tutanağı.pdf",
+        "local_path": "data/pdfs/ASELS/1607065_13.05.2026 ASELSAN Olağan Genel Kurul Toplantısı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e22a7248c11b2"
+      },
+      {
+        "filename": "13.05.2026 ASELSAN Ordinary General Assembly Meeting Minutes.pdf",
+        "local_path": "data/pdfs/ASELS/1607065_13.05.2026 ASELSAN Ordinary General Assembly Meeting Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e22a724b111b3"
+      },
+      {
+        "filename": "13.05.2026 ASELSAN Olağan Genel Kurul Toplantısı Katılanlar.pdf",
+        "local_path": "data/pdfs/ASELS/1607065_13.05.2026 ASELSAN Olağan Genel Kurul Toplantısı Katılanlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e22a724fa11b4"
+      }
+    ]
+  },
+  {
+    "index": 1607059,
+    "publish_datetime": "2026-05-13T21:14:44",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Genel Müdür Yardımcısı Ataması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607059",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1607059_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607059"
+      }
+    ]
+  },
+  {
+    "index": 1600707,
+    "publish_datetime": "2026-05-04T18:14:33",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Çağrısı/Bağımsız Yönetim Kurulu Aday Bilgisi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600707",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1600707_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600707"
+      },
+      {
+        "filename": "ASELSAN_2026_ORDINARY_GENERAL_ASSEMBLY_MEETING_ INFORMATIVE_DOCUMENTS.pdf",
+        "local_path": "data/pdfs/ASELS/1600707_ASELSAN_2026_ORDINARY_GENERAL_ASSEMBLY_MEETING_ INFORMATIVE_DOCUMENTS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df3275497107c"
+      },
+      {
+        "filename": "ASELSAN_2026_OLAGAN_GENEL_KURUL_BILGILENDIRME_DOKUMANI.pdf",
+        "local_path": "data/pdfs/ASELS/1600707_ASELSAN_2026_OLAGAN_GENEL_KURUL_BILGILENDIRME_DOKUMANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df32754b0107d"
+      }
+    ]
+  },
+  {
+    "index": 1599128,
+    "publish_datetime": "2026-04-30T09:21:17",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599128",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1599128_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599128"
+      }
+    ]
+  },
+  {
+    "index": 1598323,
+    "publish_datetime": "2026-04-28T18:32:45",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598323",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1598323_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598323"
+      }
+    ]
+  },
+  {
+    "index": 1598321,
+    "publish_datetime": "2026-04-28T18:32:04",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "28 Nisan 2026 Z-AS331-843.05.01-10727",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598321",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1598321_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598321"
+      }
+    ]
+  },
+  {
+    "index": 1598319,
+    "publish_datetime": "2026-04-28T18:31:52",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "28 Nisan 2026 1304 Sayılı Yönetim Kurulu Kararı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598319",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1598319_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598319"
+      },
+      {
+        "filename": "ASELSAN YK Faaliyet Raporu 31.03.2026.pdf",
+        "local_path": "data/pdfs/ASELS/1598319_ASELSAN YK Faaliyet Raporu 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dd43eeba47fbd"
+      },
+      {
+        "filename": "ASELSAN BOD Report 31.03.2026.pdf",
+        "local_path": "data/pdfs/ASELS/1598319_ASELSAN BOD Report 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dd43eebc57fbe"
+      }
+    ]
+  },
+  {
+    "index": 1598316,
+    "publish_datetime": "2026-04-28T18:31:38",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598316",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1598316_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598316"
+      },
+      {
+        "filename": "ASELSAN SPK RAPORU 31.03.2026.pdf",
+        "local_path": "data/pdfs/ASELS/1598316_ASELSAN SPK RAPORU 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd4491f673f25"
+      },
+      {
+        "filename": "ASELSAN CMB Report 31.03.2026.pdf",
+        "local_path": "data/pdfs/ASELS/1598316_ASELSAN CMB Report 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd4491f893f26"
+      }
+    ]
+  },
+  {
+    "index": 1596123,
+    "publish_datetime": "2026-04-21T16:30:00",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Sürdürülebilirlik Raporu",
+    "summary": "2025 Yılı TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596123",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1596123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596123"
+      },
+      {
+        "filename": "ASELSAN 2025 TSRS Raporu.pdf",
+        "local_path": "data/pdfs/ASELS/1596123_ASELSAN 2025 TSRS Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019db039e5744189"
+      }
+    ]
+  },
+  {
+    "index": 1594693,
+    "publish_datetime": "2026-04-17T14:34:39",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594693",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASELS/1594693_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594693"
+      }
+    ]
+  },
+  {
+    "index": 1594692,
+    "publish_datetime": "2026-04-17T14:34:29",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Çağrısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594692",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ASELSAN_2026_OLAGAN_GENEL_KURUL_BILGILENDIRME_DOKUMANI.pdf",
+        "local_path": "data/pdfs/ASELS/1594692_ASELSAN_2026_OLAGAN_GENEL_KURUL_BILGILENDIRME_DOKUMANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9b2694b64e89"
+      },
+      {
+        "filename": "ASELSAN_2026_ORDINARY_GENERAL_ASSEMBLY_MEETING_ INFORMATIVE_DOCUMENTS.pdf",
+        "local_path": "data/pdfs/ASELS/1594692_ASELSAN_2026_ORDINARY_GENERAL_ASSEMBLY_MEETING_ INFORMATIVE_DOCUMENTS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9b2694c54e8a"
+      }
+    ]
+  },
+  {
+    "index": 1592928,
+    "publish_datetime": "2026-04-14T13:14:52",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592928",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1576402,
+    "publish_datetime": "2026-03-26T16:53:17",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS",
+      "ISSEN",
+      "KAPLM",
+      "MEGMT",
+      "ORCAY",
+      "TUPRS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576402",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1575671,
+    "publish_datetime": "2026-03-25T17:16:55",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS",
+      "BTCIM",
+      "DAPGM",
+      "ISBIR",
+      "KCHOL",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575671",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572732,
+    "publish_datetime": "2026-03-16T08:59:32",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572732",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1564836,
+    "publish_datetime": "2026-03-03T11:41:04",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASELS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564836",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561062,
+    "publish_datetime": "2026-02-24T18:39:32",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561062",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561061,
+    "publish_datetime": "2026-02-24T18:39:16",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561061",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561060,
+    "publish_datetime": "2026-02-24T18:39:04",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkelerine Uyum Beyanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561060",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561059,
+    "publish_datetime": "2026-02-24T18:38:35",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 ASELSAN Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561059",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561057,
+    "publish_datetime": "2026-02-24T18:37:21",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 ASELSAN Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561057",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561055,
+    "publish_datetime": "2026-02-24T18:37:01",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "ASELSAN'ın Geleceğe Dönük Beklentileri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561055",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561040,
+    "publish_datetime": "2026-02-24T18:27:48",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "24 Şubat 2026 AS011-2026-0001",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561040",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561039,
+    "publish_datetime": "2026-02-24T18:27:36",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561039",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ASELSAN SPK RAPORU 31.12.2025.pdf",
+        "local_path": "data/pdfs/ASELS/1561039_ASELSAN SPK RAPORU 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9013a93861e2"
+      },
+      {
+        "filename": "ASELSAN CMB Report 31.12.2025.pdf",
+        "local_path": "data/pdfs/ASELS/1561039_ASELSAN CMB Report 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9013a9a161e3"
+      }
+    ]
+  },
+  {
+    "index": 1561038,
+    "publish_datetime": "2026-02-24T18:27:13",
+    "company_name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "24 Şubat 2026 1293 Sayılı Yönetim Kurulu Kararı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561038",
+    "ticker": "ASELS",
+    "company_oid": "33E5FED7036100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1413b7ef401413bc2251e0047",
+    "kap_company_code": "866",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "aselsan_yk_faaliyet_raporu_31.12.2025.pdf",
+        "local_path": "data/pdfs/ASELS/1561038_aselsan_yk_faaliyet_raporu_31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c902f2a8b64ff"
+      },
+      {
+        "filename": "aselsan_bod_report_31.12.2025.pdf",
+        "local_path": "data/pdfs/ASELS/1561038_aselsan_bod_report_31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c902f2acf6500"
+      }
+    ]
+  }
+]

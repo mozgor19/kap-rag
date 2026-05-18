@@ -1,0 +1,2055 @@
+[
+  {
+    "index": 1608462,
+    "publish_datetime": "2026-05-18T13:29:09",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608462",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1608462_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608462"
+      }
+    ]
+  },
+  {
+    "index": 1608271,
+    "publish_datetime": "2026-05-15T21:01:52",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Rekabet Kurumu İnceleme Sonucu Hk",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608271",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1608271_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608271"
+      }
+    ]
+  },
+  {
+    "index": 1606988,
+    "publish_datetime": "2026-05-13T18:20:58",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Genel Müdür Yardımcısı Ataması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606988",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606988_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606988"
+      }
+    ]
+  },
+  {
+    "index": 1606984,
+    "publish_datetime": "2026-05-13T18:20:12",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Yönetim Kurulu Komiteleri (Güncelleme)\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606984",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606984_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606984"
+      }
+    ]
+  },
+  {
+    "index": 1606982,
+    "publish_datetime": "2026-05-13T18:19:47",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606982",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606982_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606982"
+      }
+    ]
+  },
+  {
+    "index": 1606981,
+    "publish_datetime": "2026-05-13T18:19:32",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı İlişkileri Müdürü Ataması ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606981",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606981_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606981"
+      }
+    ]
+  },
+  {
+    "index": 1606567,
+    "publish_datetime": "2026-05-13T10:08:33",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606567",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606567_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606567"
+      }
+    ]
+  },
+  {
+    "index": 1606425,
+    "publish_datetime": "2026-05-12T18:14:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AHGAZ",
+      "ALTNY",
+      "ASTOR",
+      "AVOD",
+      "AZTEK",
+      "BIOEN",
+      "BORLS",
+      "BORSK",
+      "BRKO",
+      "CANTE",
+      "CVKMD",
+      "DMSAS",
+      "DOFRB",
+      "DUNYH",
+      "EGPRO",
+      "EKGYO",
+      "ESEN",
+      "FADE",
+      "GLBMD",
+      "GSRAY",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "KCAER",
+      "KENT",
+      "KOCMT",
+      "KOPOL",
+      "LXGYO",
+      "PATEK",
+      "PCILT",
+      "PENGD",
+      "PSGYO",
+      "SANFM",
+      "SASA",
+      "SEYKM",
+      "SISE",
+      "SKTAS",
+      "SOKM",
+      "SURGY",
+      "SUWEN",
+      "TKFEN",
+      "TSGYO",
+      "YKSLN"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606425",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1606425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606425"
+      }
+    ]
+  },
+  {
+    "index": 1605802,
+    "publish_datetime": "2026-05-11T22:38:31",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605802",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1605802_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605802"
+      },
+      {
+        "filename": "Astor TFRS BD Rapor - 31.03.2026 - ENG FİNAL.pdf",
+        "local_path": "data/pdfs/ASTOR/1605802_Astor TFRS BD Rapor - 31.03.2026 - ENG FİNAL.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1763c8981313"
+      },
+      {
+        "filename": "Astor TFRS BD Rapor - 31.03.2026 - TR FİNAL.pdf",
+        "local_path": "data/pdfs/ASTOR/1605802_Astor TFRS BD Rapor - 31.03.2026 - TR FİNAL.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e1763c74a1312"
+      }
+    ]
+  },
+  {
+    "index": 1605801,
+    "publish_datetime": "2026-05-11T22:37:57",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Yönetim Kurulu Faaliyet Raporu\n",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605801",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1605801_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605801"
+      },
+      {
+        "filename": "Astor_1_Ceyrek_Rapor_TR.pdf",
+        "local_path": "data/pdfs/ASTOR/1605801_Astor_1_Ceyrek_Rapor_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e188868751f55"
+      },
+      {
+        "filename": "Astor_1_Ceyrek_Rapor_ENG.pdf",
+        "local_path": "data/pdfs/ASTOR/1605801_Astor_1_Ceyrek_Rapor_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e18886b2d1f56"
+      }
+    ]
+  },
+  {
+    "index": 1605800,
+    "publish_datetime": "2026-05-11T22:37:32",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Yatırımcı Raporu",
+    "summary": "2026 Ç1 Yatırımcı Sunumu ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605800",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1605800_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605800"
+      },
+      {
+        "filename": "2026_ 1C_ YATIRIMCI_SUNUMU_VSN.pdf",
+        "local_path": "data/pdfs/ASTOR/1605800_2026_ 1C_ YATIRIMCI_SUNUMU_VSN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e183961ba4bb6"
+      },
+      {
+        "filename": "2026_1Q_Investor_Presentation_VSN.pdf",
+        "local_path": "data/pdfs/ASTOR/1605800_2026_1Q_Investor_Presentation_VSN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e183963184bb7"
+      }
+    ]
+  },
+  {
+    "index": 1605798,
+    "publish_datetime": "2026-05-11T22:36:50",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı\n",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605798",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1605798_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605798"
+      }
+    ]
+  },
+  {
+    "index": 1603687,
+    "publish_datetime": "2026-05-08T18:49:51",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603687",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1603687_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603687"
+      }
+    ]
+  },
+  {
+    "index": 1597903,
+    "publish_datetime": "2026-04-28T09:56:35",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Yeni İş İlişkisi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597903",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1597903_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597903"
+      }
+    ]
+  },
+  {
+    "index": 1595930,
+    "publish_datetime": "2026-04-21T12:03:18",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595930",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595930_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595930"
+      }
+    ]
+  },
+  {
+    "index": 1595884,
+    "publish_datetime": "2026-04-21T10:31:17",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ANELE",
+      "ASTOR",
+      "KONTR",
+      "MEKAG",
+      "SURGY"
+    ],
+    "subject": "Endekslerde Kullanılan Fiili Dolaşımdaki Pay Oranı Değişiklikleri",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595884",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595884_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595884"
+      }
+    ]
+  },
+  {
+    "index": 1595867,
+    "publish_datetime": "2026-04-21T09:59:03",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595867",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595867_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595867"
+      }
+    ]
+  },
+  {
+    "index": 1595825,
+    "publish_datetime": "2026-04-21T08:49:30",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ARZUM",
+      "ASTOR",
+      "SASA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595825",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595825"
+      },
+      {
+        "filename": "20042026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/ASTOR/1595825_20042026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dae9309e64332"
+      }
+    ]
+  },
+  {
+    "index": 1595823,
+    "publish_datetime": "2026-04-21T08:49:06",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595823",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595823_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595823"
+      },
+      {
+        "filename": "ASTOR_55356.pdf",
+        "local_path": "data/pdfs/ASTOR/1595823_ASTOR_55356.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dae92b7b343ac"
+      }
+    ]
+  },
+  {
+    "index": 1595734,
+    "publish_datetime": "2026-04-20T18:34:40",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595734",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1595734_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595734"
+      }
+    ]
+  },
+  {
+    "index": 1594977,
+    "publish_datetime": "2026-04-17T19:35:36",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR",
+      "AYGAZ",
+      "BRISA",
+      "CIMSA",
+      "EBEBK",
+      "ECILC",
+      "EGEEN",
+      "EMPAE",
+      "EREGL",
+      "ISDMR",
+      "KTLEV",
+      "LILAK",
+      "MCARD",
+      "SANFM",
+      "SELEC",
+      "SISE",
+      "TTRAK"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Temettü ve BIST Temettü 25 Endeksleri Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594977",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1594977_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594977"
+      },
+      {
+        "filename": "BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "local_path": "data/pdfs/ASTOR/1594977_BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4586967"
+      },
+      {
+        "filename": "BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "local_path": "data/pdfs/ASTOR/1594977_BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4656968"
+      }
+    ]
+  },
+  {
+    "index": 1594039,
+    "publish_datetime": "2026-04-16T10:44:38",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594039",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1594039_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594039"
+      }
+    ]
+  },
+  {
+    "index": 1593871,
+    "publish_datetime": "2026-04-15T18:14:28",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593871",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593871_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593871"
+      }
+    ]
+  },
+  {
+    "index": 1593766,
+    "publish_datetime": "2026-04-15T16:50:51",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR",
+      "BERA",
+      "KONTR",
+      "MTRKS",
+      "SMRVA",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593766",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593766_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593766"
+      }
+    ]
+  },
+  {
+    "index": 1593599,
+    "publish_datetime": "2026-04-15T12:04:08",
+    "company_name": "HSBC YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "HSY"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593599",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593599_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593599"
+      },
+      {
+        "filename": "Toptan Satış Liste.pdf",
+        "local_path": "data/pdfs/ASTOR/1593599_Toptan Satış Liste.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d905e7ee57114"
+      }
+    ]
+  },
+  {
+    "index": 1593487,
+    "publish_datetime": "2026-04-15T01:19:56",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kurumsal yatırımcılara hızlandırılmış talep toplama yöntemiyle pay satışı işleminin fiyatlanması hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593487",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593487_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593487"
+      }
+    ]
+  },
+  {
+    "index": 1593430,
+    "publish_datetime": "2026-04-14T19:24:43",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kurumsal yatırımcılara hızlandırılmış talep toplama yöntemiyle pay satışı işleminin başlatılması hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593430",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593430_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593430"
+      }
+    ]
+  },
+  {
+    "index": 1593074,
+    "publish_datetime": "2026-04-14T15:25:14",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593074",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1593074_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593074"
+      }
+    ]
+  },
+  {
+    "index": 1592230,
+    "publish_datetime": "2026-04-13T17:15:00",
+    "company_name": "BÜLBÜLOĞLU VİNÇ SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BVSAN"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Yeni İş İlişkisi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592230",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1592230_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592230"
+      }
+    ]
+  },
+  {
+    "index": 1582382,
+    "publish_datetime": "2026-04-01T17:57:40",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582382",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1582382_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582382"
+      }
+    ]
+  },
+  {
+    "index": 1582237,
+    "publish_datetime": "2026-04-01T15:31:56",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Bölünme İşlemlerine İlişkin Bildirim",
+    "summary": "Kısmi Bölünmeye ilişkin Genel Kurul kararlarının tescil edilmesi hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582237",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1582237_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582237"
+      },
+      {
+        "filename": "Onaylı Duyuru Metni_KAP.pdf",
+        "local_path": "data/pdfs/ASTOR/1582237_Onaylı Duyuru Metni_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d4906a1c017b4"
+      },
+      {
+        "filename": "Esas Sözleşme Astor Şarj.pdf",
+        "local_path": "data/pdfs/ASTOR/1582237_Esas Sözleşme Astor Şarj.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d4906a1d417b5"
+      },
+      {
+        "filename": "27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1582237_27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d4906a21317b6"
+      }
+    ]
+  },
+  {
+    "index": 1582236,
+    "publish_datetime": "2026-04-01T15:29:34",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağanüstü Genel Kurul Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582236",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1582236_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582236"
+      },
+      {
+        "filename": "Olağansütü Genel Kurul Hazirun Cetveli 27.02.2026-.pdf",
+        "local_path": "data/pdfs/ASTOR/1582236_Olağansütü Genel Kurul Hazirun Cetveli 27.02.2026-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d48c2f663114b"
+      },
+      {
+        "filename": "27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1582236_27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d48c2f6d8114c"
+      },
+      {
+        "filename": "Astor Olağanüstü Genel Kurul Bilgilendirme Dokümanı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1582236_Astor Olağanüstü Genel Kurul Bilgilendirme Dokümanı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d48c2f75d114d"
+      }
+    ]
+  },
+  {
+    "index": 1578703,
+    "publish_datetime": "2026-03-30T17:53:49",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578703",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1578703_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578703"
+      }
+    ]
+  },
+  {
+    "index": 1577487,
+    "publish_datetime": "2026-03-27T16:47:10",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "İhale Süreci / Sonucu",
+    "summary": "TEİAŞ İhalesi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577487",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1577487_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577487"
+      }
+    ]
+  },
+  {
+    "index": 1575359,
+    "publish_datetime": "2026-03-25T09:49:41",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Yeni İş İlişkisi ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575359",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1575359_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575359"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/ASTOR/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/ASTOR/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1572903,
+    "publish_datetime": "2026-03-16T12:18:39",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572903",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1572903_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572903"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1572229,
+    "publish_datetime": "2026-03-13T11:13:29",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+    "summary": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Notu ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572229",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1572229_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572229"
+      },
+      {
+        "filename": "astor_enerji_kyu_drc_rapor_13032026 (1).pdf",
+        "local_path": "data/pdfs/ASTOR/1572229_astor_enerji_kyu_drc_rapor_13032026 (1).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019ce63fd35833ab"
+      }
+    ]
+  },
+  {
+    "index": 1572188,
+    "publish_datetime": "2026-03-13T10:03:06",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İspanya?da üretim tesisi yatırımı ve şirket kuruluşu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572188",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1572188_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572188"
+      }
+    ]
+  },
+  {
+    "index": 1565794,
+    "publish_datetime": "2026-03-04T18:00:00",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565794",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1565794_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565794"
+      }
+    ]
+  },
+  {
+    "index": 1563858,
+    "publish_datetime": "2026-03-02T18:01:16",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "VİOP İşlem İptali Duyuruları",
+    "summary": "VİOP İşlem İptali Duyuruları",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563858",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1563858_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563858"
+      }
+    ]
+  },
+  {
+    "index": 1562476,
+    "publish_datetime": "2026-02-27T14:31:40",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Bölünme İşlemlerine İlişkin Bildirim",
+    "summary": "İştirak Modeliyle Kolaylaştırılmış Usulde Kısmi Bölünmeye ilişkin Olağanüstü Genel Kurul Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562476",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1562476_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562476"
+      },
+      {
+        "filename": "Onaylı Duyuru Metni_KAP.pdf",
+        "local_path": "data/pdfs/ASTOR/1562476_Onaylı Duyuru Metni_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9edc0b2f4439"
+      },
+      {
+        "filename": "Esas Sözleşme Astor Şarj.pdf",
+        "local_path": "data/pdfs/ASTOR/1562476_Esas Sözleşme Astor Şarj.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9edc0b34443a"
+      },
+      {
+        "filename": "27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1562476_27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9edc0b3c443b"
+      }
+    ]
+  },
+  {
+    "index": 1562472,
+    "publish_datetime": "2026-02-27T14:19:31",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağanüstü Genel Kurul Toplanı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562472",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1562472_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562472"
+      },
+      {
+        "filename": "Olağansütü Genel Kurul Hazirun Cetveli 27.02.2026-.pdf",
+        "local_path": "data/pdfs/ASTOR/1562472_Olağansütü Genel Kurul Hazirun Cetveli 27.02.2026-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9ec162354105"
+      },
+      {
+        "filename": "27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1562472_27.02.2026 Olağanüstü Genel Kurul Toplantı Tutanağı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9ec1623c4106"
+      },
+      {
+        "filename": "Astor Olağanüstü Genel Kurul Bilgilendirme Dokümanı-.pdf",
+        "local_path": "data/pdfs/ASTOR/1562472_Astor Olağanüstü Genel Kurul Bilgilendirme Dokümanı-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9ec1625b4107"
+      }
+    ]
+  },
+  {
+    "index": 1561738,
+    "publish_datetime": "2026-02-26T11:05:48",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561738",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1561738_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561738"
+      }
+    ]
+  },
+  {
+    "index": 1558845,
+    "publish_datetime": "2026-02-19T12:38:19",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ASTOR.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558845",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1558845_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558845"
+      }
+    ]
+  },
+  {
+    "index": 1558604,
+    "publish_datetime": "2026-02-18T19:42:30",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558604",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1558604_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558604"
+      }
+    ]
+  },
+  {
+    "index": 1558496,
+    "publish_datetime": "2026-02-18T18:13:49",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "ASTOR",
+      "KCAER"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558496",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1558496_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558496"
+      }
+    ]
+  },
+  {
+    "index": 1557972,
+    "publish_datetime": "2026-02-17T21:33:39",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557972",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1557972_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557972"
+      },
+      {
+        "filename": "Astor TFRS BD Rapor - 31.12.2025 - TR-KAP.pdf",
+        "local_path": "data/pdfs/ASTOR/1557972_Astor TFRS BD Rapor - 31.12.2025 - TR-KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6c0d8a6c104a"
+      },
+      {
+        "filename": "Astor TFRS BD Rapor - 31.12.2025 - ENG KAP.pdf",
+        "local_path": "data/pdfs/ASTOR/1557972_Astor TFRS BD Rapor - 31.12.2025 - ENG KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6c0d8a87104b"
+      }
+    ]
+  },
+  {
+    "index": 1557971,
+    "publish_datetime": "2026-02-17T21:33:22",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Yönetim Kurulu Faaliyet Raporu\n",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557971",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ASTOR/1557971_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557971"
+      },
+      {
+        "filename": "Astor_Faaliyet_Raporu 31.12.2025.pdf",
+        "local_path": "data/pdfs/ASTOR/1557971_Astor_Faaliyet_Raporu 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6c95d00d3fbd"
+      }
+    ]
+  },
+  {
+    "index": 1557970,
+    "publish_datetime": "2026-02-17T21:33:02",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Yatırımcı Raporu",
+    "summary": "2024 Ç4 Yatırımcı Sunumu ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557970",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 Q4 Yatırımcı Sunumu-.pdf",
+        "local_path": "data/pdfs/ASTOR/1557970_2025 Q4 Yatırımcı Sunumu-.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6cdaaec946a0"
+      },
+      {
+        "filename": "2025 Q4 Investor Presentation-KAP.pdf",
+        "local_path": "data/pdfs/ASTOR/1557970_2025 Q4 Investor Presentation-KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6cdaaeec46a1"
+      }
+    ]
+  },
+  {
+    "index": 1557969,
+    "publish_datetime": "2026-02-17T21:32:20",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557969",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557967,
+    "publish_datetime": "2026-02-17T21:31:00",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557967",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557966,
+    "publish_datetime": "2026-02-17T21:30:46",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557966",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557964,
+    "publish_datetime": "2026-02-17T21:30:14",
+    "company_name": "ASTOR ENERJİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557964",
+    "ticker": "ASTOR",
+    "company_oid": "8acae2c48304fe9e0185bfc1569055fe",
+    "mkk_member_oid": "8acae2c562329bd10164405fe6c17996",
+    "kap_company_code": "4680",
+    "source": "kap_web",
+    "attachments": []
+  }
+]

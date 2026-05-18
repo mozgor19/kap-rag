@@ -1,0 +1,2573 @@
+[
+  {
+    "index": 1608628,
+    "publish_datetime": "2026-05-18T17:44:54",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "DKVRL",
+      "KARSN"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608628",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1608628_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608628"
+      }
+    ]
+  },
+  {
+    "index": 1608401,
+    "publish_datetime": "2026-05-18T11:18:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli Yatırımcılara Yapılan Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608401",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1608401_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608401"
+      }
+    ]
+  },
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1608123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608123"
+      }
+    ]
+  },
+  {
+    "index": 1608066,
+    "publish_datetime": "2026-05-15T17:50:19",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2355183091 ve US00971YAJ91 ISIN kodlu Sürdürülebilir Sermaye Benzeri Tahvillerin erken itfa opsiyonunun kullanılması hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608066",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1608066_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608066"
+      }
+    ]
+  },
+  {
+    "index": 1608065,
+    "publish_datetime": "2026-05-15T17:50:01",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2355183091 ve US00971YAJ91 ISIN kodlu Sürdürülebilir Sermaye Benzeri Tahvillerin erken itfa opsiyonunun kullanılması hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608065",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1608065_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608065"
+      }
+    ]
+  },
+  {
+    "index": 1607884,
+    "publish_datetime": "2026-05-15T15:46:50",
+    "company_name": "JCR AVRASYA DERECELENDİRME A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "JCRAV"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "KREDİ DERECELENDİRME BİLDİRİMİ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607884",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1607884_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607884"
+      },
+      {
+        "filename": "Türkiye Menkul Kıymetleştirme Şirketi Akbank Birinci Varlık Finansmanı Fonu.pdf",
+        "local_path": "data/pdfs/AKBNK/1607884_Türkiye Menkul Kıymetleştirme Şirketi Akbank Birinci Varlık Finansmanı Fonu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a0019e2b64b28822d1"
+      }
+    ]
+  },
+  {
+    "index": 1605941,
+    "publish_datetime": "2026-05-12T09:48:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışı İpotek Teminatlı Menkul Kıymet İzin Yenileme Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605941",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1605941_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605941"
+      }
+    ]
+  },
+  {
+    "index": 1603176,
+    "publish_datetime": "2026-05-08T13:54:35",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603176",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1603176_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603176"
+      }
+    ]
+  },
+  {
+    "index": 1602720,
+    "publish_datetime": "2026-05-07T18:43:42",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "Akbank 2025 Türkiye Sürdürülebilirlik Raporlama Standartları Uyumlu Sürdürülebilirlik Raporumuz",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602720",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1602720_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602720"
+      },
+      {
+        "filename": "Akbank 2025 TSRS Raporu.pdf",
+        "local_path": "data/pdfs/AKBNK/1602720_Akbank 2025 TSRS Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e031954446f6c"
+      }
+    ]
+  },
+  {
+    "index": 1602709,
+    "publish_datetime": "2026-05-07T18:35:07",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3017358394 ISIN Kodlu Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602709",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1602709_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602709"
+      }
+    ]
+  },
+  {
+    "index": 1601877,
+    "publish_datetime": "2026-05-06T17:17:36",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3017356182 ISIN Kodlu Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601877",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1601877_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601877"
+      }
+    ]
+  },
+  {
+    "index": 1600880,
+    "publish_datetime": "2026-05-05T09:58:12",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3011282152 ISIN Kodlu Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600880",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1600880_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600880"
+      }
+    ]
+  },
+  {
+    "index": 1598269,
+    "publish_datetime": "2026-04-28T18:16:17",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "31-03-2026 Akbank Konsolide Olmayan Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598269",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1598269_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598269"
+      },
+      {
+        "filename": "31032026 Akbank Konsolide Olmayan Sorumluluk.pdf",
+        "local_path": "data/pdfs/AKBNK/1598269_31032026 Akbank Konsolide Olmayan Sorumluluk.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd419765723f5"
+      }
+    ]
+  },
+  {
+    "index": 1598268,
+    "publish_datetime": "2026-04-28T18:16:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31-03-2026 Akbank Konsolide Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598268",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1598268_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598268"
+      },
+      {
+        "filename": "31032026 Akbank Konsolide Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/AKBNK/1598268_31032026 Akbank Konsolide Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd41bac08242e"
+      }
+    ]
+  },
+  {
+    "index": 1598264,
+    "publish_datetime": "2026-04-28T18:15:51",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598264",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1598264_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598264"
+      },
+      {
+        "filename": "31032026 Akbank Konsolide Olmayan Finansal Tablolar ve Dipnotlar.pdf",
+        "local_path": "data/pdfs/AKBNK/1598264_31032026 Akbank Konsolide Olmayan Finansal Tablolar ve Dipnotlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd41ee0352492"
+      }
+    ]
+  },
+  {
+    "index": 1598259,
+    "publish_datetime": "2026-04-28T18:15:32",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598259",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1598259_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598259"
+      },
+      {
+        "filename": "31032026 Akbank Konsolide Finansal Tablolar ve Dipnotlar.pdf",
+        "local_path": "data/pdfs/AKBNK/1598259_31032026 Akbank Konsolide Finansal Tablolar ve Dipnotlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd41ff77d250a"
+      }
+    ]
+  },
+  {
+    "index": 1593776,
+    "publish_datetime": "2026-04-15T17:03:45",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2951616395 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593776",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1593776_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593776"
+      }
+    ]
+  },
+  {
+    "index": 1593623,
+    "publish_datetime": "2026-04-15T12:22:14",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings Derecelendirme Notları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593623",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1593623_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593623"
+      }
+    ]
+  },
+  {
+    "index": 1593314,
+    "publish_datetime": "2026-04-14T17:54:10",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3028237744 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593314",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1593314_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593314"
+      }
+    ]
+  },
+  {
+    "index": 1590872,
+    "publish_datetime": "2026-04-10T17:16:07",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "ARCLK",
+      "BERA",
+      "DOFER",
+      "KONTR"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590872",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1590872_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590872"
+      }
+    ]
+  },
+  {
+    "index": 1590810,
+    "publish_datetime": "2026-04-10T16:27:25",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3041299135 ISIN Kodlu Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590810",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1590810_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590810"
+      }
+    ]
+  },
+  {
+    "index": 1590593,
+    "publish_datetime": "2026-04-10T14:40:57",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim (2026 1.Çeyrek)",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590593",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1590593_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590593"
+      }
+    ]
+  },
+  {
+    "index": 1589412,
+    "publish_datetime": "2026-04-08T19:52:16",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1589412",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1589412_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1589412"
+      }
+    ]
+  },
+  {
+    "index": 1588668,
+    "publish_datetime": "2026-04-08T16:47:31",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588668",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588668_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588668"
+      }
+    ]
+  },
+  {
+    "index": 1588665,
+    "publish_datetime": "2026-04-08T16:46:46",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2980941186 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588665",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588665_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588665"
+      }
+    ]
+  },
+  {
+    "index": 1588204,
+    "publish_datetime": "2026-04-08T15:00:49",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Esas Sözleşme",
+    "summary": "Bankamız Ana Sözleşmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588204",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588204_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588204"
+      },
+      {
+        "filename": "Ana_Sozlesme_TR_07042026.pdf",
+        "local_path": "data/pdfs/AKBNK/1588204_Ana_Sozlesme_TR_07042026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6ce1eae84b4a"
+      },
+      {
+        "filename": "ArticlesOfAssociation_07042026.pdf",
+        "local_path": "data/pdfs/AKBNK/1588204_ArticlesOfAssociation_07042026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6ce1eaf24b4b"
+      }
+    ]
+  },
+  {
+    "index": 1588203,
+    "publish_datetime": "2026-04-08T15:00:36",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı Sermaye Tavanının Artırılması ve Geçerlilik Süresinin Uzatılması İle İlgili Genel Kurul Kararının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588203",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588203_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588203"
+      },
+      {
+        "filename": "KST_Ana_Sözleşme_Tadil_Metni_EN.pdf",
+        "local_path": "data/pdfs/AKBNK/1588203_KST_Ana_Sözleşme_Tadil_Metni_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6ce5e2114bf4"
+      },
+      {
+        "filename": "KST_Ana_Sözleşme_Tadil_Metni_SPK_ve_TB_Onaylı.pdf",
+        "local_path": "data/pdfs/AKBNK/1588203_KST_Ana_Sözleşme_Tadil_Metni_SPK_ve_TB_Onaylı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6ce5e21f4bf5"
+      }
+    ]
+  },
+  {
+    "index": 1588167,
+    "publish_datetime": "2026-04-08T14:42:23",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588167",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588167_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588167"
+      }
+    ]
+  },
+  {
+    "index": 1588166,
+    "publish_datetime": "2026-04-08T14:38:56",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Ortaklar Olağan Genel Kurul Toplantısı Sonuçlarının Tescili.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1588166",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1588166_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1588166"
+      },
+      {
+        "filename": "Akbank_Tutanak_34.03.2026_KVKK.pdf",
+        "local_path": "data/pdfs/AKBNK/1588166_Akbank_Tutanak_34.03.2026_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6cb473da0841"
+      },
+      {
+        "filename": "Akbank_Hazirun_24.03.2026_KVKK.pdf",
+        "local_path": "data/pdfs/AKBNK/1588166_Akbank_Hazirun_24.03.2026_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6cb473f80842"
+      },
+      {
+        "filename": "Bilgilendirme_Dokümanı.pdf",
+        "local_path": "data/pdfs/AKBNK/1588166_Bilgilendirme_Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6cb4741e0843"
+      }
+    ]
+  },
+  {
+    "index": 1587515,
+    "publish_datetime": "2026-04-08T09:24:14",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587515",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1587515_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587515"
+      }
+    ]
+  },
+  {
+    "index": 1586141,
+    "publish_datetime": "2026-04-07T14:59:33",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586141",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1586141_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586141"
+      }
+    ]
+  },
+  {
+    "index": 1585094,
+    "publish_datetime": "2026-04-06T18:03:47",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585094",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1585094_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585094"
+      }
+    ]
+  },
+  {
+    "index": 1582349,
+    "publish_datetime": "2026-04-01T17:14:22",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3096174951 ISIN Kodlu Yurtdışı Piyasalara İhraç Edilen Tahvilin Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582349",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1582349_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582349"
+      }
+    ]
+  },
+  {
+    "index": 1580758,
+    "publish_datetime": "2026-03-31T18:01:08",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580758",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1580758_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580758"
+      }
+    ]
+  },
+  {
+    "index": 1580757,
+    "publish_datetime": "2026-03-31T18:00:47",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580757",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1580757_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580757"
+      }
+    ]
+  },
+  {
+    "index": 1578528,
+    "publish_datetime": "2026-03-30T16:43:49",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "ANHYT"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578528",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1578528_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578528"
+      }
+    ]
+  },
+  {
+    "index": 1578097,
+    "publish_datetime": "2026-03-30T11:53:58",
+    "company_name": "ARSAN HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ARSAN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Arsan Varlık Yönetim A.Ş.- İhale sonrası Devir İşlemlerinin tamamlanması hakkında.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578097",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1578097_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578097"
+      }
+    ]
+  },
+  {
+    "index": 1577984,
+    "publish_datetime": "2026-03-30T09:35:47",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Takipteki Kredi Alacakları Portföyünün Satışı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577984",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1577984_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577984"
+      }
+    ]
+  },
+  {
+    "index": 1577735,
+    "publish_datetime": "2026-03-27T18:54:26",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577735",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1577735_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577735"
+      }
+    ]
+  },
+  {
+    "index": 1576812,
+    "publish_datetime": "2026-03-26T19:59:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576812",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1576812_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576812"
+      }
+    ]
+  },
+  {
+    "index": 1576617,
+    "publish_datetime": "2026-03-26T18:18:32",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İhale sonrası Devir ve Temlik İşlemlerinin tamamlanması hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576617",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1576617_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576617"
+      }
+    ]
+  },
+  {
+    "index": 1576060,
+    "publish_datetime": "2026-03-26T09:30:32",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "ANHYT"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576060",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1576060_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576060"
+      }
+    ]
+  },
+  {
+    "index": 1576053,
+    "publish_datetime": "2026-03-26T09:00:06",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Sendikasyon Kredisi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576053",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1576053_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576053"
+      }
+    ]
+  },
+  {
+    "index": 1575647,
+    "publish_datetime": "2026-03-25T16:59:02",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "ANHYT"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575647",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1575647_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575647"
+      }
+    ]
+  },
+  {
+    "index": 1575270,
+    "publish_datetime": "2026-03-24T18:53:50",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kârının Dağıtımı Hakkında.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575270",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1575270_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575270"
+      },
+      {
+        "filename": "Kar_Dağıtım_Tablosu_TR.pdf",
+        "local_path": "data/pdfs/AKBNK/1575270_Kar_Dağıtım_Tablosu_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d207ab7ab6ac7"
+      },
+      {
+        "filename": "Kar_Dağıtım_Tablosu_EN.pdf",
+        "local_path": "data/pdfs/AKBNK/1575270_Kar_Dağıtım_Tablosu_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d207ab7b16ac8"
+      }
+    ]
+  },
+  {
+    "index": 1575219,
+    "publish_datetime": "2026-03-24T18:14:49",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "24.03.2026 Tarihli Ortaklar Olağan Genel Kurul Toplantısı Kararları.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575219",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1575219_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575219"
+      },
+      {
+        "filename": "Akbank_Tutanak_34.03.2026_KVKK.pdf",
+        "local_path": "data/pdfs/AKBNK/1575219_Akbank_Tutanak_34.03.2026_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d206665016868"
+      },
+      {
+        "filename": "Akbank_Hazirun_24.03.2026_KVKK.pdf",
+        "local_path": "data/pdfs/AKBNK/1575219_Akbank_Hazirun_24.03.2026_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2066650d6869"
+      },
+      {
+        "filename": "Bilgilendirme_Dokümanı.pdf",
+        "local_path": "data/pdfs/AKBNK/1575219_Bilgilendirme_Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d20666517686a"
+      }
+    ]
+  },
+  {
+    "index": 1574882,
+    "publish_datetime": "2026-03-23T20:02:08",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2965716017 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574882",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1574882_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574882"
+      }
+    ]
+  },
+  {
+    "index": 1574162,
+    "publish_datetime": "2026-03-18T18:25:48",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2959498994 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574162",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1574162_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574162"
+      }
+    ]
+  },
+  {
+    "index": 1573589,
+    "publish_datetime": "2026-03-17T18:11:53",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573589",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1573589_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573589"
+      }
+    ]
+  },
+  {
+    "index": 1573586,
+    "publish_datetime": "2026-03-17T18:11:07",
+    "company_name": "ARSAN HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ARSAN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Arsan Varlık Yönetim A.Ş.- İhale sonrası Devir İşlemlerinin tamamlanması hakkında.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573586",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1573586_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573586"
+      }
+    ]
+  },
+  {
+    "index": 1570283,
+    "publish_datetime": "2026-03-11T13:25:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3177936930 ISIN Kodlu Yurtdışı Piyasalara İhraç Edilen Tahvilin Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570283",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1570283_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570283"
+      }
+    ]
+  },
+  {
+    "index": 1567938,
+    "publish_datetime": "2026-03-09T08:17:05",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2950723267 ISIN kodlu Yeşil/Sürdürülebilir Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567938",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1567938_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567938"
+      }
+    ]
+  },
+  {
+    "index": 1567443,
+    "publish_datetime": "2026-03-06T17:03:50",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AKBNK.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567443",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1567443_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567443"
+      }
+    ]
+  },
+  {
+    "index": 1567227,
+    "publish_datetime": "2026-03-06T15:23:19",
+    "company_name": "DENGE VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DENVA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567227",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1567227_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567227"
+      }
+    ]
+  },
+  {
+    "index": 1567029,
+    "publish_datetime": "2026-03-06T12:09:08",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Takipteki Kredi Alacakları Portföyünün Satışı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567029",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1567029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567029"
+      }
+    ]
+  },
+  {
+    "index": 1565853,
+    "publish_datetime": "2026-03-04T18:14:41",
+    "company_name": "SÜMER VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SMRVA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı-İhaleye Konu Alacakların Devrine Yönelik Sözleşmenin İmza Sürecinin Tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565853",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1565853_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565853"
+      }
+    ]
+  },
+  {
+    "index": 1565198,
+    "publish_datetime": "2026-03-03T18:40:39",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2958390408 ISIN Kodlu Yeşil/Sürdürülebilir Temalı Tahvilin İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565198",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1565198_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565198"
+      }
+    ]
+  },
+  {
+    "index": 1564369,
+    "publish_datetime": "2026-03-02T21:12:31",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yılı Olağan Genel Kurul Toplantısı Bilgilendirme Dokümanı.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564369",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1564369_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564369"
+      },
+      {
+        "filename": "Bilgilendirme_Dokümanı.pdf",
+        "local_path": "data/pdfs/AKBNK/1564369_Bilgilendirme_Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019caf33613e2558"
+      },
+      {
+        "filename": "Information_Document.pdf",
+        "local_path": "data/pdfs/AKBNK/1564369_Information_Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019caf3361472559"
+      },
+      {
+        "filename": "Vekaletname_2025.pdf",
+        "local_path": "data/pdfs/AKBNK/1564369_Vekaletname_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019caf33614d255a"
+      }
+    ]
+  },
+  {
+    "index": 1564366,
+    "publish_datetime": "2026-03-02T21:10:08",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "31-12-2025 Akbank Entegre Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564366",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1564366_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564366"
+      },
+      {
+        "filename": "FY 24022026 2025 YILI ENTEGRE FAALİYET RAPORU VE KURUMSAL YÖNETİM RAPORLAMASI SSS.pdf",
+        "local_path": "data/pdfs/AKBNK/1564366_FY 24022026 2025 YILI ENTEGRE FAALİYET RAPORU VE KURUMSAL YÖNETİM RAPORLAMASI SSS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cafa592254903"
+      }
+    ]
+  },
+  {
+    "index": 1564365,
+    "publish_datetime": "2026-03-02T21:09:51",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "31-12-2025 Akbank Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1564365_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564365"
+      },
+      {
+        "filename": "Akbank_EFR_2025_KAP.pdf",
+        "local_path": "data/pdfs/AKBNK/1564365_Akbank_EFR_2025_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019caf93908b4624"
+      }
+    ]
+  },
+  {
+    "index": 1563977,
+    "publish_datetime": "2026-03-02T18:21:39",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "01/01/2025 - 31/12/2025 Dönemine Ait Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563977",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1563977_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563977"
+      }
+    ]
+  },
+  {
+    "index": 1563963,
+    "publish_datetime": "2026-03-02T18:20:07",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "01/01/2025 - 31/12/2025 Dönemine Ait Kurumsal Yönetim Uyum Raporu.",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563963",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1563963_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563963"
+      }
+    ]
+  },
+  {
+    "index": 1563959,
+    "publish_datetime": "2026-03-02T18:19:54",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Dönemine Ait Sürdürülebilirlik Uyum Raporu.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563959",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1563959_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563959"
+      }
+    ]
+  },
+  {
+    "index": 1563085,
+    "publish_datetime": "2026-02-27T20:00:33",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Sürdürülebilirlik Denetimi İçin Bağımsız Denetim Firmasının Seçilmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563085",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1563085_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563085"
+      }
+    ]
+  },
+  {
+    "index": 1561809,
+    "publish_datetime": "2026-02-26T13:30:01",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "VDMK İhracına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561809",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561809_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561809"
+      }
+    ]
+  },
+  {
+    "index": 1561610,
+    "publish_datetime": "2026-02-25T20:11:47",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561610",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561610_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561610"
+      }
+    ]
+  },
+  {
+    "index": 1561178,
+    "publish_datetime": "2026-02-25T09:21:47",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561178",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561178_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561178"
+      },
+      {
+        "filename": "Kar_Dağıtım_Tablosu_TR.pdf",
+        "local_path": "data/pdfs/AKBNK/1561178_Kar_Dağıtım_Tablosu_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9103c7da0c1f"
+      },
+      {
+        "filename": "Kar_Dağıtım_Tablosu_EN.pdf",
+        "local_path": "data/pdfs/AKBNK/1561178_Kar_Dağıtım_Tablosu_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9103c7e00c20"
+      }
+    ]
+  },
+  {
+    "index": 1561177,
+    "publish_datetime": "2026-02-25T09:20:59",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Toplantısı Yapılmasına İlişkin Yönetim Kurulu Kararı.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561177",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561177_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561177"
+      }
+    ]
+  },
+  {
+    "index": 1561160,
+    "publish_datetime": "2026-02-25T08:31:01",
+    "company_name": "LİDER FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "LIDFA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561160",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561160_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561160"
+      }
+    ]
+  },
+  {
+    "index": 1561007,
+    "publish_datetime": "2026-02-24T18:12:46",
+    "company_name": "SÜMER VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SMRVA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561007",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1561007_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561007"
+      }
+    ]
+  },
+  {
+    "index": 1560986,
+    "publish_datetime": "2026-02-24T17:54:45",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Rekabet Kurumu Soruşturması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560986",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1560986_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560986"
+      }
+    ]
+  },
+  {
+    "index": 1560133,
+    "publish_datetime": "2026-02-23T09:53:27",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında İpotek Teminatlı Menkul Kıymet İhraç Edilmesi İçin Genel Müdürlüğe Yetki Verilmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560133",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1560133_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560133"
+      }
+    ]
+  },
+  {
+    "index": 1559766,
+    "publish_datetime": "2026-02-20T17:35:26",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3156336136 ISIN Kodlu Yurtdışı Piyasalara İhraç Edilen Tahvilin Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559766",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1559766_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559766"
+      }
+    ]
+  },
+  {
+    "index": 1559376,
+    "publish_datetime": "2026-02-19T19:15:01",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara İlave Ana Sermayeye Dâhil Edilebilir Tahvil İhracının Tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559376",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1559376_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559376"
+      }
+    ]
+  },
+  {
+    "index": 1559375,
+    "publish_datetime": "2026-02-19T19:14:46",
+    "company_name": "AKBANK T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışı Piyasalara İlave Ana Sermayeye Dâhil Edilebilir Tahvil İhracının Tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559375",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1559375_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559375"
+      }
+    ]
+  },
+  {
+    "index": 1559241,
+    "publish_datetime": "2026-02-19T17:40:40",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AKBNK.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559241",
+    "ticker": "AKBNK",
+    "company_oid": "33E5FED7034100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e8d1830140e905edcd0006",
+    "kap_company_code": "2413",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AKBNK/1559241_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559241"
+      }
+    ]
+  }
+]

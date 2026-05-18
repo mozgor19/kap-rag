@@ -1,0 +1,1700 @@
+[
+  {
+    "index": 1602074,
+    "publish_datetime": "2026-05-06T18:38:50",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.03.2026 Tarihli Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602074",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1602067,
+    "publish_datetime": "2026-05-06T18:32:33",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31 Mart 2026 Sorumluluk Beyanı ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602067",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1602064,
+    "publish_datetime": "2026-05-06T18:32:13",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "31 Mart 2026 Konsolide Faaliyet Raporu ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602064",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Sahol - 1Ocak 31 Mart 2026 Konsolide Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/SAHOL/1602064_Sahol - 1Ocak 31 Mart 2026 Konsolide Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdd9964c1fec"
+      }
+    ]
+  },
+  {
+    "index": 1602061,
+    "publish_datetime": "2026-05-06T18:31:55",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602061",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Sahol - 1Ocak 31 Mart 2026 Konsolide Finansal Tablolar TFRS.pdf",
+        "local_path": "data/pdfs/SAHOL/1602061_Sahol - 1Ocak 31 Mart 2026 Konsolide Finansal Tablolar TFRS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdbf8f0e1ca0"
+      }
+    ]
+  },
+  {
+    "index": 1597625,
+    "publish_datetime": "2026-04-27T17:00:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "VİOP İşlem İptali Duyuruları",
+    "summary": "VİOP İşlem İptali Duyuruları",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597625",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596859,
+    "publish_datetime": "2026-04-22T18:35:11",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "CFO Pozisyonunda Değişiklik",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596859",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1595269,
+    "publish_datetime": "2026-04-20T14:06:46",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Esas Sözleşme",
+    "summary": "Esas Sözleşme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595269",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SAHOL_articles of association_2026.pdf",
+        "local_path": "data/pdfs/SAHOL/1595269_SAHOL_articles of association_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daa76869c274a"
+      },
+      {
+        "filename": "SAHOL_esas sozlesme_2026.pdf",
+        "local_path": "data/pdfs/SAHOL/1595269_SAHOL_esas sozlesme_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daa7686aa274b"
+      }
+    ]
+  },
+  {
+    "index": 1595268,
+    "publish_datetime": "2026-04-20T14:06:15",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Denetçi ve Topluluk Denetçisinin Tescili ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595268",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1595267,
+    "publish_datetime": "2026-04-20T14:05:47",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Esas Sözleşme Değişikliğinin Tescil ve İlan Edilmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595267",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Esas Sözleşme Tadil Metni_TR.pdf",
+        "local_path": "data/pdfs/SAHOL/1595267_Esas Sözleşme Tadil Metni_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daa8f24fb2978"
+      },
+      {
+        "filename": "Amendment Text_EN.pdf",
+        "local_path": "data/pdfs/SAHOL/1595267_Amendment Text_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daa8f25012979"
+      }
+    ]
+  },
+  {
+    "index": 1595265,
+    "publish_datetime": "2026-04-20T14:02:44",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Sonuçlarının Tescil ve İlanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 7,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595265",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1595265_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595265"
+      },
+      {
+        "filename": "GENEL KURUL TOPLANTI TUTANAGI_2025_KVKK.pdf",
+        "local_path": "data/pdfs/SAHOL/1595265_GENEL KURUL TOPLANTI TUTANAGI_2025_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019daa05f62517a6"
+      },
+      {
+        "filename": "2026 hazirun_isim - Copy.pdf",
+        "local_path": "data/pdfs/SAHOL/1595265_2026 hazirun_isim - Copy.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019daa05f65417a7"
+      },
+      {
+        "filename": "GENERAL ASSEMBLY MEETING MINUTES_2025.pdf",
+        "local_path": "data/pdfs/SAHOL/1595265_GENERAL ASSEMBLY MEETING MINUTES_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019daa05f66317a8"
+      }
+    ]
+  },
+  {
+    "index": 1595082,
+    "publish_datetime": "2026-04-20T09:00:21",
+    "company_name": "AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKCNS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Heidelberg Materials AG Tarafından Sabancı Holding?e Ait Payların Devralınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595082",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1595082_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595082"
+      }
+    ]
+  },
+  {
+    "index": 1595081,
+    "publish_datetime": "2026-04-20T09:00:10",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Akçansa Paylarının Satışına İlişkin Ön Alım Hakkının Kullanımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595081",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1595081_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595081"
+      }
+    ]
+  },
+  {
+    "index": 1595019,
+    "publish_datetime": "2026-04-17T21:11:04",
+    "company_name": "CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CRFSA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şirket çoğunluk paylarının satışı hakkında hisse devir sözleşmesi imzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595019",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1595019_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595019"
+      }
+    ]
+  },
+  {
+    "index": 1595018,
+    "publish_datetime": "2026-04-17T21:10:51",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Carrefoursa Paylarının Devrine Yönelik Sözleşme İmzalanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595018",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1595018_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595018"
+      }
+    ]
+  },
+  {
+    "index": 1594295,
+    "publish_datetime": "2026-04-16T16:56:58",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AVTUR",
+      "EREGL",
+      "ISSEN",
+      "MERIT",
+      "SAHOL",
+      "TATEN"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594295",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1594295_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594295"
+      }
+    ]
+  },
+  {
+    "index": 1591837,
+    "publish_datetime": "2026-04-13T13:54:07",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591837",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1591837_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591837"
+      }
+    ]
+  },
+  {
+    "index": 1583782,
+    "publish_datetime": "2026-04-03T17:17:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "SAHOL"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583782",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1583782_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583782"
+      }
+    ]
+  },
+  {
+    "index": 1582031,
+    "publish_datetime": "2026-04-01T10:05:18",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Esas Sözleşme Değişikliği Hakkında Genel Kurul Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582031",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1582031_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582031"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni_TR.pdf",
+        "local_path": "data/pdfs/SAHOL/1582031_Esas Sözleşme Tadil Metni_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d47db1eee091d"
+      },
+      {
+        "filename": "Amendment Text_EN.pdf",
+        "local_path": "data/pdfs/SAHOL/1582031_Amendment Text_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d47db2043091e"
+      }
+    ]
+  },
+  {
+    "index": 1582006,
+    "publish_datetime": "2026-04-01T09:16:01",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582006",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1582006_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582006"
+      }
+    ]
+  },
+  {
+    "index": 1581981,
+    "publish_datetime": "2026-04-01T06:46:20",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581981",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1581981_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581981"
+      }
+    ]
+  },
+  {
+    "index": 1581980,
+    "publish_datetime": "2026-04-01T06:45:45",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1581980",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1581980_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1581980"
+      }
+    ]
+  },
+  {
+    "index": 1580643,
+    "publish_datetime": "2026-03-31T17:02:26",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580643",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1580643_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580643"
+      }
+    ]
+  },
+  {
+    "index": 1580598,
+    "publish_datetime": "2026-03-31T16:50:43",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Denetçi ve Topluluk Denetçisinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580598",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1580598_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580598"
+      }
+    ]
+  },
+  {
+    "index": 1580562,
+    "publish_datetime": "2026-03-31T16:30:22",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul'un Kar Payı Dağıtım Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580562",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1580562_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580562"
+      },
+      {
+        "filename": "Dividend Distribution Table_2025_EN.pdf",
+        "local_path": "data/pdfs/SAHOL/1580562_Dividend Distribution Table_2025_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d441531cd1897"
+      }
+    ]
+  },
+  {
+    "index": 1580548,
+    "publish_datetime": "2026-03-31T16:27:36",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yII Olağan Genel Kurul Toplantısı Sonuçları",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 7,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580548",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1580548_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580548"
+      },
+      {
+        "filename": "GENEL KURUL TOPLANTI TUTANAGI_2025_KVKK.pdf",
+        "local_path": "data/pdfs/SAHOL/1580548_GENEL KURUL TOPLANTI TUTANAGI_2025_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d441172ef174c"
+      },
+      {
+        "filename": "GENERAL ASSEMBLY MEETING MINUTES_2025.pdf",
+        "local_path": "data/pdfs/SAHOL/1580548_GENERAL ASSEMBLY MEETING MINUTES_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d4411731a174d"
+      },
+      {
+        "filename": "2026 hazirun_isim - Copy.pdf",
+        "local_path": "data/pdfs/SAHOL/1580548_2026 hazirun_isim - Copy.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d441173ab174e"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/SAHOL/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/SAHOL/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1572396,
+    "publish_datetime": "2026-03-13T16:36:34",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CANTE",
+      "ENSRI",
+      "GSDDE",
+      "HLGYO",
+      "KLGYO",
+      "SAFKR",
+      "SAHOL",
+      "VBTYZ",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572396",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1572396_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572396"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1566806,
+    "publish_datetime": "2026-03-06T07:10:18",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566806",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566806_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566806"
+      }
+    ]
+  },
+  {
+    "index": 1566044,
+    "publish_datetime": "2026-03-04T19:44:51",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.12.2025 Tarihli Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566044",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566044_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566044"
+      }
+    ]
+  },
+  {
+    "index": 1566023,
+    "publish_datetime": "2026-03-04T19:31:42",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Yönetim Kurulu'nun Denetçi ve Topluluk Denetçisi Önerisi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566023",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566023_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566023"
+      }
+    ]
+  },
+  {
+    "index": 1566022,
+    "publish_datetime": "2026-03-04T19:31:14",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Yönetim Kurulu'nun Kar Payı Dağıtım Teklifi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566022",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566022_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566022"
+      },
+      {
+        "filename": "Dividend Distribution Table_2025_EN.pdf",
+        "local_path": "data/pdfs/SAHOL/1566022_Dividend Distribution Table_2025_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb9723f7e073b"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu_2025_TR.pdf",
+        "local_path": "data/pdfs/SAHOL/1566022_Kar Dağıtım Tablosu_2025_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb9723f8c073c"
+      }
+    ]
+  },
+  {
+    "index": 1566017,
+    "publish_datetime": "2026-03-04T19:30:58",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Daveti",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566017",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566017_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566017"
+      },
+      {
+        "filename": "GENEL KURUL BILGILENDIRME DOKUMANI_2025.pdf",
+        "local_path": "data/pdfs/SAHOL/1566017_GENEL KURUL BILGILENDIRME DOKUMANI_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb97087380696"
+      },
+      {
+        "filename": "GENEL KURUL CAGRI ILANI_2025.pdf",
+        "local_path": "data/pdfs/SAHOL/1566017_GENEL KURUL CAGRI ILANI_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb97087470697"
+      },
+      {
+        "filename": "INVITATION TO GENERAL ASSEMBLY_2025.pdf",
+        "local_path": "data/pdfs/SAHOL/1566017_INVITATION TO GENERAL ASSEMBLY_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb97087560698"
+      }
+    ]
+  },
+  {
+    "index": 1566013,
+    "publish_datetime": "2026-03-04T19:25:54",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31 Aralık 2025 Sorumluluk Beyanı ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566013",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566013_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566013"
+      }
+    ]
+  },
+  {
+    "index": 1566012,
+    "publish_datetime": "2026-03-04T19:25:28",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "31 Aralık 2025 Konsolide Faaliyet Raporu ",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566012",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566012_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566012"
+      },
+      {
+        "filename": "Sahol - 1Ocak 31 Aralık 2025 Konsolide Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/SAHOL/1566012_Sahol - 1Ocak 31 Aralık 2025 Konsolide Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb985edff7c16"
+      },
+      {
+        "filename": "Sahol - 1January 31 December 2025 Consolidated Integrated Annual Report.pdf",
+        "local_path": "data/pdfs/SAHOL/1566012_Sahol - 1January 31 December 2025 Consolidated Integrated Annual Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb985f1bb7c17"
+      }
+    ]
+  },
+  {
+    "index": 1566011,
+    "publish_datetime": "2026-03-04T19:24:55",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566011",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1566011_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566011"
+      },
+      {
+        "filename": "Sahol - 1Ocak 31 Aralık 2025 Konsolide Finansal Tablolar.pdf",
+        "local_path": "data/pdfs/SAHOL/1566011_Sahol - 1Ocak 31 Aralık 2025 Konsolide Finansal Tablolar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb94b3e486b68"
+      }
+    ]
+  },
+  {
+    "index": 1565867,
+    "publish_datetime": "2026-03-04T18:17:31",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565867",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1565867_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565867"
+      }
+    ]
+  },
+  {
+    "index": 1565861,
+    "publish_datetime": "2026-03-04T18:16:07",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565861",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1565861_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565861"
+      }
+    ]
+  },
+  {
+    "index": 1565860,
+    "publish_datetime": "2026-03-04T18:15:52",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565860",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1565860_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565860"
+      }
+    ]
+  },
+  {
+    "index": 1563200,
+    "publish_datetime": "2026-02-27T21:56:58",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "JCR Eurasia Kredi Derecelendirme Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563200",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1563200_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563200"
+      },
+      {
+        "filename": "JCR_SAHOL_EN.pdf",
+        "local_path": "data/pdfs/SAHOL/1563200_JCR_SAHOL_EN.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019ca073f60d0a11"
+      },
+      {
+        "filename": "JCR_SAHOL_TR.pdf",
+        "local_path": "data/pdfs/SAHOL/1563200_JCR_SAHOL_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019ca073f61a0a12"
+      }
+    ]
+  },
+  {
+    "index": 1562863,
+    "publish_datetime": "2026-02-27T18:16:49",
+    "company_name": "JCR AVRASYA DERECELENDİRME A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "JCRAV"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "KREDİ DERECELENDİRME BİLDİRİMİ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562863",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1562863_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562863"
+      },
+      {
+        "filename": "HACI ÖMER SABANCI HOLDİNG ANONİM ŞİRKETİ.pdf",
+        "local_path": "data/pdfs/SAHOL/1562863_HACI ÖMER SABANCI HOLDİNG ANONİM ŞİRKETİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9f7413f964cf"
+      }
+    ]
+  },
+  {
+    "index": 1562622,
+    "publish_datetime": "2026-02-27T16:25:25",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SAHOL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562622",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1562622_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562622"
+      }
+    ]
+  },
+  {
+    "index": 1559144,
+    "publish_datetime": "2026-02-19T16:42:11",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SAHOL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559144",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1559144_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559144"
+      }
+    ]
+  },
+  {
+    "index": 1557214,
+    "publish_datetime": "2026-02-17T09:55:16",
+    "company_name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHOL"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "2025 Yılı 4. Dönem Geçici Vergi Beyannamesi Ekinde Sunulan Gelir Tablosu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557214",
+    "ticker": "SAHOL",
+    "company_oid": "33E5FED703D600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee37a90140ee50087e000b",
+    "kap_company_code": "976",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SAHOL/1557214_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557214"
+      },
+      {
+        "filename": "SAHOL GEÇİCİ VERGİ ÖDA GELİR TABLOSU.pdf",
+        "local_path": "data/pdfs/SAHOL/1557214_SAHOL GEÇİCİ VERGİ ÖDA GELİR TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6a595a3f536a"
+      },
+      {
+        "filename": "Income_Statement_English.pdf",
+        "local_path": "data/pdfs/SAHOL/1557214_Income_Statement_English.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6a595a44536b"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1874 @@
+[
+  {
+    "index": 1608029,
+    "publish_datetime": "2026-05-15T17:08:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608029",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1608029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608029"
+      }
+    ]
+  },
+  {
+    "index": 1607956,
+    "publish_datetime": "2026-05-15T16:32:01",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "MGROS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607956",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1607956_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607956"
+      }
+    ]
+  },
+  {
+    "index": 1606545,
+    "publish_datetime": "2026-05-13T09:30:30",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "FRIGO",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606545",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1606545_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606545"
+      }
+    ]
+  },
+  {
+    "index": 1606333,
+    "publish_datetime": "2026-05-12T17:05:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "FRIGO",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606333",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1606333_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606333"
+      }
+    ]
+  },
+  {
+    "index": 1603643,
+    "publish_datetime": "2026-05-08T18:31:16",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komiteleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603643",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1603643_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603643"
+      }
+    ]
+  },
+  {
+    "index": 1603421,
+    "publish_datetime": "2026-05-08T17:11:56",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYES",
+      "BERA",
+      "ISBIR",
+      "ISSEN",
+      "KLSER",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603421",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1603421_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603421"
+      }
+    ]
+  },
+  {
+    "index": 1601652,
+    "publish_datetime": "2026-05-06T13:48:16",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Toplu İş Sözleşmesi görüşmelerinin sonuçlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601652",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1601652_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601652"
+      }
+    ]
+  },
+  {
+    "index": 1601495,
+    "publish_datetime": "2026-05-06T01:10:40",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Mart 2026 bilgilendirme sunumu ve basın bülteni hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601495",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1601495_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601495"
+      }
+    ]
+  },
+  {
+    "index": 1601479,
+    "publish_datetime": "2026-05-05T21:57:55",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Faaliyet Raporu - 1Ç 2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601479",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1601479_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601479"
+      },
+      {
+        "filename": "Migros Ticaret A.Ş. FR Mart 2026.pdf",
+        "local_path": "data/pdfs/MGROS/1601479_Migros Ticaret A.Ş. FR Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df97d0dec0f48"
+      },
+      {
+        "filename": "Migros Activity Report March 2026.pdf",
+        "local_path": "data/pdfs/MGROS/1601479_Migros Activity Report March 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df97d0dfa0f49"
+      }
+    ]
+  },
+  {
+    "index": 1601478,
+    "publish_datetime": "2026-05-05T21:57:40",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601478",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1601478_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601478"
+      },
+      {
+        "filename": "Migros Ticaret A.S. - 31.03.2026 TR.pdf",
+        "local_path": "data/pdfs/MGROS/1601478_Migros Ticaret A.S. - 31.03.2026 TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df92e28f165d4"
+      },
+      {
+        "filename": "Migros Ticaret A.S. - 31.03.2026 ENG.pdf",
+        "local_path": "data/pdfs/MGROS/1601478_Migros Ticaret A.S. - 31.03.2026 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df92e2a2165d5"
+      }
+    ]
+  },
+  {
+    "index": 1601477,
+    "publish_datetime": "2026-05-05T21:57:13",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı - 1Ç 2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601477",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1601477_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601477"
+      }
+    ]
+  },
+  {
+    "index": 1598400,
+    "publish_datetime": "2026-04-28T20:10:14",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 yılı bağımsız denetim şirketi seçiminin tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598400",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1598400_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598400"
+      }
+    ]
+  },
+  {
+    "index": 1598399,
+    "publish_datetime": "2026-04-28T20:09:39",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598399",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1598399_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598399"
+      }
+    ]
+  },
+  {
+    "index": 1597126,
+    "publish_datetime": "2026-04-24T16:27:25",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597126",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1597126_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597126"
+      }
+    ]
+  },
+  {
+    "index": 1596906,
+    "publish_datetime": "2026-04-22T20:42:53",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu görev dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596906",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1596906_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596906"
+      }
+    ]
+  },
+  {
+    "index": 1595528,
+    "publish_datetime": "2026-04-20T16:54:39",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ESEN",
+      "MGROS",
+      "MSGYO"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595528",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1595528_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595528"
+      }
+    ]
+  },
+  {
+    "index": 1594814,
+    "publish_datetime": "2026-04-17T16:52:55",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KAPLM",
+      "MGROS",
+      "NATEN"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594814",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1594814_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594814"
+      }
+    ]
+  },
+  {
+    "index": 1592676,
+    "publish_datetime": "2026-04-13T22:27:25",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Genel Kurul Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592676",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1592676_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592676"
+      },
+      {
+        "filename": "Migros Kar Dagitim Tablosu 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1592676_Migros Kar Dagitim Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d8806828b5c3f"
+      },
+      {
+        "filename": "Migros Dividend Distribution Table 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1592676_Migros Dividend Distribution Table 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d880682925c40"
+      }
+    ]
+  },
+  {
+    "index": 1592647,
+    "publish_datetime": "2026-04-13T21:01:13",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız denetim şirketi seçiminin Genel Kurul'ca onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592647",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1592647_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592647"
+      }
+    ]
+  },
+  {
+    "index": 1592646,
+    "publish_datetime": "2026-04-13T21:00:54",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme Tadiline İlişkin Genel Kurul Onayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592646",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1592646_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592646"
+      },
+      {
+        "filename": "SPK ve Bakanlık Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/MGROS/1592646_SPK ve Bakanlık Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019d86171f551766"
+      }
+    ]
+  },
+  {
+    "index": 1592644,
+    "publish_datetime": "2026-04-13T21:00:24",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592644",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1592644_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592644"
+      },
+      {
+        "filename": "Migros GK 13.04.2026 Toplanti Tutanagi.pdf",
+        "local_path": "data/pdfs/MGROS/1592644_Migros GK 13.04.2026 Toplanti Tutanagi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d87f43c735b5a"
+      },
+      {
+        "filename": "Migros GK 13.04.2026 Hazir Bulunanlar Listesi.pdf",
+        "local_path": "data/pdfs/MGROS/1592644_Migros GK 13.04.2026 Hazir Bulunanlar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d87f43c805b5b"
+      }
+    ]
+  },
+  {
+    "index": 1590533,
+    "publish_datetime": "2026-04-10T11:52:52",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme tadiline ilişkin Ticaret Bakanlığı izni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590533",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1590533_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590533"
+      },
+      {
+        "filename": "SPK ve Bakanlık Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/MGROS/1590533_SPK ve Bakanlık Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d76341c4c35b5"
+      }
+    ]
+  },
+  {
+    "index": 1589924,
+    "publish_datetime": "2026-04-09T14:08:34",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşme tadiline ilişkin SPK onayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1589924",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1589924_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1589924"
+      },
+      {
+        "filename": "SPK Onaylı Tadil Metni.pdf",
+        "local_path": "data/pdfs/MGROS/1589924_SPK Onaylı Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d712299977a31"
+      }
+    ]
+  },
+  {
+    "index": 1585271,
+    "publish_datetime": "2026-04-06T20:06:13",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Mart 2026 Mağaza Açılışları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585271",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1585271_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585271"
+      },
+      {
+        "filename": "MART MAĞAZA AÇILIŞ LİSTESİ.pdf",
+        "local_path": "data/pdfs/MGROS/1585271_MART MAĞAZA AÇILIŞ LİSTESİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d627b567314a2"
+      }
+    ]
+  },
+  {
+    "index": 1582172,
+    "publish_datetime": "2026-04-01T14:03:14",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582172",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1582172_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582172"
+      }
+    ]
+  },
+  {
+    "index": 1578522,
+    "publish_datetime": "2026-03-30T16:38:21",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DAPGM",
+      "MGROS",
+      "TUCLK",
+      "YGGYO"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578522",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1578522_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578522"
+      }
+    ]
+  },
+  {
+    "index": 1575671,
+    "publish_datetime": "2026-03-25T17:16:55",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS",
+      "BTCIM",
+      "DAPGM",
+      "ISBIR",
+      "KCHOL",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575671",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1575671_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575671"
+      }
+    ]
+  },
+  {
+    "index": 1575510,
+    "publish_datetime": "2026-03-25T15:06:40",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "Geleceğe Yönelik Beklentiler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575510",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1575510_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575510"
+      }
+    ]
+  },
+  {
+    "index": 1574724,
+    "publish_datetime": "2026-03-23T17:01:07",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL",
+      "GUBRF",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574724",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574724_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574724"
+      }
+    ]
+  },
+  {
+    "index": 1574477,
+    "publish_datetime": "2026-03-23T08:58:38",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings'in kredi derecelendirme notu açıklaması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574477",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574477_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574477"
+      }
+    ]
+  },
+  {
+    "index": 1574455,
+    "publish_datetime": "2026-03-19T14:34:39",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı için Bilgilendirme Dokümanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574455",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574455_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574455"
+      },
+      {
+        "filename": "Bilgilendirme Dokumani 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1574455_Bilgilendirme Dokumani 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05dda8be2e74"
+      },
+      {
+        "filename": "Information Document 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1574455_Information Document 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05dda8cc2e75"
+      }
+    ]
+  },
+  {
+    "index": 1574285,
+    "publish_datetime": "2026-03-18T22:38:35",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Yönetim Kurulu'nun 2025 yılına ilişkin kar payı dağıtımı önerisi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574285",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574285_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574285"
+      },
+      {
+        "filename": "Migros Kar Dagitim Tablosu 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1574285_Migros Kar Dagitim Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d026bb2871972"
+      },
+      {
+        "filename": "Migros Dividend Distribution Table 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1574285_Migros Dividend Distribution Table 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d026bb2af1973"
+      }
+    ]
+  },
+  {
+    "index": 1574278,
+    "publish_datetime": "2026-03-18T21:39:48",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Toplantısı Yapılmasına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574278",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574278_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574278"
+      },
+      {
+        "filename": "Migros Genel Kurul ilanı 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1574278_Migros Genel Kurul ilanı 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d0235937117de"
+      },
+      {
+        "filename": "Gündem.pdf",
+        "local_path": "data/pdfs/MGROS/1574278_Gündem.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d0235938617df"
+      },
+      {
+        "filename": "Vekaletname.pdf",
+        "local_path": "data/pdfs/MGROS/1574278_Vekaletname.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d023593a117e0"
+      }
+    ]
+  },
+  {
+    "index": 1574277,
+    "publish_datetime": "2026-03-18T21:39:07",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 yılı bağımsız denetim şirketi seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574277",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1574277_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574277"
+      }
+    ]
+  },
+  {
+    "index": 1571257,
+    "publish_datetime": "2026-03-11T23:01:48",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkeleri Uyum Raporu 2025",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571257",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1571257_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571257"
+      }
+    ]
+  },
+  {
+    "index": 1571239,
+    "publish_datetime": "2026-03-11T22:47:54",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu 2025",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571239",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1571239_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571239"
+      }
+    ]
+  },
+  {
+    "index": 1571238,
+    "publish_datetime": "2026-03-11T22:47:43",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu 2025",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571238",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1571238_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571238"
+      }
+    ]
+  },
+  {
+    "index": 1571176,
+    "publish_datetime": "2026-03-11T21:59:29",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Entegre Faaliyet Raporu (2025) - Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571176",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1571176_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571176"
+      }
+    ]
+  },
+  {
+    "index": 1571174,
+    "publish_datetime": "2026-03-11T21:59:00",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Entegre Faaliyet Raporu 2025",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571174",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1571174_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571174"
+      },
+      {
+        "filename": "Migros Entegre FR 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1571174_Migros Entegre FR 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019cde2c7c042f55"
+      }
+    ]
+  },
+  {
+    "index": 1570397,
+    "publish_datetime": "2026-03-11T16:35:13",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BERA",
+      "MGROS",
+      "OZSUB",
+      "SELVA"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570397",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/MGROS/1570397_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570397"
+      }
+    ]
+  },
+  {
+    "index": 1568829,
+    "publish_datetime": "2026-03-09T17:25:20",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA",
+      "ISBIR",
+      "MGROS",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568829",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567952,
+    "publish_datetime": "2026-03-09T09:12:25",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Esas Sözleşme Tadili",
+    "summary": "Esas Sözleşmenin 'Amaç ve Konu' ve 'Sermaye' maddelerinin tadiline ilişkin Yönetim Kurulu kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567952",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/MGROS/1567952_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd1355979062b"
+      },
+      {
+        "filename": "Articles of Association Amendment Text.pdf",
+        "local_path": "data/pdfs/MGROS/1567952_Articles of Association Amendment Text.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd1355981062c"
+      }
+    ]
+  },
+  {
+    "index": 1567949,
+    "publish_datetime": "2026-03-09T09:09:58",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı sermaye tavanının artırılması ve geçerlilik süresinin uzatılması hakkında Yönetim Kurulu kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567949",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/MGROS/1567949_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd13272cc05e0"
+      },
+      {
+        "filename": "Articles of Association Amendment Text.pdf",
+        "local_path": "data/pdfs/MGROS/1567949_Articles of Association Amendment Text.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd13272d405e1"
+      }
+    ]
+  },
+  {
+    "index": 1567785,
+    "publish_datetime": "2026-03-06T20:48:15",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetici Sorumluluk Sigortası",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567785",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1567217,
+    "publish_datetime": "2026-03-06T15:11:29",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "MGROS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567217",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566724,
+    "publish_datetime": "2026-03-05T20:36:38",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566724",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566422,
+    "publish_datetime": "2026-03-05T17:37:37",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "MGROS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566422",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566136,
+    "publish_datetime": "2026-03-05T01:15:22",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 yılı bilgilendirme sunumu ve bilgilendirme notu hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566136",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566135,
+    "publish_datetime": "2026-03-05T01:15:07",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şubat 2026 Mağaza Açılışları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566135",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "ŞUBAT MAĞAZA AÇILIŞ LİSTESİ.pdf",
+        "local_path": "data/pdfs/MGROS/1566135_ŞUBAT MAĞAZA AÇILIŞ LİSTESİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cba1584d61936"
+      }
+    ]
+  },
+  {
+    "index": 1566130,
+    "publish_datetime": "2026-03-05T00:41:27",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı - 4Ç 2025",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566130",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566129,
+    "publish_datetime": "2026-03-05T00:40:41",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566129",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Migros Ticaret A.S. TR 31.12.2025.pdf",
+        "local_path": "data/pdfs/MGROS/1566129_Migros Ticaret A.S. TR 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbab338dc111e"
+      },
+      {
+        "filename": "Migros Ticaret A.S. ENG 31.12.2025.pdf",
+        "local_path": "data/pdfs/MGROS/1566129_Migros Ticaret A.S. ENG 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbab33ac0111f"
+      }
+    ]
+  },
+  {
+    "index": 1563677,
+    "publish_datetime": "2026-03-02T17:22:43",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYES",
+      "FORTE",
+      "MGROS",
+      "MMCAS",
+      "ORCAY",
+      "TRCAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563677",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1560018,
+    "publish_datetime": "2026-02-20T18:57:12",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560018",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1557799,
+    "publish_datetime": "2026-02-17T18:56:40",
+    "company_name": "MİGROS TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "MGROS"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "2025 Yılı 4. Dönem Geçici Vergi Beyannamesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557799",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Geçici Vergi Aralık 2025.pdf",
+        "local_path": "data/pdfs/MGROS/1557799_Geçici Vergi Aralık 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6b1e84344c7d"
+      }
+    ]
+  },
+  {
+    "index": 1557487,
+    "publish_datetime": "2026-02-17T16:49:59",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CANTE",
+      "KAYSE",
+      "KRGYO",
+      "MGROS",
+      "PGSUS",
+      "SEGYO",
+      "TUCLK",
+      "TUPRS",
+      "VBTYZ",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557487",
+    "ticker": "MGROS",
+    "company_oid": "33E5FED7056A00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a141462df2014150162e1c3424",
+    "kap_company_code": "1494",
+    "source": "kap_web",
+    "attachments": []
+  }
+]

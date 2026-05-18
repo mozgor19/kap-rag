@@ -1,0 +1,833 @@
+[
+  {
+    "index": 1608461,
+    "publish_datetime": "2026-05-18T13:22:50",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "ZRGYO.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608461",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1608461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608461"
+      }
+    ]
+  },
+  {
+    "index": 1605125,
+    "publish_datetime": "2026-05-11T18:20:28",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Ziraat GYO-Ara Dönem Yönetim Kurulu Faaliyet Raporu-Mart 2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605125",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1605125_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605125"
+      },
+      {
+        "filename": "Mart 2026 Ara Dönem Yönetim Kurulu Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ZRGYO/1605125_Mart 2026 Ara Dönem Yönetim Kurulu Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1742d0813d25"
+      }
+    ]
+  },
+  {
+    "index": 1605109,
+    "publish_datetime": "2026-05-11T18:19:25",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605109",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1605109_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605109"
+      },
+      {
+        "filename": "Ziraat GYO-Konsolide-Mart 2026.pdf",
+        "local_path": "data/pdfs/ZRGYO/1605109_Ziraat GYO-Konsolide-Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1746324a2a70"
+      }
+    ]
+  },
+  {
+    "index": 1605095,
+    "publish_datetime": "2026-05-11T18:18:02",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605095",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1605095_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605095"
+      },
+      {
+        "filename": "Ziraat GYO-Bireysel-Mart 2026.pdf",
+        "local_path": "data/pdfs/ZRGYO/1605095_Ziraat GYO-Bireysel-Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1750ebba2fc8"
+      }
+    ]
+  },
+  {
+    "index": 1605054,
+    "publish_datetime": "2026-05-11T18:15:16",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Ziraat GYO-Sorumluluk Beyanı-Mart 2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605054",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1605054_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605054"
+      },
+      {
+        "filename": "Sorumluluk Beyanı-31 Mart 2026.pdf",
+        "local_path": "data/pdfs/ZRGYO/1605054_Sorumluluk Beyanı-31 Mart 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e15c067b1702d"
+      }
+    ]
+  },
+  {
+    "index": 1601236,
+    "publish_datetime": "2026-05-05T17:45:03",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Değerleme Raporu ",
+    "summary": "Hatay-İskenderun Projesi İnşaata Başlama Değer Tespit Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601236",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1601236_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601236"
+      },
+      {
+        "filename": "Hatay-İskenderun Projesi İnşaata Başlama Değer Tespit Raporu.pdf",
+        "local_path": "data/pdfs/ZRGYO/1601236_Hatay-İskenderun Projesi İnşaata Başlama Değer Tespit Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df89703574dd5"
+      }
+    ]
+  },
+  {
+    "index": 1598690,
+    "publish_datetime": "2026-04-29T16:35:50",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Tescil ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598690",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1598690_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598690"
+      }
+    ]
+  },
+  {
+    "index": 1598688,
+    "publish_datetime": "2026-04-29T16:35:38",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598688",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1598688_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598688"
+      },
+      {
+        "filename": "Ziraat GYO 2025 Yılı Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "local_path": "data/pdfs/ZRGYO/1598688_Ziraat GYO 2025 Yılı Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd957552c7741"
+      },
+      {
+        "filename": "Hazirun Listesi.pdf",
+        "local_path": "data/pdfs/ZRGYO/1598688_Hazirun Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd95755397742"
+      },
+      {
+        "filename": "2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "local_path": "data/pdfs/ZRGYO/1598688_2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd957555e7743"
+      }
+    ]
+  },
+  {
+    "index": 1596231,
+    "publish_datetime": "2026-04-21T17:55:38",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Payı Dağıtımına İlişkin Önerinin Olağan Genel Kurul Toplantısı'nda Onaylanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596231",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1596231_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596231"
+      },
+      {
+        "filename": "ZİRAAT GYO 2025 KÂR DAĞITIM TABLOSU.pdf",
+        "local_path": "data/pdfs/ZRGYO/1596231_ZİRAAT GYO 2025 KÂR DAĞITIM TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db085067e5349"
+      },
+      {
+        "filename": "ZİRAAT GYO PROFIT DISTRUBITION STATEMENT FOR 2025.pdf",
+        "local_path": "data/pdfs/ZRGYO/1596231_ZİRAAT GYO PROFIT DISTRUBITION STATEMENT FOR 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db0850699534a"
+      }
+    ]
+  },
+  {
+    "index": 1596205,
+    "publish_datetime": "2026-04-21T17:41:18",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596205",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1596205_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596205"
+      }
+    ]
+  },
+  {
+    "index": 1596204,
+    "publish_datetime": "2026-04-21T17:40:23",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına İlişkin Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596204",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1596204_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596204"
+      },
+      {
+        "filename": "Ziraat GYO 2025 Yılı Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "local_path": "data/pdfs/ZRGYO/1596204_Ziraat GYO 2025 Yılı Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db079a42750b5"
+      },
+      {
+        "filename": "Hazirun Listesi.pdf",
+        "local_path": "data/pdfs/ZRGYO/1596204_Hazirun Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db079a43150b6"
+      },
+      {
+        "filename": "2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "local_path": "data/pdfs/ZRGYO/1596204_2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db079a45450b7"
+      }
+    ]
+  },
+  {
+    "index": 1578656,
+    "publish_datetime": "2026-03-30T17:42:41",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578656",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1578656_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578656"
+      }
+    ]
+  },
+  {
+    "index": 1574791,
+    "publish_datetime": "2026-03-23T18:01:25",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Daveti",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574791",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1574791_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574791"
+      },
+      {
+        "filename": "2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "local_path": "data/pdfs/ZRGYO/1574791_2025 Yılına İlişkin Olağan Genel Kurul Bilgilendirme Dokümanı - Ekli.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1b3475ae55a5"
+      },
+      {
+        "filename": "Information Document.pdf",
+        "local_path": "data/pdfs/ZRGYO/1574791_Information Document.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1b3475d655a6"
+      }
+    ]
+  },
+  {
+    "index": 1574788,
+    "publish_datetime": "2026-03-23T18:00:30",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kar Payı Dağıtımı Önerisi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574788",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1574788_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574788"
+      },
+      {
+        "filename": "ZİRAAT GYO 2025 KÂR DAĞITIM TABLOSU.pdf",
+        "local_path": "data/pdfs/ZRGYO/1574788_ZİRAAT GYO 2025 KÂR DAĞITIM TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1af2d34b4d17"
+      },
+      {
+        "filename": "ZİRAAT GYO PROFIT DISTRUBITION STATEMENT FOR 2025.pdf",
+        "local_path": "data/pdfs/ZRGYO/1574788_ZİRAAT GYO PROFIT DISTRUBITION STATEMENT FOR 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1af2d35c4d18"
+      }
+    ]
+  },
+  {
+    "index": 1574787,
+    "publish_datetime": "2026-03-23T17:59:16",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574787",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1574787_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574787"
+      }
+    ]
+  },
+  {
+    "index": 1571659,
+    "publish_datetime": "2026-03-12T14:25:06",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu Güncelleme - Yönetim Kurulu-2",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571659",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1571659_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571659"
+      }
+    ]
+  },
+  {
+    "index": 1570786,
+    "publish_datetime": "2026-03-11T18:55:47",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570786",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1570786_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570786"
+      },
+      {
+        "filename": "Sorumluluk Beyanı 31.12.2025 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ZRGYO/1570786_Sorumluluk Beyanı 31.12.2025 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdd6ccfba4b56"
+      }
+    ]
+  },
+  {
+    "index": 1570785,
+    "publish_datetime": "2026-03-11T18:55:36",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570785",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1570785_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570785"
+      },
+      {
+        "filename": "Ziraat GYO 2025 Yılı Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/ZRGYO/1570785_Ziraat GYO 2025 Yılı Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdd84c5cd650c"
+      }
+    ]
+  },
+  {
+    "index": 1570515,
+    "publish_datetime": "2026-03-11T18:12:35",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570515",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1570515_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570515"
+      }
+    ]
+  },
+  {
+    "index": 1570511,
+    "publish_datetime": "2026-03-11T18:12:23",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Yılı Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570511",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1570511_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570511"
+      }
+    ]
+  },
+  {
+    "index": 1570503,
+    "publish_datetime": "2026-03-11T18:12:02",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570503",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1570503_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570503"
+      }
+    ]
+  },
+  {
+    "index": 1563739,
+    "publish_datetime": "2026-03-02T17:32:51",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563739",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1563739_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563739"
+      }
+    ]
+  },
+  {
+    "index": 1557618,
+    "publish_datetime": "2026-02-17T18:14:14",
+    "company_name": "ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ZRGYO"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557618",
+    "ticker": "ZRGYO",
+    "company_oid": "8acae2c47902e75601793b3e71822989",
+    "mkk_member_oid": "8acae2c45835eb660158bfedd32d3332",
+    "kap_company_code": "4337",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/ZRGYO/1557618_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557618"
+      }
+    ]
+  }
+]

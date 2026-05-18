@@ -1,0 +1,1809 @@
+[
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1608123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608123"
+      }
+    ]
+  },
+  {
+    "index": 1598433,
+    "publish_datetime": "2026-04-28T22:37:18",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598433",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1598433_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598433"
+      }
+    ]
+  },
+  {
+    "index": 1598432,
+    "publish_datetime": "2026-04-28T22:37:06",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tüzel Kişi Yönetim Kurulu Üye Temsilcisi Değişiklikleri ve Yönetim Kurulu Üyelerinin Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598432",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1598432_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598432"
+      },
+      {
+        "filename": "Melikşah UTKU_Özgeçmiş TR.pdf",
+        "local_path": "data/pdfs/EREGL/1598432_Melikşah UTKU_Özgeçmiş TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd592d1aa4e26"
+      },
+      {
+        "filename": "Melikşah UTKU_Özgeçmiş ENG.pdf",
+        "local_path": "data/pdfs/EREGL/1598432_Melikşah UTKU_Özgeçmiş ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd592d1b14e27"
+      },
+      {
+        "filename": "Ahmet Raci YALÇIN_Özgeçmiş TR.pdf",
+        "local_path": "data/pdfs/EREGL/1598432_Ahmet Raci YALÇIN_Özgeçmiş TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd592d1c14e28"
+      }
+    ]
+  },
+  {
+    "index": 1598409,
+    "publish_datetime": "2026-04-28T20:12:55",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Nakit Kar Payı Ödeme Tarihi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598409",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1598409_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598409"
+      },
+      {
+        "filename": "Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EREGL/1598409_Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daed60433459a"
+      },
+      {
+        "filename": "Erdemir 2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/EREGL/1598409_Erdemir 2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019daed60438459b"
+      }
+    ]
+  },
+  {
+    "index": 1598408,
+    "publish_datetime": "2026-04-28T20:12:45",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "1 Ocak - 31 Mart 2026 Dönemine İlişkin Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598408",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598406,
+    "publish_datetime": "2026-04-28T20:12:24",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "1 Ocak - 31 Mart 2026 ara hesap dönemine ait özet faaliyet raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598406",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "EREGL_Faaliyet_TR_1Q_26_KAP.pdf",
+        "local_path": "data/pdfs/EREGL/1598406_EREGL_Faaliyet_TR_1Q_26_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd4cfa19a3353"
+      }
+    ]
+  },
+  {
+    "index": 1598405,
+    "publish_datetime": "2026-04-28T20:12:13",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598405",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "EREGL_Rapor_TR_1Q_26_KAP.pdf",
+        "local_path": "data/pdfs/EREGL/1598405_EREGL_Rapor_TR_1Q_26_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd3c055282c47"
+      }
+    ]
+  },
+  {
+    "index": 1597826,
+    "publish_datetime": "2026-04-27T20:11:46",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKSA",
+      "AKYHO",
+      "ALCTL",
+      "ALFAS",
+      "ALKLC",
+      "ALVES",
+      "ARENA",
+      "AVPGY",
+      "BANVT",
+      "BAYRK",
+      "BMSTL",
+      "BNTAS",
+      "BRISA",
+      "BUCIM",
+      "BYDNR",
+      "CEMZY",
+      "CMBTN",
+      "CVKMD",
+      "DGNMO",
+      "DITAS",
+      "DNISI",
+      "DOFRB",
+      "DYOBY",
+      "EBEBK",
+      "EFOR",
+      "ELITE",
+      "EMPAE",
+      "ENJSA",
+      "EREGL",
+      "FORTE",
+      "GEREL",
+      "GESAN",
+      "GMTAS",
+      "GOLTS",
+      "GRSEL",
+      "GUNDG",
+      "HATSN",
+      "IHLGM",
+      "INGRM",
+      "ISDMR",
+      "ISSEN",
+      "IZFAS",
+      "JANTS",
+      "KATMR",
+      "KLSER",
+      "KMPUR",
+      "KOCMT",
+      "KONTR",
+      "KONYA",
+      "KOTON",
+      "KTLEV",
+      "KUYAS",
+      "KZBGY",
+      "LMKDC",
+      "MAGEN",
+      "MCARD",
+      "MEGMT",
+      "MERCN",
+      "MERKO",
+      "MEYSU",
+      "MNDRS",
+      "MOPAS",
+      "MPARK",
+      "NETAS",
+      "NETCD",
+      "NTGAZ",
+      "OFSYM",
+      "OZATD",
+      "OZGYO",
+      "PETUN",
+      "PNLSN",
+      "PNSUT",
+      "PRKME",
+      "QUAGR",
+      "RALYH",
+      "SAFKR",
+      "SARKY",
+      "SDTTR",
+      "SELEC",
+      "SMRTG",
+      "SNICA",
+      "TDGYO",
+      "TKFEN",
+      "TMPOL",
+      "TMSN",
+      "TNZTP",
+      "TUKAS",
+      "TURGG",
+      "UCAYM",
+      "UFUK",
+      "ULAS",
+      "USAK",
+      "VESBE",
+      "VRGYO",
+      "YIGIT",
+      "YKSLN",
+      "ZERGY"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Katılım Tüm, BIST Katılım 100, BIST Katılım 50, BIST Katılım 30, BIST Katılım Sürdürülebilirlik ve BIST Katılım Temettü Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597826",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BIST Katılım Endeksleri Dönemsel Değişiklikleri.pdf",
+        "local_path": "data/pdfs/EREGL/1597826_BIST Katılım Endeksleri Dönemsel Değişiklikleri.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dcfca07411365"
+      },
+      {
+        "filename": "BIST Participation Indices Periodic Changes.pdf",
+        "local_path": "data/pdfs/EREGL/1597826_BIST Participation Indices Periodic Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dcfca07501366"
+      }
+    ]
+  },
+  {
+    "index": 1596735,
+    "publish_datetime": "2026-04-22T17:10:03",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "EREGL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596735",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1595638,
+    "publish_datetime": "2026-04-20T18:11:10",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 5,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595638",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Erdemir Genel Kurul Toplantı Tutanağı_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1595638_Erdemir Genel Kurul Toplantı Tutanağı_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daaea5f9a4f67"
+      },
+      {
+        "filename": "Erdemir Hazır Bulunanlar Listesi_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1595638_Erdemir Hazır Bulunanlar Listesi_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daaea5fae4f68"
+      },
+      {
+        "filename": "Erdemir List of Attendees_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1595638_Erdemir List of Attendees_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daaea5fcb4f69"
+      }
+    ]
+  },
+  {
+    "index": 1594977,
+    "publish_datetime": "2026-04-17T19:35:36",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR",
+      "AYGAZ",
+      "BRISA",
+      "CIMSA",
+      "EBEBK",
+      "ECILC",
+      "EGEEN",
+      "EMPAE",
+      "EREGL",
+      "ISDMR",
+      "KTLEV",
+      "LILAK",
+      "MCARD",
+      "SANFM",
+      "SELEC",
+      "SISE",
+      "TTRAK"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Temettü ve BIST Temettü 25 Endeksleri Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594977",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "local_path": "data/pdfs/EREGL/1594977_BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4586967"
+      },
+      {
+        "filename": "BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "local_path": "data/pdfs/EREGL/1594977_BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4656968"
+      }
+    ]
+  },
+  {
+    "index": 1594295,
+    "publish_datetime": "2026-04-16T16:56:58",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AVTUR",
+      "EREGL",
+      "ISSEN",
+      "MERIT",
+      "SAHOL",
+      "TATEN"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594295",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1590300,
+    "publish_datetime": "2026-04-09T18:13:45",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu Güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590300",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1590298,
+    "publish_datetime": "2026-04-09T18:13:20",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590298",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1590295,
+    "publish_datetime": "2026-04-09T18:13:06",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Komiteleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590295",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1590294,
+    "publish_datetime": "2026-04-09T18:12:52",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyelerinin Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590294",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1580830,
+    "publish_datetime": "2026-03-31T18:13:51",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Payların Geri Alınmasına İlişkin Bildirim",
+    "summary": "Pay Geri Alım Programının Sona Ermesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580830",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Pay Geri Alım Programı.pdf",
+        "local_path": "data/pdfs/EREGL/1580830_Pay Geri Alım Programı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3e7db8766263"
+      },
+      {
+        "filename": "Share Buy-Back Program.pdf",
+        "local_path": "data/pdfs/EREGL/1580830_Share Buy-Back Program.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3e7dba876264"
+      }
+    ]
+  },
+  {
+    "index": 1578858,
+    "publish_datetime": "2026-03-30T18:12:02",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Kar Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578858",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EREGL/1578858_Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d3ed513d5076c"
+      },
+      {
+        "filename": "Erdemir 2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/EREGL/1578858_Erdemir 2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d3ed513de076d"
+      }
+    ]
+  },
+  {
+    "index": 1576836,
+    "publish_datetime": "2026-03-26T20:41:15",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576836",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1576835,
+    "publish_datetime": "2026-03-26T20:41:03",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Genel Kurul Toplantısı Sürdürülebilirlik Denetimi için Bağımsız Denetim Kuruluşu Seçim Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576835",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1576835_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576835"
+      }
+    ]
+  },
+  {
+    "index": 1576834,
+    "publish_datetime": "2026-03-26T20:40:50",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Genel Kurul Toplantısı 2026 Yılı Bağımsız Denetim Şirketi Seçim Sonucu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576834",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1576834_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576834"
+      }
+    ]
+  },
+  {
+    "index": 1576833,
+    "publish_datetime": "2026-03-26T20:40:35",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Kar Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576833",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1576833_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576833"
+      },
+      {
+        "filename": "Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EREGL/1576833_Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d2b24c57d242f"
+      },
+      {
+        "filename": "Erdemir 2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/EREGL/1576833_Erdemir 2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d2b24c5a02430"
+      }
+    ]
+  },
+  {
+    "index": 1576817,
+    "publish_datetime": "2026-03-26T20:11:48",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına İlişkin Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 5,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576817",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1576817_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576817"
+      },
+      {
+        "filename": "Erdemir Genel Kurul Toplantı Tutanağı_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1576817_Erdemir Genel Kurul Toplantı Tutanağı_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d2b1c21e32348"
+      },
+      {
+        "filename": "Erdemir Hazır Bulunanlar Listesi_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1576817_Erdemir Hazır Bulunanlar Listesi_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d2b1c22762349"
+      },
+      {
+        "filename": "Erdemir List of Attendees_26.03.2026.pdf",
+        "local_path": "data/pdfs/EREGL/1576817_Erdemir List of Attendees_26.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d2b1c23f2234a"
+      }
+    ]
+  },
+  {
+    "index": 1574809,
+    "publish_datetime": "2026-03-23T18:13:11",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574809",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1574809_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574809"
+      },
+      {
+        "filename": "2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/EREGL/1574809_2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d1a42640c1f44"
+      }
+    ]
+  },
+  {
+    "index": 1574808,
+    "publish_datetime": "2026-03-23T18:12:52",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Sürdürülebilirlik Denetimi için Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574808",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1574808_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574808"
+      }
+    ]
+  },
+  {
+    "index": 1574807,
+    "publish_datetime": "2026-03-23T18:12:37",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 Yılı Bağımsız Denetim Şirketi Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574807",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1574807_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574807"
+      }
+    ]
+  },
+  {
+    "index": 1574724,
+    "publish_datetime": "2026-03-23T17:01:07",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL",
+      "GUBRF",
+      "MGROS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574724",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1574724_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574724"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1573143,
+    "publish_datetime": "2026-03-16T18:12:07",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573143",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1573143_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573143"
+      }
+    ]
+  },
+  {
+    "index": 1573141,
+    "publish_datetime": "2026-03-16T18:11:55",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tüzel Kişi Yönetim Kurulu Üye Temsilcisi Değişiklikleri ve Yönetim Kurulu Üyelerinin Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573141",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1573141_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573141"
+      },
+      {
+        "filename": "Tolga Saygun_Özgeçmiş TR.pdf",
+        "local_path": "data/pdfs/EREGL/1573141_Tolga Saygun_Özgeçmiş TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cf5d64b834e20"
+      },
+      {
+        "filename": "Tolga Saygun_Özgeçmiş ENG.pdf",
+        "local_path": "data/pdfs/EREGL/1573141_Tolga Saygun_Özgeçmiş ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cf5d64b9f4e21"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1565152,
+    "publish_datetime": "2026-03-03T18:14:54",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565152",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1565152_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565152"
+      },
+      {
+        "filename": "Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/EREGL/1565152_Erdemir 2025 Yılı Kar Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb4363fbf1f86"
+      },
+      {
+        "filename": "Erdemir 2025 Profit Distribution Table.pdf",
+        "local_path": "data/pdfs/EREGL/1565152_Erdemir 2025 Profit Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb4363fc41f87"
+      }
+    ]
+  },
+  {
+    "index": 1565150,
+    "publish_datetime": "2026-03-03T18:14:40",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Duyurusu ve Bilgilendirme Dokümanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565150",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1565150_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565150"
+      },
+      {
+        "filename": "Erdemir 2025 Genel Kurul İlanı.pdf",
+        "local_path": "data/pdfs/EREGL/1565150_Erdemir 2025 Genel Kurul İlanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb351fa1f7ccc"
+      },
+      {
+        "filename": "Erdemir 2025 General Assembly Invitation.pdf",
+        "local_path": "data/pdfs/EREGL/1565150_Erdemir 2025 General Assembly Invitation.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb351fa2a7ccd"
+      },
+      {
+        "filename": "Erdemir Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/EREGL/1565150_Erdemir Olağan Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb351fa367cce"
+      }
+    ]
+  },
+  {
+    "index": 1564899,
+    "publish_datetime": "2026-03-03T13:19:15",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "EREGL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564899",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1564899_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564899"
+      }
+    ]
+  },
+  {
+    "index": 1563894,
+    "publish_datetime": "2026-03-02T18:12:46",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Olağan Genel Kurul Toplantısı'nda Aday Gösterilecek Bağımsız Yönetim Kurulu Üyeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563894",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1563894_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563894"
+      },
+      {
+        "filename": "Hasan Mandal_Özgeçmiş_TR.pdf",
+        "local_path": "data/pdfs/EREGL/1563894_Hasan Mandal_Özgeçmiş_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cad69f8234bba"
+      },
+      {
+        "filename": "Hasan Mandal_Özgeçmiş_ENG.pdf",
+        "local_path": "data/pdfs/EREGL/1563894_Hasan Mandal_Özgeçmiş_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cad69f82b4bbb"
+      },
+      {
+        "filename": "Saime Gonca Artunkal_Özgeçmiş_TR.pdf",
+        "local_path": "data/pdfs/EREGL/1563894_Saime Gonca Artunkal_Özgeçmiş_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cad69f8354bbc"
+      }
+    ]
+  },
+  {
+    "index": 1561601,
+    "publish_datetime": "2026-02-25T19:56:44",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561601",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1561601_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561601"
+      }
+    ]
+  },
+  {
+    "index": 1561508,
+    "publish_datetime": "2026-02-25T18:13:18",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tüzel Kişi Yönetim Kurulu Üye Temsilcisi Değişikliği",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561508",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1561508_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561508"
+      },
+      {
+        "filename": "Gizem Mutlu_Özgeçmiş_TR.pdf",
+        "local_path": "data/pdfs/EREGL/1561508_Gizem Mutlu_Özgeçmiş_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c93cf94b60802"
+      },
+      {
+        "filename": "Gizem Mutlu_Özgeçmiş_ENG.pdf",
+        "local_path": "data/pdfs/EREGL/1561508_Gizem Mutlu_Özgeçmiş_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c93cf94ca0803"
+      }
+    ]
+  },
+  {
+    "index": 1561004,
+    "publish_datetime": "2026-02-24T18:11:51",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Kredi Derecelendirme Notu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561004",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1561004_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561004"
+      }
+    ]
+  },
+  {
+    "index": 1557694,
+    "publish_datetime": "2026-02-17T18:21:27",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557694",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557694_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557694"
+      }
+    ]
+  },
+  {
+    "index": 1557688,
+    "publish_datetime": "2026-02-17T18:20:48",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 Yılı TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557688",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557688_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557688"
+      },
+      {
+        "filename": "2025 yılı Erdemir TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "local_path": "data/pdfs/EREGL/1557688_2025 yılı Erdemir TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6be52f910344"
+      },
+      {
+        "filename": "Erdemir TSRS Compliant Sustainability Report 2025.pdf",
+        "local_path": "data/pdfs/EREGL/1557688_Erdemir TSRS Compliant Sustainability Report 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c6be52fa50345"
+      }
+    ]
+  },
+  {
+    "index": 1557685,
+    "publish_datetime": "2026-02-17T18:20:36",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557685",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557685_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557685"
+      }
+    ]
+  },
+  {
+    "index": 1557684,
+    "publish_datetime": "2026-02-17T18:20:20",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Yılı Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557684",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557684_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557684"
+      }
+    ]
+  },
+  {
+    "index": 1557674,
+    "publish_datetime": "2026-02-17T18:19:15",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557674",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557674_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557674"
+      }
+    ]
+  },
+  {
+    "index": 1557669,
+    "publish_datetime": "2026-02-17T18:19:04",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "Yaygın ve Süreklilik Arz Eden İşlemlere İlişkin Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557669",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557669_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557669"
+      }
+    ]
+  },
+  {
+    "index": 1557668,
+    "publish_datetime": "2026-02-17T18:18:52",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "1 Ocak - 31 Aralık 2025 Dönemine İlişkin Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557668",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557668_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557668"
+      }
+    ]
+  },
+  {
+    "index": 1557666,
+    "publish_datetime": "2026-02-17T18:18:42",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "1 Ocak - 31 Aralık 2025 dönemine ait yıllık faaliyet raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557666",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557666_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557666"
+      },
+      {
+        "filename": "EREGL_Faaliyet_TR_4Q_25_KAP.pdf",
+        "local_path": "data/pdfs/EREGL/1557666_EREGL_Faaliyet_TR_4Q_25_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6b13b30b6ffb"
+      }
+    ]
+  },
+  {
+    "index": 1557665,
+    "publish_datetime": "2026-02-17T18:18:33",
+    "company_name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EREGL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557665",
+    "ticker": "EREGL",
+    "company_oid": "33E5FED703B300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240e95dc90140ede4c12a0133",
+    "kap_company_code": "944",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/EREGL/1557665_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557665"
+      },
+      {
+        "filename": "EREGL_Rapor_TR_4Q_25_KAP.pdf",
+        "local_path": "data/pdfs/EREGL/1557665_EREGL_Rapor_TR_4Q_25_KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6b10f3eb6f93"
+      }
+    ]
+  }
+]

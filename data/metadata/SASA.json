@@ -1,0 +1,2803 @@
+[
+  {
+    "index": 1608685,
+    "publish_datetime": "2026-05-18T18:20:03",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Paya dönüştürebilir tahvil kapsamında ödünç verilen paylar hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608685",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1608685_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608685"
+      }
+    ]
+  },
+  {
+    "index": 1608208,
+    "publish_datetime": "2026-05-15T19:00:06",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şarta Bağlı Sermaye Artırımı-İhraç Belgesi Spk Onay Başvurusu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608208",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1608208_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608208"
+      }
+    ]
+  },
+  {
+    "index": 1608073,
+    "publish_datetime": "2026-05-15T17:56:39",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608073",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1608073_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608073"
+      }
+    ]
+  },
+  {
+    "index": 1607612,
+    "publish_datetime": "2026-05-15T09:12:21",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ADEL",
+      "BAGFS",
+      "BIMAS",
+      "DHI",
+      "DSTKF",
+      "GSDHO",
+      "IAS",
+      "IZFAS",
+      "MAC",
+      "MMCAS",
+      "PASEU",
+      "PDC",
+      "PRY",
+      "SASA",
+      "TP2",
+      "TRILC"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607612",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1607612_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607612"
+      },
+      {
+        "filename": "14052026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/SASA/1607612_14052026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2a2fb9a5063b"
+      }
+    ]
+  },
+  {
+    "index": 1607250,
+    "publish_datetime": "2026-05-14T15:26:26",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607250",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1607250_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607250"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1607250_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e2672cf252b07"
+      }
+    ]
+  },
+  {
+    "index": 1607084,
+    "publish_datetime": "2026-05-14T09:17:21",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "BIGCH",
+      "FRIGO",
+      "KLSYN",
+      "PASEU",
+      "PEKGY",
+      "PRY",
+      "SASA",
+      "SOKE",
+      "TLY",
+      "VPS"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607084",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1607084_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607084"
+      },
+      {
+        "filename": "13052026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/SASA/1607084_13052026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e251dfc9215de"
+      }
+    ]
+  },
+  {
+    "index": 1606965,
+    "publish_datetime": "2026-05-13T18:12:05",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "115.900.000 Euro nominal değerli tahvillerin itfasının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606965",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606965_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606965"
+      },
+      {
+        "filename": "SASA - Relevant Event Notice (13 March 2026).pdf",
+        "local_path": "data/pdfs/SASA/1606965_SASA - Relevant Event Notice (13 March 2026).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e21b0a6884232"
+      },
+      {
+        "filename": "SASA İlgili  Olay Duyurusu (13 March 2026) (TR).pdf",
+        "local_path": "data/pdfs/SASA/1606965_SASA İlgili Olay Duyurusu (13 March 2026) (TR).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e21b0a6f34233"
+      }
+    ]
+  },
+  {
+    "index": 1606875,
+    "publish_datetime": "2026-05-13T16:59:17",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606875",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606875_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606875"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1606875_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e21a0c89c610c"
+      }
+    ]
+  },
+  {
+    "index": 1606841,
+    "publish_datetime": "2026-05-13T16:41:39",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606841",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606841_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606841"
+      }
+    ]
+  },
+  {
+    "index": 1606628,
+    "publish_datetime": "2026-05-13T11:33:45",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606628",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606628_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606628"
+      }
+    ]
+  },
+  {
+    "index": 1606425,
+    "publish_datetime": "2026-05-12T18:14:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AHGAZ",
+      "ALTNY",
+      "ASTOR",
+      "AVOD",
+      "AZTEK",
+      "BIOEN",
+      "BORLS",
+      "BORSK",
+      "BRKO",
+      "CANTE",
+      "CVKMD",
+      "DMSAS",
+      "DOFRB",
+      "DUNYH",
+      "EGPRO",
+      "EKGYO",
+      "ESEN",
+      "FADE",
+      "GLBMD",
+      "GSRAY",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "KCAER",
+      "KENT",
+      "KOCMT",
+      "KOPOL",
+      "LXGYO",
+      "PATEK",
+      "PCILT",
+      "PENGD",
+      "PSGYO",
+      "SANFM",
+      "SASA",
+      "SEYKM",
+      "SISE",
+      "SKTAS",
+      "SOKM",
+      "SURGY",
+      "SUWEN",
+      "TKFEN",
+      "TSGYO",
+      "YKSLN"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606425",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606425"
+      }
+    ]
+  },
+  {
+    "index": 1606387,
+    "publish_datetime": "2026-05-12T17:49:58",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606387",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606387_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606387"
+      }
+    ]
+  },
+  {
+    "index": 1606194,
+    "publish_datetime": "2026-05-12T14:56:50",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606194",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606194_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606194"
+      }
+    ]
+  },
+  {
+    "index": 1606173,
+    "publish_datetime": "2026-05-12T14:20:21",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606173",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1606173_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606173"
+      }
+    ]
+  },
+  {
+    "index": 1603653,
+    "publish_datetime": "2026-05-08T18:33:21",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Şarta Bağlı Sermaye Artırımına İlişkin İhraç Belgesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603653",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/SASA/1603653_İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0837d63f68bf"
+      }
+    ]
+  },
+  {
+    "index": 1603434,
+    "publish_datetime": "2026-05-08T17:25:42",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şarta Bağlı Sermaye Artırımı Yönetim Kurulu Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603434",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1603120,
+    "publish_datetime": "2026-05-08T12:44:19",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Tescil ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603120",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1603119,
+    "publish_datetime": "2026-05-08T12:43:39",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "\t\n2025 Yılı Olağan Genel Kurul Toplantı Sonuçlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603119",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Tutanak-2025.pdf",
+        "local_path": "data/pdfs/SASA/1603119_Tutanak-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0676e21670c0"
+      },
+      {
+        "filename": "Hazirun Cetveli.pdf",
+        "local_path": "data/pdfs/SASA/1603119_Hazirun Cetveli.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0676e2a970c1"
+      },
+      {
+        "filename": "2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "local_path": "data/pdfs/SASA/1603119_2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e0676e34c70c2"
+      }
+    ]
+  },
+  {
+    "index": 1603021,
+    "publish_datetime": "2026-05-08T11:24:24",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Şarta Bağlı Sermaye Artırımı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603021",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1602018,
+    "publish_datetime": "2026-05-06T18:13:59",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGESA",
+      "DOHOL",
+      "GSDDE",
+      "KUYAS",
+      "NATEN",
+      "SARKY",
+      "SASA"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Geri Alım Endeksi Dönemsel Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602018",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BIST Geri Alım Endeksine alınacak ve çıkarılacak paylar listesi.pdf",
+        "local_path": "data/pdfs/SASA/1602018_BIST Geri Alım Endeksine alınacak ve çıkarılacak paylar listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdd486791ee9"
+      },
+      {
+        "filename": "BIST Buyback Index list of included excluded stocks.pdf",
+        "local_path": "data/pdfs/SASA/1602018_BIST Buyback Index list of included excluded stocks.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdd486a71eea"
+      }
+    ]
+  },
+  {
+    "index": 1601842,
+    "publish_datetime": "2026-05-06T16:27:43",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601842",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1601842_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd778c6e0ff3"
+      }
+    ]
+  },
+  {
+    "index": 1601499,
+    "publish_datetime": "2026-05-06T08:55:55",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601499",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1601499_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dfbd6ab445e1d"
+      }
+    ]
+  },
+  {
+    "index": 1601342,
+    "publish_datetime": "2026-05-05T18:29:43",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601342",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601238,
+    "publish_datetime": "2026-05-05T17:47:57",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601238",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601205,
+    "publish_datetime": "2026-05-05T17:18:30",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "\t\n2025 Yılı Olağan Genel Kurul Toplantısı Kâr Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601205",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 YILI KAR DAĞITIM TABLOSU.pdf",
+        "local_path": "data/pdfs/SASA/1601205_2025 YILI KAR DAĞITIM TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df87f0af30021"
+      },
+      {
+        "filename": "PROFIT DISTRIBUTION TABLE FOR 2025.pdf",
+        "local_path": "data/pdfs/SASA/1601205_PROFIT DISTRIBUTION TABLE FOR 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df87f0b010022"
+      }
+    ]
+  },
+  {
+    "index": 1601190,
+    "publish_datetime": "2026-05-05T17:09:35",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komite Üyelerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601190",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601189,
+    "publish_datetime": "2026-05-05T17:08:56",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyeleri Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601189",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1601188,
+    "publish_datetime": "2026-05-05T17:08:31",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Payların Geri Alınmasına İlişkin Bildirim",
+    "summary": "24 Nisan 2025 tarihli Genel Kurulu Kararı ile başlatılan Pay Geri Alım Programının sonlandırılması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601188",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Geri Alım Programı.pdf",
+        "local_path": "data/pdfs/SASA/1601188_Geri Alım Programı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df4ec2a9d6087"
+      },
+      {
+        "filename": "Share Buy-Back Program.pdf",
+        "local_path": "data/pdfs/SASA/1601188_Share Buy-Back Program.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df4ec2aac6088"
+      }
+    ]
+  },
+  {
+    "index": 1601187,
+    "publish_datetime": "2026-05-05T17:07:34",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601187",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1601187_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601187"
+      }
+    ]
+  },
+  {
+    "index": 1601186,
+    "publish_datetime": "2026-05-05T17:07:14",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "\t\n2025 Yılı Olağan Genel Kurul Toplantı Sonuçları",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 10,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601186",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1601186_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601186"
+      },
+      {
+        "filename": "Tutanak-2025.pdf",
+        "local_path": "data/pdfs/SASA/1601186_Tutanak-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df7c909c66a49"
+      },
+      {
+        "filename": "Hazirun Cetveli.pdf",
+        "local_path": "data/pdfs/SASA/1601186_Hazirun Cetveli.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df7c90a3f6a4a"
+      },
+      {
+        "filename": "2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "local_path": "data/pdfs/SASA/1601186_2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df7c90aa66a4b"
+      }
+    ]
+  },
+  {
+    "index": 1600855,
+    "publish_datetime": "2026-05-05T09:05:59",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bugün gerçekleştirilecek Yatırımcı Bilgilendirme Toplantısı Kapsamında Paylaşılacak Bilgiler Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600855",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1600855_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600855"
+      }
+    ]
+  },
+  {
+    "index": 1600197,
+    "publish_datetime": "2026-05-04T07:40:57",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "01.01.2026-31.03.2026 Rapor Dönemine Ait Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600197",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1600197_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600197"
+      }
+    ]
+  },
+  {
+    "index": 1600196,
+    "publish_datetime": "2026-05-04T07:40:43",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "01.01.2026 - 31.03.2026 Dönemine ait Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600196",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1600196_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600196"
+      },
+      {
+        "filename": "31.03.2026 FAALİYET RAPORU.pdf",
+        "local_path": "data/pdfs/SASA/1600196_31.03.2026 FAALİYET RAPORU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019def207ccb6971"
+      }
+    ]
+  },
+  {
+    "index": 1600195,
+    "publish_datetime": "2026-05-04T07:40:09",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600195",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1600195_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600195"
+      },
+      {
+        "filename": "SASA SPK 31.03.2026 FİNAL.pdf",
+        "local_path": "data/pdfs/SASA/1600195_SASA SPK 31.03.2026 FİNAL.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019def3533a7170f"
+      }
+    ]
+  },
+  {
+    "index": 1599106,
+    "publish_datetime": "2026-04-30T09:03:15",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599106",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1599106_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599106"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1599106_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019ddcef8afd127f"
+      }
+    ]
+  },
+  {
+    "index": 1598001,
+    "publish_datetime": "2026-04-28T11:49:33",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Yurt Dışında Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598001",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1598001_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598001"
+      },
+      {
+        "filename": "İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/SASA/1598001_İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd2c1b2ac14bf"
+      }
+    ]
+  },
+  {
+    "index": 1598000,
+    "publish_datetime": "2026-04-28T11:49:15",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598000",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1598000_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598000"
+      },
+      {
+        "filename": "İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/SASA/1598000_İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd2bce52102af"
+      }
+    ]
+  },
+  {
+    "index": 1596949,
+    "publish_datetime": "2026-04-23T10:41:40",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Sasa Finansal Görünümü Yatırımcı Bilgilendirme Toplantısı Kapsamında Bilgilendirme",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596949",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1596949_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596949"
+      }
+    ]
+  },
+  {
+    "index": 1596390,
+    "publish_datetime": "2026-04-22T09:10:31",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596390",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1596390_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596390"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1596390_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019db3be2f0e5225"
+      }
+    ]
+  },
+  {
+    "index": 1595825,
+    "publish_datetime": "2026-04-21T08:49:30",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ARZUM",
+      "ASTOR",
+      "SASA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595825",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1595825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595825"
+      },
+      {
+        "filename": "20042026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/SASA/1595825_20042026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dae9309e64332"
+      }
+    ]
+  },
+  {
+    "index": 1595088,
+    "publish_datetime": "2026-04-20T09:07:03",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595088",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1595088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595088"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1595088_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019da977082076e9"
+      }
+    ]
+  },
+  {
+    "index": 1593481,
+    "publish_datetime": "2026-04-14T22:47:45",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593481",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1593481_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593481"
+      }
+    ]
+  },
+  {
+    "index": 1592002,
+    "publish_datetime": "2026-04-13T15:55:25",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592002",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1592002_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592002"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1592002_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019d86e67f922ebc"
+      }
+    ]
+  },
+  {
+    "index": 1591177,
+    "publish_datetime": "2026-04-13T09:10:56",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591177",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1591177_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591177"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1591177_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d856dcf1804c9"
+      }
+    ]
+  },
+  {
+    "index": 1590971,
+    "publish_datetime": "2026-04-10T18:18:01",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Tarihi, Gündemin Tespiti ve Ortaklarımızın Davet Edilmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590971",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1590971_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590971"
+      },
+      {
+        "filename": "2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "local_path": "data/pdfs/SASA/1590971_2025 GENEL KURUL BİLGİLENDİRME DOKÜMANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d77da880908be"
+      },
+      {
+        "filename": "2025 GENEL KURUL ÇAĞRI İLANI.pdf",
+        "local_path": "data/pdfs/SASA/1590971_2025 GENEL KURUL ÇAĞRI İLANI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d77da882708c0"
+      }
+    ]
+  },
+  {
+    "index": 1590970,
+    "publish_datetime": "2026-04-10T18:17:37",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Olağan Genel Kurul Toplantısı'nda Aday Gösterilecek Bağımsız Yönetim Kurulu Üyeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590970",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1590970_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590970"
+      },
+      {
+        "filename": "Bağımsızlık Beyanları 2025.pdf",
+        "local_path": "data/pdfs/SASA/1590970_Bağımsızlık Beyanları 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d72b1f9e723ed"
+      },
+      {
+        "filename": "Declaration for Independency 2025.pdf",
+        "local_path": "data/pdfs/SASA/1590970_Declaration for Independency 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d72b1f9f623ee"
+      }
+    ]
+  },
+  {
+    "index": 1590969,
+    "publish_datetime": "2026-04-10T18:17:18",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590969",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1590969_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590969"
+      }
+    ]
+  },
+  {
+    "index": 1590967,
+    "publish_datetime": "2026-04-10T18:16:38",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kâr Dağıtım Önerisi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590967",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1590967_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590967"
+      },
+      {
+        "filename": "2025 YILI KAR DAĞITIM TABLOSU.pdf",
+        "local_path": "data/pdfs/SASA/1590967_2025 YILI KAR DAĞITIM TABLOSU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d77e5ab2a09dd"
+      },
+      {
+        "filename": "PROFIT DISTRIBUTION TABLE FOR 2025.pdf",
+        "local_path": "data/pdfs/SASA/1590967_PROFIT DISTRIBUTION TABLE FOR 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d77e5ab3809de"
+      }
+    ]
+  },
+  {
+    "index": 1590316,
+    "publish_datetime": "2026-04-09T18:18:58",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590316",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1590316_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590316"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1590316_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d72d0af0f1a3a"
+      }
+    ]
+  },
+  {
+    "index": 1583937,
+    "publish_datetime": "2026-04-03T18:15:08",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında Borçlanma Aracı İhracına İlişkin SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583937",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1583937_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583937"
+      }
+    ]
+  },
+  {
+    "index": 1582981,
+    "publish_datetime": "2026-04-02T18:14:26",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Şarta Bağlı Sermaye Artırımı - İhraç Belgesi Spk Onay Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582981",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1582981_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582981"
+      }
+    ]
+  },
+  {
+    "index": 1582408,
+    "publish_datetime": "2026-04-01T18:17:20",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Şarta Bağlı Sermaye Artırımı - İhraç Belgesi Spk Onay Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582408",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1582408_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582408"
+      }
+    ]
+  },
+  {
+    "index": 1582406,
+    "publish_datetime": "2026-04-01T18:16:58",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "\t\nYurt Dışında Borçlanma Aracı İhracına İlişkin SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582406",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1582406_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582406"
+      }
+    ]
+  },
+  {
+    "index": 1578890,
+    "publish_datetime": "2026-03-30T18:15:43",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt Dışında Borçlanma Aracı İhracına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578890",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1578890_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578890"
+      }
+    ]
+  },
+  {
+    "index": 1574901,
+    "publish_datetime": "2026-03-24T08:58:34",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574901",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1574901_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574901"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1574901_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d1e67682b59cd"
+      }
+    ]
+  },
+  {
+    "index": 1573372,
+    "publish_datetime": "2026-03-17T12:34:23",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "EFOR",
+      "GUNDG",
+      "INFO",
+      "KTLEV",
+      "MANAS",
+      "SASA",
+      "TMPOL"
+    ],
+    "subject": "Endekslerde Kullanılan Fiili Dolaşımdaki Pay Oranı Değişiklikleri",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573372",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1573372_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573372"
+      }
+    ]
+  },
+  {
+    "index": 1572725,
+    "publish_datetime": "2026-03-16T08:52:09",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572725",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572725_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572725"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1572725_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cf531b38c3efc"
+      }
+    ]
+  },
+  {
+    "index": 1572602,
+    "publish_datetime": "2026-03-13T19:15:21",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Paya Dönüştürülebilir Tahvil İhracı Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572602",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572602_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572602"
+      },
+      {
+        "filename": "SASA - Relevant Event Notice (13 March 2026).pdf",
+        "local_path": "data/pdfs/SASA/1572602_SASA - Relevant Event Notice (13 March 2026).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019ce79ab43852ab"
+      },
+      {
+        "filename": "SASA İlgili  Olay Duyurusu (13 March 2026) (TR).pdf",
+        "local_path": "data/pdfs/SASA/1572602_SASA İlgili Olay Duyurusu (13 March 2026) (TR).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019ce79ab44752ac"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1572220,
+    "publish_datetime": "2026-03-13T11:06:38",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572220",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572220_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572220"
+      }
+    ]
+  },
+  {
+    "index": 1572150,
+    "publish_datetime": "2026-03-13T09:09:17",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572150",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572150_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572150"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1572150_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce5cc956028a5"
+      }
+    ]
+  },
+  {
+    "index": 1572144,
+    "publish_datetime": "2026-03-13T09:02:37",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyesi Ataması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572144",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1572144_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572144"
+      }
+    ]
+  },
+  {
+    "index": 1571460,
+    "publish_datetime": "2026-03-12T09:01:16",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571460",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1571460_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571460"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1571460_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce09ed9950074"
+      }
+    ]
+  },
+  {
+    "index": 1569278,
+    "publish_datetime": "2026-03-10T07:33:38",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "01.01.2025-31.12.2025 Rapor Dönemine Ait Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569278",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569278_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569278"
+      }
+    ]
+  },
+  {
+    "index": 1569277,
+    "publish_datetime": "2026-03-10T07:33:21",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2024 TSRS Uyumlu Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569277",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569277_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569277"
+      }
+    ]
+  },
+  {
+    "index": 1569276,
+    "publish_datetime": "2026-03-10T07:33:06",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Yılı Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569276",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569276_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569276"
+      }
+    ]
+  },
+  {
+    "index": 1569275,
+    "publish_datetime": "2026-03-10T07:32:50",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569275",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569275_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569275"
+      }
+    ]
+  },
+  {
+    "index": 1569274,
+    "publish_datetime": "2026-03-10T07:31:09",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569274",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569274_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569274"
+      }
+    ]
+  },
+  {
+    "index": 1569273,
+    "publish_datetime": "2026-03-10T07:30:44",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "01.01.2025 - 31.12.2025 Dönemine ait Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569273",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569273_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569273"
+      },
+      {
+        "filename": "ARALIK Faaliyet Raporu_FİNAL-İmzalı Görüşlü.pdf",
+        "local_path": "data/pdfs/SASA/1569273_ARALIK Faaliyet Raporu_FİNAL-İmzalı Görüşlü.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cd258cdc02e37"
+      }
+    ]
+  },
+  {
+    "index": 1569272,
+    "publish_datetime": "2026-03-10T07:30:12",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569272",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1569272_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569272"
+      },
+      {
+        "filename": "SASA SPK 31.12.2025 FİNAL -İmzalı Görüşlü.pdf",
+        "local_path": "data/pdfs/SASA/1569272_SASA SPK 31.12.2025 FİNAL -İmzalı Görüşlü.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd2e5f3625920"
+      }
+    ]
+  },
+  {
+    "index": 1562355,
+    "publish_datetime": "2026-02-27T09:06:35",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562355",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1562355_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562355"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1562355_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9db1621f4f0d"
+      }
+    ]
+  },
+  {
+    "index": 1561675,
+    "publish_datetime": "2026-02-26T09:15:45",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561675",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1561675_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561675"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1561675_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9893f9fd4521"
+      }
+    ]
+  },
+  {
+    "index": 1559662,
+    "publish_datetime": "2026-02-20T15:30:42",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559662",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1559662_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559662"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1559662_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c7b05a4285d83"
+      }
+    ]
+  },
+  {
+    "index": 1559632,
+    "publish_datetime": "2026-02-20T14:31:04",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559632",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1559632_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559632"
+      }
+    ]
+  },
+  {
+    "index": 1559249,
+    "publish_datetime": "2026-02-19T17:41:29",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559249",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1559249_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559249"
+      }
+    ]
+  },
+  {
+    "index": 1558704,
+    "publish_datetime": "2026-02-19T09:20:38",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558704",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1558704_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558704"
+      },
+      {
+        "filename": "SASA.pdf",
+        "local_path": "data/pdfs/SASA/1558704_SASA.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c748a394b7ec7"
+      }
+    ]
+  },
+  {
+    "index": 1557839,
+    "publish_datetime": "2026-02-17T19:29:45",
+    "company_name": "SASA POLYESTER SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "summary": "Herhangi Bir Otoriteye Mali Tablo Verilmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557839",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1557839_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557839"
+      },
+      {
+        "filename": "SPK Gelir tablosu 25.pdf",
+        "local_path": "data/pdfs/SASA/1557839_SPK Gelir tablosu 25.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6c2290282409"
+      },
+      {
+        "filename": "31 12 2025 Income Statements.pdf",
+        "local_path": "data/pdfs/SASA/1557839_31 12 2025 Income Statements.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c6c229035240a"
+      }
+    ]
+  },
+  {
+    "index": 1557444,
+    "publish_datetime": "2026-02-17T16:32:19",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "SASA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "SASA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557444",
+    "ticker": "SASA",
+    "company_oid": "33E5FED7043C00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f20abd9500cc",
+    "kap_company_code": "1068",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SASA/1557444_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557444"
+      }
+    ]
+  }
+]

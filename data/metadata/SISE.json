@@ -1,0 +1,1772 @@
+[
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1607494,
+    "publish_datetime": "2026-05-14T18:26:41",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607494",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1606881,
+    "publish_datetime": "2026-05-13T17:03:46",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "A1CAP",
+      "ALJF",
+      "CAGFA",
+      "CRFSA",
+      "DNYVA",
+      "EKER",
+      "EMVAR",
+      "ENJSA",
+      "HDFFL",
+      "ISFIN",
+      "LIDER",
+      "NURVK",
+      "QNBVK",
+      "SISE",
+      "SKBNK",
+      "SKYMD",
+      "SMRFA",
+      "TMKS",
+      "TRBNK",
+      "VAKVK",
+      "ZKBVR"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606881",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1606675,
+    "publish_datetime": "2026-05-13T13:57:27",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSSISE52611 ISIN Kodlu Tahvilin Kupon Ödemesi ve İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606675",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1606425,
+    "publish_datetime": "2026-05-12T18:14:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AHGAZ",
+      "ALTNY",
+      "ASTOR",
+      "AVOD",
+      "AZTEK",
+      "BIOEN",
+      "BORLS",
+      "BORSK",
+      "BRKO",
+      "CANTE",
+      "CVKMD",
+      "DMSAS",
+      "DOFRB",
+      "DUNYH",
+      "EGPRO",
+      "EKGYO",
+      "ESEN",
+      "FADE",
+      "GLBMD",
+      "GSRAY",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "KCAER",
+      "KENT",
+      "KOCMT",
+      "KOPOL",
+      "LXGYO",
+      "PATEK",
+      "PCILT",
+      "PENGD",
+      "PSGYO",
+      "SANFM",
+      "SASA",
+      "SEYKM",
+      "SISE",
+      "SKTAS",
+      "SOKM",
+      "SURGY",
+      "SUWEN",
+      "TKFEN",
+      "TSGYO",
+      "YKSLN"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606425",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1603735,
+    "publish_datetime": "2026-05-08T19:13:41",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Finansal Tabloların Açıklanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603735",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Şişecam 2026 Birinci Çeyrek Finansal Sonuçları_BB 080526.pdf",
+        "local_path": "data/pdfs/SISE/1603735_Şişecam 2026 Birinci Çeyrek Finansal Sonuçları_BB 080526.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e080a97e74301"
+      },
+      {
+        "filename": "Şişecam Q1 Financial Results_PR 080526.pdf",
+        "local_path": "data/pdfs/SISE/1603735_Şişecam Q1 Financial Results_PR 080526.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e080a98274302"
+      }
+    ]
+  },
+  {
+    "index": 1603730,
+    "publish_datetime": "2026-05-08T19:08:43",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31.03.2026 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603730",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1603727,
+    "publish_datetime": "2026-05-08T19:07:39",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "31 Mart 2026 Konsolide Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603727",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Ara Dönem Yönetim Kurulu Faaliyet Raporu 31.03.2026.pdf",
+        "local_path": "data/pdfs/SISE/1603727_Ara Dönem Yönetim Kurulu Faaliyet Raporu 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e0754e7153ee5"
+      }
+    ]
+  },
+  {
+    "index": 1603726,
+    "publish_datetime": "2026-05-08T19:03:37",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603726",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Sisecam 31.03.2026 Konsolide.pdf",
+        "local_path": "data/pdfs/SISE/1603726_Sisecam 31.03.2026 Konsolide.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019e079121762590"
+      }
+    ]
+  },
+  {
+    "index": 1601338,
+    "publish_datetime": "2026-05-05T18:29:25",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Şirketimiz ana ortağı Türkiye İş Bankası A.Ş.'nin 31.03.2026 tarihli finansal sonuçlarının ilanı hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601338",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1600813,
+    "publish_datetime": "2026-05-04T19:47:09",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Sonuçlarını Açıklama Tarihi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600813",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1597624,
+    "publish_datetime": "2026-04-27T16:59:31",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "VİOP İşlem İptali Duyuruları",
+    "summary": "VİOP İşlem İptali Duyuruları",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597624",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1594977,
+    "publish_datetime": "2026-04-17T19:35:36",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR",
+      "AYGAZ",
+      "BRISA",
+      "CIMSA",
+      "EBEBK",
+      "ECILC",
+      "EGEEN",
+      "EMPAE",
+      "EREGL",
+      "ISDMR",
+      "KTLEV",
+      "LILAK",
+      "MCARD",
+      "SANFM",
+      "SELEC",
+      "SISE",
+      "TTRAK"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Temettü ve BIST Temettü 25 Endeksleri Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594977",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "local_path": "data/pdfs/SISE/1594977_BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4586967"
+      },
+      {
+        "filename": "BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "local_path": "data/pdfs/SISE/1594977_BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4656968"
+      }
+    ]
+  },
+  {
+    "index": 1587407,
+    "publish_datetime": "2026-04-08T08:14:36",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçiminin Tescili Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587407",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1587406,
+    "publish_datetime": "2026-04-08T08:14:01",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587406",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1587406_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587406"
+      },
+      {
+        "filename": "Attendance List - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1587406_Attendance List - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6b79c1080498"
+      },
+      {
+        "filename": "Hazirun - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1587406_Hazirun - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6b79c1230499"
+      },
+      {
+        "filename": "Genel Kurul Toplantı Tutanak 27.03.2026 - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1587406_Genel Kurul Toplantı Tutanak 27.03.2026 - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d6b79c13b049a"
+      }
+    ]
+  },
+  {
+    "index": 1580931,
+    "publish_datetime": "2026-03-31T18:34:27",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Yönetim Kurulu - II",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580931",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1580931_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580931"
+      }
+    ]
+  },
+  {
+    "index": 1580929,
+    "publish_datetime": "2026-03-31T18:33:40",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-1",
+    "summary": "Yönetim Kurulu - I",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580929",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1580929_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580929"
+      }
+    ]
+  },
+  {
+    "index": 1580927,
+    "publish_datetime": "2026-03-31T18:33:25",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Pay Sahipleri",
+    "summary": "Pay Sahipleri",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580927",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1580927_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580927"
+      }
+    ]
+  },
+  {
+    "index": 1580922,
+    "publish_datetime": "2026-03-31T18:33:04",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580922",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1580922_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580922"
+      }
+    ]
+  },
+  {
+    "index": 1577710,
+    "publish_datetime": "2026-03-27T18:27:56",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577710",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1577710_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577710"
+      }
+    ]
+  },
+  {
+    "index": 1577709,
+    "publish_datetime": "2026-03-27T18:25:14",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komiteleri Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577709",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1577709_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577709"
+      }
+    ]
+  },
+  {
+    "index": 1577708,
+    "publish_datetime": "2026-03-27T18:24:53",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577708",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1577708_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577708"
+      }
+    ]
+  },
+  {
+    "index": 1577707,
+    "publish_datetime": "2026-03-27T18:23:46",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577707",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1577707_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577707"
+      },
+      {
+        "filename": "KAR DAĞITIMI-TR - 2025.pdf",
+        "local_path": "data/pdfs/SISE/1577707_KAR DAĞITIMI-TR - 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d2fe26733008c"
+      },
+      {
+        "filename": "KAR DAĞITIMI-EN - 2025.pdf",
+        "local_path": "data/pdfs/SISE/1577707_KAR DAĞITIMI-EN - 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d2fe26760008d"
+      }
+    ]
+  },
+  {
+    "index": 1577683,
+    "publish_datetime": "2026-03-27T18:16:25",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577683",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1577683_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577683"
+      },
+      {
+        "filename": "Attendance List - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1577683_Attendance List - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d2fcef3057c28"
+      },
+      {
+        "filename": "Hazirun - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1577683_Hazirun - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d2fcef3407c29"
+      },
+      {
+        "filename": "Genel Kurul Toplantı Tutanak 27.03.2026 - KAP.pdf",
+        "local_path": "data/pdfs/SISE/1577683_Genel Kurul Toplantı Tutanak 27.03.2026 - KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d2fcef3797c2a"
+      }
+    ]
+  },
+  {
+    "index": 1575137,
+    "publish_datetime": "2026-03-24T17:02:32",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "AKTIF",
+      "ATAVK",
+      "CAGFA",
+      "CRFSA",
+      "EKTVK",
+      "HDFFL",
+      "ISTFK",
+      "NURVK",
+      "QNBIN",
+      "SISE",
+      "TRKNT",
+      "ULUFA",
+      "ZOREN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575137",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1575137_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575137"
+      }
+    ]
+  },
+  {
+    "index": 1575078,
+    "publish_datetime": "2026-03-24T16:05:18",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSSISE32621 ISIN Kodlu Tahvilin Kupon Ödemesi ve İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575078",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1575078_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575078"
+      }
+    ]
+  },
+  {
+    "index": 1574715,
+    "publish_datetime": "2026-03-23T16:34:14",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSSISE32621 ISIN Kodlu Tahvilin 8. Kupon Oranı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574715",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1574715_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574715"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1573288,
+    "publish_datetime": "2026-03-17T08:40:34",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Toplu İş Sözleşmesi Görüşmeleri Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573288",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1573288_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573288"
+      }
+    ]
+  },
+  {
+    "index": 1573163,
+    "publish_datetime": "2026-03-16T18:15:40",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tarsus TR9 Düzcam tesisi yatırımının tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573163",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1573163_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573163"
+      },
+      {
+        "filename": "Şişecam_Tarsus_TR9_Basın Bulteni.pdf",
+        "local_path": "data/pdfs/SISE/1573163_Şişecam_Tarsus_TR9_Basın Bulteni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf72c8f2673db"
+      },
+      {
+        "filename": "Şişecam_TarsusInvestment_PR.pdf",
+        "local_path": "data/pdfs/SISE/1573163_Şişecam_TarsusInvestment_PR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cf72c8f2c73dc"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1566638,
+    "publish_datetime": "2026-03-05T18:50:01",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566638",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1566638_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566638"
+      },
+      {
+        "filename": "KAR DAĞITIMI-TR - 2025.pdf",
+        "local_path": "data/pdfs/SISE/1566638_KAR DAĞITIMI-TR - 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cbdb57c220a39"
+      },
+      {
+        "filename": "KAR DAĞITIMI-EN - 2025.pdf",
+        "local_path": "data/pdfs/SISE/1566638_KAR DAĞITIMI-EN - 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cbdb57c2c0a3a"
+      }
+    ]
+  },
+  {
+    "index": 1566043,
+    "publish_datetime": "2026-03-04T19:40:26",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566043",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1566043_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566043"
+      }
+    ]
+  },
+  {
+    "index": 1565984,
+    "publish_datetime": "2026-03-04T18:43:58",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565984",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565984_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565984"
+      }
+    ]
+  },
+  {
+    "index": 1565980,
+    "publish_datetime": "2026-03-04T18:42:45",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "31.12.2025 Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565980",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565980_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565980"
+      }
+    ]
+  },
+  {
+    "index": 1565978,
+    "publish_datetime": "2026-03-04T18:41:23",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565978",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565978_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565978"
+      },
+      {
+        "filename": "Şişecam 31.12.25 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/SISE/1565978_Şişecam 31.12.25 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb92dd0426705"
+      }
+    ]
+  },
+  {
+    "index": 1565977,
+    "publish_datetime": "2026-03-04T18:40:55",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Şişecam 2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565977",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565977_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565977"
+      }
+    ]
+  },
+  {
+    "index": 1565975,
+    "publish_datetime": "2026-03-04T18:40:44",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Şişecam 2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565975",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565975_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565975"
+      }
+    ]
+  },
+  {
+    "index": 1565970,
+    "publish_datetime": "2026-03-04T18:37:01",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565970",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565970_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565970"
+      }
+    ]
+  },
+  {
+    "index": 1565966,
+    "publish_datetime": "2026-03-04T18:36:39",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Çağrısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565966",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565966_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565966"
+      },
+      {
+        "filename": "Genel Kurul İlanı.pdf",
+        "local_path": "data/pdfs/SISE/1565966_Genel Kurul İlanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb8f9473c005e"
+      },
+      {
+        "filename": "General Assembly Announcement.pdf",
+        "local_path": "data/pdfs/SISE/1565966_General Assembly Announcement.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb8f94742005f"
+      },
+      {
+        "filename": "Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/SISE/1565966_Genel Kurul Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb8f9474a0060"
+      }
+    ]
+  },
+  {
+    "index": 1565886,
+    "publish_datetime": "2026-03-04T18:24:01",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "2026 Yılı Yaygın ve Süreklilik Arz Eden İlişkili Taraf İşlemleri Raporunun Sonuç Bölümü",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565886",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565886_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565886"
+      },
+      {
+        "filename": "Yaygın ve Süreklilik Arz Eden İşlemler Sonuç Bölümü.pdf",
+        "local_path": "data/pdfs/SISE/1565886_Yaygın ve Süreklilik Arz Eden İşlemler Sonuç Bölümü.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb75b40275b1b"
+      }
+    ]
+  },
+  {
+    "index": 1565884,
+    "publish_datetime": "2026-03-04T18:22:44",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kuzey İtalya Düzcam üretiminin yeniden başlatılması ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565884",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565884_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565884"
+      }
+    ]
+  },
+  {
+    "index": 1565090,
+    "publish_datetime": "2026-03-03T17:24:11",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "ALNUS",
+      "ARZUM",
+      "DKVRL",
+      "DOGVY",
+      "EMVAR",
+      "HALKB",
+      "MINTF",
+      "PBTR",
+      "SISE"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565090",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1565090_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565090"
+      }
+    ]
+  },
+  {
+    "index": 1564900,
+    "publish_datetime": "2026-03-03T13:20:29",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSSISE32613 ISIN Kodlu Tahvilin Kupon Ödemesi ve İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564900",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1564900_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564900"
+      }
+    ]
+  },
+  {
+    "index": 1563650,
+    "publish_datetime": "2026-03-02T17:00:05",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSSISE32613 ISIN Kodlu Tahvilin 8. Kupon Oranı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563650",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1563650_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563650"
+      }
+    ]
+  },
+  {
+    "index": 1562067,
+    "publish_datetime": "2026-02-26T18:19:19",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Maddi Duran Varlık Satımı",
+    "summary": "Paşabahçe Gayrimenkullerinin Satışı Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562067",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1562067_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562067"
+      }
+    ]
+  },
+  {
+    "index": 1560092,
+    "publish_datetime": "2026-02-23T08:21:24",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "7C Basalia Global AG ortaklık sürecinin sonlandırılması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560092",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1560092_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560092"
+      }
+    ]
+  },
+  {
+    "index": 1559473,
+    "publish_datetime": "2026-02-20T08:09:13",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Maddi Duran Varlık Satımı",
+    "summary": "Paşabahçe Gayrimenkullerinin Satışı Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559473",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1559473_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559473"
+      }
+    ]
+  },
+  {
+    "index": 1557792,
+    "publish_datetime": "2026-02-17T18:54:02",
+    "company_name": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SISE"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "2026 Vadeli Yurt Dışı Tahvillerin Erken İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1557792",
+    "ticker": "SISE",
+    "company_oid": "33E5FED7045300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed710140f385d5690102",
+    "kap_company_code": "1087",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/SISE/1557792_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1557792"
+      }
+    ]
+  }
+]

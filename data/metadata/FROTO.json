@@ -1,0 +1,1444 @@
+[
+  {
+    "index": 1607506,
+    "publish_datetime": "2026-05-14T18:30:19",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "S&P Tarafından Hazırlanan Raporun Güncellenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607506",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1607506_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607506"
+      }
+    ]
+  },
+  {
+    "index": 1606484,
+    "publish_datetime": "2026-05-12T19:43:52",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Koç Finansman A.Ş Paylarının Satın Alımına İlişkin BDDK Onayı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606484",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1606484_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606484"
+      }
+    ]
+  },
+  {
+    "index": 1602737,
+    "publish_datetime": "2026-05-07T18:52:25",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formunun Güncellenmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602737",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1602737_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602737"
+      }
+    ]
+  },
+  {
+    "index": 1601425,
+    "publish_datetime": "2026-05-05T19:29:07",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "Finansal Sonuç Bülteninin ve Sunumunun Şirket Web Sitesinde Yayınlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601425",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1601425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601425"
+      },
+      {
+        "filename": "Ford Otosan 1Ç26 Finansal Sonuç Bülteni.pdf",
+        "local_path": "data/pdfs/FROTO/1601425_Ford Otosan 1Ç26 Finansal Sonuç Bülteni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df84808cc7f66"
+      },
+      {
+        "filename": "Ford Otosan 1Q26 Earnings Release.pdf",
+        "local_path": "data/pdfs/FROTO/1601425_Ford Otosan 1Q26 Earnings Release.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df84808e77f67"
+      }
+    ]
+  },
+  {
+    "index": 1601424,
+    "publish_datetime": "2026-05-05T19:28:21",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı-31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601424",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1601424_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601424"
+      }
+    ]
+  },
+  {
+    "index": 1601423,
+    "publish_datetime": "2026-05-05T19:27:58",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Ara Dönem Faaliyet Raporu- 31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1601423_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601423"
+      },
+      {
+        "filename": "Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/FROTO/1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df8ec57c75888"
+      },
+      {
+        "filename": "Ford Otosan 1Q26 Interim Report.pdf",
+        "local_path": "data/pdfs/FROTO/1601423_Ford Otosan 1Q26 Interim Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df8ec5af75889"
+      }
+    ]
+  },
+  {
+    "index": 1601422,
+    "publish_datetime": "2026-05-05T19:26:50",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601422",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1601422_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601422"
+      },
+      {
+        "filename": "Ford Otomotiv Sanayi AS 31.03.2026 - Mali Tablolar ve Notlar.pdf",
+        "local_path": "data/pdfs/FROTO/1601422_Ford Otomotiv Sanayi AS 31.03.2026 - Mali Tablolar ve Notlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019df84ab6410041"
+      }
+    ]
+  },
+  {
+    "index": 1597732,
+    "publish_datetime": "2026-04-27T18:16:51",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS2782775345 ISIN Kodlu Tahvilin Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597732",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1597732_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597732"
+      }
+    ]
+  },
+  {
+    "index": 1594926,
+    "publish_datetime": "2026-04-17T18:18:32",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Üst Düzey Yönetici Atama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594926",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1594926_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594926"
+      }
+    ]
+  },
+  {
+    "index": 1593867,
+    "publish_datetime": "2026-04-15T18:13:31",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593867",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1593867_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593867"
+      }
+    ]
+  },
+  {
+    "index": 1590995,
+    "publish_datetime": "2026-04-10T18:30:11",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Proje Bazlı Devlet Yardımı Alınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590995",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1590995_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590995"
+      }
+    ]
+  },
+  {
+    "index": 1583942,
+    "publish_datetime": "2026-04-03T18:18:19",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583942",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1583942_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583942"
+      }
+    ]
+  },
+  {
+    "index": 1582509,
+    "publish_datetime": "2026-04-01T19:48:44",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582509",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1582509_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582509"
+      },
+      {
+        "filename": "Ford_Otosan_2025 TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "local_path": "data/pdfs/FROTO/1582509_Ford_Otosan_2025 TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d49ed66ae45c1"
+      }
+    ]
+  },
+  {
+    "index": 1580892,
+    "publish_datetime": "2026-03-31T18:23:46",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi Derecelendirme Notu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580892",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1580892_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580892"
+      }
+    ]
+  },
+  {
+    "index": 1578319,
+    "publish_datetime": "2026-03-30T15:24:50",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578319",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1578319_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578319"
+      }
+    ]
+  },
+  {
+    "index": 1578089,
+    "publish_datetime": "2026-03-30T11:51:31",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578089",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1578089_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578089"
+      },
+      {
+        "filename": "Hazır Bulunanlar Listesi 2025.pdf",
+        "local_path": "data/pdfs/FROTO/1578089_Hazır Bulunanlar Listesi 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d3dec146646d8"
+      },
+      {
+        "filename": "Genel Kurul Tutanak 2025.pdf",
+        "local_path": "data/pdfs/FROTO/1578089_Genel Kurul Tutanak 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d3dec148e46d9"
+      },
+      {
+        "filename": "Gündem.pdf",
+        "local_path": "data/pdfs/FROTO/1578089_Gündem.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019d3dec14af46da"
+      }
+    ]
+  },
+  {
+    "index": 1578055,
+    "publish_datetime": "2026-03-30T10:54:24",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+    "summary": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Sözleşmesinin Yenilenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578055",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1578055_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578055"
+      }
+    ]
+  },
+  {
+    "index": 1574617,
+    "publish_datetime": "2026-03-23T13:05:32",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "FROTO.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574617",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1574617_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574617"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/FROTO/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/FROTO/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1574088,
+    "publish_datetime": "2026-03-18T16:50:34",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "TUPRS"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574088",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1574088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574088"
+      }
+    ]
+  },
+  {
+    "index": 1572736,
+    "publish_datetime": "2026-03-16T09:08:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "LINK",
+      "TUPRS"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572736",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1572736_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572736"
+      }
+    ]
+  },
+  {
+    "index": 1572417,
+    "publish_datetime": "2026-03-13T16:55:06",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "LINK",
+      "TUPRS"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572417",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572139,
+    "publish_datetime": "2026-03-13T08:47:54",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Koç Finansman A.Ş Paylarının Satın Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572139",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572138,
+    "publish_datetime": "2026-03-13T08:47:43",
+    "company_name": "ARÇELİK A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ARCLK"
+    ],
+    "subject": "Finansal Duran Varlık Satışı",
+    "summary": "Koç Finansman A.Ş. paylarının satışı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572138",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1572137,
+    "publish_datetime": "2026-03-13T08:47:22",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Finansal Duran Varlık Satışı",
+    "summary": "Koç Finansman A.Ş. paylarının satışı ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572137",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571896,
+    "publish_datetime": "2026-03-12T17:46:00",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571896",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571686,
+    "publish_datetime": "2026-03-12T15:06:50",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Güncellenmesi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571686",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571685,
+    "publish_datetime": "2026-03-12T15:05:36",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571685",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571684,
+    "publish_datetime": "2026-03-12T15:05:02",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571684",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571680,
+    "publish_datetime": "2026-03-12T15:00:53",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyelerinin görev dağılımı hakkında karar alınması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571680",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571603,
+    "publish_datetime": "2026-03-12T13:42:12",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kar Dağıtım Politikası",
+    "summary": "Daha önce yayınlanan şirket kar dağıtım politikasının şirket özet bilgiler ekranında güncellenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571603",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Ford Otosan Kar Dağıtım Politikası_ Dividend Distribution Policy.pdf",
+        "local_path": "data/pdfs/FROTO/1571603_Ford Otosan Kar Dağıtım Politikası_ Dividend Distribution Policy.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce18aef7f586d"
+      }
+    ]
+  },
+  {
+    "index": 1571601,
+    "publish_datetime": "2026-03-12T13:37:32",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Şirketi seçiminin Genel Kurul'ca onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571601",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1571600,
+    "publish_datetime": "2026-03-12T13:36:14",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Kar Dağıtım Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571600",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Dividend Proposal.pdf",
+        "local_path": "data/pdfs/FROTO/1571600_Dividend Proposal.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019ce19b46fa7163"
+      },
+      {
+        "filename": "Kar Dağıtım Önerisi.pdf",
+        "local_path": "data/pdfs/FROTO/1571600_Kar Dağıtım Önerisi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019ce19b46fe7164"
+      }
+    ]
+  },
+  {
+    "index": 1571589,
+    "publish_datetime": "2026-03-12T13:26:00",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 8,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571589",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Hazır Bulunanlar Listesi 2025.pdf",
+        "local_path": "data/pdfs/FROTO/1571589_Hazır Bulunanlar Listesi 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce190276a5454"
+      },
+      {
+        "filename": "Genel Kurul Tutanak 2025.pdf",
+        "local_path": "data/pdfs/FROTO/1571589_Genel Kurul Tutanak 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce19027705455"
+      },
+      {
+        "filename": "Gündem.pdf",
+        "local_path": "data/pdfs/FROTO/1571589_Gündem.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce19027755456"
+      }
+    ]
+  },
+  {
+    "index": 1558665,
+    "publish_datetime": "2026-02-18T23:55:09",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Faaliyet Raporu Sorumluluk Beyanı - 2025",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558665",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558664,
+    "publish_datetime": "2026-02-18T23:53:59",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558664",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1558664_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558664"
+      }
+    ]
+  },
+  {
+    "index": 1558663,
+    "publish_datetime": "2026-02-18T23:53:15",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558663",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1558663_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558663"
+      }
+    ]
+  },
+  {
+    "index": 1558662,
+    "publish_datetime": "2026-02-18T23:51:56",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558662",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1558662_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558662"
+      }
+    ]
+  },
+  {
+    "index": 1558661,
+    "publish_datetime": "2026-02-18T23:50:10",
+    "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "FROTO"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558661",
+    "ticker": "FROTO",
+    "company_oid": "33E5FED703C100EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed71014106890fae0138",
+    "kap_company_code": "956",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/FROTO/1558661_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558661"
+      },
+      {
+        "filename": "Ford Otosan Faaliyet Raporu 2025.pdf",
+        "local_path": "data/pdfs/FROTO/1558661_Ford Otosan Faaliyet Raporu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c72686eb971f9"
+      }
+    ]
+  }
+]
