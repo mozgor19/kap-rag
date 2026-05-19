@@ -1,0 +1,4024 @@
+[
+  {
+    "index": 1608497,
+    "publish_datetime": "2026-05-18T14:19:32",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608497",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1608497_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608497"
+      }
+    ]
+  },
+  {
+    "index": 1608495,
+    "publish_datetime": "2026-05-18T14:19:01",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608495",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1608495_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608495"
+      }
+    ]
+  },
+  {
+    "index": 1608123,
+    "publish_datetime": "2026-05-15T18:17:41",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKBNK",
+      "EREGL",
+      "GARAN",
+      "PETKM",
+      "SISE",
+      "YKBNK"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608123",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1608123_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608123"
+      }
+    ]
+  },
+  {
+    "index": 1607384,
+    "publish_datetime": "2026-05-14T17:27:10",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607384",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1607384_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607384"
+      }
+    ]
+  },
+  {
+    "index": 1607383,
+    "publish_datetime": "2026-05-14T17:26:57",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607383",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1607383_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607383"
+      }
+    ]
+  },
+  {
+    "index": 1607382,
+    "publish_datetime": "2026-05-14T17:26:43",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607382",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1607382_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607382"
+      }
+    ]
+  },
+  {
+    "index": 1607049,
+    "publish_datetime": "2026-05-13T19:50:59",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607049",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1607049_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607049"
+      }
+    ]
+  },
+  {
+    "index": 1606626,
+    "publish_datetime": "2026-05-13T11:32:48",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606626",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1606626_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606626"
+      }
+    ]
+  },
+  {
+    "index": 1606278,
+    "publish_datetime": "2026-05-12T16:03:42",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606278",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1606278_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606278"
+      }
+    ]
+  },
+  {
+    "index": 1606228,
+    "publish_datetime": "2026-05-12T15:37:20",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606228",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1606228_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606228"
+      }
+    ]
+  },
+  {
+    "index": 1606227,
+    "publish_datetime": "2026-05-12T15:36:55",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606227",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1606227_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606227"
+      }
+    ]
+  },
+  {
+    "index": 1604815,
+    "publish_datetime": "2026-05-11T17:29:21",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604815",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1604815_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604815"
+      }
+    ]
+  },
+  {
+    "index": 1604814,
+    "publish_datetime": "2026-05-11T17:28:46",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604814",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1604814_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604814"
+      }
+    ]
+  },
+  {
+    "index": 1604813,
+    "publish_datetime": "2026-05-11T17:28:21",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604813",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1604813_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604813"
+      }
+    ]
+  },
+  {
+    "index": 1604271,
+    "publish_datetime": "2026-05-11T11:49:20",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604271",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1604271_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604271"
+      }
+    ]
+  },
+  {
+    "index": 1603672,
+    "publish_datetime": "2026-05-08T18:42:32",
+    "company_name": "ARSAN HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ARSAN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Arsan Varlık Yönetim A.Ş.- İhale sonrası Devir İşlemlerinin tamamlanması hakkında.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603672",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603672_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603672"
+      }
+    ]
+  },
+  {
+    "index": 1603528,
+    "publish_datetime": "2026-05-08T18:11:55",
+    "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GLCVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603528",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603528_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603528"
+      }
+    ]
+  },
+  {
+    "index": 1603521,
+    "publish_datetime": "2026-05-08T18:11:45",
+    "company_name": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BRKVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603521",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603521_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603521"
+      }
+    ]
+  },
+  {
+    "index": 1603394,
+    "publish_datetime": "2026-05-08T16:57:45",
+    "company_name": "SÜMER VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SMRVA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603394",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603394_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603394"
+      }
+    ]
+  },
+  {
+    "index": 1603329,
+    "publish_datetime": "2026-05-08T16:25:32",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603329",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603329_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603329"
+      }
+    ]
+  },
+  {
+    "index": 1603328,
+    "publish_datetime": "2026-05-08T16:25:13",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603328",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603328_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603328"
+      }
+    ]
+  },
+  {
+    "index": 1603326,
+    "publish_datetime": "2026-05-08T16:24:43",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603326",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603326_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603326"
+      }
+    ]
+  },
+  {
+    "index": 1603325,
+    "publish_datetime": "2026-05-08T16:24:01",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603325",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603325_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603325"
+      }
+    ]
+  },
+  {
+    "index": 1603023,
+    "publish_datetime": "2026-05-08T11:29:41",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurtdışında İpotek Teminatlı Menkul Kıymet ihraç tavanı SPK onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603023",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1603023_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603023"
+      }
+    ]
+  },
+  {
+    "index": 1599837,
+    "publish_datetime": "2026-04-30T18:36:33",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599837",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1599837_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599837"
+      }
+    ]
+  },
+  {
+    "index": 1599836,
+    "publish_datetime": "2026-04-30T18:36:22",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599836",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1599836_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599836"
+      }
+    ]
+  },
+  {
+    "index": 1599443,
+    "publish_datetime": "2026-04-30T17:08:01",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "SPK'nın 21.12.2005 ve 22.12.2005 tarihli yazıları çerçevesinde her mali tablo döneminde yapılması gereken açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599443",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1599443_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599443"
+      }
+    ]
+  },
+  {
+    "index": 1598640,
+    "publish_datetime": "2026-04-29T15:53:44",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598640",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598640_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598640"
+      }
+    ]
+  },
+  {
+    "index": 1598465,
+    "publish_datetime": "2026-04-29T09:12:31",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Finansal tabloların açıklanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598465",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598465_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598465"
+      }
+    ]
+  },
+  {
+    "index": 1598447,
+    "publish_datetime": "2026-04-29T08:03:59",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "Yapı ve Kredi Bankası A.Ş. Konsolide Olmayan  Sorumluluk Beyanı 31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598447",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598447_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598447"
+      },
+      {
+        "filename": "Yapı ve Kredi Bankası Konsolide Olmayan Sorumluluk Beyanı 31032026.pdf",
+        "local_path": "data/pdfs/YKBNK/1598447_Yapı ve Kredi Bankası Konsolide Olmayan Sorumluluk Beyanı 31032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd5e73bf35004"
+      }
+    ]
+  },
+  {
+    "index": 1598446,
+    "publish_datetime": "2026-04-29T08:03:32",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31.03.2026 Yapı ve Kredi Bankası A.Ş Konsolide Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598446",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598446_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598446"
+      },
+      {
+        "filename": "Yapı ve Kredi Bankası A.Ş. Sorumluluk Beyanı Konsolide 31.03.2026.pdf",
+        "local_path": "data/pdfs/YKBNK/1598446_Yapı ve Kredi Bankası A.Ş. Sorumluluk Beyanı Konsolide 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd5e716553e61"
+      }
+    ]
+  },
+  {
+    "index": 1598445,
+    "publish_datetime": "2026-04-29T08:02:28",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598445",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598445_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598445"
+      },
+      {
+        "filename": "Yapı ve Kredi Bankası Konsolide Olmayan Finansal Raporu 31032026.pdf",
+        "local_path": "data/pdfs/YKBNK/1598445_Yapı ve Kredi Bankası Konsolide Olmayan Finansal Raporu 31032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dd5e4938555da"
+      }
+    ]
+  },
+  {
+    "index": 1598444,
+    "publish_datetime": "2026-04-29T08:01:51",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598444",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1598444_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598444"
+      },
+      {
+        "filename": "Yapı ve Kredi Bankası A.Ş Konsolide 31.03.2026.pdf",
+        "local_path": "data/pdfs/YKBNK/1598444_Yapı ve Kredi Bankası A.Ş Konsolide 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dd5e4ee9f3de7"
+      }
+    ]
+  },
+  {
+    "index": 1597273,
+    "publish_datetime": "2026-04-24T19:26:50",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597273",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1594968,
+    "publish_datetime": "2026-04-17T19:10:20",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594968",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1594887,
+    "publish_datetime": "2026-04-17T17:36:25",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594887",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1594334,
+    "publish_datetime": "2026-04-16T17:16:05",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594334",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1593574,
+    "publish_datetime": "2026-04-15T11:05:22",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593574",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1593546,
+    "publish_datetime": "2026-04-15T10:26:25",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings kredi derecelendirme notları hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593546",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1593276,
+    "publish_datetime": "2026-04-14T17:47:11",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593276",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1592919,
+    "publish_datetime": "2026-04-14T12:44:27",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592919",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1592918,
+    "publish_datetime": "2026-04-14T12:43:32",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592918",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1592918_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592918"
+      }
+    ]
+  },
+  {
+    "index": 1592219,
+    "publish_datetime": "2026-04-13T17:11:41",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592219",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1592219_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592219"
+      }
+    ]
+  },
+  {
+    "index": 1591763,
+    "publish_datetime": "2026-04-13T12:48:58",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591763",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1591763_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591763"
+      }
+    ]
+  },
+  {
+    "index": 1590796,
+    "publish_datetime": "2026-04-10T16:14:06",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590796",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1590796_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590796"
+      }
+    ]
+  },
+  {
+    "index": 1590590,
+    "publish_datetime": "2026-04-10T14:32:19",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590590",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1590590_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590590"
+      }
+    ]
+  },
+  {
+    "index": 1586042,
+    "publish_datetime": "2026-04-07T14:33:02",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586042",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1586042_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586042"
+      }
+    ]
+  },
+  {
+    "index": 1585470,
+    "publish_datetime": "2026-04-07T11:25:03",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585470",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1585470_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585470"
+      }
+    ]
+  },
+  {
+    "index": 1584382,
+    "publish_datetime": "2026-04-06T11:31:14",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584382",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1584382_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584382"
+      }
+    ]
+  },
+  {
+    "index": 1584381,
+    "publish_datetime": "2026-04-06T11:30:46",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584381",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1584381_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584381"
+      }
+    ]
+  },
+  {
+    "index": 1582982,
+    "publish_datetime": "2026-04-02T18:15:47",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582982",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582982_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582982"
+      }
+    ]
+  },
+  {
+    "index": 1582953,
+    "publish_datetime": "2026-04-02T17:37:28",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582953",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582953_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582953"
+      }
+    ]
+  },
+  {
+    "index": 1582574,
+    "publish_datetime": "2026-04-02T08:35:02",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582574",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582574_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582574"
+      }
+    ]
+  },
+  {
+    "index": 1582573,
+    "publish_datetime": "2026-04-02T08:34:20",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582573",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582573_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582573"
+      }
+    ]
+  },
+  {
+    "index": 1582572,
+    "publish_datetime": "2026-04-02T08:33:17",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582572",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582572_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582572"
+      }
+    ]
+  },
+  {
+    "index": 1582331,
+    "publish_datetime": "2026-04-01T16:56:44",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582331",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582331_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582331"
+      }
+    ]
+  },
+  {
+    "index": 1582330,
+    "publish_datetime": "2026-04-01T16:56:29",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582330",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1582330_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582330"
+      }
+    ]
+  },
+  {
+    "index": 1578076,
+    "publish_datetime": "2026-03-30T11:29:20",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578076",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1578076_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578076"
+      }
+    ]
+  },
+  {
+    "index": 1578075,
+    "publish_datetime": "2026-03-30T11:29:00",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578075",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1578075_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578075"
+      }
+    ]
+  },
+  {
+    "index": 1577774,
+    "publish_datetime": "2026-03-27T19:34:18",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577774",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577774_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577774"
+      }
+    ]
+  },
+  {
+    "index": 1577773,
+    "publish_datetime": "2026-03-27T19:34:02",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577773",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577773_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577773"
+      }
+    ]
+  },
+  {
+    "index": 1577772,
+    "publish_datetime": "2026-03-27T19:33:38",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577772",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577772_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577772"
+      }
+    ]
+  },
+  {
+    "index": 1577771,
+    "publish_datetime": "2026-03-27T19:33:09",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577771",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577771_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577771"
+      }
+    ]
+  },
+  {
+    "index": 1577444,
+    "publish_datetime": "2026-03-27T15:43:33",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577444",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577444_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577444"
+      }
+    ]
+  },
+  {
+    "index": 1577417,
+    "publish_datetime": "2026-03-27T15:02:11",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kripto varlık alım satım platformu kuruluşuna ilişkin SPK izni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577417",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1577417_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577417"
+      }
+    ]
+  },
+  {
+    "index": 1576416,
+    "publish_datetime": "2026-03-26T17:03:43",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AKMEN",
+      "AKTIF",
+      "ATAVK",
+      "AZTEK",
+      "CAGFA",
+      "DSYAT",
+      "EMVAR",
+      "GGBVK",
+      "HLVKS",
+      "HUZFA",
+      "KNTFA",
+      "TCRYT",
+      "TMKS",
+      "YKBNK",
+      "ZKBVK"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576416",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1576416_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576416"
+      }
+    ]
+  },
+  {
+    "index": 1576277,
+    "publish_datetime": "2026-03-26T15:27:00",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576277",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1576277_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576277"
+      }
+    ]
+  },
+  {
+    "index": 1576229,
+    "publish_datetime": "2026-03-26T14:55:21",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Özkaynak hesaplamasına dahil edilebilir nitelikte yurtiçinde ihraç edilen borçlanma aracının kupon ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576229",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1576229_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576229"
+      }
+    ]
+  },
+  {
+    "index": 1575684,
+    "publish_datetime": "2026-03-25T17:26:11",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Özkaynak hesaplamasına dahil edilebilir nitelikte yurtiçinde ihraç edilen borçlanma aracının kupon oranı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575684",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1575684_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575684"
+      }
+    ]
+  },
+  {
+    "index": 1575652,
+    "publish_datetime": "2026-03-25T17:05:13",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ADEL",
+      "AKCVR",
+      "BRGFK",
+      "CCOLA",
+      "EMVAR",
+      "HDFFL",
+      "INFO",
+      "ISMEN",
+      "KATVK",
+      "KORTS",
+      "KTSVK",
+      "NRBNK",
+      "QFINF",
+      "QUFIN",
+      "QYHOL",
+      "TMKS",
+      "TRMEN",
+      "VDFLO",
+      "YKBNK"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575652",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1575652_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575652"
+      }
+    ]
+  },
+  {
+    "index": 1575425,
+    "publish_datetime": "2026-03-25T12:28:37",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Özkaynak hesaplamasına dahil edilebilir nitelikte yurtiçinde ihraç edilen borçlanma aracının kupon ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575425",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1575425_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575425"
+      }
+    ]
+  },
+  {
+    "index": 1575139,
+    "publish_datetime": "2026-03-24T17:03:12",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Özkaynak hesaplamasına dahil edilebilir nitelikte yurtiçinde ihraç edilen borçlanma aracının kupon oranı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575139",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1575139_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575139"
+      }
+    ]
+  },
+  {
+    "index": 1574817,
+    "publish_datetime": "2026-03-23T18:15:24",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu seçiminin tescil ve ilanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574817",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1574817_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574817"
+      }
+    ]
+  },
+  {
+    "index": 1574815,
+    "publish_datetime": "2026-03-23T18:15:01",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul toplantı kararlarının tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574815",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1574815_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574815"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/YKBNK/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/YKBNK/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1572118,
+    "publish_datetime": "2026-03-12T22:26:54",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572118",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572118_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572118"
+      }
+    ]
+  },
+  {
+    "index": 1572117,
+    "publish_datetime": "2026-03-12T22:26:44",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Komiteler tablosunda güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572117",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572117_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572117"
+      }
+    ]
+  },
+  {
+    "index": 1572116,
+    "publish_datetime": "2026-03-12T22:25:35",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu komiteleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572116",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572116_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572116"
+      }
+    ]
+  },
+  {
+    "index": 1572115,
+    "publish_datetime": "2026-03-12T22:25:18",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572115",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572115_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572115"
+      }
+    ]
+  },
+  {
+    "index": 1572010,
+    "publish_datetime": "2026-03-12T19:16:57",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu seçiminin Genel Kurul'ca onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572010",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572010_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572010"
+      }
+    ]
+  },
+  {
+    "index": 1572009,
+    "publish_datetime": "2026-03-12T19:16:36",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar dağıtımının Genel Kurul tarafından onaylanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572009",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1572009_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572009"
+      },
+      {
+        "filename": "Yapi Kredi 2025 yili Kar Dagitim Tablosu.pdf",
+        "local_path": "data/pdfs/YKBNK/1572009_Yapi Kredi 2025 yili Kar Dagitim Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce2d2c83e0b3e"
+      }
+    ]
+  },
+  {
+    "index": 1571997,
+    "publish_datetime": "2026-03-12T19:07:21",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571997",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1571997_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571997"
+      },
+      {
+        "filename": "YapiKrediToplantiTutanagi12032026.pdf",
+        "local_path": "data/pdfs/YKBNK/1571997_YapiKrediToplantiTutanagi12032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce2bdf3b17fa9"
+      },
+      {
+        "filename": "YapiKrediHazırBulunanlarListesi12032026.pdf",
+        "local_path": "data/pdfs/YKBNK/1571997_YapiKrediHazırBulunanlarListesi12032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce2bdf3ca7faa"
+      },
+      {
+        "filename": "Ahmet Turul Bağımsızlık Beyanı.pdf",
+        "local_path": "data/pdfs/YKBNK/1571997_Ahmet Turul Bağımsızlık Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce2bdf3d17fab"
+      }
+    ]
+  },
+  {
+    "index": 1570363,
+    "publish_datetime": "2026-03-11T15:36:36",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570363",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1570363_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570363"
+      }
+    ]
+  },
+  {
+    "index": 1570362,
+    "publish_datetime": "2026-03-11T15:36:25",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570362",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1570362_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570362"
+      }
+    ]
+  },
+  {
+    "index": 1570361,
+    "publish_datetime": "2026-03-11T15:36:12",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570361",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1570361_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570361"
+      }
+    ]
+  },
+  {
+    "index": 1569882,
+    "publish_datetime": "2026-03-10T18:34:00",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569882",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1569882_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569882"
+      }
+    ]
+  },
+  {
+    "index": 1569880,
+    "publish_datetime": "2026-03-10T18:33:44",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569880",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1569880_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569880"
+      }
+    ]
+  },
+  {
+    "index": 1568861,
+    "publish_datetime": "2026-03-09T17:51:50",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568861",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1568861_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568861"
+      }
+    ]
+  },
+  {
+    "index": 1567560,
+    "publish_datetime": "2026-03-06T17:58:17",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567560",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1567560_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567560"
+      }
+    ]
+  },
+  {
+    "index": 1567559,
+    "publish_datetime": "2026-03-06T17:58:00",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567559",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1567559_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567559"
+      }
+    ]
+  },
+  {
+    "index": 1567557,
+    "publish_datetime": "2026-03-06T17:57:47",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567557",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1567557_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567557"
+      }
+    ]
+  },
+  {
+    "index": 1567182,
+    "publish_datetime": "2026-03-06T14:42:36",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567182",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566509,
+    "publish_datetime": "2026-03-05T18:20:29",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Daha önce açılmış olan davanın reddi hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566509",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1566363,
+    "publish_datetime": "2026-03-05T16:39:47",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566363",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565976,
+    "publish_datetime": "2026-03-04T18:40:51",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565976",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565974,
+    "publish_datetime": "2026-03-04T18:40:30",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565974",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565231,
+    "publish_datetime": "2026-03-03T19:13:58",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565231",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565230,
+    "publish_datetime": "2026-03-03T19:13:45",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565230",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565222,
+    "publish_datetime": "2026-03-03T19:03:57",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565222",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565116,
+    "publish_datetime": "2026-03-03T17:43:11",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "YKBNK"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "YKBNK.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565116",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565063,
+    "publish_datetime": "2026-03-03T16:46:51",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında mavi tahvil ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565063",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1565062,
+    "publish_datetime": "2026-03-03T16:46:28",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında mavi tahvil ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565062",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1563820,
+    "publish_datetime": "2026-03-02T17:36:23",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DOGVY",
+      "TV8TV",
+      "YKBNK"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563820",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1563681,
+    "publish_datetime": "2026-03-02T17:24:53",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında borçlanma aracı ihracının tamamlanması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563681",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1563441,
+    "publish_datetime": "2026-03-02T11:55:40",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563441",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562782,
+    "publish_datetime": "2026-02-27T18:01:46",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli yatırımcılara borçlanma aracı ihracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562782",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562592,
+    "publish_datetime": "2026-02-27T15:53:02",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562592",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562591,
+    "publish_datetime": "2026-02-27T15:52:50",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562591",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561779,
+    "publish_datetime": "2026-02-26T12:31:18",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında mavi tahvil ihracı hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561779",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1561009,
+    "publish_datetime": "2026-02-24T18:13:16",
+    "company_name": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BRKVY"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tahsili Gecikmiş Alacak Portföyü Alımı - İhaleye Konu Alacakların Devrine Yönelik Sözleşmenin İmza Sürecinin Tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561009",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1561009_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561009"
+      }
+    ]
+  },
+  {
+    "index": 1560719,
+    "publish_datetime": "2026-02-24T09:15:35",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Rekabet Kurulu tarafından soruşturma açılması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560719",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1560719_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560719"
+      }
+    ]
+  },
+  {
+    "index": 1560259,
+    "publish_datetime": "2026-02-23T13:43:56",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560259",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1560259_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560259"
+      }
+    ]
+  },
+  {
+    "index": 1559665,
+    "publish_datetime": "2026-02-20T15:35:58",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559665",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1559665_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559665"
+      }
+    ]
+  },
+  {
+    "index": 1559664,
+    "publish_datetime": "2026-02-20T15:35:41",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtdışında ihraç edilen borçlanma aracının itfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559664",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1559664_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559664"
+      }
+    ]
+  },
+  {
+    "index": 1559325,
+    "publish_datetime": "2026-02-19T18:23:54",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Ortaklık Aleyhine Dava Açılması veya Davaya İlişkin Gelişmeler",
+    "summary": "Genel Kurul kararı aleyhine açılan davanın reddi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559325",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1559325_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559325"
+      }
+    ]
+  },
+  {
+    "index": 1558784,
+    "publish_datetime": "2026-02-19T11:14:47",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "YKBNK"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "YKBNK.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558784",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558784_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558784"
+      }
+    ]
+  },
+  {
+    "index": 1558609,
+    "publish_datetime": "2026-02-18T19:59:13",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "2025 yılı Entegre Faaliyet Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558609",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558609_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558609"
+      },
+      {
+        "filename": "Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/YKBNK/1558609_Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c71a1684b6bf4"
+      }
+    ]
+  },
+  {
+    "index": 1558608,
+    "publish_datetime": "2026-02-18T19:59:03",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558608",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558608_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558608"
+      },
+      {
+        "filename": "FR Sorumluluk Beyanı TR.pdf",
+        "local_path": "data/pdfs/YKBNK/1558608_FR Sorumluluk Beyanı TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c71455eb1043e"
+      },
+      {
+        "filename": "FR Sorumluluk Beyanı ENG.pdf",
+        "local_path": "data/pdfs/YKBNK/1558608_FR Sorumluluk Beyanı ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c71455eb7043f"
+      }
+    ]
+  },
+  {
+    "index": 1558607,
+    "publish_datetime": "2026-02-18T19:58:54",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Yapı ve Kredi Bankası A.Ş. 2025 Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558607",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558607_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558607"
+      },
+      {
+        "filename": "Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/YKBNK/1558607_Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c719ec7a270fb"
+      }
+    ]
+  },
+  {
+    "index": 1558546,
+    "publish_datetime": "2026-02-18T18:52:57",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 yılı Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558546",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558546_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558546"
+      }
+    ]
+  },
+  {
+    "index": 1558545,
+    "publish_datetime": "2026-02-18T18:51:53",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558545",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558545_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558545"
+      }
+    ]
+  },
+  {
+    "index": 1558544,
+    "publish_datetime": "2026-02-18T18:50:09",
+    "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "YKB",
+      "YKBNK"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558544",
+    "ticker": "YKBNK",
+    "company_oid": "33E5FED7047E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240f2ef4c01412ae6d6630538",
+    "kap_company_code": "2429",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/YKBNK/1558544_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558544"
+      }
+    ]
+  }
+]
