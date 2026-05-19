@@ -1,0 +1,1884 @@
+[
+  {
+    "index": 1607612,
+    "publish_datetime": "2026-05-15T09:12:21",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ADEL",
+      "BAGFS",
+      "BIMAS",
+      "DHI",
+      "DSTKF",
+      "GSDHO",
+      "IAS",
+      "IZFAS",
+      "MAC",
+      "MMCAS",
+      "PASEU",
+      "PDC",
+      "PRY",
+      "SASA",
+      "TP2",
+      "TRILC"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607612",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1607612_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607612"
+      },
+      {
+        "filename": "14052026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1607612_14052026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9e276fa9019e2a2fb9a5063b"
+      }
+    ]
+  },
+  {
+    "index": 1607466,
+    "publish_datetime": "2026-05-14T18:21:26",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607466",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1607466_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607466"
+      }
+    ]
+  },
+  {
+    "index": 1607465,
+    "publish_datetime": "2026-05-14T18:21:05",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Halka Arz Fiyatının Belirlenmesinde Esas Alınan Varsayımlara İlişkin Değerlendirme Raporu",
+    "summary": "Halka Arz Fiyatının Belirlenmesinde Esas Alınan Varsayımlara İlişkin Değerlendirme Raporu-6",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607465",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1607465_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607465"
+      },
+      {
+        "filename": "DSTKF Gerçekleşme ve Değerlendirme Raporu 6.pdf",
+        "local_path": "data/pdfs/DSTKF/1607465_DSTKF Gerçekleşme ve Değerlendirme Raporu 6.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e259aade00407"
+      }
+    ]
+  },
+  {
+    "index": 1607015,
+    "publish_datetime": "2026-05-13T18:38:20",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF",
+      "EMPAE",
+      "ZERGY"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607015",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1607015_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607015"
+      }
+    ]
+  },
+  {
+    "index": 1606556,
+    "publish_datetime": "2026-05-13T10:01:52",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606556",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1605336,
+    "publish_datetime": "2026-05-11T18:52:06",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "01.01.2026-31.03.2026 Hesap Dönemine İlişkin Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605336",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "01.01.2026-31.03.2026 Hesap Dönemine İlişkin Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/DSTKF/1605336_01.01.2026-31.03.2026 Hesap Dönemine İlişkin Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e16ba3ad22276"
+      }
+    ]
+  },
+  {
+    "index": 1605327,
+    "publish_datetime": "2026-05-11T18:49:26",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "01.01.2026-31.03.2026 Hesap Dönemi Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605327",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "01.01.2026-31.03.2026 Hesap Dönemi Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/DSTKF/1605327_01.01.2026-31.03.2026 Hesap Dönemi Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e17b5b9362dad"
+      }
+    ]
+  },
+  {
+    "index": 1605321,
+    "publish_datetime": "2026-05-11T18:48:10",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605321",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Destek Faktoring A.Ş. 31.03.2026.pdf",
+        "local_path": "data/pdfs/DSTKF/1605321_Destek Faktoring A.Ş. 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1797aec44490"
+      }
+    ]
+  },
+  {
+    "index": 1603186,
+    "publish_datetime": "2026-05-08T14:12:07",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603186",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598486,
+    "publish_datetime": "2026-04-29T10:00:23",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598486",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596610,
+    "publish_datetime": "2026-04-22T14:58:50",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "3.000.000 USD Nominal Değerli Tahvilin Kupon Ödemesi (Yurt Dışı)",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596610",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1595140,
+    "publish_datetime": "2026-04-20T10:24:06",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595140",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1590994,
+    "publish_datetime": "2026-04-10T18:30:09",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Bedelsiz Sermaye Artırımına İlişkin Revize Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590994",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "Esas Sözleşme Tadil Metni Revize.pdf",
+        "local_path": "data/pdfs/DSTKF/1590994_Esas Sözleşme Tadil Metni Revize.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d768562976fc0"
+      }
+    ]
+  },
+  {
+    "index": 1590333,
+    "publish_datetime": "2026-04-09T18:28:48",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Bedelsiz Sermaye Artırımına İlişkin Revize Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590333",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1580914,
+    "publish_datetime": "2026-03-31T18:28:57",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+    "summary": "Bedelsiz Sermaye Artırımına İlişkin Revize Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580914",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1580914_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580914"
+      },
+      {
+        "filename": "Esas Sözleşme Tadil Metni.pdf",
+        "local_path": "data/pdfs/DSTKF/1580914_Esas Sözleşme Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d42ae467c7eb7"
+      }
+    ]
+  },
+  {
+    "index": 1579885,
+    "publish_datetime": "2026-03-31T09:06:40",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF",
+      "GUNDG",
+      "IZFAS",
+      "PASEU",
+      "PCS",
+      "PDE",
+      "PKZ",
+      "PRY",
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579885",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1579885_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579885"
+      },
+      {
+        "filename": "30032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1579885_30032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d42772b3309c2"
+      }
+    ]
+  },
+  {
+    "index": 1578571,
+    "publish_datetime": "2026-03-30T17:07:10",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Tescil ve TTSG?de İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578571",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1578571_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578571"
+      },
+      {
+        "filename": "2025 Genel Kurul Tescil TTSG.pdf",
+        "local_path": "data/pdfs/DSTKF/1578571_2025 Genel Kurul Tescil TTSG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3dddda4e3e7d"
+      }
+    ]
+  },
+  {
+    "index": 1578566,
+    "publish_datetime": "2026-03-30T17:06:12",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Kararlarının Tescil ve İlanı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1578566",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1578566_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1578566"
+      },
+      {
+        "filename": "DFF 2025 OLAĞAN GK HAZİRUN KAP.pdf",
+        "local_path": "data/pdfs/DSTKF/1578566_DFF 2025 OLAĞAN GK HAZİRUN KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3dd451403d9b"
+      },
+      {
+        "filename": "DFF 2025 Olağan GK TUTANAK KAP.pdf",
+        "local_path": "data/pdfs/DSTKF/1578566_DFF 2025 Olağan GK TUTANAK KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3dd451bc3d9c"
+      },
+      {
+        "filename": "DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/DSTKF/1578566_DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d3dd4522e3d9d"
+      }
+    ]
+  },
+  {
+    "index": 1575741,
+    "publish_datetime": "2026-03-25T17:59:08",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurulu toplantısında onaylanan Kar Payı Dağıtım Kararı\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575741",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1575741_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575741"
+      },
+      {
+        "filename": "Kar Payı Dağıtım Tablosu 2025.pdf",
+        "local_path": "data/pdfs/DSTKF/1575741_Kar Payı Dağıtım Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d257b081f5027"
+      }
+    ]
+  },
+  {
+    "index": 1575727,
+    "publish_datetime": "2026-03-25T17:51:36",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Genel Kurul'ca onaylanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575727",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1575727_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575727"
+      }
+    ]
+  },
+  {
+    "index": 1575726,
+    "publish_datetime": "2026-03-25T17:49:42",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılına ait Olağan Genel Kurul Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575726",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1575726_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575726"
+      },
+      {
+        "filename": "DFF 2025 OLAĞAN GK HAZİRUN KAP.pdf",
+        "local_path": "data/pdfs/DSTKF/1575726_DFF 2025 OLAĞAN GK HAZİRUN KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d24f78ff73ee1"
+      },
+      {
+        "filename": "DFF 2025 Olağan GK TUTANAK KAP.pdf",
+        "local_path": "data/pdfs/DSTKF/1575726_DFF 2025 Olağan GK TUTANAK KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d24f790043ee2"
+      },
+      {
+        "filename": "DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/DSTKF/1575726_DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d24f790113ee3"
+      }
+    ]
+  },
+  {
+    "index": 1573299,
+    "publish_datetime": "2026-03-17T09:05:33",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF",
+      "EMKEL",
+      "LINK",
+      "LYDHO",
+      "MIATK",
+      "SVGYO",
+      "TERA",
+      "TP2",
+      "TRA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573299",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1573299_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573299"
+      },
+      {
+        "filename": "16032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1573299_16032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cfa5e6de24172"
+      }
+    ]
+  },
+  {
+    "index": 1572733,
+    "publish_datetime": "2026-03-16T09:02:51",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "BLUME",
+      "DSTKF",
+      "EFOR",
+      "GLRYH",
+      "MARTI",
+      "NNF",
+      "TERA",
+      "TP2",
+      "TRA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572733",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1572733_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572733"
+      },
+      {
+        "filename": "13032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1572733_13032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019cf537efbd4009"
+      }
+    ]
+  },
+  {
+    "index": 1572204,
+    "publish_datetime": "2026-03-13T10:26:35",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572204",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1572204_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572204"
+      }
+    ]
+  },
+  {
+    "index": 1572185,
+    "publish_datetime": "2026-03-13T10:02:35",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572185",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1572185_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572185"
+      }
+    ]
+  },
+  {
+    "index": 1571524,
+    "publish_datetime": "2026-03-12T10:28:34",
+    "company_name": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "SAHAR"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi Derecelendirme Not Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571524",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1571524_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571524"
+      },
+      {
+        "filename": "DSTKF-260311-C-TR ÖZET.pdf",
+        "local_path": "data/pdfs/DSTKF/1571524_DSTKF-260311-C-TR ÖZET.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce0f1a4c86a09"
+      }
+    ]
+  },
+  {
+    "index": 1570537,
+    "publish_datetime": "2026-03-11T18:13:41",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi Derecelendirme Notu Açıklanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570537",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1570537_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570537"
+      },
+      {
+        "filename": "DSTKF-260311-C-TR ÖZET.pdf",
+        "local_path": "data/pdfs/DSTKF/1570537_DSTKF-260311-C-TR ÖZET.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdc299b0b7eda"
+      }
+    ]
+  },
+  {
+    "index": 1568902,
+    "publish_datetime": "2026-03-09T18:10:34",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568902",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1568902_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568902"
+      },
+      {
+        "filename": "2025 TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "local_path": "data/pdfs/DSTKF/1568902_2025 TSRS Uyumlu Sürdürülebilirlik Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd2ad1005441d"
+      }
+    ]
+  },
+  {
+    "index": 1566862,
+    "publish_datetime": "2026-03-06T08:50:33",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "BBO",
+      "BURVA",
+      "DSTKF",
+      "GENKM",
+      "GENTS",
+      "PASEU",
+      "PCS",
+      "TP2"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566862",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1566862_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566862"
+      },
+      {
+        "filename": "05032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1566862_05032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cc1aa0d69722e"
+      }
+    ]
+  },
+  {
+    "index": 1566157,
+    "publish_datetime": "2026-03-05T09:14:12",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "DSTKF",
+      "LIDFA",
+      "MARTI",
+      "MRGYO",
+      "NNF",
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566157",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1566157_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566157"
+      },
+      {
+        "filename": "04032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1566157_04032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cbc93314e1dd4"
+      }
+    ]
+  },
+  {
+    "index": 1563368,
+    "publish_datetime": "2026-03-02T10:00:13",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563368",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1563368_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563368"
+      }
+    ]
+  },
+  {
+    "index": 1563337,
+    "publish_datetime": "2026-03-02T09:13:00",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ADGYO",
+      "ATATR",
+      "DSTKF",
+      "IEYHO",
+      "PDH",
+      "PEKGY",
+      "TERA",
+      "TRA",
+      "YAPRK"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563337",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1563337_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563337"
+      },
+      {
+        "filename": "27022026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1563337_27022026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cad2a72d132d9"
+      }
+    ]
+  },
+  {
+    "index": 1562029,
+    "publish_datetime": "2026-02-26T18:13:05",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Halka Arz Fiyatının Belirlenmesinde Esas Alınan Varsayımlara İlişkin Değerlendirme Raporu",
+    "summary": "Halka Arz Fiyatının Belirlenmesinde Esas Alınan Varsayımlara İlişkin Değerlendirme Raporu-5",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562029",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1562029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562029"
+      },
+      {
+        "filename": "DSTKF Gerçekleşme ve Değerlendirme Raporu 5.pdf",
+        "local_path": "data/pdfs/DSTKF/1562029_DSTKF Gerçekleşme ve Değerlendirme Raporu 5.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c999ac8155389"
+      }
+    ]
+  },
+  {
+    "index": 1561972,
+    "publish_datetime": "2026-02-26T17:19:56",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "BARMA",
+      "BERA",
+      "DSTKF",
+      "KLSER",
+      "UMPAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561972",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1561972_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561972"
+      }
+    ]
+  },
+  {
+    "index": 1561270,
+    "publish_datetime": "2026-02-25T11:20:06",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561270",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1561270_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561270"
+      }
+    ]
+  },
+  {
+    "index": 1561217,
+    "publish_datetime": "2026-02-25T10:22:19",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561217",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1561217_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561217"
+      }
+    ]
+  },
+  {
+    "index": 1561206,
+    "publish_datetime": "2026-02-25T10:10:17",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "DSTKF.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561206",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1561206_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561206"
+      }
+    ]
+  },
+  {
+    "index": 1561005,
+    "publish_datetime": "2026-02-24T18:12:03",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF",
+      "TERA"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "Toptan Alış Satış İşlemi ",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561005",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1561005_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561005"
+      }
+    ]
+  },
+  {
+    "index": 1560715,
+    "publish_datetime": "2026-02-24T09:07:33",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ADGYO",
+      "ARZUM",
+      "CONSE",
+      "DSTKF",
+      "MARTI",
+      "METRO",
+      "MRGYO",
+      "TERA"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560715",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1560715_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560715"
+      },
+      {
+        "filename": "23022026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/DSTKF/1560715_23022026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c8e3fd39e47bb"
+      }
+    ]
+  },
+  {
+    "index": 1560535,
+    "publish_datetime": "2026-02-23T17:58:52",
+    "company_name": "TERA YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "DSTKF Toptan Alış Satış İşlem Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560535",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1560535_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560535"
+      }
+    ]
+  },
+  {
+    "index": 1560184,
+    "publish_datetime": "2026-02-23T11:12:16",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560184",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1560184_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560184"
+      }
+    ]
+  },
+  {
+    "index": 1560153,
+    "publish_datetime": "2026-02-23T10:19:03",
+    "company_name": "TERA YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "DSTKF Toptan Alış Satış İşlem Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560153",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1560153_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560153"
+      }
+    ]
+  },
+  {
+    "index": 1560056,
+    "publish_datetime": "2026-02-20T20:42:16",
+    "company_name": "TERA YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TERA",
+      "TRA"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "DSTKF Toptan Alış Satış İşlem Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560056",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1560056_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560056"
+      },
+      {
+        "filename": "Alıcı Listesi .pdf",
+        "local_path": "data/pdfs/DSTKF/1560056_Alıcı Listesi .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c7c22f8fa01a4"
+      }
+    ]
+  },
+  {
+    "index": 1559724,
+    "publish_datetime": "2026-02-20T16:28:58",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantı Çağrısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559724",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1559724_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559724"
+      },
+      {
+        "filename": "DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "local_path": "data/pdfs/DSTKF/1559724_DF-2025 OGK Bilgilendirme Dokümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c7b33cfde4a5b"
+      },
+      {
+        "filename": "DF- 2025 OGK Davet Gündem ve Vekaletname.pdf",
+        "local_path": "data/pdfs/DSTKF/1559724_DF- 2025 OGK Davet Gündem ve Vekaletname.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c7b33cfe74a5c"
+      }
+    ]
+  },
+  {
+    "index": 1559666,
+    "publish_datetime": "2026-02-20T15:37:05",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağımsız Yönetim Kurulu Üyeleri Oluru hk. ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559666",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1559666_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559666"
+      }
+    ]
+  },
+  {
+    "index": 1559565,
+    "publish_datetime": "2026-02-20T11:39:09",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559565",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1559565_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559565"
+      },
+      {
+        "filename": "DSTKF_55021.pdf",
+        "local_path": "data/pdfs/DSTKF/1559565_DSTKF_55021.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c7a3137fc3f89"
+      }
+    ]
+  },
+  {
+    "index": 1559548,
+    "publish_datetime": "2026-02-20T10:39:56",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559548",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1559548_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559548"
+      }
+    ]
+  },
+  {
+    "index": 1559294,
+    "publish_datetime": "2026-02-19T18:11:14",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF",
+      "TERA"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "Toptan Alış Satış İşlemi ",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559294",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1559294_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559294"
+      }
+    ]
+  },
+  {
+    "index": 1558996,
+    "publish_datetime": "2026-02-19T14:45:53",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "20.000.000 USD Nominal Değerli Yurt Dışına Tahvil İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558996",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1558996_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558996"
+      }
+    ]
+  },
+  {
+    "index": 1558514,
+    "publish_datetime": "2026-02-18T18:21:21",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Sürdürülebilirlik Güvence Denetimini Yapmak Üzere Bağımsız Denetim Şirketi Seçimi hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558514",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1558514_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558514"
+      }
+    ]
+  },
+  {
+    "index": 1558513,
+    "publish_datetime": "2026-02-18T18:20:36",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558513",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1558513_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558513"
+      }
+    ]
+  },
+  {
+    "index": 1558510,
+    "publish_datetime": "2026-02-18T18:18:37",
+    "company_name": "DESTEK FİNANS FAKTORİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DSTKF"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kârı için Olağan Genel Kurula sunulacak teklif",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558510",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1558510_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558510"
+      },
+      {
+        "filename": "Kar Payı Dağıtım Tablosu 2025.pdf",
+        "local_path": "data/pdfs/DSTKF/1558510_Kar Payı Dağıtım Tablosu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c70e10de25bf1"
+      }
+    ]
+  },
+  {
+    "index": 1558191,
+    "publish_datetime": "2026-02-18T14:52:09",
+    "company_name": "DESTEK YATIRIM MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "DMD",
+      "DSYAT"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "DSTKF Toptan Alış Satış İşlem Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558191",
+    "ticker": "DSTKF",
+    "company_oid": "33E5FED7067300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe0caa830df",
+    "kap_company_code": "2191",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/DSTKF/1558191_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558191"
+      },
+      {
+        "filename": "Ek-1 Alıcı Listesi.pdf",
+        "local_path": "data/pdfs/DSTKF/1558191_Ek-1 Alıcı Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6fcb55f13aac"
+      }
+    ]
+  }
+]

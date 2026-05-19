@@ -1,0 +1,1546 @@
+[
+  {
+    "index": 1599012,
+    "publish_datetime": "2026-04-29T19:37:57",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.03.2026 Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599012",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1599012_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599012"
+      },
+      {
+        "filename": "1Ç26 Finansal Sonuçlar Bilgilendirme Bülteni.pdf",
+        "local_path": "data/pdfs/CIMSA/1599012_1Ç26 Finansal Sonuçlar Bilgilendirme Bülteni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dda14bed200aa"
+      },
+      {
+        "filename": "1Q26 Financial Results Bulletin.pdf",
+        "local_path": "data/pdfs/CIMSA/1599012_1Q26 Financial Results Bulletin.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dda14bed800ab"
+      }
+    ]
+  },
+  {
+    "index": 1599011,
+    "publish_datetime": "2026-04-29T19:37:47",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Çimsa Çimento 31.03.2026 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599011",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1599011_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599011"
+      },
+      {
+        "filename": "Çimsa Çimento 31.03.2026 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/CIMSA/1599011_Çimsa Çimento 31.03.2026 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dda0b82bd7f4e"
+      }
+    ]
+  },
+  {
+    "index": 1599010,
+    "publish_datetime": "2026-04-29T19:37:38",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599010",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1599010_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599010"
+      },
+      {
+        "filename": "Çimsa Çimento - 31.03.2026 -  Finansal Tablo ve Dipnotlar.pdf",
+        "local_path": "data/pdfs/CIMSA/1599010_Çimsa Çimento - 31.03.2026 - Finansal Tablo ve Dipnotlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dda072c257e7e"
+      }
+    ]
+  },
+  {
+    "index": 1599009,
+    "publish_datetime": "2026-04-29T19:37:28",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31.03.2026 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599009",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1599009_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599009"
+      }
+    ]
+  },
+  {
+    "index": 1595523,
+    "publish_datetime": "2026-04-20T16:52:15",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçiminin Tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595523",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1595523_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595523"
+      }
+    ]
+  },
+  {
+    "index": 1595522,
+    "publish_datetime": "2026-04-20T16:52:03",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı Sonuçlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 7,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595522",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1595522_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595522"
+      },
+      {
+        "filename": "Çimsa Çimento 2025 Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "local_path": "data/pdfs/CIMSA/1595522_Çimsa Çimento 2025 Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daac4181948bc"
+      },
+      {
+        "filename": "Cimsa 2025 General Assembly Meeting Minutes.pdf",
+        "local_path": "data/pdfs/CIMSA/1595522_Cimsa 2025 General Assembly Meeting Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daac4182c48bd"
+      },
+      {
+        "filename": "Çimsa Çimento 2025 Olağan Genel Kurul Hazirun.pdf",
+        "local_path": "data/pdfs/CIMSA/1595522_Çimsa Çimento 2025 Olağan Genel Kurul Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019daac4184248be"
+      }
+    ]
+  },
+  {
+    "index": 1594977,
+    "publish_datetime": "2026-04-17T19:35:36",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASTOR",
+      "AYGAZ",
+      "BRISA",
+      "CIMSA",
+      "EBEBK",
+      "ECILC",
+      "EGEEN",
+      "EMPAE",
+      "EREGL",
+      "ISDMR",
+      "KTLEV",
+      "LILAK",
+      "MCARD",
+      "SANFM",
+      "SELEC",
+      "SISE",
+      "TTRAK"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST Temettü ve BIST Temettü 25 Endeksleri Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594977",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1594977_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594977"
+      },
+      {
+        "filename": "BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "local_path": "data/pdfs/CIMSA/1594977_BIST Temettü ve BIST Temettü 25 Endekslerine Alınacak Çıkarılacak ve Yedek Paylar Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4586967"
+      },
+      {
+        "filename": "BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "local_path": "data/pdfs/CIMSA/1594977_BIST Dividend and BIST Dividend 25 Indices Constituent Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d9c45e4656968"
+      }
+    ]
+  },
+  {
+    "index": 1593894,
+    "publish_datetime": "2026-04-15T18:26:16",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593894",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1593894_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593894"
+      }
+    ]
+  },
+  {
+    "index": 1592497,
+    "publish_datetime": "2026-04-13T19:33:27",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Yurtiçinde Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592497",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1592497_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592497"
+      },
+      {
+        "filename": "İhraç belgesi ve eki.pdf",
+        "local_path": "data/pdfs/CIMSA/1592497_İhraç belgesi ve eki.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d87a8f66c5662"
+      }
+    ]
+  },
+  {
+    "index": 1592494,
+    "publish_datetime": "2026-04-13T19:33:01",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurtiçinde Borçlanma Aracı İhracına İlişkin SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592494",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1592494_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592494"
+      },
+      {
+        "filename": "Başvuru Formu.pdf",
+        "local_path": "data/pdfs/CIMSA/1592494_Başvuru Formu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d8799388153bf"
+      },
+      {
+        "filename": "İhraç belgesi ve eki.pdf",
+        "local_path": "data/pdfs/CIMSA/1592494_İhraç belgesi ve eki.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d8799389553c0"
+      }
+    ]
+  },
+  {
+    "index": 1583782,
+    "publish_datetime": "2026-04-03T17:17:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "SAHOL"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583782",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1583782_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583782"
+      }
+    ]
+  },
+  {
+    "index": 1582016,
+    "publish_datetime": "2026-04-01T09:43:41",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582016",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1582016_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582016"
+      }
+    ]
+  },
+  {
+    "index": 1582006,
+    "publish_datetime": "2026-04-01T09:16:01",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582006",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1582006_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582006"
+      }
+    ]
+  },
+  {
+    "index": 1580643,
+    "publish_datetime": "2026-03-31T17:02:26",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AFYON",
+      "ANSGR",
+      "ASGYO",
+      "CIMSA",
+      "ISATR",
+      "ISBTR",
+      "ISCTR",
+      "ISKUR",
+      "ISMEN",
+      "QNBFK",
+      "SAHOL"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580643",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1580643_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580643"
+      }
+    ]
+  },
+  {
+    "index": 1579729,
+    "publish_datetime": "2026-03-30T23:28:27",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "2025 Entegre Faaliyet Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579729",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579729_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579729"
+      },
+      {
+        "filename": "Çimsa 2025 EFR -KAP.pdf",
+        "local_path": "data/pdfs/CIMSA/1579729_Çimsa 2025 EFR -KAP.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d40409c6e74cb"
+      }
+    ]
+  },
+  {
+    "index": 1579727,
+    "publish_datetime": "2026-03-30T23:28:13",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "31 Aralık 2025 tarihi itibarıyla TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579727",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579727_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579727"
+      },
+      {
+        "filename": "Çimsa TSRS Uyumlu Sürdürülebilirlik Raporu 2025.pdf",
+        "local_path": "data/pdfs/CIMSA/1579727_Çimsa TSRS Uyumlu Sürdürülebilirlik Raporu 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d404252da7547"
+      }
+    ]
+  },
+  {
+    "index": 1579321,
+    "publish_datetime": "2026-03-30T19:57:46",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579321",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579321_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579321"
+      }
+    ]
+  },
+  {
+    "index": 1579320,
+    "publish_datetime": "2026-03-30T19:57:18",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579320",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579320_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579320"
+      }
+    ]
+  },
+  {
+    "index": 1579304,
+    "publish_datetime": "2026-03-30T19:52:30",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yılına ait karın kullanım şekli ile ilgili Genel Kurul kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579304",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579304_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579304"
+      }
+    ]
+  },
+  {
+    "index": 1579299,
+    "publish_datetime": "2026-03-30T19:51:18",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579299",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579299_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579299"
+      }
+    ]
+  },
+  {
+    "index": 1579275,
+    "publish_datetime": "2026-03-30T19:45:40",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Sonuç Bildirimi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 7,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579275",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1579275_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579275"
+      },
+      {
+        "filename": "Çimsa Çimento 2025 Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "local_path": "data/pdfs/CIMSA/1579275_Çimsa Çimento 2025 Olağan Genel Kurul Toplantı Tutanağı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d3fa1451a7967"
+      },
+      {
+        "filename": "Cimsa 2025 General Assembly Meeting Minutes.pdf",
+        "local_path": "data/pdfs/CIMSA/1579275_Cimsa 2025 General Assembly Meeting Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d3fa145317968"
+      },
+      {
+        "filename": "Çimsa Çimento 2025 Olağan Genel Kurul Hazirun.pdf",
+        "local_path": "data/pdfs/CIMSA/1579275_Çimsa Çimento 2025 Olağan Genel Kurul Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d3fa145457969"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1573627,
+    "publish_datetime": "2026-03-17T18:31:41",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Borçlanma Aracı İhracına İlişkin SPK'ya Yapılan Başvuru Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573627",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1573627_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573627"
+      }
+    ]
+  },
+  {
+    "index": 1573518,
+    "publish_datetime": "2026-03-17T17:02:35",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BMSTL",
+      "CIMSA",
+      "ENDAE"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573518",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1573518_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573518"
+      }
+    ]
+  },
+  {
+    "index": 1572559,
+    "publish_datetime": "2026-03-13T18:30:31",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurtiçinde borçlanma aracı ihraç edilmesi hakkında karar alınması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572559",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1572559_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572559"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1569936,
+    "publish_datetime": "2026-03-10T18:57:34",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurtiçinde borçlanma aracı ihraç edilmesi hakkında karar alınması ve SPK başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569936",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1569936_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569936"
+      }
+    ]
+  },
+  {
+    "index": 1568829,
+    "publish_datetime": "2026-03-09T17:25:20",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA",
+      "ISBIR",
+      "MGROS",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568829",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1568829_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568829"
+      }
+    ]
+  },
+  {
+    "index": 1562168,
+    "publish_datetime": "2026-02-26T19:24:14",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562168",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562168_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562168"
+      }
+    ]
+  },
+  {
+    "index": 1562167,
+    "publish_datetime": "2026-02-26T19:22:51",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yılı karının kullanım şeklinin belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562167",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562167_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562167"
+      }
+    ]
+  },
+  {
+    "index": 1562166,
+    "publish_datetime": "2026-02-26T19:22:42",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562166",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562166_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562166"
+      }
+    ]
+  },
+  {
+    "index": 1562165,
+    "publish_datetime": "2026-02-26T19:22:31",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yılına ait Olağan Genel Kurul Toplantı Tarihi ve Gündeminin Tespiti",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562165",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562165_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562165"
+      },
+      {
+        "filename": "Çimsa Genel Kurul Bilgilendirme Belgesi 2025 Tr.pdf",
+        "local_path": "data/pdfs/CIMSA/1562165_Çimsa Genel Kurul Bilgilendirme Belgesi 2025 Tr.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9a2ee5ac6a5b"
+      },
+      {
+        "filename": "Çimsa Information Document for General Assembly 2025_En.pdf",
+        "local_path": "data/pdfs/CIMSA/1562165_Çimsa Information Document for General Assembly 2025_En.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9a2ee5b66a5c"
+      },
+      {
+        "filename": "Çimsa Genel Kurul Çağrı İlanı 2025 Tr.pdf",
+        "local_path": "data/pdfs/CIMSA/1562165_Çimsa Genel Kurul Çağrı İlanı 2025 Tr.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9a2ee5bf6a5d"
+      }
+    ]
+  },
+  {
+    "index": 1562164,
+    "publish_datetime": "2026-02-26T19:22:20",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562164",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562164_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562164"
+      }
+    ]
+  },
+  {
+    "index": 1562163,
+    "publish_datetime": "2026-02-26T19:22:05",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562163",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562163_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562163"
+      }
+    ]
+  },
+  {
+    "index": 1562162,
+    "publish_datetime": "2026-02-26T19:21:16",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562162",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562162_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562162"
+      }
+    ]
+  },
+  {
+    "index": 1562161,
+    "publish_datetime": "2026-02-26T19:20:11",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "31.12.2025 Finansal Sonuçlar Bilgilendirme Bülteni",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562161",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562161_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562161"
+      },
+      {
+        "filename": "2025 Finansal Sonuçlar Bilgilendirme Bülteni.pdf",
+        "local_path": "data/pdfs/CIMSA/1562161_2025 Finansal Sonuçlar Bilgilendirme Bülteni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9aa52b7a3205"
+      },
+      {
+        "filename": "2025 Financial Results Bulletin.pdf",
+        "local_path": "data/pdfs/CIMSA/1562161_2025 Financial Results Bulletin.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9aa52b813206"
+      }
+    ]
+  },
+  {
+    "index": 1562160,
+    "publish_datetime": "2026-02-26T19:19:53",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31.12.2025 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562160",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562160_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562160"
+      }
+    ]
+  },
+  {
+    "index": 1562158,
+    "publish_datetime": "2026-02-26T19:19:41",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Çimsa Çimento 31.12.2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562158",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562158_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562158"
+      },
+      {
+        "filename": "Çimsa Çimento 31.12.2025 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/CIMSA/1562158_Çimsa Çimento 31.12.2025 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9a8225207f89"
+      }
+    ]
+  },
+  {
+    "index": 1562156,
+    "publish_datetime": "2026-02-26T19:19:27",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562156",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1562156_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562156"
+      },
+      {
+        "filename": "Çimsa Çimento - 31.12.2025 - Finansal Tablo ve Dipnotlar.pdf",
+        "local_path": "data/pdfs/CIMSA/1562156_Çimsa Çimento - 31.12.2025 - Finansal Tablo ve Dipnotlar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9a7d27017e32"
+      }
+    ]
+  },
+  {
+    "index": 1559208,
+    "publish_datetime": "2026-02-19T17:19:45",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "CIMSA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559208",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1559208_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559208"
+      }
+    ]
+  },
+  {
+    "index": 1558672,
+    "publish_datetime": "2026-02-19T07:32:36",
+    "company_name": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "CIMSA"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558672",
+    "ticker": "CIMSA",
+    "company_oid": "33E5FED7038B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a240ee866c0140f1f64bdb0014",
+    "kap_company_code": "908",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/CIMSA/1558672_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558672"
+      }
+    ]
+  }
+]

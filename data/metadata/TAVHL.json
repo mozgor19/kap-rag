@@ -1,0 +1,1422 @@
+[
+  {
+    "index": 1606680,
+    "publish_datetime": "2026-05-13T14:13:20",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606680",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1606680_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606680"
+      },
+      {
+        "filename": "SRD2025.pdf",
+        "local_path": "data/pdfs/TAVHL/1606680_SRD2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e2106c3b15044"
+      }
+    ]
+  },
+  {
+    "index": 1604678,
+    "publish_datetime": "2026-05-11T16:21:25",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı Bülteni (Nisan 2026)",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604678",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1604678_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604678"
+      },
+      {
+        "filename": "Yatırımcı_Bulteni__042026.pdf",
+        "local_path": "data/pdfs/TAVHL/1604678_Yatırımcı_Bulteni__042026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1724c826207d"
+      },
+      {
+        "filename": "Investor_Bulletin__0426.pdf",
+        "local_path": "data/pdfs/TAVHL/1604678_Investor_Bulletin__0426.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1724c8ca207e"
+      }
+    ]
+  },
+  {
+    "index": 1602572,
+    "publish_datetime": "2026-05-07T18:01:17",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602572",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1602572_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602572"
+      },
+      {
+        "filename": "TAVHL.pdf",
+        "local_path": "data/pdfs/TAVHL/1602572_TAVHL.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e02f32e670317"
+      }
+    ]
+  },
+  {
+    "index": 1598193,
+    "publish_datetime": "2026-04-28T16:55:23",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TAVHL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598193",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1598193_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598193"
+      }
+    ]
+  },
+  {
+    "index": 1597779,
+    "publish_datetime": "2026-04-27T18:42:03",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026/1Ç Finansallar",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597779",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1597779_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597779"
+      }
+    ]
+  },
+  {
+    "index": 1597741,
+    "publish_datetime": "2026-04-27T18:21:31",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "TAVHL Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597741",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1597741_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597741"
+      },
+      {
+        "filename": "TAV Holding Faaliyet Raporu 31.03.2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1597741_TAV Holding Faaliyet Raporu 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dcf80a0be5334"
+      }
+    ]
+  },
+  {
+    "index": 1597739,
+    "publish_datetime": "2026-04-27T18:21:16",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597739",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1597739_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597739"
+      },
+      {
+        "filename": "SPK TAVHL Konsolide 31 03 2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1597739_SPK TAVHL Konsolide 31 03 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019dcf7ff0e552e5"
+      }
+    ]
+  },
+  {
+    "index": 1597738,
+    "publish_datetime": "2026-04-27T18:21:01",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "TAVHL Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597738",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1597738_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597738"
+      }
+    ]
+  },
+  {
+    "index": 1595864,
+    "publish_datetime": "2026-04-21T09:57:56",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 yılı 1. Çeyrek Finansal Takvim ",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595864",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1595864_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595864"
+      }
+    ]
+  },
+  {
+    "index": 1590529,
+    "publish_datetime": "2026-04-10T11:38:35",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Esas Sözleşme",
+    "summary": "Esas Sözleşme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590529",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1590529_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590529"
+      },
+      {
+        "filename": "EsasSozlesme_2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1590529_EsasSozlesme_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d768386e46783"
+      },
+      {
+        "filename": "AoA_2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1590529_AoA_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d768386f96784"
+      }
+    ]
+  },
+  {
+    "index": 1590527,
+    "publish_datetime": "2026-04-10T11:36:55",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Esas Sözleşme değişikliğinin tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590527",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1590527_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590527"
+      },
+      {
+        "filename": "EsasSozlesme_2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1590527_EsasSozlesme_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d767d8d696716"
+      },
+      {
+        "filename": "AoA_2026.pdf",
+        "local_path": "data/pdfs/TAVHL/1590527_AoA_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d767d8d796717"
+      }
+    ]
+  },
+  {
+    "index": 1590510,
+    "publish_datetime": "2026-04-10T11:21:11",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetçi Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590510",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1590510_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590510"
+      }
+    ]
+  },
+  {
+    "index": 1590508,
+    "publish_datetime": "2026-04-10T11:19:50",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 yılı Olağan Genel Kurul Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590508",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1590508_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590508"
+      },
+      {
+        "filename": "Tutanak.pdf",
+        "local_path": "data/pdfs/TAVHL/1590508_Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d766f3706647a"
+      },
+      {
+        "filename": "kap_hazirun.pdf",
+        "local_path": "data/pdfs/TAVHL/1590508_kap_hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d766f3712647b"
+      },
+      {
+        "filename": "Tutanak_ENG.pdf",
+        "local_path": "data/pdfs/TAVHL/1590508_Tutanak_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d766f371c647c"
+      }
+    ]
+  },
+  {
+    "index": 1590459,
+    "publish_datetime": "2026-04-10T08:52:08",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590459",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1590459_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590459"
+      },
+      {
+        "filename": "TAVHL_55299.pdf",
+        "local_path": "data/pdfs/TAVHL/1590459_TAVHL_55299.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d75d0ecf56296"
+      }
+    ]
+  },
+  {
+    "index": 1587912,
+    "publish_datetime": "2026-04-08T12:20:40",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı Bülteni (Mart 2026)",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587912",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1587912_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587912"
+      },
+      {
+        "filename": "Yatırımcı_Bulteni__032026.pdf",
+        "local_path": "data/pdfs/TAVHL/1587912_Yatırımcı_Bulteni__032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c5d140301b5"
+      },
+      {
+        "filename": "Investor_Bulletin__0326.pdf",
+        "local_path": "data/pdfs/TAVHL/1587912_Investor_Bulletin__0326.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d6c5d140c01b6"
+      }
+    ]
+  },
+  {
+    "index": 1583207,
+    "publish_datetime": "2026-04-03T07:31:48",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi Derecelendirmesi (S&P)",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583207",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1583207_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583207"
+      }
+    ]
+  },
+  {
+    "index": 1582000,
+    "publish_datetime": "2026-04-01T09:05:30",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582000",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1582000_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582000"
+      }
+    ]
+  },
+  {
+    "index": 1577400,
+    "publish_datetime": "2026-03-27T14:40:55",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı sermaye geçerlilik süresinin uzatılmasına ilişkin Esas Sözleşme değişikliğine ilişkin Genel Kurul onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577400",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1577400_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577400"
+      },
+      {
+        "filename": "KSS_TAV_esas_soz_deg_ENG.pdf",
+        "local_path": "data/pdfs/TAVHL/1577400_KSS_TAV_esas_soz_deg_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d2f16541f5c6f"
+      },
+      {
+        "filename": "Onaylı_Tadil.pdf",
+        "local_path": "data/pdfs/TAVHL/1577400_Onaylı_Tadil.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d2f1654875c70"
+      }
+    ]
+  },
+  {
+    "index": 1577389,
+    "publish_datetime": "2026-03-27T14:27:10",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577389",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1577389_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577389"
+      }
+    ]
+  },
+  {
+    "index": 1577376,
+    "publish_datetime": "2026-03-27T14:10:36",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577376",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1577376_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577376"
+      },
+      {
+        "filename": "Tutanak.pdf",
+        "local_path": "data/pdfs/TAVHL/1577376_Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d2ef48ef8562c"
+      },
+      {
+        "filename": "kap_hazirun.pdf",
+        "local_path": "data/pdfs/TAVHL/1577376_kap_hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d2ef48f3b562d"
+      },
+      {
+        "filename": "Tutanak_ENG.pdf",
+        "local_path": "data/pdfs/TAVHL/1577376_Tutanak_ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d2ef48f70562e"
+      }
+    ]
+  },
+  {
+    "index": 1569499,
+    "publish_datetime": "2026-03-10T16:01:10",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı Bülteni (Şubat 2026)",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569499",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1569499_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569499"
+      },
+      {
+        "filename": "Yatırımcı_Bulteni__022026.pdf",
+        "local_path": "data/pdfs/TAVHL/1569499_Yatırımcı_Bulteni__022026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd7cc060124f0"
+      },
+      {
+        "filename": "Investor_Bulletin__0226.pdf",
+        "local_path": "data/pdfs/TAVHL/1569499_Investor_Bulletin__0226.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cd7cc061324f3"
+      }
+    ]
+  },
+  {
+    "index": 1567020,
+    "publish_datetime": "2026-03-06T11:40:00",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TAVHL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567020",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1567020_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567020"
+      }
+    ]
+  },
+  {
+    "index": 1564790,
+    "publish_datetime": "2026-03-03T10:10:55",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Toplantısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564790",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1564790_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564790"
+      },
+      {
+        "filename": "GK_Bilgil_ Dokumani_2025.pdf",
+        "local_path": "data/pdfs/TAVHL/1564790_GK_Bilgil_ Dokumani_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb2278c531d12"
+      },
+      {
+        "filename": "GA_2025.pdf",
+        "local_path": "data/pdfs/TAVHL/1564790_GA_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb2278c5d1d13"
+      }
+    ]
+  },
+  {
+    "index": 1564113,
+    "publish_datetime": "2026-03-02T18:50:36",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetçi Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564113",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1564113_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564113"
+      }
+    ]
+  },
+  {
+    "index": 1562840,
+    "publish_datetime": "2026-02-27T18:14:20",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562840",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1562840_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562840"
+      }
+    ]
+  },
+  {
+    "index": 1562835,
+    "publish_datetime": "2026-02-27T18:13:52",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562835",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562830,
+    "publish_datetime": "2026-02-27T18:13:32",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562830",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562808,
+    "publish_datetime": "2026-02-27T18:11:28",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562808",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1562797,
+    "publish_datetime": "2026-02-27T18:10:41",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562797",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "TAV_FRAT_2025.pdf",
+        "local_path": "data/pdfs/TAVHL/1562797_TAV_FRAT_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019c9f1e9a136a0c"
+      }
+    ]
+  },
+  {
+    "index": 1562517,
+    "publish_datetime": "2026-02-27T15:15:33",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TAVHL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562517",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1559421,
+    "publish_datetime": "2026-02-19T21:50:52",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Kredi Derecelendirmesi / Fitch",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559421",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558903,
+    "publish_datetime": "2026-02-19T13:54:42",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TAVHL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558903",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558517,
+    "publish_datetime": "2026-02-18T18:22:28",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558517",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558489,
+    "publish_datetime": "2026-02-18T18:08:20",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558489",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "TAVHL_55012.pdf",
+        "local_path": "data/pdfs/TAVHL/1558489_TAVHL_55012.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c714ab0fb652f"
+      }
+    ]
+  },
+  {
+    "index": 1558447,
+    "publish_datetime": "2026-02-18T17:47:44",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TAVHL.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558447",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558447_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558447"
+      }
+    ]
+  },
+  {
+    "index": 1558045,
+    "publish_datetime": "2026-02-18T01:10:23",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Beklentileri (Düzeltme)",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558045",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558045_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558045"
+      },
+      {
+        "filename": "Beklentiler.pdf",
+        "local_path": "data/pdfs/TAVHL/1558045_Beklentiler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6da33b54214b"
+      },
+      {
+        "filename": "Guidance.pdf",
+        "local_path": "data/pdfs/TAVHL/1558045_Guidance.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6da33b58214c"
+      }
+    ]
+  },
+  {
+    "index": 1558035,
+    "publish_datetime": "2026-02-18T00:37:59",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yılı Finansalları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558035",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558035_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558035"
+      }
+    ]
+  },
+  {
+    "index": 1558034,
+    "publish_datetime": "2026-02-18T00:35:41",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Beklentileri ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558034",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558034_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558034"
+      },
+      {
+        "filename": "beklentiler.pdf",
+        "local_path": "data/pdfs/TAVHL/1558034_beklentiler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6d854aa74221"
+      },
+      {
+        "filename": "guidance.pdf",
+        "local_path": "data/pdfs/TAVHL/1558034_guidance.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c6d854aab4222"
+      }
+    ]
+  },
+  {
+    "index": 1558033,
+    "publish_datetime": "2026-02-18T00:30:16",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kâr Payı Dağıtımı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558033",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558033_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558033"
+      }
+    ]
+  },
+  {
+    "index": 1558026,
+    "publish_datetime": "2026-02-18T00:05:15",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "TAVHL Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558026",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558026_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558026"
+      }
+    ]
+  },
+  {
+    "index": 1558025,
+    "publish_datetime": "2026-02-18T00:05:00",
+    "company_name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TAVHL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558025",
+    "ticker": "TAVHL",
+    "company_oid": "33E5FED7055B00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f31195ef010e",
+    "kap_company_code": "1452",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TAVHL/1558025_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558025"
+      },
+      {
+        "filename": "SPK TAVHL Konsolide 31.12.2025.pdf",
+        "local_path": "data/pdfs/TAVHL/1558025_SPK TAVHL Konsolide 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c4019c6d62f51e1cda"
+      }
+    ]
+  }
+]

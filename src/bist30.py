@@ -1,34 +1,34 @@
 BIST30_TICKERS: list[str] = [
+    "AEFES",   # Anadolu Efes
     "AKBNK",   # Akbank
-    "AKSEN",   # Aksa Enerji
-    "ALARK",   # Alarko Holding
     "ASELS",   # Aselsan
     "ASTOR",   # Astor Enerji
     "BIMAS",   # BİM Mağazalar
-    "DOAS",    # Doğuş Otomotiv
+    "CIMSA",   # Çimsa
+    "DSTKF",   # Destek Finans Faktoring
     "EKGYO",   # Emlak Konut GYO
     "ENKAI",   # Enka İnşaat
     "EREGL",   # Ereğli Demir Çelik
     "FROTO",   # Ford Otosan
     "GARAN",   # Garanti BBVA
-    "HEKTS",   # Hektaş
+    "GUBRF",   # Gübre Fabrikaları
     "ISCTR",   # İş Bankası C
     "KCHOL",   # Koç Holding
-    "KOZAL",   # Koza Altın
     "KRDMD",   # Kardemir D
     "MGROS",   # Migros
-    "OYAKC",   # Oyak Çimento
     "PETKM",   # Petkim
     "PGSUS",   # Pegasus
     "SAHOL",   # Sabancı Holding
     "SASA",    # Sasa Polyester
     "SISE",    # Şişe Cam
+    "TAVHL",   # TAV Havalimanları
     "TCELL",   # Turkcell
     "THYAO",   # Türk Hava Yolları
     "TOASO",   # Tofaş
+    "TRALT",   # Türk Altın İşletmeleri
+    "TTKOM",   # Türk Telekom
     "TUPRS",   # Tüpraş
-    "YKBNK",   # Yapı Kredi
-    "ZRGYO",   # Ziraat GYO
+    "VAKBN",   # Vakıflar Bankası
 ]
 
 if __name__ == "__main__":

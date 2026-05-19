@@ -1,0 +1,2005 @@
+[
+  {
+    "index": 1608422,
+    "publish_datetime": "2026-05-18T11:54:22",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608422",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1608422_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608422"
+      }
+    ]
+  },
+  {
+    "index": 1608365,
+    "publish_datetime": "2026-05-18T10:30:01",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608365",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1608365_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608365"
+      }
+    ]
+  },
+  {
+    "index": 1606832,
+    "publish_datetime": "2026-05-13T16:37:22",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606832",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1606832_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606832"
+      }
+    ]
+  },
+  {
+    "index": 1606821,
+    "publish_datetime": "2026-05-13T16:25:53",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMB"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMB.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606821",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1606821_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606821"
+      }
+    ]
+  },
+  {
+    "index": 1606780,
+    "publish_datetime": "2026-05-13T15:39:22",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606780",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1606780_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606780"
+      }
+    ]
+  },
+  {
+    "index": 1606650,
+    "publish_datetime": "2026-05-13T12:14:41",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606650",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1606650_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606650"
+      }
+    ]
+  },
+  {
+    "index": 1606617,
+    "publish_datetime": "2026-05-13T11:20:45",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606617",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1606617_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606617"
+      }
+    ]
+  },
+  {
+    "index": 1603902,
+    "publish_datetime": "2026-05-10T16:37:49",
+    "company_name": "AGESA HAYAT VE EMEKLİLİK A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGESA"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Emeklilik yatırım fonlarımızın KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. (KRDMD) sermayesindeki sahip olduğu paylar",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603902",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1603902_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603902"
+      }
+    ]
+  },
+  {
+    "index": 1603710,
+    "publish_datetime": "2026-05-08T18:54:48",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603710",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1603710_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603710"
+      }
+    ]
+  },
+  {
+    "index": 1603705,
+    "publish_datetime": "2026-05-08T18:53:52",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603705",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1603705_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603705"
+      },
+      {
+        "filename": "Faaliyet Raporu 31.03.2026.pdf",
+        "local_path": "data/pdfs/KRDMD/1603705_Faaliyet Raporu 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e07ae078221f1"
+      }
+    ]
+  },
+  {
+    "index": 1603696,
+    "publish_datetime": "2026-05-08T18:51:38",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603696",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1603696_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603696"
+      },
+      {
+        "filename": "Konsolide Mali Tablolar ve Dipnotları.pdf",
+        "local_path": "data/pdfs/KRDMD/1603696_Konsolide Mali Tablolar ve Dipnotları.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e083a043957be"
+      }
+    ]
+  },
+  {
+    "index": 1602316,
+    "publish_datetime": "2026-05-07T13:16:27",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMB"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMB.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602316",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1602316_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602316"
+      }
+    ]
+  },
+  {
+    "index": 1602088,
+    "publish_datetime": "2026-05-06T18:47:02",
+    "company_name": "AZİMUT PORTFÖY YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GPO"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602088",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1602088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602088"
+      },
+      {
+        "filename": "KRDMA_Özel_Durum_Açıklaması.pdf",
+        "local_path": "data/pdfs/KRDMD/1602088_KRDMA_Özel_Durum_Açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfdf7e6b440dd"
+      }
+    ]
+  },
+  {
+    "index": 1601624,
+    "publish_datetime": "2026-05-06T12:53:50",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601624",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1601624_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601624"
+      }
+    ]
+  },
+  {
+    "index": 1597692,
+    "publish_datetime": "2026-04-27T17:59:19",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Esas Sözleşme",
+    "summary": "Güncel Esas Sözleşme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597692",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1597692_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597692"
+      },
+      {
+        "filename": "sözleşmeNisan2026.pdf",
+        "local_path": "data/pdfs/KRDMD/1597692_sözleşmeNisan2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dcf5986fa79d9"
+      }
+    ]
+  },
+  {
+    "index": 1597199,
+    "publish_datetime": "2026-04-24T18:14:03",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı Sermaye Tavanı Geçerlilik Süresi Değişikliği Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597199",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1597199_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597199"
+      },
+      {
+        "filename": "Tadil Metni.pdf",
+        "local_path": "data/pdfs/KRDMD/1597199_Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dc008b06d3393"
+      },
+      {
+        "filename": "Amendment text.pdf",
+        "local_path": "data/pdfs/KRDMD/1597199_Amendment text.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dc008b0723394"
+      }
+    ]
+  },
+  {
+    "index": 1597194,
+    "publish_datetime": "2026-04-24T18:04:36",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597194",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1597194_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597194"
+      }
+    ]
+  },
+  {
+    "index": 1597193,
+    "publish_datetime": "2026-04-24T18:04:21",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Tescili hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597193",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1597193_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1597193"
+      },
+      {
+        "filename": "SPK ek açıklamalar.pdf",
+        "local_path": "data/pdfs/KRDMD/1597193_SPK ek açıklamalar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dbfdba4923248"
+      },
+      {
+        "filename": "Announcement.pdf",
+        "local_path": "data/pdfs/KRDMD/1597193_Announcement.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dbfdba4ca3249"
+      },
+      {
+        "filename": "CMB Add. Info_.pdf",
+        "local_path": "data/pdfs/KRDMD/1597193_CMB Add. Info_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dbfdba4ed324a"
+      }
+    ]
+  },
+  {
+    "index": 1594389,
+    "publish_datetime": "2026-04-16T18:02:58",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594389",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1594389_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594389"
+      }
+    ]
+  },
+  {
+    "index": 1593987,
+    "publish_datetime": "2026-04-16T09:11:55",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Başkan Vekilliği Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593987",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1593987_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593987"
+      }
+    ]
+  },
+  {
+    "index": 1591017,
+    "publish_datetime": "2026-04-10T19:16:47",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı Sermaye Tavanının Geçerlilik Süresinin Uzatılması hk",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591017",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1591017_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591017"
+      },
+      {
+        "filename": "Tadil Metni.pdf",
+        "local_path": "data/pdfs/KRDMD/1591017_Tadil Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d782bfcb255e4"
+      },
+      {
+        "filename": "Amendment text.pdf",
+        "local_path": "data/pdfs/KRDMD/1591017_Amendment text.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d782bfcb655e5"
+      }
+    ]
+  },
+  {
+    "index": 1591013,
+    "publish_datetime": "2026-04-10T19:10:16",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591013",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1591013_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591013"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu-2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1591013_Kar Dağıtım Tablosu-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d78256d315504"
+      },
+      {
+        "filename": "Dividend Distribution-2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1591013_Dividend Distribution-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d78256d4d5505"
+      }
+    ]
+  },
+  {
+    "index": 1591011,
+    "publish_datetime": "2026-04-10T19:03:38",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı sonucu Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591011",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1591011_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591011"
+      },
+      {
+        "filename": "TUTANAK.pdf",
+        "local_path": "data/pdfs/KRDMD/1591011_TUTANAK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7816a89752c6"
+      },
+      {
+        "filename": "KAP Hazirun.pdf",
+        "local_path": "data/pdfs/KRDMD/1591011_KAP Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7816a89c52c7"
+      },
+      {
+        "filename": "İlan Metni.pdf",
+        "local_path": "data/pdfs/KRDMD/1591011_İlan Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7816a8d552c8"
+      }
+    ]
+  },
+  {
+    "index": 1585238,
+    "publish_datetime": "2026-04-06T19:17:40",
+    "company_name": "AZİMUT PORTFÖY YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GPO"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1585238",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1585238_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1585238"
+      },
+      {
+        "filename": "KRDMA_ÖZEL_DURUM_AÇIKLAMASI.pdf",
+        "local_path": "data/pdfs/KRDMD/1585238_KRDMA_ÖZEL_DURUM_AÇIKLAMASI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d63956407336a"
+      }
+    ]
+  },
+  {
+    "index": 1584104,
+    "publish_datetime": "2026-04-03T21:12:44",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2 No.lu Sürekli Döküm Makinesi Yatırımı Hk",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584104",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1584104_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584104"
+      }
+    ]
+  },
+  {
+    "index": 1583938,
+    "publish_datetime": "2026-04-03T18:15:12",
+    "company_name": "AZİMUT PORTFÖY YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GPO"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583938",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1583938_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583938"
+      },
+      {
+        "filename": "KRDMA_özel_durum_açıklaması.pdf",
+        "local_path": "data/pdfs/KRDMD/1583938_KRDMA_özel_durum_açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d534a6d2e7aa8"
+      }
+    ]
+  },
+  {
+    "index": 1580730,
+    "publish_datetime": "2026-03-31T17:50:14",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580730",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1580730_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580730"
+      }
+    ]
+  },
+  {
+    "index": 1580497,
+    "publish_datetime": "2026-03-31T16:03:37",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "A1CAP",
+      "AKMGY",
+      "BARMA",
+      "BYDNR",
+      "ECOGR",
+      "EGPRO",
+      "ENDAE",
+      "ERCB",
+      "GEDIK",
+      "GMTAS",
+      "IZINV",
+      "KRDMB",
+      "KRTEK",
+      "LRSHO",
+      "MOGAN",
+      "NTGAZ",
+      "OYYAT",
+      "PAGYO",
+      "PLTUR",
+      "PRZMA",
+      "VKGYO",
+      "YAPRK"
+    ],
+    "subject": "Endeks Şirketlerinde Değişiklik",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580497",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1580497_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580497"
+      },
+      {
+        "filename": "01.04.2026 TARİHİNDEN İTİBAREN GEÇERLİ OLACAK PAZAR DEĞİŞİKLİKLERİNE BAĞLI ENDEKS DEĞİŞİKLİKLERİ.pdf",
+        "local_path": "data/pdfs/KRDMD/1580497_01.04.2026 TARİHİNDEN İTİBAREN GEÇERLİ OLACAK PAZAR DEĞİŞİKLİKLERİNE BAĞLI ENDEKS DEĞİŞİKLİKLERİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43a530dd31ff"
+      },
+      {
+        "filename": "INDEX CHANGES RELATED TO MARKET SEGMENT CHANGES EFFECTIVE FROM APRIL 1 2026.pdf",
+        "local_path": "data/pdfs/KRDMD/1580497_INDEX CHANGES RELATED TO MARKET SEGMENT CHANGES EFFECTIVE FROM APRIL 1 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43a530fc3200"
+      }
+    ]
+  },
+  {
+    "index": 1579398,
+    "publish_datetime": "2026-03-30T20:38:09",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Görevden Ayrılma Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1579398",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1579398_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1579398"
+      }
+    ]
+  },
+  {
+    "index": 1575825,
+    "publish_datetime": "2026-03-25T18:28:17",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575825",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1575825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575825"
+      },
+      {
+        "filename": "2025 Yılı Entegre Faaliyet Raporu2.pdf",
+        "local_path": "data/pdfs/KRDMD/1575825_2025 Yılı Entegre Faaliyet Raporu2.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d25970d275461"
+      }
+    ]
+  },
+  {
+    "index": 1574795,
+    "publish_datetime": "2026-03-23T18:05:42",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Satış Duyurusu Hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574795",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1574795_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574795"
+      }
+    ]
+  },
+  {
+    "index": 1574024,
+    "publish_datetime": "2026-03-18T15:58:13",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574024",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1574024_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574024"
+      }
+    ]
+  },
+  {
+    "index": 1572643,
+    "publish_datetime": "2026-03-13T20:54:51",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572643",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1572643_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572643"
+      }
+    ]
+  },
+  {
+    "index": 1572603,
+    "publish_datetime": "2026-03-13T19:21:17",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Hk",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572603",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1572603_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572603"
+      },
+      {
+        "filename": "Kar Dağıtım Tablosu-2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1572603_Kar Dağıtım Tablosu-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce7fc965f0497"
+      },
+      {
+        "filename": "Dividend Distribution-2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1572603_Dividend Distribution-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce7fc96640498"
+      }
+    ]
+  },
+  {
+    "index": 1572601,
+    "publish_datetime": "2026-03-13T19:13:26",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "İlişkili Taraf İşlemleri",
+    "summary": "Yaygın ve Süreklilik Arz Eden İşlemlere İlişkin Rapor",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572601",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1572601_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572601"
+      }
+    ]
+  },
+  {
+    "index": 1572600,
+    "publish_datetime": "2026-03-13T19:12:18",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572600",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1572600_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572600"
+      },
+      {
+        "filename": "İlan Metni.pdf",
+        "local_path": "data/pdfs/KRDMD/1572600_İlan Metni.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce7f1a8f60397"
+      },
+      {
+        "filename": "SPK ek açıklamalar.pdf",
+        "local_path": "data/pdfs/KRDMD/1572600_SPK ek açıklamalar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce7f1a8fd0398"
+      },
+      {
+        "filename": "Announcement.pdf",
+        "local_path": "data/pdfs/KRDMD/1572600_Announcement.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019ce7f1a9040399"
+      }
+    ]
+  },
+  {
+    "index": 1570853,
+    "publish_datetime": "2026-03-11T19:17:18",
+    "company_name": "AZİMUT PORTFÖY YÖNETİMİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "GPO"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi Hk.\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570853",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1570853_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570853"
+      },
+      {
+        "filename": "KRDMA_ÖZEL_DURUM_AÇIKLAMASI.pdf",
+        "local_path": "data/pdfs/KRDMD/1570853_KRDMA_ÖZEL_DURUM_AÇIKLAMASI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cdd2fbea94823"
+      }
+    ]
+  },
+  {
+    "index": 1570383,
+    "publish_datetime": "2026-03-11T16:07:04",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570383",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1570383_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570383"
+      }
+    ]
+  },
+  {
+    "index": 1569955,
+    "publish_datetime": "2026-03-10T19:05:12",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569955",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569955_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569955"
+      }
+    ]
+  },
+  {
+    "index": 1569953,
+    "publish_datetime": "2026-03-10T19:04:09",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569953",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569953_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569953"
+      }
+    ]
+  },
+  {
+    "index": 1569949,
+    "publish_datetime": "2026-03-10T19:01:39",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569949",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569949_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569949"
+      }
+    ]
+  },
+  {
+    "index": 1569943,
+    "publish_datetime": "2026-03-10T19:00:38",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569943",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569943_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569943"
+      }
+    ]
+  },
+  {
+    "index": 1569939,
+    "publish_datetime": "2026-03-10T18:59:27",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 Yılı TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569939",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569939_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569939"
+      },
+      {
+        "filename": "TSRS_Kardemir_2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1569939_TSRS_Kardemir_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd87463d64535"
+      }
+    ]
+  },
+  {
+    "index": 1569937,
+    "publish_datetime": "2026-03-10T18:58:32",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569937",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569937_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569937"
+      },
+      {
+        "filename": "Kardemir Faaliyet Raporu-31.12.2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1569937_Kardemir Faaliyet Raporu-31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd84f82793b9c"
+      }
+    ]
+  },
+  {
+    "index": 1569931,
+    "publish_datetime": "2026-03-10T18:56:52",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569931",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1569931_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569931"
+      },
+      {
+        "filename": "Kardemir- 31.12.2025.pdf",
+        "local_path": "data/pdfs/KRDMD/1569931_Kardemir- 31.12.2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cd84884223a2e"
+      }
+    ]
+  },
+  {
+    "index": 1564920,
+    "publish_datetime": "2026-03-03T14:14:52",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMB"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMB.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564920",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1564920_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564920"
+      }
+    ]
+  },
+  {
+    "index": 1564916,
+    "publish_datetime": "2026-03-03T14:01:11",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564916",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1564916_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564916"
+      }
+    ]
+  },
+  {
+    "index": 1564890,
+    "publish_datetime": "2026-03-03T12:56:04",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564890",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1564890_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564890"
+      }
+    ]
+  },
+  {
+    "index": 1563367,
+    "publish_datetime": "2026-03-02T10:00:12",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMB"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMB.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563367",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1563367_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563367"
+      }
+    ]
+  },
+  {
+    "index": 1563365,
+    "publish_datetime": "2026-03-02T10:00:11",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMA.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1563365",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1563365_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1563365"
+      }
+    ]
+  },
+  {
+    "index": 1561347,
+    "publish_datetime": "2026-02-25T14:58:14",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561347",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1561347_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561347"
+      }
+    ]
+  },
+  {
+    "index": 1559259,
+    "publish_datetime": "2026-02-19T17:43:29",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMD"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "KRDMD.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559259",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1559259_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559259"
+      }
+    ]
+  },
+  {
+    "index": 1558887,
+    "publish_datetime": "2026-02-19T13:37:47",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558887",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1558887_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558887"
+      },
+      {
+        "filename": "KRDMA_55019.pdf",
+        "local_path": "data/pdfs/KRDMD/1558887_KRDMA_55019.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c4c12c1019c75789a6d7234"
+      }
+    ]
+  },
+  {
+    "index": 1558493,
+    "publish_datetime": "2026-02-18T18:12:32",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay Alım Satım Bildirimi\n\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558493",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1558493_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558493"
+      },
+      {
+        "filename": "KRDMA_55014.pdf",
+        "local_path": "data/pdfs/KRDMD/1558493_KRDMA_55014.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c714e786665c5"
+      }
+    ]
+  },
+  {
+    "index": 1558479,
+    "publish_datetime": "2026-02-18T17:56:17",
+    "company_name": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KRDMA",
+      "KRDMB",
+      "KRDMD"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Belirlenmesi hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558479",
+    "ticker": "KRDMD",
+    "company_oid": "33E5FED703E900EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed7201412ace3ada0707",
+    "kap_company_code": "994",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/KRDMD/1558479_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558479"
+      }
+    ]
+  }
+]

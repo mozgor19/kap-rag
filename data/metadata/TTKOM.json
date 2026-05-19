@@ -1,0 +1,1486 @@
+[
+  {
+    "index": 1608681,
+    "publish_datetime": "2026-05-18T18:17:38",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608681",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1608681_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608681"
+      }
+    ]
+  },
+  {
+    "index": 1603622,
+    "publish_datetime": "2026-05-08T18:26:58",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603622",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1603622_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603622"
+      },
+      {
+        "filename": "31.03.2026 SPK Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1603622_31.03.2026 SPK Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e082e5c61363b"
+      },
+      {
+        "filename": "31.03.2026 CMB Report.pdf",
+        "local_path": "data/pdfs/TTKOM/1603622_31.03.2026 CMB Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019e082e5dff363c"
+      }
+    ]
+  },
+  {
+    "index": 1603559,
+    "publish_datetime": "2026-05-08T18:15:17",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Tablo ve-veya Dipnot Değişikliği",
+    "summary": "KAP Sistemi Finansal Durum Tablosu Satırlar Arası Güncelleme ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603559",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1603559_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603559"
+      }
+    ]
+  },
+  {
+    "index": 1602037,
+    "publish_datetime": "2026-05-06T18:21:28",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Türk Telekom Grubu Vergi Politikası",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602037",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1602037_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602037"
+      },
+      {
+        "filename": "TÜRK TELEKOM GRUBU VERGİ POLİTİKASI.pdf",
+        "local_path": "data/pdfs/TTKOM/1602037_TÜRK TELEKOM GRUBU VERGİ POLİTİKASI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdccd37b1dbd"
+      },
+      {
+        "filename": "TURK TELEKOM GROUP TAX POLICY.pdf",
+        "local_path": "data/pdfs/TTKOM/1602037_TURK TELEKOM GROUP TAX POLICY.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfdccd3af1dbe"
+      }
+    ]
+  },
+  {
+    "index": 1602035,
+    "publish_datetime": "2026-05-06T18:21:12",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "2026 1. Çeyrek Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602035",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1602035_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602035"
+      },
+      {
+        "filename": "Sorumluluk Beyanı_2026_Q1.pdf",
+        "local_path": "data/pdfs/TTKOM/1602035_Sorumluluk Beyanı_2026_Q1.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdc176fd3e16"
+      }
+    ]
+  },
+  {
+    "index": 1602033,
+    "publish_datetime": "2026-05-06T18:20:58",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 1. Çeyrek Konsolide Operasyonel ve Finansal Değerlendirme",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602033",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "TTKOM_Sonuç Açıklama Bülteni_1Ç26.pdf",
+        "local_path": "data/pdfs/TTKOM/1602033_TTKOM_Sonuç Açıklama Bülteni_1Ç26.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdbcb25b3d22"
+      },
+      {
+        "filename": "TTKOM_Earnings Release_Q126.pdf",
+        "local_path": "data/pdfs/TTKOM/1602033_TTKOM_Earnings Release_Q126.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdbcb2b13d23"
+      }
+    ]
+  },
+  {
+    "index": 1602032,
+    "publish_datetime": "2026-05-06T18:20:31",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2026 1. Çeyrek Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602032",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2026 1. Çeyrek Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1602032_2026 1. Çeyrek Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdb4c4b43c7e"
+      },
+      {
+        "filename": "2026 1st Quarter Activity Report.pdf",
+        "local_path": "data/pdfs/TTKOM/1602032_2026 1st Quarter Activity Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdb4c4f83c7f"
+      }
+    ]
+  },
+  {
+    "index": 1602031,
+    "publish_datetime": "2026-05-06T18:20:11",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602031",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "31.03.2026 SPK Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1602031_31.03.2026 SPK Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdad8a283b37"
+      },
+      {
+        "filename": "31.03.2026 CMB Report.pdf",
+        "local_path": "data/pdfs/TTKOM/1602031_31.03.2026 CMB Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfdad8b7b3b38"
+      }
+    ]
+  },
+  {
+    "index": 1597825,
+    "publish_datetime": "2026-04-27T20:11:44",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings Türk Telekomünikasyon A.Ş.?nin Kurumsal Kredi Görünümünü Revize Etti",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597825",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596237,
+    "publish_datetime": "2026-04-21T18:04:46",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçiminin Tescili",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596237",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596236,
+    "publish_datetime": "2026-04-21T18:04:34",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596236",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "2025 OGK Tutanak.pdf",
+        "local_path": "data/pdfs/TTKOM/1596236_2025 OGK Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db07d25c05209"
+      },
+      {
+        "filename": "Hazır Bulunanlar Listesi 2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1596236_Hazır Bulunanlar Listesi 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db07d25cf520a"
+      },
+      {
+        "filename": "List of Attendees 2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1596236_List of Attendees 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019db07d25db520b"
+      }
+    ]
+  },
+  {
+    "index": 1594470,
+    "publish_datetime": "2026-04-16T20:57:21",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594470",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1591062,
+    "publish_datetime": "2026-04-10T20:02:56",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu Güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591062",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1591061,
+    "publish_datetime": "2026-04-10T20:02:33",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591061",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1591060,
+    "publish_datetime": "2026-04-10T20:02:18",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komite Ataması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591060",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1591060_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591060"
+      }
+    ]
+  },
+  {
+    "index": 1591059,
+    "publish_datetime": "2026-04-10T20:01:58",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Organizasyonel Değişiklikler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1591059",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1591059_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1591059"
+      }
+    ]
+  },
+  {
+    "index": 1590128,
+    "publish_datetime": "2026-04-09T17:02:44",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu Güncelleme",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590128",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590128_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590128"
+      }
+    ]
+  },
+  {
+    "index": 1590052,
+    "publish_datetime": "2026-04-09T16:03:34",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590052",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590052_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590052"
+      }
+    ]
+  },
+  {
+    "index": 1590051,
+    "publish_datetime": "2026-04-09T16:03:21",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590051",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590051_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590051"
+      },
+      {
+        "filename": "TÜRK TELEKOMÜNİKASYON A.Ş. 2025 YILI KAR DAĞITIM TABLOSU_TR.pdf",
+        "local_path": "data/pdfs/TTKOM/1590051_TÜRK TELEKOMÜNİKASYON A.Ş. 2025 YILI KAR DAĞITIM TABLOSU_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7252fe5806bc"
+      },
+      {
+        "filename": "TÜRK TELEKOMÜNİKASYON A.Ş. 2025 Dividend Distribution Table.pdf",
+        "local_path": "data/pdfs/TTKOM/1590051_TÜRK TELEKOMÜNİKASYON A.Ş. 2025 Dividend Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7252fe5f06bd"
+      }
+    ]
+  },
+  {
+    "index": 1590044,
+    "publish_datetime": "2026-04-09T15:53:24",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağış Politikası",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590044",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590044_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590044"
+      },
+      {
+        "filename": "Bağış Politikası_2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1590044_Bağış Politikası_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d723ba16903a7"
+      },
+      {
+        "filename": "Donation Policy_2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1590044_Donation Policy_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d723ba16e03a8"
+      }
+    ]
+  },
+  {
+    "index": 1590043,
+    "publish_datetime": "2026-04-09T15:53:12",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Firmasının Seçilmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590043",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590043_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590043"
+      }
+    ]
+  },
+  {
+    "index": 1590041,
+    "publish_datetime": "2026-04-09T15:53:00",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 6,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590041",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1590041_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590041"
+      },
+      {
+        "filename": "2025 OGK Tutanak.pdf",
+        "local_path": "data/pdfs/TTKOM/1590041_2025 OGK Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7240ca3f0475"
+      },
+      {
+        "filename": "Hazır Bulunanlar Listesi 2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1590041_Hazır Bulunanlar Listesi 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7240ca480476"
+      },
+      {
+        "filename": "List of Attendees 2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1590041_List of Attendees 2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d7240ca4f0477"
+      }
+    ]
+  },
+  {
+    "index": 1586894,
+    "publish_datetime": "2026-04-07T18:13:56",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "XS3194824747 ISIN Kodlu Yeşil Tahvilin Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586894",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1586894_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586894"
+      }
+    ]
+  },
+  {
+    "index": 1575111,
+    "publish_datetime": "2026-03-24T16:43:55",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TTKOM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575111",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1575111_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575111"
+      }
+    ]
+  },
+  {
+    "index": 1572526,
+    "publish_datetime": "2026-03-13T18:15:54",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Olağan Genel Kurul Toplantısı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572526",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1572526_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572526"
+      },
+      {
+        "filename": "Davet_Gündem_Bilgilendirme Dokümanı_Vekaletname.pdf",
+        "local_path": "data/pdfs/TTKOM/1572526_Davet_Gündem_Bilgilendirme Dokümanı_Vekaletname.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce7ba892a2eaa"
+      },
+      {
+        "filename": "Invitation_Agenda_Information Note_Proxy Sample.pdf",
+        "local_path": "data/pdfs/TTKOM/1572526_Invitation_Agenda_Information Note_Proxy Sample.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019ce7ba89512eab"
+      }
+    ]
+  },
+  {
+    "index": 1572525,
+    "publish_datetime": "2026-03-13T18:15:38",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bağış Politikası",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572525",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1572525_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572525"
+      },
+      {
+        "filename": "Bağış Politikası_2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1572525_Bağış Politikası_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019ce67e3d7015fb"
+      },
+      {
+        "filename": "Donation Policy_2026.pdf",
+        "local_path": "data/pdfs/TTKOM/1572525_Donation Policy_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019ce67e3d7415fc"
+      }
+    ]
+  },
+  {
+    "index": 1572522,
+    "publish_datetime": "2026-03-13T18:15:19",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Yönetim Kurulu Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572522",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1572522_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572522"
+      },
+      {
+        "filename": "TÜRK TELEKOMÜNİKASYON A.Ş. 2025 YILI KAR DAĞITIM TABLOSU_TR.pdf",
+        "local_path": "data/pdfs/TTKOM/1572522_TÜRK TELEKOMÜNİKASYON A.Ş. 2025 YILI KAR DAĞITIM TABLOSU_TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019ce617edf70e4f"
+      },
+      {
+        "filename": "TÜRK TELEKOMÜNİKASYON A.Ş. 2025 Dividend Distribution Table.pdf",
+        "local_path": "data/pdfs/TTKOM/1572522_TÜRK TELEKOMÜNİKASYON A.Ş. 2025 Dividend Distribution Table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019ce617edfd0e50"
+      }
+    ]
+  },
+  {
+    "index": 1565991,
+    "publish_datetime": "2026-03-04T18:48:26",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Firmasının Seçilmesi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565991",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565991_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565991"
+      }
+    ]
+  },
+  {
+    "index": 1565990,
+    "publish_datetime": "2026-03-04T18:48:02",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565990",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565990_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565990"
+      }
+    ]
+  },
+  {
+    "index": 1565989,
+    "publish_datetime": "2026-03-04T18:47:51",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu 2025",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565989",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565989_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565989"
+      }
+    ]
+  },
+  {
+    "index": 1565988,
+    "publish_datetime": "2026-03-04T18:47:30",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565988",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565988_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565988"
+      }
+    ]
+  },
+  {
+    "index": 1565987,
+    "publish_datetime": "2026-03-04T18:45:04",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565987",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565987_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565987"
+      }
+    ]
+  },
+  {
+    "index": 1565986,
+    "publish_datetime": "2026-03-04T18:44:38",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Yılı Konsolide Finansal Sonuçlarına İlişkin Öngörüler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565986",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565986_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565986"
+      }
+    ]
+  },
+  {
+    "index": 1565985,
+    "publish_datetime": "2026-03-04T18:44:14",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yıl Sonu Konsolide Finansal ve Operasyonel Sonuçları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565985",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565985_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565985"
+      },
+      {
+        "filename": "TTKOM_Sonuç Açıklama Bülteni_4Ç25.pdf",
+        "local_path": "data/pdfs/TTKOM/1565985_TTKOM_Sonuç Açıklama Bülteni_4Ç25.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb96af1cf02f7"
+      },
+      {
+        "filename": "TTKOM_Earnings Release_Q425.pdf",
+        "local_path": "data/pdfs/TTKOM/1565985_TTKOM_Earnings Release_Q425.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cb96af1db02f8"
+      }
+    ]
+  },
+  {
+    "index": 1565983,
+    "publish_datetime": "2026-03-04T18:43:51",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "2025 Yıl Sonu Konsolide Finansal Tablolar ve Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565983",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565983_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565983"
+      },
+      {
+        "filename": "Sorumluluk Beyanı_2025_YS_Konsolide Finansal Tablolar.pdf",
+        "local_path": "data/pdfs/TTKOM/1565983_Sorumluluk Beyanı_2025_YS_Konsolide Finansal Tablolar.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb943b87057a4"
+      },
+      {
+        "filename": "Sorumluluk Beyanı_2025 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1565983_Sorumluluk Beyanı_2025 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb943b87e57a5"
+      }
+    ]
+  },
+  {
+    "index": 1565982,
+    "publish_datetime": "2026-03-04T18:43:24",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Türk Telekom 2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565982",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565982_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565982"
+      },
+      {
+        "filename": "2025-Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1565982_2025-Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb892e8547079"
+      },
+      {
+        "filename": "2025-Annual Report.pdf",
+        "local_path": "data/pdfs/TTKOM/1565982_2025-Annual Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cb892e8bb707a"
+      }
+    ]
+  },
+  {
+    "index": 1565981,
+    "publish_datetime": "2026-03-04T18:43:08",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565981",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1565981_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565981"
+      },
+      {
+        "filename": "31.12.2025 SPK Raporu.pdf",
+        "local_path": "data/pdfs/TTKOM/1565981_31.12.2025 SPK Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb7d6ffae684a"
+      },
+      {
+        "filename": "31.12.2025 CMB Report.pdf",
+        "local_path": "data/pdfs/TTKOM/1565981_31.12.2025 CMB Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019cb7d6ffd7684b"
+      }
+    ]
+  },
+  {
+    "index": 1562629,
+    "publish_datetime": "2026-02-27T16:29:50",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TTKOM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562629",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1562629_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562629"
+      }
+    ]
+  },
+  {
+    "index": 1560188,
+    "publish_datetime": "2026-02-23T11:30:29",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "İhraç Belgesi",
+    "summary": "Yurtiçinde Borçlanma Aracı İhraç Belgesinin SPK Onayı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560188",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1560188_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560188"
+      },
+      {
+        "filename": "İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/TTKOM/1560188_İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c899a428f1126"
+      }
+    ]
+  },
+  {
+    "index": 1560037,
+    "publish_datetime": "2026-02-20T19:30:30",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurtiçinde Borçlanma Aracı İhraç Belgesinin SPK Onayı\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560037",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1560037_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560037"
+      },
+      {
+        "filename": "İhraç Başvuru Formu_2026_.pdf",
+        "local_path": "data/pdfs/TTKOM/1560037_İhraç Başvuru Formu_2026_.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c7b5d77c66909"
+      },
+      {
+        "filename": "İhraç Belgesi.pdf",
+        "local_path": "data/pdfs/TTKOM/1560037_İhraç Belgesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12c8019c7b5d77f6690a"
+      }
+    ]
+  },
+  {
+    "index": 1559248,
+    "publish_datetime": "2026-02-19T17:41:28",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TTKOM.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559248",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1559248_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1559248"
+      }
+    ]
+  },
+  {
+    "index": 1558512,
+    "publish_datetime": "2026-02-18T18:20:09",
+    "company_name": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TTKOM"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2025 4. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558512",
+    "ticker": "TTKOM",
+    "company_oid": "33E5FED7056700EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a241e538ab0141ea9c96912c8b",
+    "kap_company_code": "1473",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TTKOM/1558512_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558512"
+      }
+    ]
+  }
+]

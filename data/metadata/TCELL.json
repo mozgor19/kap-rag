@@ -1,0 +1,1483 @@
+[
+  {
+    "index": 1607579,
+    "publish_datetime": "2026-05-14T21:43:26",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Firması Seçim Kararının Tescil ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607579",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1607579_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607579"
+      }
+    ]
+  },
+  {
+    "index": 1607558,
+    "publish_datetime": "2026-05-14T20:34:21",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Kararları Tescili ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607558",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1607558_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607558"
+      },
+      {
+        "filename": "Hazirun-2026.pdf",
+        "local_path": "data/pdfs/TCELL/1607558_Hazirun-2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a0019e277e6e630058"
+      },
+      {
+        "filename": "Turkcell-GK-Tutanak-TR-07052026.pdf",
+        "local_path": "data/pdfs/TCELL/1607558_Turkcell-GK-Tutanak-TR-07052026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a0019e277e6e6e0059"
+      },
+      {
+        "filename": "Bilgilendirme Dökümanı.pdf",
+        "local_path": "data/pdfs/TCELL/1607558_Bilgilendirme Dökümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9e2771a0019e277e6f0f005a"
+      }
+    ]
+  },
+  {
+    "index": 1605257,
+    "publish_datetime": "2026-05-11T18:34:37",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "1. Çeyrek 2026 Finansal ve Operasyonel Sonuçları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605257",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1605257_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605257"
+      },
+      {
+        "filename": "Turkcell-Press-Release-1C26-EN-vFinal.pdf",
+        "local_path": "data/pdfs/TCELL/1605257_Turkcell-Press-Release-1C26-EN-vFinal.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1790802e566e"
+      },
+      {
+        "filename": "Turkcell-Press-Release-1C26-TR-vFinal.pdf",
+        "local_path": "data/pdfs/TCELL/1605257_Turkcell-Press-Release-1C26-TR-vFinal.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e17908045566f"
+      }
+    ]
+  },
+  {
+    "index": 1605254,
+    "publish_datetime": "2026-05-11T18:34:25",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Q1 26 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605254",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1605254_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605254"
+      }
+    ]
+  },
+  {
+    "index": 1605253,
+    "publish_datetime": "2026-05-11T18:34:13",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605253",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1605253_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605253"
+      },
+      {
+        "filename": "Ara-Donem-Faaliyet-Raporu-1C26.pdf",
+        "local_path": "data/pdfs/TCELL/1605253_Ara-Donem-Faaliyet-Raporu-1C26.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e1783e4d153d2"
+      }
+    ]
+  },
+  {
+    "index": 1605247,
+    "publish_datetime": "2026-05-11T18:33:58",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605247",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1605247_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605247"
+      },
+      {
+        "filename": "SPK Report Q1 2026 Final .pdf",
+        "local_path": "data/pdfs/TCELL/1605247_SPK Report Q1 2026 Final .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e176f357062fc"
+      }
+    ]
+  },
+  {
+    "index": 1604844,
+    "publish_datetime": "2026-05-11T17:32:19",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kira Sertifikası İhraç Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604844",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1604844_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604844"
+      }
+    ]
+  },
+  {
+    "index": 1602814,
+    "publish_datetime": "2026-05-07T19:47:18",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtımına İlişkin Olağan Genel Kurul Kararı\n",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602814",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1602814_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602814"
+      },
+      {
+        "filename": "Ekler.pdf",
+        "local_path": "data/pdfs/TCELL/1602814_Ekler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e0353433d5f31"
+      },
+      {
+        "filename": "Annex.pdf",
+        "local_path": "data/pdfs/TCELL/1602814_Annex.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e035343d45f32"
+      }
+    ]
+  },
+  {
+    "index": 1602813,
+    "publish_datetime": "2026-05-07T19:41:15",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Sonucu Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602813",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1602813_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602813"
+      },
+      {
+        "filename": "Hazirun-2026.pdf",
+        "local_path": "data/pdfs/TCELL/1602813_Hazirun-2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e034e69cc5e5d"
+      },
+      {
+        "filename": "Turkcell-GK-Tutanak-TR-07052026.pdf",
+        "local_path": "data/pdfs/TCELL/1602813_Turkcell-GK-Tutanak-TR-07052026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e034e6a055e5e"
+      },
+      {
+        "filename": "Bilgilendirme Dökümanı.pdf",
+        "local_path": "data/pdfs/TCELL/1602813_Bilgilendirme Dökümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e034e6be65e5f"
+      }
+    ]
+  },
+  {
+    "index": 1601101,
+    "publish_datetime": "2026-05-05T14:55:41",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601101",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1601101_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601101"
+      }
+    ]
+  },
+  {
+    "index": 1596698,
+    "publish_datetime": "2026-04-22T16:21:09",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt İçinde Borçlanma Aracı İhracına İlişkin SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596698",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1596698_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596698"
+      }
+    ]
+  },
+  {
+    "index": 1596360,
+    "publish_datetime": "2026-04-21T21:12:18",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596360",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1596360_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596360"
+      }
+    ]
+  },
+  {
+    "index": 1596359,
+    "publish_datetime": "2026-04-21T21:12:09",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Seçimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596359",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1596359_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596359"
+      }
+    ]
+  },
+  {
+    "index": 1596358,
+    "publish_datetime": "2026-04-21T21:11:56",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "1. Çeyrek 2026 Finansal Sonuç Açıklaması Takvimi",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596358",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1596358_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596358"
+      }
+    ]
+  },
+  {
+    "index": 1595004,
+    "publish_datetime": "2026-04-17T20:48:15",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yıllık Faaliyet Raporu 20-F  ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595004",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1595004_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595004"
+      }
+    ]
+  },
+  {
+    "index": 1583112,
+    "publish_datetime": "2026-04-02T19:12:22",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583112",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1583112_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583112"
+      }
+    ]
+  },
+  {
+    "index": 1582019,
+    "publish_datetime": "2026-04-01T09:57:57",
+    "company_name": "ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ODINE"
+    ],
+    "subject": "Yeni İş İlişkisi",
+    "summary": "Turkcell Grup Şirketlerinden Alınan Sipariş hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582019",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1582019_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582019"
+      }
+    ]
+  },
+  {
+    "index": 1577640,
+    "publish_datetime": "2026-03-27T17:54:48",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKDFA",
+      "ATAVK",
+      "BEYAZ",
+      "BRKT",
+      "DKVRL",
+      "EMVAR",
+      "KFILO",
+      "KTSVK",
+      "TAMFA",
+      "TCELL",
+      "TKNSA",
+      "ZOREN"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577640",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1577640_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577640"
+      }
+    ]
+  },
+  {
+    "index": 1577190,
+    "publish_datetime": "2026-03-27T09:22:50",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Finansman Bonosu İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577190",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1577190_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577190"
+      }
+    ]
+  },
+  {
+    "index": 1574790,
+    "publish_datetime": "2026-03-23T18:01:15",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Murabaha Sendikasyon Kredisi Temini",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574790",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1574790_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574790"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/TCELL/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/TCELL/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1574286,
+    "publish_datetime": "2026-03-18T22:40:14",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "SEC Yönetmeliği Kapsamında Uyum Bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574286",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1574286_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574286"
+      }
+    ]
+  },
+  {
+    "index": 1573684,
+    "publish_datetime": "2026-03-17T23:33:14",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Yönetim Kurulu Kar Payı Dağıtım Teklifi Kararı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573684",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1573684_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573684"
+      },
+      {
+        "filename": "Ekler.pdf",
+        "local_path": "data/pdfs/TCELL/1573684_Ekler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cfd7da65f461e"
+      },
+      {
+        "filename": "Annex.pdf",
+        "local_path": "data/pdfs/TCELL/1573684_Annex.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cfd7da668461f"
+      }
+    ]
+  },
+  {
+    "index": 1573683,
+    "publish_datetime": "2026-03-17T22:49:28",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantısı Kararı ve Davet Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573683",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1573683_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573683"
+      },
+      {
+        "filename": "Bilgilendirme Dökümanı.pdf",
+        "local_path": "data/pdfs/TCELL/1573683_Bilgilendirme Dökümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cfd47c22525c2"
+      },
+      {
+        "filename": "Davet Duyurusu - Invitation .pdf",
+        "local_path": "data/pdfs/TCELL/1573683_Davet Duyurusu - Invitation .pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cfd47c23725c3"
+      }
+    ]
+  },
+  {
+    "index": 1571887,
+    "publish_datetime": "2026-03-12T17:35:26",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKFK",
+      "HALKB",
+      "NRBNK",
+      "NURVK",
+      "TCELL",
+      "TRYKI"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571887",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571887_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571887"
+      }
+    ]
+  },
+  {
+    "index": 1571483,
+    "publish_datetime": "2026-03-12T09:40:57",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Finansman Bonosu İhracı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571483",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571483_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571483"
+      }
+    ]
+  },
+  {
+    "index": 1571315,
+    "publish_datetime": "2026-03-11T23:30:49",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "summary": "2025 TSRS Uyumlu Sürdürülebilirlik Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571315",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571315_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571315"
+      },
+      {
+        "filename": "Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "local_path": "data/pdfs/TCELL/1571315_Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cde925eee315f"
+      }
+    ]
+  },
+  {
+    "index": 1571310,
+    "publish_datetime": "2026-03-11T23:24:49",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Sürdürülebilirlik İlkeleri Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571310",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571310_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571310"
+      }
+    ]
+  },
+  {
+    "index": 1571306,
+    "publish_datetime": "2026-03-11T23:20:28",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571306",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571306_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571306"
+      }
+    ]
+  },
+  {
+    "index": 1571305,
+    "publish_datetime": "2026-03-11T23:18:07",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571305",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571305_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571305"
+      }
+    ]
+  },
+  {
+    "index": 1571304,
+    "publish_datetime": "2026-03-11T23:17:22",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Entegre Rapor",
+    "summary": "2025 Entegre Faaliyet Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571304",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571304_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571304"
+      },
+      {
+        "filename": "Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "local_path": "data/pdfs/TCELL/1571304_Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cde7c2473269d"
+      }
+    ]
+  },
+  {
+    "index": 1571303,
+    "publish_datetime": "2026-03-11T23:15:33",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "2025 Yılı Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571303",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571303_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571303"
+      }
+    ]
+  },
+  {
+    "index": 1571241,
+    "publish_datetime": "2026-03-11T22:49:55",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571241",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1571241_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571241"
+      },
+      {
+        "filename": "Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "local_path": "data/pdfs/TCELL/1571241_Turkcell-Entegre-Faaliyet-Raporu-2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cde58001b37fd"
+      }
+    ]
+  },
+  {
+    "index": 1566716,
+    "publish_datetime": "2026-03-05T20:03:14",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kira Sertifikası İhraç Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566716",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1566716_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566716"
+      }
+    ]
+  },
+  {
+    "index": 1566640,
+    "publish_datetime": "2026-03-05T18:50:42",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Finansal ve Operasyonel Sonuçları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566640",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1566640_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566640"
+      },
+      {
+        "filename": "Turkcell-Press-Release-4C25-ENG-vFinal.pdf",
+        "local_path": "data/pdfs/TCELL/1566640_Turkcell-Press-Release-4C25-ENG-vFinal.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbe8332b15082"
+      },
+      {
+        "filename": "Turkcell-Press-Release-4C25-TR-vFinal.pdf",
+        "local_path": "data/pdfs/TCELL/1566640_Turkcell-Press-Release-4C25-TR-vFinal.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cbe8333d85083"
+      }
+    ]
+  },
+  {
+    "index": 1566632,
+    "publish_datetime": "2026-03-05T18:47:55",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Q425 Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566632",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1566632_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566632"
+      }
+    ]
+  },
+  {
+    "index": 1566628,
+    "publish_datetime": "2026-03-05T18:47:00",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566628",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1566628_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566628"
+      },
+      {
+        "filename": "SPK Report Q4 2025 Final.pdf",
+        "local_path": "data/pdfs/TCELL/1566628_SPK Report Q4 2025 Final.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f416019cbe4916084b90"
+      }
+    ]
+  },
+  {
+    "index": 1560973,
+    "publish_datetime": "2026-02-24T17:25:37",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "ATAVK",
+      "BRKVY",
+      "DYBNK",
+      "KTSVK",
+      "NRBNK",
+      "NURVK",
+      "QFINF",
+      "RYSAS",
+      "TCELL",
+      "TRKFN",
+      "VESTL"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560973",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1560973_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560973"
+      }
+    ]
+  },
+  {
+    "index": 1560899,
+    "publish_datetime": "2026-02-24T15:25:56",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560899",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1560899_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560899"
+      }
+    ]
+  },
+  {
+    "index": 1560897,
+    "publish_datetime": "2026-02-24T15:25:28",
+    "company_name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TCELL"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFTCEL22617 Finansman Bonosu İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1560897",
+    "ticker": "TCELL",
+    "company_oid": "33E5FED7046400EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1486ec80a0148c55510d71d31",
+    "kap_company_code": "1103",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TCELL/1560897_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1560897"
+      }
+    ]
+  }
+]

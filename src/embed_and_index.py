@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import time
 import uuid
 from pathlib import Path
 from typing import Iterator
@@ -20,9 +21,9 @@ logging.basicConfig(
 )
 
 
-def get_embedder() -> SentenceTransformer:
+def get_embedder(device: str = None) -> SentenceTransformer:
     log.info("Embedding modeli yükleniyor: %s", CONFIG.embedding_model)
-    model = SentenceTransformer(CONFIG.embedding_model)
+    model = SentenceTransformer(CONFIG.embedding_model, device=device)
     log.info("  Cihaz: %s", model.device)
     return model
 
@@ -124,7 +125,16 @@ def index_chunks() -> int:
                 payload=payload,
             ))
 
-        client.upsert(collection_name=CONFIG.qdrant_collection, points=points)
+        for attempt in range(6):
+            try:
+                client.upsert(collection_name=CONFIG.qdrant_collection, points=points)
+                break
+            except Exception as e:
+                if attempt == 5:
+                    raise
+                wait = 2 ** attempt
+                log.warning("Upsert hatası (deneme %d/6), %ds sonra tekrar: %s", attempt + 1, wait, e)
+                time.sleep(wait)
         total += len(points)
         if total % (CONFIG.embedding_batch_size * 10) == 0:
             log.info("  %d chunk indexlendi...", total)

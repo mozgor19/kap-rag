@@ -1,0 +1,1552 @@
+[
+  {
+    "index": 1605173,
+    "publish_datetime": "2026-05-11T18:22:51",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSTPRS82613 ISIN Kodlu Tahvilin 7. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1605173",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1605173_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1605173"
+      }
+    ]
+  },
+  {
+    "index": 1604716,
+    "publish_datetime": "2026-05-11T16:56:45",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "DEVA",
+      "EKOFA",
+      "ENJSA",
+      "TCRYT",
+      "TMKS",
+      "TUKAS",
+      "TUPRS"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604716",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1604716_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604716"
+      }
+    ]
+  },
+  {
+    "index": 1603965,
+    "publish_datetime": "2026-05-11T08:24:27",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSTPRS82613 ISIN Kodlu Tahvilin 7. Kupon Faiz Oranının Belirlenmesi ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603965",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1603965_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603965"
+      }
+    ]
+  },
+  {
+    "index": 1603566,
+    "publish_datetime": "2026-05-08T18:15:49",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603566",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1603566_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603566"
+      }
+    ]
+  },
+  {
+    "index": 1603560,
+    "publish_datetime": "2026-05-08T18:15:22",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yatırımcı İlişkileri ve Kurumsal Risk Grup Direktörü Ataması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603560",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1603560_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603560"
+      }
+    ]
+  },
+  {
+    "index": 1602109,
+    "publish_datetime": "2026-05-06T19:27:01",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2026 1.Çeyrek Finansal Raporların Açıklanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602109",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1602109_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602109"
+      }
+    ]
+  },
+  {
+    "index": 1602030,
+    "publish_datetime": "2026-05-06T18:18:50",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602030",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1602030_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602030"
+      },
+      {
+        "filename": "Tupras_3_Aylik_Ara_Donem_Raporu_2026.pdf",
+        "local_path": "data/pdfs/TUPRS/1602030_Tupras_3_Aylik_Ara_Donem_Raporu_2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfda2e71d154c"
+      }
+    ]
+  },
+  {
+    "index": 1602029,
+    "publish_datetime": "2026-05-06T18:18:37",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602029",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1602029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602029"
+      },
+      {
+        "filename": "tupras-konsolide-spk-31032026.pdf",
+        "local_path": "data/pdfs/TUPRS/1602029_tupras-konsolide-spk-31032026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019dfd7a9c331057"
+      }
+    ]
+  },
+  {
+    "index": 1602028,
+    "publish_datetime": "2026-05-06T18:18:20",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı 31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602028",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1602028_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602028"
+      }
+    ]
+  },
+  {
+    "index": 1596713,
+    "publish_datetime": "2026-04-22T16:38:14",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AVHOL",
+      "AYGAZ",
+      "BERA",
+      "ISBIR",
+      "TUPRS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596713",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1596713_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596713"
+      }
+    ]
+  },
+  {
+    "index": 1595715,
+    "publish_datetime": "2026-04-20T18:21:46",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSTPRS72614 ISIN Kodlu Tahvilin 7. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595715",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1595715_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595715"
+      }
+    ]
+  },
+  {
+    "index": 1595531,
+    "publish_datetime": "2026-04-20T17:01:26",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "DEVA",
+      "EKTVK",
+      "ENJSA",
+      "ISMEN",
+      "KAREL",
+      "KFILO",
+      "MRBKF",
+      "OPET",
+      "TMKS",
+      "TUPRS"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595531",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1595531_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595531"
+      }
+    ]
+  },
+  {
+    "index": 1595076,
+    "publish_datetime": "2026-04-20T08:33:35",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRSTPRS72614 ISIN Kodlu Tahvilin 7. Kupon Faiz Oranının Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595076",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1595076_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595076"
+      }
+    ]
+  },
+  {
+    "index": 1594749,
+    "publish_datetime": "2026-04-17T16:07:01",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TUPRS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594749",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1594749_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594749"
+      }
+    ]
+  },
+  {
+    "index": 1593499,
+    "publish_datetime": "2026-04-15T08:50:09",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "2026 1. Çeyrek Finansal Takvim",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593499",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1593499_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593499"
+      }
+    ]
+  },
+  {
+    "index": 1584102,
+    "publish_datetime": "2026-04-03T21:00:08",
+    "company_name": "BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "BJKAS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Stadyum İsim Hakkı ve Reklam Sponsorluk Anlaşması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1584102",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1584102_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1584102"
+      }
+    ]
+  },
+  {
+    "index": 1582005,
+    "publish_datetime": "2026-04-01T09:11:11",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "ABG",
+      "CRDFA",
+      "GUNDG",
+      "KCHOL",
+      "OZC",
+      "OZKGY",
+      "PCS",
+      "PDE",
+      "TUPRS"
+    ],
+    "subject": "Kamuyu Aydınlatma Platformu Duyurusu",
+    "summary": "Özel Durumlar Tebliği'nin 12-(4). maddesi gereğince yapılan açıklama",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582005",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1582005_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582005"
+      },
+      {
+        "filename": "31032026 KAP Bildirim.pdf",
+        "local_path": "data/pdfs/TUPRS/1582005_31032026 KAP Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d47986c4b56fe"
+      }
+    ]
+  },
+  {
+    "index": 1580840,
+    "publish_datetime": "2026-03-31T18:15:12",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Pay satış işleminin tamamlanması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580840",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1580840_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580840"
+      }
+    ]
+  },
+  {
+    "index": 1577275,
+    "publish_datetime": "2026-03-27T11:03:10",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Toptan Alış Satış İşlemi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577275",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1577275_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577275"
+      }
+    ]
+  },
+  {
+    "index": 1576637,
+    "publish_datetime": "2026-03-26T18:28:17",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL",
+      "TUPRS"
+    ],
+    "subject": "Toptan Alış Satış İşlemi ",
+    "summary": "-",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576637",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1576637_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576637"
+      },
+      {
+        "filename": "Alıcı Listesi.pdf",
+        "local_path": "data/pdfs/TUPRS/1576637_Alıcı Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2ab836b53e87"
+      },
+      {
+        "filename": "Alıcı Üye Listesi.pdf",
+        "local_path": "data/pdfs/TUPRS/1576637_Alıcı Üye Listesi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2ab836c53e88"
+      }
+    ]
+  },
+  {
+    "index": 1576402,
+    "publish_datetime": "2026-03-26T16:53:17",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ASELS",
+      "ISSEN",
+      "KAPLM",
+      "MEGMT",
+      "ORCAY",
+      "TUPRS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576402",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1576402_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576402"
+      }
+    ]
+  },
+  {
+    "index": 1576079,
+    "publish_datetime": "2026-03-26T09:55:40",
+    "company_name": "ÜNLÜ MENKUL DEĞERLER A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "UNLUS",
+      "UNS"
+    ],
+    "subject": "Toptan Alış Satış İşlemi Bildirimi",
+    "summary": "TUPRS toptan alış satış işlem bildirimi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576079",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1576079_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576079"
+      },
+      {
+        "filename": "TSP BAŞVURU DİLEKÇE TUPRS.pdf",
+        "local_path": "data/pdfs/TUPRS/1576079_TSP BAŞVURU DİLEKÇE TUPRS.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d28e9b7165c20"
+      }
+    ]
+  },
+  {
+    "index": 1575944,
+    "publish_datetime": "2026-03-26T00:16:57",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Hisse satış sürecinde işlem detaylarının belirlenmesi",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575944",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1575944_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575944"
+      }
+    ]
+  },
+  {
+    "index": 1575866,
+    "publish_datetime": "2026-03-25T19:00:04",
+    "company_name": "KOÇ HOLDİNG A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "KCHOL"
+    ],
+    "subject": "Pay Alım Satım Bildirimi",
+    "summary": "Hisse satışına ilişkin yetkilendirme ve satış sürecinin başlangıcı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575866",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1575866_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575866"
+      }
+    ]
+  },
+  {
+    "index": 1575803,
+    "publish_datetime": "2026-03-25T18:22:10",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings Kredi Derecelendirme Notu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575803",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1575803_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575803"
+      }
+    ]
+  },
+  {
+    "index": 1575233,
+    "publish_datetime": "2026-03-24T18:19:31",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçiminin  Tescil ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575233",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1575233_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575233"
+      }
+    ]
+  },
+  {
+    "index": 1575232,
+    "publish_datetime": "2026-03-24T18:19:17",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Kararlarının Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575232",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1575232_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575232"
+      },
+      {
+        "filename": "Tüpraş_Hazirun_20260311_KVKK.pdf",
+        "local_path": "data/pdfs/TUPRS/1575232_Tüpraş_Hazirun_20260311_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1e569dc95e40"
+      },
+      {
+        "filename": "Tüpraş_Tutanak_20260311_KVKK.pdf",
+        "local_path": "data/pdfs/TUPRS/1575232_Tüpraş_Tutanak_20260311_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019d1e569dfa5e41"
+      }
+    ]
+  },
+  {
+    "index": 1574190,
+    "publish_datetime": "2026-03-18T18:54:33",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Kurumsal Yönetim Bilgi Formu (Güncelleme)-Yönetim Kurulu-II",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574190",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1574190_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574190"
+      }
+    ]
+  },
+  {
+    "index": 1574156,
+    "publish_datetime": "2026-03-18T18:18:11",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574156",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1574156_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574156"
+      }
+    ]
+  },
+  {
+    "index": 1574152,
+    "publish_datetime": "2026-03-18T18:16:51",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komite Üyeliklerinin Belirlenmesi ve Yatırımcı İlişkileri Bölümü Görevlendirmeleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574152",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1574152_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574152"
+      }
+    ]
+  },
+  {
+    "index": 1574091,
+    "publish_datetime": "2026-03-18T16:54:24",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AGHOL",
+      "AGROT",
+      "AYES",
+      "BTCIM",
+      "CCOLA",
+      "CIMSA",
+      "DOAS",
+      "ENJSA",
+      "EREGL",
+      "FROTO",
+      "HEKTS",
+      "ISMEN",
+      "ISYAT",
+      "SAHOL",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YBTAS"
+    ],
+    "subject": "Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+    "summary": "DÖNÜŞÜM",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574091",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1574091_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574091"
+      }
+    ]
+  },
+  {
+    "index": 1574088,
+    "publish_datetime": "2026-03-18T16:50:34",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "TUPRS"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574088",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1574088_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574088"
+      }
+    ]
+  },
+  {
+    "index": 1572736,
+    "publish_datetime": "2026-03-16T09:08:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "LINK",
+      "TUPRS"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572736",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1572736_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572736"
+      }
+    ]
+  },
+  {
+    "index": 1572417,
+    "publish_datetime": "2026-03-13T16:55:06",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AYGAZ",
+      "FROTO",
+      "GEDIK",
+      "LINK",
+      "TUPRS"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572417",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1572417_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572417"
+      }
+    ]
+  },
+  {
+    "index": 1572297,
+    "publish_datetime": "2026-03-13T14:23:06",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ALVES",
+      "ASTOR",
+      "BMSTL",
+      "BTCIM",
+      "CANTE",
+      "CCOLA",
+      "CELHA",
+      "CIMSA",
+      "DITAS",
+      "DOAS",
+      "ENJSA",
+      "ENSRI",
+      "EREGL",
+      "FROTO",
+      "GARAN",
+      "GESAN",
+      "GSDDE",
+      "GUBRF",
+      "HEKTS",
+      "HLGYO",
+      "HUNER",
+      "INFO",
+      "ISMEN",
+      "ISYAT",
+      "KGYO",
+      "KLGYO",
+      "KONTR",
+      "NATEN",
+      "PEKGY",
+      "PGSUS",
+      "SAHOL",
+      "SASA",
+      "SISE",
+      "SOKM",
+      "THYAO",
+      "TOASO",
+      "TTRAK",
+      "TUPRS",
+      "VESBE",
+      "YIGIT",
+      "YKSLN",
+      "ZEDUR"
+    ],
+    "subject": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "summary": "SPK İşlem Yasağı Nedeniyle Pay Duyurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572297",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1572297_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572297"
+      }
+    ]
+  },
+  {
+    "index": 1570874,
+    "publish_datetime": "2026-03-11T19:36:28",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570874",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1570874_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570874"
+      }
+    ]
+  },
+  {
+    "index": 1570803,
+    "publish_datetime": "2026-03-11T19:02:37",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşu Seçimi Genel Kurul Kararı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570803",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1570803_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570803"
+      }
+    ]
+  },
+  {
+    "index": 1570793,
+    "publish_datetime": "2026-03-11T18:58:50",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Dağıtım Önerisi'nin Olağan Genel Kurul Toplantısında Onaylanması ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570793",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1570793_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570793"
+      },
+      {
+        "filename": "2025_yili_kar_dagitim_oneri_tablosu.pdf",
+        "local_path": "data/pdfs/TUPRS/1570793_2025_yili_kar_dagitim_oneri_tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cdd9c79836817"
+      },
+      {
+        "filename": "2025__dividend_distribution_proposal_table.pdf",
+        "local_path": "data/pdfs/TUPRS/1570793_2025__dividend_distribution_proposal_table.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019cdd9c798a6818"
+      }
+    ]
+  },
+  {
+    "index": 1570753,
+    "publish_datetime": "2026-03-11T18:45:17",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 4,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570753",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1570753_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570753"
+      },
+      {
+        "filename": "Tüpraş_Hazirun_20260311_KVKK.pdf",
+        "local_path": "data/pdfs/TUPRS/1570753_Tüpraş_Hazirun_20260311_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdd8c233c6b40"
+      },
+      {
+        "filename": "Tüpraş_Tutanak_20260311_KVKK.pdf",
+        "local_path": "data/pdfs/TUPRS/1570753_Tüpraş_Tutanak_20260311_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdd8c23446b41"
+      },
+      {
+        "filename": "The List of Attendees_20260311_KVKK.pdf",
+        "local_path": "data/pdfs/TUPRS/1570753_The List of Attendees_20260311_KVKK.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d175019cdd8c23606b42"
+      }
+    ]
+  },
+  {
+    "index": 1568630,
+    "publish_datetime": "2026-03-09T16:23:59",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TUPRS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568630",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1568630_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568630"
+      }
+    ]
+  },
+  {
+    "index": 1568184,
+    "publish_datetime": "2026-03-09T12:40:57",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TUPRS.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568184",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1568184_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568184"
+      }
+    ]
+  },
+  {
+    "index": 1562856,
+    "publish_datetime": "2026-02-27T18:16:20",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562856",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1562856_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562856"
+      }
+    ]
+  },
+  {
+    "index": 1562851,
+    "publish_datetime": "2026-02-27T18:15:54",
+    "company_name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TUPRS"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Üst Düzey Yönetici Ataması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562851",
+    "ticker": "TUPRS",
+    "company_oid": "33E5FED7046600EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140f2ed720140f37f139c01bc",
+    "kap_company_code": "1105",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TUPRS/1562851_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562851"
+      }
+    ]
+  }
+]

@@ -246,10 +246,7 @@ SECTIONS = [
             "   Finansal terminolojinin standart ve tekrarlı yapısı nedeniyle\n"
             "   skorlar 0.80+ seviyesine ulaşmıyor. Bu bge-m3'ün finansal\n"
             "   Türkçe üzerindeki bilinen bir karakteristiğidir.\n\n"
-            "3. KOZAL hissesi eksik\n"
-            "   KAP'ta KOZAL ticker'ı altında kayıt bulunamadı. Borsa İstanbul\n"
-            "   güncel endeks listesiyle karşılaştırılması önerilir.\n\n"
-            "4. İki dilli PDF\n"
+            "3. İki dilli PDF\n"
             "   Bazı şirketlerin raporları hem Türkçe hem İngilizce içermektedir.\n"
             "   Sorgu dilinin belge diliyle eşleşmesi skor kalitesini artırır."
         ),

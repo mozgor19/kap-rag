@@ -1,0 +1,1508 @@
+[
+  {
+    "index": 1608029,
+    "publish_datetime": "2026-05-15T17:08:22",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+    "summary": "Hak Kullanım İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608029",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1608029_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608029"
+      }
+    ]
+  },
+  {
+    "index": 1607225,
+    "publish_datetime": "2026-05-14T14:43:34",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Toplu İş Sözleşme Görüşmelerinde Anlaşma Sağlanmasına İlişkin Açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607225",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1607225_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607225"
+      }
+    ]
+  },
+  {
+    "index": 1606545,
+    "publish_datetime": "2026-05-13T09:30:30",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "FRIGO",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+    "summary": "Hak Kullanımı",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606545",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1606545_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606545"
+      }
+    ]
+  },
+  {
+    "index": 1606333,
+    "publish_datetime": "2026-05-12T17:05:57",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "BEYAZ",
+      "BRKVY",
+      "FRIGO",
+      "MCARD",
+      "MGROS",
+      "TRCAS"
+    ],
+    "subject": "Hak Kullanımı",
+    "summary": "",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606333",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1606333_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606333"
+      }
+    ]
+  },
+  {
+    "index": 1604039,
+    "publish_datetime": "2026-05-11T09:32:18",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Çin'deki Yerel Üretim Anlaşmasına İlişkin Açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604039",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1604039_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604039"
+      }
+    ]
+  },
+  {
+    "index": 1602713,
+    "publish_datetime": "2026-05-07T18:37:58",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Kararlarının Tescil Edilmesi hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 15,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602713",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1602713_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602713"
+      },
+      {
+        "filename": "2025 AEFES Annual General Assembly Minutes.pdf",
+        "local_path": "data/pdfs/AEFES/1602713_2025 AEFES Annual General Assembly Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e02dc32b74e2d"
+      },
+      {
+        "filename": "Hazirun_2025.pdf",
+        "local_path": "data/pdfs/AEFES/1602713_Hazirun_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e02dc342f4e2e"
+      },
+      {
+        "filename": "1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "local_path": "data/pdfs/AEFES/1602713_1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e02dc349c4e2f"
+      }
+    ]
+  },
+  {
+    "index": 1602025,
+    "publish_datetime": "2026-05-06T18:17:13",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Yönetim Kurulu Komiteleri Görev Dağılımı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602025",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1602025_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602025"
+      }
+    ]
+  },
+  {
+    "index": 1601484,
+    "publish_datetime": "2026-05-05T22:37:30",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601484",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1601484_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601484"
+      }
+    ]
+  },
+  {
+    "index": 1601483,
+    "publish_datetime": "2026-05-05T22:37:07",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "1Ç2026 Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1601483_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601483"
+      },
+      {
+        "filename": "1Ç2026 - Ara Dönem Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/AEFES/1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df98c9c1c5be1"
+      },
+      {
+        "filename": "1Q2026 - Interim Period Operational Report.pdf",
+        "local_path": "data/pdfs/AEFES/1601483_1Q2026 - Interim Period Operational Report.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d3019df98c9d445be2"
+      }
+    ]
+  },
+  {
+    "index": 1601482,
+    "publish_datetime": "2026-05-05T22:34:28",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601482",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1601482_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601482"
+      },
+      {
+        "filename": "AEFES Kons 31 03 2026 TR.pdf",
+        "local_path": "data/pdfs/AEFES/1601482_AEFES Kons 31 03 2026 TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df998df17105a"
+      },
+      {
+        "filename": "AEFES Kons 31 03 2026 ENG.pdf",
+        "local_path": "data/pdfs/AEFES/1601482_AEFES Kons 31 03 2026 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019df998df38105b"
+      }
+    ]
+  },
+  {
+    "index": 1601046,
+    "publish_datetime": "2026-05-05T13:49:01",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601046",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1601046_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601046"
+      }
+    ]
+  },
+  {
+    "index": 1601042,
+    "publish_datetime": "2026-05-05T13:45:31",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu ve Komiteleri Atamaları Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1601042",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1601042_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1601042"
+      }
+    ]
+  },
+  {
+    "index": 1600578,
+    "publish_datetime": "2026-05-04T16:39:52",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600578",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1600578_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1600578"
+      }
+    ]
+  },
+  {
+    "index": 1598481,
+    "publish_datetime": "2026-04-29T09:49:13",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Özbekistan'daki Stratejik Üretim Ortaklığına İlişkin Açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598481",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1598481_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598481"
+      }
+    ]
+  },
+  {
+    "index": 1592286,
+    "publish_datetime": "2026-04-13T17:45:56",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Yılı Kar Dağıtımına İlişkin Genel Kurul Kararı Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592286",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1592286_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592286"
+      }
+    ]
+  },
+  {
+    "index": 1592212,
+    "publish_datetime": "2026-04-13T17:11:03",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "2025 Olağan Genel Kurul Sonucuna İlişkin Açıklama",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 15,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592212",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1592212_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592212"
+      },
+      {
+        "filename": "2025 AEFES_Olağan Genel Kurul Tutanak.pdf",
+        "local_path": "data/pdfs/AEFES/1592212_2025 AEFES_Olağan Genel Kurul Tutanak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d86f6598925dd"
+      },
+      {
+        "filename": "2025 AEFES Annual General Assembly Minutes.pdf",
+        "local_path": "data/pdfs/AEFES/1592212_2025 AEFES Annual General Assembly Minutes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d86f6599a25de"
+      },
+      {
+        "filename": "Hazirun_2025.pdf",
+        "local_path": "data/pdfs/AEFES/1592212_Hazirun_2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d86f659ae25df"
+      }
+    ]
+  },
+  {
+    "index": 1583697,
+    "publish_datetime": "2026-04-03T16:30:26",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583697",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1583697_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583697"
+      }
+    ]
+  },
+  {
+    "index": 1583019,
+    "publish_datetime": "2026-04-02T18:33:16",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Tariş Üzüm Paylarının %60'ının Devralınmasına İlişkin Pay Devir Sözleşmesi İmzalanmasına İlişkin Açıklama",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1583019",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1583019_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1583019"
+      }
+    ]
+  },
+  {
+    "index": 1582431,
+    "publish_datetime": "2026-04-01T18:35:36",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582431",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1582431_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582431"
+      }
+    ]
+  },
+  {
+    "index": 1582418,
+    "publish_datetime": "2026-04-01T18:20:49",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Üst Yönetim Ataması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1582418",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1582418_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1582418"
+      }
+    ]
+  },
+  {
+    "index": 1576827,
+    "publish_datetime": "2026-03-26T20:31:08",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Finansal Takvim",
+    "summary": "Finansal Rapor İlan Tarihi - 1Ç2026",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576827",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1576827_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576827"
+      }
+    ]
+  },
+  {
+    "index": 1576813,
+    "publish_datetime": "2026-03-26T19:59:10",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Genel Kurul Çağrısı (Bağımsız Denetim Kuruluşunun belirlenmesine ilişkin revize GK Bilgilendirme Dokümanı Ektedir)",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 12,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576813",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1576813_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576813"
+      },
+      {
+        "filename": "1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "local_path": "data/pdfs/AEFES/1576813_1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2a8aef822b21"
+      },
+      {
+        "filename": "2. Toplantı Gündemi.pdf",
+        "local_path": "data/pdfs/AEFES/1576813_2. Toplantı Gündemi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2a8aef8b2b22"
+      },
+      {
+        "filename": "4. Anadolu Efes Ortaklık Yapısı.pdf",
+        "local_path": "data/pdfs/AEFES/1576813_4. Anadolu Efes Ortaklık Yapısı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d2a8aef912b23"
+      }
+    ]
+  },
+  {
+    "index": 1576811,
+    "publish_datetime": "2026-03-26T19:54:11",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Şirketinin Seçilmesi hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1576811",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1576811_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1576811"
+      }
+    ]
+  },
+  {
+    "index": 1574601,
+    "publish_datetime": "2026-03-23T12:33:12",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AEFES.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574601",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1574601_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574601"
+      }
+    ]
+  },
+  {
+    "index": 1573698,
+    "publish_datetime": "2026-03-18T09:00:56",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Anadolu Efes Yıllık Olağan Genel Kurul Toplantı Daveti",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 12,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573698",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1573698_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573698"
+      },
+      {
+        "filename": "1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "local_path": "data/pdfs/AEFES/1573698_1. Olağan Genel Kurul Davet Açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019cff70430e62bd"
+      },
+      {
+        "filename": "2. Toplantı Gündemi.pdf",
+        "local_path": "data/pdfs/AEFES/1573698_2. Toplantı Gündemi.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019cff70431462be"
+      },
+      {
+        "filename": "3. Bilgilendirme Dökümanı.pdf",
+        "local_path": "data/pdfs/AEFES/1573698_3. Bilgilendirme Dökümanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d177019cff70432062bf"
+      }
+    ]
+  },
+  {
+    "index": 1570146,
+    "publish_datetime": "2026-03-11T00:24:20",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570146",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1570146_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570146"
+      }
+    ]
+  },
+  {
+    "index": 1570145,
+    "publish_datetime": "2026-03-11T00:20:11",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570145",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1570145_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570145"
+      }
+    ]
+  },
+  {
+    "index": 1570143,
+    "publish_datetime": "2026-03-11T00:17:16",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570143",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1570143_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570143"
+      }
+    ]
+  },
+  {
+    "index": 1570141,
+    "publish_datetime": "2026-03-11T00:16:21",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570141",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1570141_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570141"
+      }
+    ]
+  },
+  {
+    "index": 1570140,
+    "publish_datetime": "2026-03-11T00:15:55",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1570140_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570140"
+      },
+      {
+        "filename": "Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/AEFES/1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019cd98366ee39b9"
+      }
+    ]
+  },
+  {
+    "index": 1568825,
+    "publish_datetime": "2026-03-09T17:21:15",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "AKMEN",
+      "KATVK",
+      "SMRTG",
+      "TUKAS",
+      "VAKBN",
+      "YKFIN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568825",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1568825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568825"
+      }
+    ]
+  },
+  {
+    "index": 1568399,
+    "publish_datetime": "2026-03-09T14:59:30",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFEFES92610 ISIN Kodlu Finansman Bonosunun 2. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568399",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1568399_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568399"
+      }
+    ]
+  },
+  {
+    "index": 1567662,
+    "publish_datetime": "2026-03-06T18:31:04",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFEFES92610 ISIN Kodlu Tahvilin 2. Kupon Faiz Oranının Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567662",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1567662_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567662"
+      }
+    ]
+  },
+  {
+    "index": 1567177,
+    "publish_datetime": "2026-03-06T14:27:47",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AEFES.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1567177",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1567177_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1567177"
+      }
+    ]
+  },
+  {
+    "index": 1566785,
+    "publish_datetime": "2026-03-06T00:00:12",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566785",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566785_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566785"
+      }
+    ]
+  },
+  {
+    "index": 1566784,
+    "publish_datetime": "2026-03-05T23:59:42",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kar Payı Dağıtım Teklifi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566784",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566784_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566784"
+      }
+    ]
+  },
+  {
+    "index": 1566779,
+    "publish_datetime": "2026-03-05T23:58:48",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566779",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566779_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566779"
+      }
+    ]
+  },
+  {
+    "index": 1566778,
+    "publish_datetime": "2026-03-05T23:56:38",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Geleceğe Dönük Değerlendirmeler",
+    "summary": "2026 Yılına Ait Beklentiler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566778",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566778_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566778"
+      }
+    ]
+  },
+  {
+    "index": 1566777,
+    "publish_datetime": "2026-03-05T23:56:23",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yılı Finansal Sonuçlarına Ait Değerlendirmeler",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566777_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566777"
+      },
+      {
+        "filename": "AEFES FY2025 Earnings Release.pdf",
+        "local_path": "data/pdfs/AEFES/1566777_AEFES FY2025 Earnings Release.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbf515d5976fd"
+      },
+      {
+        "filename": "AEFES 2025 Sonuç Açıklaması.pdf",
+        "local_path": "data/pdfs/AEFES/1566777_AEFES 2025 Sonuç Açıklaması.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbf515d6a76fe"
+      }
+    ]
+  },
+  {
+    "index": 1566776,
+    "publish_datetime": "2026-03-05T23:54:28",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566776",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1566776_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566776"
+      },
+      {
+        "filename": "AEFES Kons 31 12 2025 TR.pdf",
+        "local_path": "data/pdfs/AEFES/1566776_AEFES Kons 31 12 2025 TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbf9594137827"
+      },
+      {
+        "filename": "AEFES Kons 31 12 2025 ENG.pdf",
+        "local_path": "data/pdfs/AEFES/1566776_AEFES Kons 31 12 2025 ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019cbf95942a7828"
+      }
+    ]
+  },
+  {
+    "index": 1564249,
+    "publish_datetime": "2026-03-02T19:52:47",
+    "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564249",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1564249_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564249"
+      }
+    ]
+  },
+  {
+    "index": 1558884,
+    "publish_datetime": "2026-02-19T13:34:02",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "AEFES.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558884",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1558884_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558884"
+      }
+    ]
+  },
+  {
+    "index": 1558496,
+    "publish_datetime": "2026-02-18T18:13:49",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "ASTOR",
+      "KCAER"
+    ],
+    "subject": "Borsa İstanbul A.Ş. Duyurusu",
+    "summary": "Yatırımcı Bazında Tedbir Uygulanması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558496",
+    "ticker": "AEFES",
+    "company_oid": "33E5FED7035800EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a140e95bea0140ed2fde10009d",
+    "kap_company_code": "858",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/AEFES/1558496_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1558496"
+      }
+    ]
+  }
+]

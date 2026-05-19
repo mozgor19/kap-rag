@@ -1,0 +1,3122 @@
+[
+  {
+    "index": 1608322,
+    "publish_datetime": "2026-05-18T08:17:44",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Sendikasyon Kredisi Anlaşması",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608322",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1608322_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608322"
+      }
+    ]
+  },
+  {
+    "index": 1608212,
+    "publish_datetime": "2026-05-15T19:00:43",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608212",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1608212_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608212"
+      }
+    ]
+  },
+  {
+    "index": 1608206,
+    "publish_datetime": "2026-05-15T18:59:41",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Üst Düzey Yönetici Ataması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1608206",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1608206_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1608206"
+      }
+    ]
+  },
+  {
+    "index": 1607838,
+    "publish_datetime": "2026-05-15T14:50:05",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İhraç Tavanına İlişkin Bildirim",
+    "summary": "Yurt içi Borçlanma Aracı İhraç Tavanı için Genel Müdürlüğe Yetki Verilmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607838",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1607838_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607838"
+      }
+    ]
+  },
+  {
+    "index": 1607687,
+    "publish_datetime": "2026-05-15T10:53:28",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Sürdürülebilir Borçlanma Aracı İhracı SPK Onayı ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607687",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1607687_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607687"
+      }
+    ]
+  },
+  {
+    "index": 1606777,
+    "publish_datetime": "2026-05-13T15:37:46",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Sürdürülebilir Borçlanma Aracı İhracı SPK Onayı ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606777",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1606777_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606777"
+      }
+    ]
+  },
+  {
+    "index": 1606773,
+    "publish_datetime": "2026-05-13T15:35:38",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Sürdürülebilir Borçlanma Aracı İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606773",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1606773_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606773"
+      }
+    ]
+  },
+  {
+    "index": 1606455,
+    "publish_datetime": "2026-05-12T18:34:26",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606455",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1606455_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606455"
+      }
+    ]
+  },
+  {
+    "index": 1606306,
+    "publish_datetime": "2026-05-12T16:46:41",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Sürdürülebilir Borçlanma Aracı İhracı SPK Onayı ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1606306",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1606306_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1606306"
+      }
+    ]
+  },
+  {
+    "index": 1604012,
+    "publish_datetime": "2026-05-11T09:20:04",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Havale Akımlarına Dayalı DPR İşlemi Hakkında\n",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1604012",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1604012_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1604012"
+      },
+      {
+        "filename": "USD 1.3 billion fresh international funding to VakıfBank.pdf",
+        "local_path": "data/pdfs/VAKBN/1604012_USD 1.3 billion fresh international funding to VakıfBank.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15af1ceb086a"
+      },
+      {
+        "filename": "VakıfBank a 1.3 milyar dolar taze yurtdışı kaynak.pdf",
+        "local_path": "data/pdfs/VAKBN/1604012_VakıfBank a 1.3 milyar dolar taze yurtdışı kaynak.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e15af1d0e086b"
+      }
+    ]
+  },
+  {
+    "index": 1603987,
+    "publish_datetime": "2026-05-11T09:05:42",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Havale Akımlarına Dayalı DPR İşlemi Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603987",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1603987_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603987"
+      }
+    ]
+  },
+  {
+    "index": 1602571,
+    "publish_datetime": "2026-05-07T18:00:36",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Faiz Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602571",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602571_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602571"
+      }
+    ]
+  },
+  {
+    "index": 1602570,
+    "publish_datetime": "2026-05-07T17:59:30",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-İhraççı Bİlgi Dokümanı (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602570",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602570_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602570"
+      },
+      {
+        "filename": "1- VakıfBank İBD Güncelleme-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602570_1- VakıfBank İBD Güncelleme-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e02ef3db26ef9"
+      },
+      {
+        "filename": "2- VakıfBank İBD Tek Metin-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602570_2- VakıfBank İBD Tek Metin-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019e02ef3dcd6efa"
+      }
+    ]
+  },
+  {
+    "index": 1602534,
+    "publish_datetime": "2026-05-07T17:33:00",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Özet (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Özet",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602534",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602534_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602534"
+      },
+      {
+        "filename": "4- VakıfBank Özet-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602534_4- VakıfBank Özet-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e02a1bb976603"
+      }
+    ]
+  },
+  {
+    "index": 1602532,
+    "publish_datetime": "2026-05-07T17:32:29",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Sermaye Piyasası Aracı Notu (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Sermaye Piyasası Aracı Notu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602532",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602532_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602532"
+      },
+      {
+        "filename": "3- VakıfBank SPAN-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602532_3- VakıfBank SPAN-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e029d48e065bf"
+      }
+    ]
+  },
+  {
+    "index": 1602530,
+    "publish_datetime": "2026-05-07T17:31:08",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-İhraççı Bİlgi Dokümanı (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602530",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602530_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602530"
+      },
+      {
+        "filename": "1- VakıfBank İBD Güncelleme-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602530_1- VakıfBank İBD Güncelleme-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e029132e3448b"
+      },
+      {
+        "filename": "2- VakıfBank İBD Tek Metin-2026 Haziran.pdf",
+        "local_path": "data/pdfs/VAKBN/1602530_2- VakıfBank İBD Tek Metin-2026 Haziran.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e029133cf448c"
+      }
+    ]
+  },
+  {
+    "index": 1602082,
+    "publish_datetime": "2026-05-06T18:41:07",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide)",
+    "summary": "31 Mart 2026 Konsolide Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602082",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602082_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602082"
+      },
+      {
+        "filename": "03.26-Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/VAKBN/1602082_03.26-Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd5c38852f99"
+      }
+    ]
+  },
+  {
+    "index": 1602080,
+    "publish_datetime": "2026-05-06T18:40:38",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "31 Mart 2026 Konsolide Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602080",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602080_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602080"
+      },
+      {
+        "filename": "VakıfBank Mart 2026 Konsolide Ara Dönem Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/VAKBN/1602080_VakıfBank Mart 2026 Konsolide Ara Dönem Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd597bc52ea5"
+      }
+    ]
+  },
+  {
+    "index": 1602078,
+    "publish_datetime": "2026-05-06T18:40:20",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602078",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602078_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602078"
+      },
+      {
+        "filename": "Türkiye Vakıflar Bankası TAO Consolidated Financial Statements 31.03.2026.pdf",
+        "local_path": "data/pdfs/VAKBN/1602078_Türkiye Vakıflar Bankası TAO Consolidated Financial Statements 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfde89d0121ae"
+      },
+      {
+        "filename": "VAKBN KONS 03.26.pdf",
+        "local_path": "data/pdfs/VAKBN/1602078_VAKBN KONS 03.26.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfde89c2d21ad"
+      }
+    ]
+  },
+  {
+    "index": 1602068,
+    "publish_datetime": "2026-05-06T18:32:52",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "31 Mart 2026 Konsolide Olmayan Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602068",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602068_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602068"
+      },
+      {
+        "filename": "03.26-Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/VAKBN/1602068_03.26-Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd5a8ed62f1c"
+      }
+    ]
+  },
+  {
+    "index": 1602066,
+    "publish_datetime": "2026-05-06T18:32:32",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide Olmayan)",
+    "summary": "31 Mart 2026 Konsolide Olmayan Ara Dönem Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602066",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602066_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602066"
+      },
+      {
+        "filename": "VakıfBank Mart 2026 Konsolide Olmayan Ara Dönem Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/VAKBN/1602066_VakıfBank Mart 2026 Konsolide Olmayan Ara Dönem Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dfd58299a2e5f"
+      }
+    ]
+  },
+  {
+    "index": 1602065,
+    "publish_datetime": "2026-05-06T18:32:15",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1602065",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1602065_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1602065"
+      },
+      {
+        "filename": "Türkiye Vakıflar Bankası TAO Unconsolidated Financial Statements 31.03.2026.pdf",
+        "local_path": "data/pdfs/VAKBN/1602065_Türkiye Vakıflar Bankası TAO Unconsolidated Financial Statements 31.03.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfde2b26d20a1"
+      },
+      {
+        "filename": "Solo VAKBN 03.26.pdf",
+        "local_path": "data/pdfs/VAKBN/1602065_Solo VAKBN 03.26.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c8019dfde2b48620a2"
+      }
+    ]
+  },
+  {
+    "index": 1600832,
+    "publish_datetime": "2026-05-04T21:19:44",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600832",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1600116,
+    "publish_datetime": "2026-04-30T21:59:24",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600116",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1600108,
+    "publish_datetime": "2026-04-30T21:51:15",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1600108",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1598385,
+    "publish_datetime": "2026-04-28T19:34:14",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598385",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1597920,
+    "publish_datetime": "2026-04-28T10:16:06",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597920",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1597150,
+    "publish_datetime": "2026-04-24T17:05:06",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt İçinde Nitelikli Yatırımcılara İhraç Edilen Katkı Sermaye Hesaplamasına Dahil Edilecek Türk Lirası Borçlanma Aracının 7. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597150",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1597149,
+    "publish_datetime": "2026-04-24T17:04:04",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt İçinde Nitelikli Yatırımcılara İhraç Edilen Katkı Sermaye Hesaplamasına Dahil Edilecek Türk Lirası Borçlanma Aracının 7. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1597149",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596733,
+    "publish_datetime": "2026-04-22T17:08:40",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Borçlanma Aracı İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596733",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596547,
+    "publish_datetime": "2026-04-22T13:32:52",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "Bağımsız Denetim Kuruluşunun Tescili ve İlanı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596547",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1596234,
+    "publish_datetime": "2026-04-21T18:01:53",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596234",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1596234_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596234"
+      }
+    ]
+  },
+  {
+    "index": 1595504,
+    "publish_datetime": "2026-04-20T16:41:20",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Türkiye Vakıflar Bankası T.A.O Olağan Genel Kurul Toplantısı Sonucunun Tescili",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 5,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595504",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1595504_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595504"
+      },
+      {
+        "filename": "72. Olağan Genel Kurul Toplantı Tutanağı İmzalı.pdf",
+        "local_path": "data/pdfs/VAKBN/1595504_72. Olağan Genel Kurul Toplantı Tutanağı İmzalı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dab1acba72c7d"
+      },
+      {
+        "filename": "72.Olağan Genel Kurul Hazirun.pdf",
+        "local_path": "data/pdfs/VAKBN/1595504_72.Olağan Genel Kurul Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dab1acbb32c7e"
+      },
+      {
+        "filename": "Summary of General Assembly Meeting Result..pdf",
+        "local_path": "data/pdfs/VAKBN/1595504_Summary of General Assembly Meeting Result..pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d7b22d2019dab1acbb82c7f"
+      }
+    ]
+  },
+  {
+    "index": 1595063,
+    "publish_datetime": "2026-04-18T17:13:24",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595063",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1595063_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595063"
+      }
+    ]
+  },
+  {
+    "index": 1595002,
+    "publish_datetime": "2026-04-17T20:45:37",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1595002",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1595002_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1595002"
+      }
+    ]
+  },
+  {
+    "index": 1594986,
+    "publish_datetime": "2026-04-17T20:01:48",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bankamız Genel Müdürlük Organizasyonel Yapısında Yapılan Değişiklik Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594986",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1594986_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594986"
+      }
+    ]
+  },
+  {
+    "index": 1594922,
+    "publish_datetime": "2026-04-17T18:13:16",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bankalarda İyi Ücretlendirme Uygulamalarına İlişkin Rehber kapsamında geri alınan paylar",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1594922",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1594922_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1594922"
+      }
+    ]
+  },
+  {
+    "index": 1593439,
+    "publish_datetime": "2026-04-14T20:45:27",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kredi Derecelendirmesi",
+    "summary": "Fitch Ratings Derecelendirme Notları hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593439",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1593439_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593439"
+      },
+      {
+        "filename": "Fitch Ratings 14.04.2026.pdf",
+        "local_path": "data/pdfs/VAKBN/1593439_Fitch Ratings 14.04.2026.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019d8d13e47f0d15"
+      }
+    ]
+  },
+  {
+    "index": 1593095,
+    "publish_datetime": "2026-04-14T16:23:47",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Sürdürülebilir Borçlanma Aracı İhracı SPK Onayı ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1593095",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1593095_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1593095"
+      }
+    ]
+  },
+  {
+    "index": 1590912,
+    "publish_datetime": "2026-04-10T17:43:49",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "ATAYM",
+      "DKVRL",
+      "DYBNK",
+      "EKTVK",
+      "EMVAR",
+      "ERGLI",
+      "HAYVK",
+      "KATVK",
+      "NRBNK",
+      "NURVK",
+      "SMRTG",
+      "SMRVA",
+      "VAKBN",
+      "YKFKT"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590912",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590912_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590912"
+      }
+    ]
+  },
+  {
+    "index": 1590790,
+    "publish_datetime": "2026-04-10T16:03:16",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFVKFB42612 ISIN kodlu T. Vakıflar Bankası T.A.O. Finansman Bonolarının İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590790",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590790_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590790"
+      }
+    ]
+  },
+  {
+    "index": 1590387,
+    "publish_datetime": "2026-04-09T19:31:06",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-2",
+    "summary": "Güncel Komite Üyeleri\n",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590387",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590387_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590387"
+      }
+    ]
+  },
+  {
+    "index": 1590384,
+    "publish_datetime": "2026-04-09T19:29:29",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590384",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590384_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590384"
+      }
+    ]
+  },
+  {
+    "index": 1590375,
+    "publish_datetime": "2026-04-09T19:19:30",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Yönetim Kurulu Komiteleri",
+    "summary": "Yönetim Kurulu Komiteleri Görev Dağılımları",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590375",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590375_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590375"
+      }
+    ]
+  },
+  {
+    "index": 1590374,
+    "publish_datetime": "2026-04-09T19:18:55",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Görev Dağılımı",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590374",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590374_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590374"
+      }
+    ]
+  },
+  {
+    "index": 1590368,
+    "publish_datetime": "2026-04-09T19:16:21",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Dağıtım Tablosu Onaylanması ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590368",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590368_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590368"
+      },
+      {
+        "filename": "2025 Yılı Kâr Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/VAKBN/1590368_2025 Yılı Kâr Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d73056e9627c9"
+      },
+      {
+        "filename": "Profit Distribution Table 2025.pdf",
+        "local_path": "data/pdfs/VAKBN/1590368_Profit Distribution Table 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d73056ec327ca"
+      }
+    ]
+  },
+  {
+    "index": 1590364,
+    "publish_datetime": "2026-04-09T19:10:02",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Türkiye Vakıflar Bankası T.A.O. Olağan Genel Kurul Toplantı Sonucu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 5,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590364",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1590364_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590364"
+      },
+      {
+        "filename": "72. Olağan Genel Kurul Toplantı Tutanağı İmzalı.pdf",
+        "local_path": "data/pdfs/VAKBN/1590364_72. Olağan Genel Kurul Toplantı Tutanağı İmzalı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d73005e4a5cb8"
+      },
+      {
+        "filename": "72.Olağan Genel Kurul Hazirun.pdf",
+        "local_path": "data/pdfs/VAKBN/1590364_72.Olağan Genel Kurul Hazirun.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d73005e5a5cb9"
+      },
+      {
+        "filename": "Summary of General Assembly Meeting Result..pdf",
+        "local_path": "data/pdfs/VAKBN/1590364_Summary of General Assembly Meeting Result..pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9d4a029c019d73005e605cba"
+      }
+    ]
+  },
+  {
+    "index": 1589857,
+    "publish_datetime": "2026-04-09T13:27:31",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Satış Sonuçları Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1589857",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1589857_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1589857"
+      },
+      {
+        "filename": "VakıfBank Finansman Bonoları Satış Sonuçları.pdf",
+        "local_path": "data/pdfs/VAKBN/1589857_VakıfBank Finansman Bonoları Satış Sonuçları.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d4a0485019d718d36072387"
+      }
+    ]
+  },
+  {
+    "index": 1589199,
+    "publish_datetime": "2026-04-08T18:16:53",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Bankamız Genel Müdürlük Organizasyonel Yapısında Yapılan Değişiklik Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1589199",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1589199_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1589199"
+      }
+    ]
+  },
+  {
+    "index": 1580727,
+    "publish_datetime": "2026-03-31T17:48:53",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Faiz Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580727",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1580727_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580727"
+      }
+    ]
+  },
+  {
+    "index": 1580470,
+    "publish_datetime": "2026-03-31T15:49:05",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Faiz Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580470",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1580470_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580470"
+      }
+    ]
+  },
+  {
+    "index": 1580465,
+    "publish_datetime": "2026-03-31T15:46:46",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Özet (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Özet",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580465",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1580465_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580465"
+      },
+      {
+        "filename": "4- VakıfBank Özet-2026 Nisan.pdf",
+        "local_path": "data/pdfs/VAKBN/1580465_4- VakıfBank Özet-2026 Nisan.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9cc9d176019d43c57c963bd6"
+      }
+    ]
+  },
+  {
+    "index": 1580462,
+    "publish_datetime": "2026-03-31T15:46:18",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Sermaye Piyasası Aracı Notu (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Sermaye Piyasası Aracı Notu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580462",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1580462_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580462"
+      },
+      {
+        "filename": "3- VakıfBank SPAN-2026 Nisan.pdf",
+        "local_path": "data/pdfs/VAKBN/1580462_3- VakıfBank SPAN-2026 Nisan.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43add31e7e66"
+      }
+    ]
+  },
+  {
+    "index": 1580461,
+    "publish_datetime": "2026-03-31T15:45:18",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-İhraççı Bİlgi Dokümanı (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580461",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1580461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580461"
+      },
+      {
+        "filename": "1- VakıfBank İBD Güncelleme-2026 Nisan.pdf",
+        "local_path": "data/pdfs/VAKBN/1580461_1- VakıfBank İBD Güncelleme-2026 Nisan.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43a728727cf8"
+      },
+      {
+        "filename": "2- VakıfBank İBD Tek Metin-2026 Nisan.pdf",
+        "local_path": "data/pdfs/VAKBN/1580461_2- VakıfBank İBD Tek Metin-2026 Nisan.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43a7297a7cf9"
+      }
+    ]
+  },
+  {
+    "index": 1577388,
+    "publish_datetime": "2026-03-27T14:24:59",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin SPK Başvurusu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577388",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1577388_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577388"
+      }
+    ]
+  },
+  {
+    "index": 1574756,
+    "publish_datetime": "2026-03-23T17:23:57",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKDFA",
+      "ALNUS",
+      "DFKTR",
+      "DNYVA",
+      "EKTVK",
+      "EMVAR",
+      "INVEO",
+      "KLVKS",
+      "TAMFA",
+      "TIMUR",
+      "USAK",
+      "VAKBN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574756",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1574756_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574756"
+      }
+    ]
+  },
+  {
+    "index": 1574669,
+    "publish_datetime": "2026-03-23T15:20:57",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt İçinde Nitelikli Yatırımcılara İhraç Edilen Sermaye Benzeri Tahvilin 26. Kupon Ödemesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574669",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1574669_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574669"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/VAKBN/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/VAKBN/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1574423,
+    "publish_datetime": "2026-03-19T13:11:14",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt İçinde Nitelikli Yatırımcılara İhraç Edilen Sermaye Benzeri Tahvilin 27. Kuponunun Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": true,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574423",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1574423_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574423"
+      }
+    ]
+  },
+  {
+    "index": 1574413,
+    "publish_datetime": "2026-03-19T12:57:57",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurt İçinde Nitelikli Yatırımcılara İhraç Edilen Sermaye Benzeri Tahvilin 27. Kuponunun Belirlenmesi",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574413",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1574413_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574413"
+      }
+    ]
+  },
+  {
+    "index": 1572944,
+    "publish_datetime": "2026-03-16T14:23:01",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Uluslararası İmar ve Kalkınma Bankası Kısmi Garantili Projesi Kredi Anlaşmasının İmzalanması Hakkında",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572944",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1572944_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572944"
+      }
+    ]
+  },
+  {
+    "index": 1572234,
+    "publish_datetime": "2026-03-13T11:20:07",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "VAKBN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "VAKBN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1572234",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1572234_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1572234"
+      }
+    ]
+  },
+  {
+    "index": 1571936,
+    "publish_datetime": "2026-03-12T18:15:50",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+    "summary": "Kâr Dağıtım Tablosu",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571936",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1571936_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571936"
+      },
+      {
+        "filename": "2025 Yılı Kâr Dağıtım Tablosu.pdf",
+        "local_path": "data/pdfs/VAKBN/1571936_2025 Yılı Kâr Dağıtım Tablosu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce28cf1e37ff7"
+      },
+      {
+        "filename": "Profit Distribution Table 2025.pdf",
+        "local_path": "data/pdfs/VAKBN/1571936_Profit Distribution Table 2025.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce28cf1ea7ff8"
+      }
+    ]
+  },
+  {
+    "index": 1571934,
+    "publish_datetime": "2026-03-12T18:15:30",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+    "summary": "Türkiye Vakıflar Bankası T.A.O. Olağan Genel Kurul Toplantı Çağrısı ve Gündemi Hakkında",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1571934",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1571934_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1571934"
+      },
+      {
+        "filename": "Information Document- 72 Genel Kurul.pdf",
+        "local_path": "data/pdfs/VAKBN/1571934_Information Document- 72 Genel Kurul.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce29861ad00db"
+      },
+      {
+        "filename": "Bilgilendirme Dokümanı-72. Genel Kurul.pdf",
+        "local_path": "data/pdfs/VAKBN/1571934_Bilgilendirme Dokümanı-72. Genel Kurul.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019ce29861b800dc"
+      }
+    ]
+  },
+  {
+    "index": 1570402,
+    "publish_datetime": "2026-03-11T16:42:33",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "VAKBN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "VAKBN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1570402",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1570402_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1570402"
+      }
+    ]
+  },
+  {
+    "index": 1569734,
+    "publish_datetime": "2026-03-10T18:11:47",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Finansal Duran Varlık Edinimi",
+    "summary": "Dijital Banka Kuruluş İşlemleri",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1569734",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1569734_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1569734"
+      }
+    ]
+  },
+  {
+    "index": 1568825,
+    "publish_datetime": "2026-03-09T17:21:15",
+    "company_name": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AEFES",
+      "AKMEN",
+      "KATVK",
+      "SMRTG",
+      "TUKAS",
+      "VAKBN",
+      "YKFIN"
+    ],
+    "subject": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/ Nakdi Uzlaşı Ödeme İşlemleri",
+    "summary": "Borçlanma Araçları, Yatırım Fonları ve Varant İtfa/Kupon/Getiri/Nakdi Uzlaşı Ödeme İşlemleri",
+    "disclosure_type": "CA",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568825",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1568825_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568825"
+      }
+    ]
+  },
+  {
+    "index": 1568356,
+    "publish_datetime": "2026-03-09T14:52:21",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Yurtiçinde Nitelikli Yatırımcılara Sermaye Benzeri Tahvil 34. Kupon Ödemesi ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1568356",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1568356_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1568356"
+      }
+    ]
+  },
+  {
+    "index": 1566288,
+    "publish_datetime": "2026-03-05T14:17:50",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Nitelikli Yatırımcılara Finansman Bonosu İhracının Tamamlanması ",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566288",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1566288_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566288"
+      }
+    ]
+  },
+  {
+    "index": 1565269,
+    "publish_datetime": "2026-03-03T20:08:48",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "Kurumsal Yönetim Uyum Raporu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565269",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1565269_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565269"
+      }
+    ]
+  },
+  {
+    "index": 1565268,
+    "publish_datetime": "2026-03-03T20:08:41",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565268",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1565268_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565268"
+      }
+    ]
+  },
+  {
+    "index": 1565267,
+    "publish_datetime": "2026-03-03T20:08:31",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "Kurumsal Yönetim Bilgi Formu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565267",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1565267_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565267"
+      }
+    ]
+  },
+  {
+    "index": 1565261,
+    "publish_datetime": "2026-03-03T20:03:03",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Faaliyet Raporu Sorumluluk Beyanı",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu Sorumluluk Beyanı",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565261",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1565261_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565261"
+      },
+      {
+        "filename": "2025 Yılı Entegre Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "local_path": "data/pdfs/VAKBN/1565261_2025 Yılı Entegre Faaliyet Raporu Sorumluluk Beyanı.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb43c46620f52"
+      }
+    ]
+  },
+  {
+    "index": 1565260,
+    "publish_datetime": "2026-03-03T20:02:41",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide)",
+    "summary": "2025 Yılı Entegre Faaliyet Raporu",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1565260",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1565260_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1565260"
+      },
+      {
+        "filename": "Vakıfbank 2025 Yılı Entegre Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/VAKBN/1565260_Vakıfbank 2025 Yılı Entegre Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019cb49f4c3f24b9"
+      }
+    ]
+  },
+  {
+    "index": 1564910,
+    "publish_datetime": "2026-03-03T13:53:53",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "VAKBN"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "VAKBN.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564910",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1564910_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564910"
+      }
+    ]
+  },
+  {
+    "index": 1562766,
+    "publish_datetime": "2026-02-27T17:36:08",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKMEN",
+      "BRKT",
+      "DKVRL",
+      "DYOBY",
+      "EMVAR",
+      "HUZFA",
+      "KATVK",
+      "NRBNK",
+      "NURVK",
+      "TMKS",
+      "TV8TV",
+      "VAKBN",
+      "ZKBVK"
+    ],
+    "subject": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "summary": "Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562766",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562766_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562766"
+      }
+    ]
+  },
+  {
+    "index": 1562630,
+    "publish_datetime": "2026-02-27T16:30:02",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562630",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562630_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562630"
+      }
+    ]
+  },
+  {
+    "index": 1562594,
+    "publish_datetime": "2026-02-27T15:53:39",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562594",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562594_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562594"
+      }
+    ]
+  },
+  {
+    "index": 1562493,
+    "publish_datetime": "2026-02-27T14:53:40",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFVKFB22622 ISIN kodlu T. Vakıflar Bankası T.A.O. Finansman Bonolarının İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562493",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562493_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562493"
+      }
+    ]
+  },
+  {
+    "index": 1562492,
+    "publish_datetime": "2026-02-27T14:53:16",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "TRFVKFB22648 ISIN kodlu T. Vakıflar Bankası T.A.O. Finansman Bonolarının İtfası",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562492",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562492_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562492"
+      }
+    ]
+  },
+  {
+    "index": 1562491,
+    "publish_datetime": "2026-02-27T14:50:26",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+    "summary": "Kurumsal Yönetim Derecelendirme Notu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562491",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/VAKBN/1562491_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562491"
+      }
+    ]
+  },
+  {
+    "index": 1562485,
+    "publish_datetime": "2026-02-27T14:48:27",
+    "company_name": "JCR AVRASYA DERECELENDİRME A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "JCRAV"
+    ],
+    "subject": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+    "summary": "KURUMSAL YÖNETİM İLKELERİNE UYUM DERECELENDİRMESİ",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562485",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "TÜRKİYE VAKIFLAR BANKASI TÜRK ANONİM ORTAKLIĞI.pdf",
+        "local_path": "data/pdfs/VAKBN/1562485_TÜRKİYE VAKIFLAR BANKASI TÜRK ANONİM ORTAKLIĞI.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f589019c9eb1497d66a9"
+      }
+    ]
+  },
+  {
+    "index": 1561839,
+    "publish_datetime": "2026-02-26T14:57:31",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Satış Sonuçları Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561839",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "VakıfBank Finansman Bonoları Satış Sonuçları (27.02.2026).pdf",
+        "local_path": "data/pdfs/VAKBN/1561839_VakıfBank Finansman Bonoları Satış Sonuçları (27.02.2026).pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328c9c81f417019c9939da794de8"
+      }
+    ]
+  },
+  {
+    "index": 1559539,
+    "publish_datetime": "2026-02-20T10:22:06",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "GMTN Programı Çerçevesinde Türkiye Dışında Borçlanma Aracı İhracı SPK Onayı",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1559539",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558831,
+    "publish_datetime": "2026-02-19T12:10:36",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+    "summary": "Borçlanma Araçlarına İlişkin Faiz Açıklaması",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558831",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": []
+  },
+  {
+    "index": 1558829,
+    "publish_datetime": "2026-02-19T12:09:19",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Özet (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Özet",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558829",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "4- VakıfBank Özet-2026 Şubat.pdf",
+        "local_path": "data/pdfs/VAKBN/1558829_4- VakıfBank Özet-2026 Şubat.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c74fb62a3042b"
+      }
+    ]
+  },
+  {
+    "index": 1558826,
+    "publish_datetime": "2026-02-19T12:08:50",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-Sermaye Piyasası Aracı Notu (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- Sermaye Piyasası Aracı Notu",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558826",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "3- VakıfBank SPAN-2026 Şubat.pdf",
+        "local_path": "data/pdfs/VAKBN/1558826_3- VakıfBank SPAN-2026 Şubat.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c75222dd20787"
+      }
+    ]
+  },
+  {
+    "index": 1558823,
+    "publish_datetime": "2026-02-19T12:08:17",
+    "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+    "fund_code": null,
+    "stock_codes": [
+      "TVB",
+      "VAKBN"
+    ],
+    "subject": "İzahname-İhraççı Bİlgi Dokümanı (SPK Tarafından Onaylanan)",
+    "summary": "İzahname- İhraççı Bilgi Dokümanı",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1558823",
+    "ticker": "VAKBN",
+    "company_oid": "33E5FED7054300EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a1415f4d9b01415fe3340f36e4",
+    "kap_company_code": "2428",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "1- VakıfBank İBD Güncelleme-2026 Şubat.pdf",
+        "local_path": "data/pdfs/VAKBN/1558823_1- VakıfBank İBD Güncelleme-2026 Şubat.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c751eec4b0704"
+      },
+      {
+        "filename": "2- VakıfBank İBD Tek Metin-2026 Şubat.pdf",
+        "local_path": "data/pdfs/VAKBN/1558823_2- VakıfBank İBD Tek Metin-2026 Şubat.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c4c12ca019c751eec620705"
+      }
+    ]
+  }
+]

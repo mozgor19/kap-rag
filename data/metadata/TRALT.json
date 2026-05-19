@@ -1,0 +1,1347 @@
+[
+  {
+    "index": 1607456,
+    "publish_datetime": "2026-05-14T18:11:52",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "Sorumluluk Beyanı 31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607456",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1607456_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607456"
+      }
+    ]
+  },
+  {
+    "index": 1607455,
+    "publish_datetime": "2026-05-14T18:11:33",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide Olmayan)",
+    "summary": "Yönetim Kurulu Faaliyet Raporu 31.03.2026",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607455",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1607455_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607455"
+      },
+      {
+        "filename": "Türk Altın 31 Mart 2026 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/TRALT/1607455_Türk Altın 31 Mart 2026 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e2527cb287264"
+      }
+    ]
+  },
+  {
+    "index": 1607454,
+    "publish_datetime": "2026-05-14T18:11:05",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1607454",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1607454_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1607454"
+      },
+      {
+        "filename": "TÜRK ALTIN-31.03.2026-TFRS-TR.pdf",
+        "local_path": "data/pdfs/TRALT/1607454_TÜRK ALTIN-31.03.2026-TFRS-TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e2549632c754f"
+      },
+      {
+        "filename": "TÜRK ALTIN-31.03.2026-TFRS-ENG.pdf",
+        "local_path": "data/pdfs/TRALT/1607454_TÜRK ALTIN-31.03.2026-TFRS-ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e254963437550"
+      }
+    ]
+  },
+  {
+    "index": 1603979,
+    "publish_datetime": "2026-05-11T08:59:47",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+    "summary": "Kayıtlı Sermayenin Artırım, Geçerlilik Süresi Uzatımı ve Esas Sözleşme Değişikliği Hk.",
+    "disclosure_type": "CA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603979",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1603979_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603979"
+      },
+      {
+        "filename": "TÜRK ALTIN İŞLETMELERİ ANONİM ŞİRKETİ ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "local_path": "data/pdfs/TRALT/1603979_TÜRK ALTIN İŞLETMELERİ ANONİM ŞİRKETİ ESAS SÖZLEŞME TADİL METNİ.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9d7b24c9019e158474516d0b"
+      }
+    ]
+  },
+  {
+    "index": 1603719,
+    "publish_datetime": "2026-05-08T19:00:23",
+    "company_name": "TR DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRENJ"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "ATP Marin Inc.-Sentinel Davası Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1603719",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1603719_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1603719"
+      }
+    ]
+  },
+  {
+    "index": 1599934,
+    "publish_datetime": "2026-04-30T19:09:45",
+    "company_name": "KAMUYU AYDINLATMA PLATFORMU",
+    "fund_code": null,
+    "stock_codes": [
+      "AVTUR",
+      "BFREN",
+      "CASA",
+      "DOGUB",
+      "ECZYT",
+      "EDC",
+      "HUBVC",
+      "KLGYO",
+      "KRP",
+      "METRO",
+      "OZATD",
+      "REEDR",
+      "SAMAT",
+      "TIMUR",
+      "TLMAN",
+      "TRALT"
+    ],
+    "subject": "Finansal Rapor Ek Süre Taleplerine İlişkin SPK Değerlendirmesi",
+    "summary": "Finansal Rapor Ek Süre Taleplerine İlişkin SPK Değerlendirmesi",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1599934",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1599934_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1599934"
+      }
+    ]
+  },
+  {
+    "index": 1598686,
+    "publish_datetime": "2026-04-29T16:35:12",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1598686",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1598686_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1598686"
+      }
+    ]
+  },
+  {
+    "index": 1596672,
+    "publish_datetime": "2026-04-22T15:53:04",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1596672",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1596672_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1596672"
+      }
+    ]
+  },
+  {
+    "index": 1592540,
+    "publish_datetime": "2026-04-13T19:51:48",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Bağımsız Denetim Kuruluşunun Belirlenmesi",
+    "summary": "2026 Yılı Faaliyet Dönemi İçin Bağımsız Dış Denetim Şirketi Atanması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592540",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1592540_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592540"
+      }
+    ]
+  },
+  {
+    "index": 1592492,
+    "publish_datetime": "2026-04-13T19:29:15",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "MAPEG İhalesinden Yeni Ruhsat Sahaları Alınması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1592492",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1592492_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1592492"
+      }
+    ]
+  },
+  {
+    "index": 1590324,
+    "publish_datetime": "2026-04-09T18:22:22",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Ankara 24.Ağır Ceza Mahkemesinin 2020/20 E. Sayılı Davası Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1590324",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1590324_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1590324"
+      }
+    ]
+  },
+  {
+    "index": 1587277,
+    "publish_datetime": "2026-04-07T21:22:27",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587277",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1587277_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587277"
+      }
+    ]
+  },
+  {
+    "index": 1587220,
+    "publish_datetime": "2026-04-07T19:57:15",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587220",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1587220_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587220"
+      }
+    ]
+  },
+  {
+    "index": 1587043,
+    "publish_datetime": "2026-04-07T18:52:59",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu (Güncelleme) - Yönetim Kurulu-1",
+    "summary": "Kurumsal Bilgi Formu Güncelleme Yönetim Kurulu 1",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1587043",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1587043_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1587043"
+      }
+    ]
+  },
+  {
+    "index": 1586986,
+    "publish_datetime": "2026-04-07T18:37:59",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Şirket Genel Bilgi Formu",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586986",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1586986_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586986"
+      }
+    ]
+  },
+  {
+    "index": 1586876,
+    "publish_datetime": "2026-04-07T18:10:48",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yönetim Kurulu Üyelikleri Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586876",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1586876_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586876"
+      }
+    ]
+  },
+  {
+    "index": 1586605,
+    "publish_datetime": "2026-04-07T16:50:22",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1586605",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1586605_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1586605"
+      }
+    ]
+  },
+  {
+    "index": 1580866,
+    "publish_datetime": "2026-03-31T18:18:55",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "2025 Yılı Umrek Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": true,
+    "attachment_count": 3,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1580866",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1580866_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1580866"
+      },
+      {
+        "filename": "2025 YILI UMREK RAPORU.pdf",
+        "local_path": "data/pdfs/TRALT/1580866_2025 YILI UMREK RAPORU.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43ffab9712f4"
+      },
+      {
+        "filename": "BA_2025_EOY.pdf",
+        "local_path": "data/pdfs/TRALT/1580866_BA_2025_EOY.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43ffac1412f5"
+      },
+      {
+        "filename": "PR_2025_EOY.pdf",
+        "local_path": "data/pdfs/TRALT/1580866_PR_2025_EOY.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32b019d43ffac9712f6"
+      }
+    ]
+  },
+  {
+    "index": 1577373,
+    "publish_datetime": "2026-03-27T14:06:38",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577373",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1577373_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577373"
+      }
+    ]
+  },
+  {
+    "index": 1577199,
+    "publish_datetime": "2026-03-27T09:31:00",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Kaşköy Projesi Kapsamında Yapılan ÇED Başvurusuna İlişkin Olumlu Kararın Alınması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1577199",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1577199_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1577199"
+      }
+    ]
+  },
+  {
+    "index": 1575887,
+    "publish_datetime": "2026-03-25T20:30:44",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Yeni Ruhsat Sahası Alınması Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575887",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1575887_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575887"
+      }
+    ]
+  },
+  {
+    "index": 1575337,
+    "publish_datetime": "2026-03-25T08:40:39",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Çukuralan İşletmemizde Planlanan Kırma-Eleme Tesisi Projesi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575337",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1575337_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575337"
+      }
+    ]
+  },
+  {
+    "index": 1575079,
+    "publish_datetime": "2026-03-24T16:09:36",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1575079",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1575079_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1575079"
+      }
+    ]
+  },
+  {
+    "index": 1574461,
+    "publish_datetime": "2026-03-19T14:40:11",
+    "company_name": "BORSA İSTANBUL A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "AKHAN",
+      "AKSEN",
+      "AKSUE",
+      "ALARK",
+      "ARFYE",
+      "ASTOR",
+      "ATATR",
+      "BERA",
+      "BESTE",
+      "BTCIM",
+      "CANTE",
+      "CUSAN",
+      "CVKMD",
+      "DERIM",
+      "DOHOL",
+      "EGEEN",
+      "EGSER",
+      "ENERY",
+      "ERBOS",
+      "EUREN",
+      "FADE",
+      "FENER",
+      "FRMPL",
+      "FROTO",
+      "HALKB",
+      "IEYHO",
+      "KARSN",
+      "KCAER",
+      "KRTEK",
+      "LINK",
+      "LUKSK",
+      "MEYSU",
+      "NETCD",
+      "OBASE",
+      "OYAKC",
+      "PAHOL",
+      "PKART",
+      "PSGYO",
+      "SAHOL",
+      "SARKY",
+      "SOKM",
+      "TCELL",
+      "TRALT",
+      "TSGYO",
+      "TSPOR",
+      "TTRAK",
+      "TURSG",
+      "UCAYM",
+      "ULKER",
+      "VAKBN",
+      "VKING",
+      "YEOTK",
+      "YESIL",
+      "YKBNK",
+      "ZGYO"
+    ],
+    "subject": "BIST Pay Endeksleri",
+    "summary": "BIST 30, BIST 50, BIST 100, BIST 500, BIST Likit Banka, BIST Banka Dışı Likit 10, BIST Sürdürülebilirlik, BIST Sürdürülebilirlik 25 Dönemsel Endeks Değişiklikleri",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574461",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1574461_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574461"
+      },
+      {
+        "filename": "2026_2_Donemsel_Degisiklikler.pdf",
+        "local_path": "data/pdfs/TRALT/1574461_2026_2_Donemsel_Degisiklikler.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7df11b5"
+      },
+      {
+        "filename": "2026_2_Periodic_Changes.pdf",
+        "local_path": "data/pdfs/TRALT/1574461_2026_2_Periodic_Changes.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9cc9d32c019d05d3d7fd11b6"
+      }
+    ]
+  },
+  {
+    "index": 1574164,
+    "publish_datetime": "2026-03-18T18:31:44",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Çukuralan İşletmemizde Planlanan Kırma-Eleme Tesisi Projesi Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1574164",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1574164_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1574164"
+      }
+    ]
+  },
+  {
+    "index": 1573997,
+    "publish_datetime": "2026-03-18T15:43:20",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1573997",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1573997_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1573997"
+      }
+    ]
+  },
+  {
+    "index": 1566658,
+    "publish_datetime": "2026-03-05T19:05:33",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "Toplu İş Sözleşmesi Görüşmeleri Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566658",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1566658_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566658"
+      }
+    ]
+  },
+  {
+    "index": 1566656,
+    "publish_datetime": "2026-03-05T19:05:17",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İngilterede Bulunan Bağlı Ortaklığımız Koza Ltd.nin Tasfiye Süreci Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1566656",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1566656_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1566656"
+      }
+    ]
+  },
+  {
+    "index": 1564902,
+    "publish_datetime": "2026-03-03T13:23:18",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564902",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1564902_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564902"
+      }
+    ]
+  },
+  {
+    "index": 1564087,
+    "publish_datetime": "2026-03-02T18:40:59",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Katılım Finansı İlkeleri Bilgi Formu ",
+    "summary": "",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1564087",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1564087_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1564087"
+      }
+    ]
+  },
+  {
+    "index": 1562982,
+    "publish_datetime": "2026-02-27T18:51:56",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Sürdürülebilirlik Uyum Raporu",
+    "summary": "2025 Yılı Sürdürülebilirlik Uyum Raporu",
+    "disclosure_type": "ODA",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562982",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562982_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562982"
+      }
+    ]
+  },
+  {
+    "index": 1562981,
+    "publish_datetime": "2026-02-27T18:51:38",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Kurumsal Yönetim Bilgi Formu",
+    "summary": "2025 YILI KURUMSAL YÖNETİM BİLGİ FORMU",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562981",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562981_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562981"
+      }
+    ]
+  },
+  {
+    "index": 1562975,
+    "publish_datetime": "2026-02-27T18:50:21",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Kurumsal Yönetim Uyum Raporu",
+    "summary": "2025 YILI KURUMSAL YÖNETİM UYUM RAPORU",
+    "disclosure_type": "DG",
+    "disclosure_class": "DG",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562975",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562975_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562975"
+      }
+    ]
+  },
+  {
+    "index": 1562972,
+    "publish_datetime": "2026-02-27T18:49:58",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Sorumluluk Beyanı (Konsolide Olmayan)",
+    "summary": "Sorumluluk Beyanı 31.12.2025",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562972",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562972_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562972"
+      }
+    ]
+  },
+  {
+    "index": 1562971,
+    "publish_datetime": "2026-02-27T18:49:34",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Faaliyet Raporu (Konsolide Olmayan)",
+    "summary": "Yönetim Kurulu Faaliyet Raporu 31.12.2025",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 1,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562971",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562971_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562971"
+      },
+      {
+        "filename": "Türk Altın 31 Aralık 2025 Faaliyet Raporu.pdf",
+        "local_path": "data/pdfs/TRALT/1562971_Türk Altın 31 Aralık 2025 Faaliyet Raporu.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9fa2e4156e5f"
+      }
+    ]
+  },
+  {
+    "index": 1562969,
+    "publish_datetime": "2026-02-27T18:48:32",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Finansal Rapor",
+    "summary": "",
+    "disclosure_type": "FR",
+    "disclosure_class": "FR",
+    "has_attachment": true,
+    "attachment_count": 2,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1562969",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1562969_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1562969"
+      },
+      {
+        "filename": "TÜRK ALTIN-31.12.2025-TFRS-TR.pdf",
+        "local_path": "data/pdfs/TRALT/1562969_TÜRK ALTIN-31.12.2025-TFRS-TR.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9fa52e486f36"
+      },
+      {
+        "filename": "TÜRK ALTIN-31.12.2025-TFRS-ENG.pdf",
+        "local_path": "data/pdfs/TRALT/1562969_TÜRK ALTIN-31.12.2025-TFRS-ENG.pdf",
+        "url": "https://www.kap.org.tr/tr/api/file/download/4028328d9c81f588019c9fa52e6e6f37"
+      }
+    ]
+  },
+  {
+    "index": 1561578,
+    "publish_datetime": "2026-02-25T18:39:37",
+    "company_name": "TÜRK ALTIN İŞLETMELERİ A.Ş.",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Özel Durum Açıklaması (Genel)",
+    "summary": "İngiltere?de Bulunan Bağlı Ortaklığımız Koza Ltd.?nin Tasfiye Süreci Hk.",
+    "disclosure_type": "ODA",
+    "disclosure_class": "ODA",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": false,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561578",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1561578_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561578"
+      }
+    ]
+  },
+  {
+    "index": 1561371,
+    "publish_datetime": "2026-02-25T15:09:39",
+    "company_name": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+    "fund_code": null,
+    "stock_codes": [
+      "TRALT"
+    ],
+    "subject": "Pay Bazında Devre Kesici Bildirimi",
+    "summary": "TRALT.E işlem sırasında Pay Bazında Devre Kesici Uygulaması devreye girmiştir",
+    "disclosure_type": "DUY",
+    "disclosure_class": "DKB",
+    "has_attachment": false,
+    "attachment_count": 0,
+    "is_late": false,
+    "is_corrective": false,
+    "is_english": false,
+    "has_multi_language_support": true,
+    "url": "https://www.kap.org.tr/tr/Bildirim/1561371",
+    "ticker": "TRALT",
+    "company_oid": "33E5FED7056E00EAE0530A4A622B2AEA",
+    "mkk_member_oid": "4028e4a2422d9a6e0142bd91d3687a69",
+    "kap_company_code": "1500",
+    "source": "kap_web",
+    "attachments": [
+      {
+        "filename": "KAP Bildirim PDF",
+        "local_path": "data/pdfs/TRALT/1561371_KAP_Bildirim.pdf",
+        "url": "https://www.kap.org.tr/tr/api/BildirimPdf/1561371"
+      }
+    ]
+  }
+]
