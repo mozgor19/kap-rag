@@ -99,7 +99,7 @@ def _upsert_with_retry(client, points: list, max_retries: int = 6) -> None:
             time.sleep(wait)
 
 
-def run(tickers: list[str], batch_size: int = 64, device: str = "cpu") -> int:
+def run(tickers: list[str], batch_size: int = CONFIG.embedding_batch_size, device: str = "cpu") -> int:
     ticker_set = {t.upper() for t in tickers}
     log.info("Tickerlar: %s  |  batch_size=%d  |  device=%s",
              sorted(ticker_set), batch_size, device)
@@ -139,7 +139,7 @@ def run(tickers: list[str], batch_size: int = 64, device: str = "cpu") -> int:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("tickers", nargs="+")
-    parser.add_argument("--batch-size", type=int, default=64)
+    parser.add_argument("--batch-size", type=int, default=CONFIG.embedding_batch_size)
     parser.add_argument("--device", default="cpu", choices=["cpu", "cuda"],
                         help="Embedding cihazı (varsayılan: cpu)")
     args = parser.parse_args()
