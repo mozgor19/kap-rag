@@ -56,6 +56,20 @@ def chunk_text(
     current: list[str] = []
     current_len = 0
     for sent in sentences:
+        # Tek cümle chunk_size'ı aşıyorsa karakter bazında böl
+        if len(sent) > chunk_size:
+            if current:
+                chunk = " ".join(current).strip()
+                if len(chunk) >= CONFIG.min_chunk_chars:
+                    chunks.append(chunk)
+                current = []
+                current_len = 0
+            for i in range(0, len(sent), chunk_size - overlap):
+                piece = sent[i : i + chunk_size]
+                if len(piece) >= CONFIG.min_chunk_chars:
+                    chunks.append(piece)
+            continue
+
         sent_len = len(sent)
         if current_len + sent_len > chunk_size and current:
             chunk = " ".join(current).strip()
