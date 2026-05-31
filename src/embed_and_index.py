@@ -41,22 +41,7 @@ def get_qdrant_client() -> QdrantClient:
     return QdrantClient(host="localhost", port=6333)
 
 
-def ensure_collection(client: QdrantClient) -> None:
-    collections = {c.name for c in client.get_collections().collections}
-    if CONFIG.qdrant_collection in collections:
-        log.info("Collection mevcut: %s", CONFIG.qdrant_collection)
-        return
-
-    client.create_collection(
-        collection_name=CONFIG.qdrant_collection,
-        vectors_config=qm.VectorParams(
-            size=CONFIG.embedding_dim,
-            distance=qm.Distance.COSINE,
-        ),
-    )
-    log.info("Collection oluşturuldu: %s (dim=%d, cosine)",
-             CONFIG.qdrant_collection, CONFIG.embedding_dim)
-
+def _ensure_payload_indexes(client: QdrantClient) -> None:
     for field, schema in [
         ("ticker", qm.PayloadSchemaType.KEYWORD),
         ("disclosure_type", qm.PayloadSchemaType.KEYWORD),
@@ -71,6 +56,25 @@ def ensure_collection(client: QdrantClient) -> None:
             )
         except Exception as e:
             log.debug("Index oluşturma uyarısı (%s): %s", field, e)
+
+
+def ensure_collection(client: QdrantClient) -> None:
+    collections = {c.name for c in client.get_collections().collections}
+    if CONFIG.qdrant_collection in collections:
+        log.info("Collection mevcut: %s", CONFIG.qdrant_collection)
+        _ensure_payload_indexes(client)
+        return
+
+    client.create_collection(
+        collection_name=CONFIG.qdrant_collection,
+        vectors_config=qm.VectorParams(
+            size=CONFIG.embedding_dim,
+            distance=qm.Distance.COSINE,
+        ),
+    )
+    log.info("Collection oluşturuldu: %s (dim=%d, cosine)",
+             CONFIG.qdrant_collection, CONFIG.embedding_dim)
+    _ensure_payload_indexes(client)
 
 
 def iter_chunks(path: Path) -> Iterator[dict]:
