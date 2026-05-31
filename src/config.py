@@ -33,9 +33,17 @@ class Config:
     start_date: date = field(
         default_factory=lambda: _env_date(
             "KAP_START_DATE",
-            date.today() - timedelta(days=int(os.getenv("KAP_LOOKBACK_DAYS", "90"))),
+            _env_date("KAP_END_DATE", date.today())
+            - timedelta(days=int(os.getenv("KAP_LOOKBACK_DAYS", "90"))),
         )
     )
+
+    def __post_init__(self) -> None:
+        if self.start_date > self.end_date:
+            raise ValueError(
+                f"KAP_START_DATE ({self.start_date}) KAP_END_DATE ({self.end_date})'den "
+                "büyük olamaz. Tarih aralığını kontrol edin."
+            )
 
     project_root: Path = field(
         default_factory=lambda: Path(__file__).resolve().parent.parent
