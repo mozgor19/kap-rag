@@ -205,13 +205,27 @@ class KapWebClient:
             if start < 0:
                 start = html.rfind('{"kapMemberOid"', 0, match.start())
                 escaped = False
-            end = html.find("}", match.end())
-            if start < 0 or end < 0:
+            if start < 0:
                 continue
 
-            raw = html[start : end + 1]
+            # Parantez sayacıyla JSON nesnesinin gerçek kapanış brace'ini bul
+            raw_html = html[start:]
             if escaped:
-                raw = raw.replace('\\"', '"')
+                raw_html = raw_html.replace('\\"', '"')
+            depth = 0
+            end_pos = -1
+            for i, ch in enumerate(raw_html):
+                if ch == "{":
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth == 0:
+                        end_pos = i
+                        break
+            if end_pos < 0:
+                continue
+
+            raw = raw_html[: end_pos + 1]
             try:
                 member = json.loads(raw)
             except json.JSONDecodeError:
