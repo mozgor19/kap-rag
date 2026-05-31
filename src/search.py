@@ -53,10 +53,15 @@ def _build_filter(
         ))
     if since or until:
         rng = {}
-        if since:
-            rng["gte"] = datetime.fromisoformat(since).isoformat()
-        if until:
-            rng["lte"] = datetime.fromisoformat(until).isoformat()
+        try:
+            if since:
+                rng["gte"] = datetime.fromisoformat(since).isoformat()
+            if until:
+                rng["lte"] = datetime.fromisoformat(until).isoformat()
+        except ValueError as exc:
+            raise ValueError(
+                f"Tarih parametresi YYYY-MM-DD formatında olmalı. Hatalı değer: {exc}"
+            ) from exc
         must.append(qm.FieldCondition(key="publish_datetime", range=qm.DatetimeRange(**rng)))
     return qm.Filter(must=must) if must else None
 
