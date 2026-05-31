@@ -318,8 +318,13 @@ class KapWebClient:
             return False
 
         content_type = resp.headers.get("content-type", "")
-        if not resp.content.startswith(b"%PDF") and "pdf" not in content_type.lower():
+        is_pdf_magic = resp.content.startswith(b"%PDF")
+        is_pdf_content_type = "pdf" in content_type.lower()
+        if not is_pdf_magic and not is_pdf_content_type:
             log.warning("  PDF olmayan dosya atlandı: %s (%s)", url_or_path, content_type)
+            return False
+        if is_pdf_content_type and not is_pdf_magic:
+            log.warning("  content-type PDF ama %PDF magic yok, atlandı: %s (%s)", url_or_path, content_type)
             return False
 
         out_path.write_bytes(resp.content)
