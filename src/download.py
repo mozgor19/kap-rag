@@ -97,7 +97,8 @@ def parse_datetime(value: Any) -> datetime | None:
 
 def in_config_date_range(dt: datetime | None) -> bool:
     if dt is None:
-        return True
+        log.debug("Tarih parse edilemedi, bildirim tarih aralığı dışında sayılıyor.")
+        return False
     day = dt.date()
     return CONFIG.start_date <= day <= CONFIG.end_date
 
