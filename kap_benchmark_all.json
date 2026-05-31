@@ -3,10 +3,15 @@
     "dataset": "KAP-RAG Benchmark 02",
     "project": "HybridFinRAG",
     "layer": "KAP",
-    "version": "v3_factual",
+    "version": "v4_scored",
     "created": "2026-05-31",
+    "corpus_snapshot_date": "2026-05-31",
+    "knowledge_cutoff": "2026-05-18",
     "total_questions": 71,
-    "cleaning_note": "Orijinal 80 sorudan 9 tanesi (gold_answer'ı 'doğrulanmamıştır' veya 'incelenmesi gerekmektedir' içerenler) çıkarıldı. Tüm gold_answer'lardan analist yorumu, çıkarım ve tahmin içeren cümleler kaldırıldı. Soru kalıpları 'nasıl yorumlanabilir' → 'belgede belirtilen değer nedir' şeklinde dönüştürüldü.",
+    "evaluation_target": "retrieval_and_extraction_faithfulness",
+    "scope_note": "Bu benchmark, RAG pipeline'ının doğru KAP bildirimini getirip getiremediğini ve belgeden kesin finansal rakam/olguları çıkarıp çıkaramadığını ölçer. Sentiment, forward-looking çıkarım veya analist yorumu değerlendirilmez.",
+    "pilot_note": "Kategori başına yaklaşık 18 soru; kategorik istatistiksel çıkarım için yeterli güç yoktur. Tam benchmark için kategori başına ≥20 soru önerilir.",
+    "cleaning_note": "Orijinal 80 sorudan 9 tanesi (gold_answer'ı 'doğrulanmamıştır' veya tamamlanamadı içerenler) çıkarıldı. Tüm gold_answer'lardan analist yorumu, çıkarım ve tahmin cümleleri kaldırıldı. Şirket-beyan-extraction soruları (FROTO_03 gibi) interpretive_reasoning etiketiyle tutuldu.",
     "categories": ["finansal_performans", "temettu", "banka_kredi_buyumesi", "genel_finansal_durum"],
     "questions_per_category": "yaklaşık 18",
     "difficulty_levels": ["easy", "medium", "hard"],
@@ -14,7 +19,37 @@
       "KAP_THYAO_03", "KAP_THYAO_05", "KAP_FROTO_04",
       "KAP_BIMAS_07", "KAP_MGROS_04", "KAP_ISCTR_04",
       "KAP_GARAN_03", "KAP_VAKBN_05", "KAP_AKBNK_16"
-    ]
+    ],
+    "category_codebook": {
+      "finansal_performans": "Gelir tablosu kalemleri (hasılat, FAVÖK, net kâr, HBK, marjlar, hacim) ve operasyonel KPI'lar. Bilanço oranları ve temettü kararlarını kapsamaz.",
+      "temettu": "Temettü ilanları, pay başı brüt/net tutar, stopaj hesaplama, ödeme tarihi, GK kararları, nakit akışındaki temettü çıkışı.",
+      "banka_kredi_buyumesi": "Kredi/borç büyümesi, TGA/NPL portföyleri, sermaye yeterliliği, tahvil/sendikasyon ihraçları, kredi notları.",
+      "genel_finansal_durum": "Bilanço anlık görüntüleri (aktifler, özkaynak, borçlar, nakit), kaldıraç oranları ve makro göstergeler (CDS, enflasyon, politika faizi, KKM/DTH)."
+    },
+    "scoring_protocol": {
+      "metric_by_reasoning_type": {
+        "fact_extraction": "case-insensitive substring match; tüm gold token'ları yanıtta bulunmalı",
+        "numerical_reasoning": "numeric_tolerance",
+        "comparative_reasoning": "her iki değer de yanıtta bulunmalı (partial credit 0.5 tek değer)",
+        "ratio_analysis": "numeric_tolerance",
+        "balance_sheet_analysis": "numeric_tolerance; her TP ve YP satırı ayrı token",
+        "tax_analysis": "numeric_tolerance",
+        "margin_analysis": "numeric_tolerance",
+        "credit_analysis": "exact string match (ISIN, banka adı, tutar)",
+        "operational_analysis": "numeric_tolerance + kategori/segment eşleşme",
+        "cash_flow_analysis": "numeric_tolerance + kategori adı eşleşme",
+        "interpretive_reasoning": "human_judgement_required"
+      },
+      "numeric_tolerance": "bağıl fark ≤ %5 VEYA oranlar/yüzdeler için mutlak fark ≤ 0.05",
+      "decimal_normalization": "Türkçe virgül (1,5127) = nokta (1.5127); her ikisi de kabul edilir",
+      "unit_normalization": {
+        "bin_TL": "× 1.000", "milyon_TL": "× 1.000.000", "milyar_TL": "× 1.000.000.000",
+        "bin_USD": "× 1.000", "milyon_USD": "× 1.000.000", "milyar_USD": "× 1.000.000.000",
+        "cross_currency": "TL-USD çevrimi yalnızca gold_answer her ikisini de veriyorsa kontrol edilir"
+      },
+      "list_answers": "set-based F1: precision=|gold∩pred|/|pred|, recall=|gold∩pred|/|gold|; eşik F1≥0.67",
+      "source_match": "gold_answer'daki KAP bildirim numarası top-5 hit URL'lerinde aranır"
+    }
   },
   "questions": [
 
