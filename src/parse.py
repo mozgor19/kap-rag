@@ -124,6 +124,10 @@ def iter_disclosure_chunks() -> Iterator[ChunkRecord]:
             log.warning("Metadata okunamadı %s: %s", meta_file, e)
             continue
 
+        if not isinstance(records, list):
+            log.warning("Metadata beklenmeyen format %s: list değil, atlanıyor", meta_file)
+            continue
+
         for disc in records:
             for att in disc.get("attachments", []):
                 pdf_path = CONFIG.project_root / att["local_path"]

@@ -48,6 +48,10 @@ def iter_ticker_chunks(tickers: set[str]) -> Iterator[ChunkRecord]:
             log.warning("Metadata okunamadı %s: %s", ticker, e)
             continue
 
+        if not isinstance(records, list):
+            log.warning("Metadata beklenmeyen format %s: list değil, atlanıyor", ticker)
+            continue
+
         ticker_chunks = 0
         for disc in records:
             for att in disc.get("attachments", []):
