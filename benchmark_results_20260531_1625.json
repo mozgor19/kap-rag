@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "KAP_RAG_01",
+    "ticker": "AEFES",
+    "category": "finansal_performans",
+    "difficulty": "hard",
+    "period": "2025Y",
+    "question": "Anadolu Efes'in 2025 yılı hisse başı kazancı nedir ve 2024 yılıyla karşılaştırıldığında ne yönde değişmiştir?",
+    "gold_answer": "2025 hisse başı kazanç 1,5127 TL'dir; 2024'te 2,8997 TL idi. 2025 yılında gerçekleştirilen 1:10 sermaye artışı (hisse bölünmesi) nedeniyle iki dönem doğrudan karşılaştırılabilir değildir. Kaynak: KAP #1570140, 11.03.2026",
+    "document": "AEFES 2025 Yıllık Faaliyet Raporu (Konsolide) – KAP #1570140, 11.03.2026",
+    "elapsed_sec": 7.522,
+    "hits": [
+      {
+        "score": 0.6775538,
+        "text": "2 Barth R\neport 2024-2025, 2024 yıl sonu sonuçlarına göre bilgi paylaşılmıştır. Anadolu Efes, tüketicilerine \nunutulmaz deneyimler \nsunan; faaliyeti bulunan \ntoplulukları zenginleştiren, \nduygulara dokunan \nmarkalarla büyüyen, içecek \ndünyasının en sevilen ve en \nhızlı büyüyen oyuncusu olma \nyolunda ilerleme vizyonu ile \nfaaliyetlerini sürdürmektedir. ANADOLU EFES \nENTEGRE FAALİYET \nRAPORU 2025\nGİRİŞ\nANADOLU EFES DÜNYASI\n• Kısac\na Anadolu Efes\n• Değer Zincirimiz\n• Tr\nendler ve Faaliyet \nOrtamımız\nKURUMSAL YÖNETİŞİM \nYAPIMIZ\nGELECEĞE ARTI DEĞER\nFİNANSAL DİSİPLİN İLE \nBÜYÜYORUZ\nTOPLUMSAL FAYDA İÇİN \nÇALIŞIYORUZ\nÇEVRE İÇİN SIFIRLIYORUZ\nÇALIŞANLARIMIZ İLE \nGÜÇLENİYORUZ\nKURUMSAL YÖNETİŞİM\nFİNANSAL BİLGİLER\nEKLER\n\nKilometre Taşları\n2003\n• Vitanta Intravest S.A.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T00:15:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+        "source_filename": "1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6770109,
+        "text": "Sonuç olarak, 2025 y ılında konsolide net sat ış gelirleri proforma bazda %2,5 oran ında art ış \nkaydederek 243.847,1 milyon TL seviyesine ula şmıştır. TMS 29 etkisi hariç tutulduğunda, 2025 yılında konsolide net \nsatış gelirleri proforma bazda %36,4 oran ında güçlü bir art ış göstermiş olup, kur etkisinden arındırılmı ş net gelir \nartışı ise %19,5 seviyesinde gerçekleşmiştir. Anadolu Efes konsolide FAVÖK (BMKÖ) rakamı, 4Ç2025’te proforma bazda yıllık %69,8 oranında artı ş \ngöstererek 5.739,2 milyon TL seviyesine ula şmış, marj ise 368 baz puanlık güçlü bir iyile şme ile %12,2 seviyesinde \ngerçekleşmiştir. Brüt kardaki iyile şmenin deste ğiyle, güçlü ciro performansına takiben operasyonel karlılıkta da \nartış görülmüştür.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.67621875,
+        "text": "Finansal Gelir / (Gider) Kırılımı (milyon TL) 2024 \nRaporlanan\n2024 \nProforma 2025\nFaiz Geliri 5,426.0 3,482.8 3,808.2\nFaiz Gideri -18,859.2 -18,829.1 -19,296.8\nKur Farkı Geliri / (Gideri) 5,092.4 2,571.5 -223.9\nDiğer Finansal Giderler (net) -3,494.0 -3,509.1 -3,377.2\nTürev İşlemlerden Kaynaklanan Gelir / Gider (net) -1,316.7 -746.5 -355.2\nNet Finansal Gelir / (Gider) -13,151.4 -17,030.4 -19,444.9\nSerbest Nakit Akı şı (milyon TL) 2024 \nRaporlanan\n2024 \nProforma 2025\nFAVÖK (BMKÖ) 51,523.8 41,546.2 40,509.5\nIşletme Sermayesindeki De ğişim 2,560.6 2,180.6 2,255.3\nGelir Vergisi & Çalışanlara Sağlanan Faydalar & Diğer -10,057.2 -7,870.1 -4,813.7\nKira Sözle şmelerinden olan Borç Ödemelerine İlişkin Nakit Çıkışları -1,051.2 -989.3 -1,290.7\nYatırım Harcamaları, net -23,330.6 -20,125.1 -18,354.8\nFinansal Gelir / (Gider), Net -12,212.4 -16,451.8 -18,329.5\nParasal Kazanç/Kayıp -4,284.0 -4,284.0 -3,950.5\nBir Defaya Mahsus Kalemler 314.7 314.7 -205.3\nSerbest Nakit Akı şı 3,463.7 -5,678.8 -4,179.6\nDiğer Yatırım Faaliyetlerinden Gelirler \n(Satın Alma, Çıkış ve Sermaye Artırımları) -1,093.2 -1,093.2 0.0\nSerbest Nakit Akı şı (diğer yatırım faaliyetlerinden gelirler sonrası) 2,370.5 -6,772.0 -4,179.6\nToplam Konsolide Borç Nakit ve Benzeri De ğerler Net Nakit/Borç Pozisyonu\nAnadolu Efes Konsolide (mn TL) 92,987.1 37,603.0 -55,384.0\nBira Grubu (mn TL) 39,702.4 10,546.3 -29,156.0\n Türkiye Bira (mn TL) 39,470.2 4,927.3 -34,542.9\n EBI (mn TL) 232.1 5,494.8 5,262.7\nCCI (mn TL) 52,090.0 26,526.3 -25,563.7\nNet Borç / FAVÖK (BMKÖ) 2024 Proforma 2025\nAnadolu Efes Konsolide 1.5 1.4\nBira Grubu 3.2 4.0\n\nSayfa 10 of 18 www.anadoluefes.com ir@anadoluefes.com \nGELIR TABLOSU VE BILANÇO ANA KALEMLERI ÜZERINDE TMS 29'UN ETKILERI: \nKASA/TICARI \nALACAK: \n2024 yılı rakamları 2025 yılı ile karşılaştırılabilir olması amacıyla TÜFE oranı ile 2025’e \nendekslenerek büyütülür.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.6682785,
+        "text": "BIRA GRUBU BAŞKANI & ANADOLU EFES ICRA BAŞKANI ONUR ALTÜRK’ÜN DEGERLENDIRMESI \n2025 yılı, zorlu ve sürekli de ğişen bir faaliyet dönemi olmu ştur. Makroekonomik dalgalanmalar, \nkalıcı enflasyonist baskılar ve jeopolitik geli şmeler, tüketici satın alım gücü üzerindeki etkisini sürdürerek \nfaaliyet gösterdiğimiz pazarlardaki talep dinamiklerini şekillendirmeye devam etmiştir. Operasyonlarımızın \nbulunduğu bazı coğrafyalarda fiyatlama başlıca zorluk olmaya devam ederken, artan rekabet yoğunluğu \nhem operasyonel hem de finansal performansımız üzerinde baskı yaratmıştır. Bu zorlu faaliyet koşullarına \nrağmen Anadolu Efes, konsolide satı ş gelirlerini 240 milyar TL seviyesinin üzerine çıkarmayı ba şarmıştır.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.6622123,
+        "text": "Daha güçlü gerçekle şen operasyonel \nkarlılık, artan parasal kazançlar ve azalan net finansal giderler net karı desteklese de 1Ç2025 döneminde Rusya \noperasyonlarının konsolidasyon kapsamındaki de ğişiklikleri sonucunda yatırım faaliyetlerinden elde edilen \ngelirlerin yarattığı olumlu baz etkisi nedeniyle, net kar yıllık bazda sınırlı da olsa bir düşüş göstermiştir. TMS 29 \netkisi hariç tutulduğunda, 1Ç2026 döneminde konsolide net karlılık -210,1 milyon TL olarak gerçekleşmiştir. Anadolu Efes konsolide Serbest Nakit Akı şı, 1Ç2025’te kaydedilen -22.025,4 milyon TL seviyesine \nkıyasla 1Ç2026’da -7.289,5 milyon TL seviyesin de gerçekleşerek yıllık bazda önemli bir iyile şme göstermiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_02",
+    "ticker": "THYAO",
+    "category": "finansal_performans",
+    "difficulty": "easy",
+    "period": "2026Q1",
+    "question": "Türk Hava Yolları'nın Nisan 2026 trafik sonuçlarına göre yolcu sayısı, yolcu doluluk oranı ve yıllık değişimleri nedir?",
+    "gold_answer": "Nisan 2026 yolcu sayısı 7,2 milyon olup bir önceki yılın aynı dönemine göre yüzde 2,9 gerilemiştir. Yolcu doluluk oranı yüzde 83,4 olup 2025 Nisan'ındaki yüzde 83,2'nin 0,2 puan üzerindedir. Kaynak: KAP ODA #1603784",
+    "document": "THYAO Nisan 2026 Konsolide Trafik Sonuçları – KAP ODA #1603784, 08.05.2026",
+    "elapsed_sec": 0.061,
+    "hits": [
+      {
+        "score": 0.67953867,
+        "text": "NİSAN 2026 TRAFİK\nTÜRK HAVA YOLLARI YATIRIMCI İLİŞKİLERİ \nTelefon: +90 212 463 63 63| E-posta: ir@thy.com\n2025 2026 Değişim (%)Arzedilen Koltuk Kilometre (milyar)\n2025 2026 Değişim (%)Yolcu Doluluk Oranı (%)\n2025 2026 Değişim (%)Yolcu Sayısı (milyon)\nBÖLGESEL DAĞILIM\n\nUçulan Nokta 353 358 %1,4\nUçak Sayısı 476 536 %12,6\nArzedilen Koltuk Kilometre (milyar) 82,7 88,9 %7,5\nYolcu Doluluk Oranı (%) %81,2 %83,4 2,2 pt\nYolcu Sayısı (milyon) 26,3 28,5 %8,3\nKonma Sayısı (Yolcu Seferleri) 167.407 177.339 %5,9\nKargo + Posta (bin ton) 653,7 747,0 %14,3\n \nArzedilen Koltuk Kilometre (milyar) 75,2 81,2 %7,9\nYolcu Doluluk Oranı (%) %81,1 %83,4 2,3 pt\nYolcu Sayısı (milyon) 17,4 19,0 %8,9\nKonma Sayısı (Yolcu Seferleri) 105.876 113.645 %7,3\nKargo + Posta (bin ton) 635,0 727,4 %14,6\nArzedilen Koltuk Kilometre (milyar) 7,4 7,8 %4,1\nYolcu Doluluk Oranı (%) %82,6 %84,2 1,7 pt\nYolcu Sayısı (milyon) 8,9 9,5 %7,0\nKonma Sayısı (Yolcu Seferleri) 61.531 63.694 %3,5\nKargo + Posta (bin ton) 18,8 19,6 %4,8\nTüm uçuşlar dahildir.",
+        "ticker": "THYAO",
+        "company_name": "TÜRK HAVA YOLLARI A.O.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-08T20:39:08",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1603784",
+        "source_filename": "1603784_Nisan 2026 Trafik.pdf"
+      },
+      {
+        "score": 0.6721655,
+        "text": "Number of Destinations 353 358 1.4%\nFleet 476 536 12.6%\nAvailable Seat Kilometers (billion) 21.7 22.2 2.2%\nPassenger Load Factor (%) 83.2% 83.4% 0.2 pt\nPassengers Carried (million) 7.4 7.2 -2.9%\nNumber of Landing (Passenger Flights) 45,101 44,738 -0.8%\nCargo and Mail (thousand tons) 172.8 193.7 12.1%\n \nAvailable Seat Kilometers (billion) 19.7 20.2 2.7%\nPassenger Load Factor (%) 82.8% 83.3% 0.5 pt\nPassengers Carried (million) 4.8 4.7 -1.9%\nNumber of Landing (Passenger Flights) 28,336 28,278 -0.2%\nCargo and Mail (thousand tons) 167.5 188.9 12.8%\nAvailable Seat Kilometers (billion) 2.0 2.0 -2.0%\nPassenger Load Factor (%) 87.4% 83.8% -3.5 pt\nPassengers Carried (million) 2.6 2.5 -5.0%\nNumber of Landing (Passenger Flights) 16,765 16,460 -1.8%\nCargo and Mail (thousand tons) 5.3 4.8 -9.2%\nData includes all Flights\nAPRIL 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\nTOTAL\n2025 2026 Change (%)\nINTERNATIONAL\n2025 2026 Change (%)\nDOMESTIC\n2025 2026 Change (%)\n\nFar East 5.3 6.4 20.6%\nEurope 5.4 5.8 7.3%\nAmericas 5.2 5.1 -0.9%\nAfrica 1.9 2.0 5.7%\nDomestic 2.0 2.0 -2.0%\nMiddle East 1.9 0.9 -54.7%\nTOTAL 21.7 22.2 2.2%\nFar East 86.7% 89.4% 2.7 pt\nEurope 81.8% 79.2% -2.6 pt\nAmericas 83.5% 85.2% 1.7 pt\nAfrica 76.9% 79.8% 2.9 pt\nDomestic 87.4% 83.8% -3.5 pt\nMiddle East 78.5% 62.7% -15.9 pt\nTOTAL 83.2% 83.4% 0.2 pt\nFar East 0.7 0.9 23.6%\nEurope 2.5 2.6 5.5%\nAmericas 0.5 0.5 2.3%\nAfrica 0.4 0.4 10.9%\nDomestic 2.6 2.5 -5.0%\nMiddle East 0.8 0.4 -55.7%\nTOTAL 7.4 7.2 -2.9%\nData includes all Flights\nAPRIL 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\n2025 2026 Change (%)Available Seat Kilometers (billion)\n2025 2026 Change (%)Load Factor (%)\n2025 2026 Change (%)Passengers Carried (million)\nREGIONAL BREAKDOWN\n\nNumber of Destinations 353 358 1.4%\nFleet 476 536 12.6%\nAvailable Seat Kilometers (billion) 82.7 88.9 7.5%\nPassenger Load Factor (%) 81.2% 83.4% 2.2 pt\nPassengers Carried (million) 26.3 28.5 8.3%\nNumber of Landing (Passenger Flights) 167,407 177,339 5.9%\nCargo and Mail (thousand tons) 653.7 747.0 14.3%\n \nAvailable Seat Kilometers (billion) 75.2 81.2 7.9%\nPassenger Load Factor (%) 81.1% 83.4% 2.3 pt\nPassengers Carried (million) 17.4 19.0 8.9%\nNumber of Landing (Passenger Flights) 105,876 113,645 7.3%\nCargo and Mail (thousand tons) 635.0 727.4 14.6%\nAvailable Seat Kilometers (billion) 7.4 7.8 4.1%\nPassenger Load Factor (%) 82.6% 84.2% 1.7 pt\nPassengers Carried (million) 8.9 9.5 7.0%\nNumber of Landing (Passenger Flights) 61,531 63,694 3.5%\nCargo and Mail (thousand tons) 18.8 19.6 4.8%\nData includes all Flights\nJAN - APR 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\nTOTAL\n2025 2026 Change (%)\nINTERNATIONAL\n2025 2026 Change (%)\nDOMESTIC\n2025 2026 Change (%)\n\nFar East 21.5 25.7 19.5%\nEurope 19.5 21.5 10.1%\nAmericas 19.5 20.0 2.2%\nAfrica 7.4 8.2 11.4%\nDomestic 7.4 7.8 4.1%\nMiddle East 7.3 5.7 -21.1%\nTOTAL 82.7 88.9 7.5%\nFar East 85.6% 90.0% 4.4 pt\nEurope 78.4% 78.7% 0.3 pt\nAmericas 82.3% 83.0% 0.8 pt\nAfrica 77.1% 80.0% 2.8 pt\nDomestic 82.6% 84.2% 1.7 pt\nMiddle East 76.0% 77.0% 1.0 pt\nTOTAL 81.2% 83.4% 2.2 pt\nFar East 2.8 3.4 24.2%\nEurope 8.6 9.6 11.5%\nAmericas 1.7 1.8 3.9%\nAfrica 1.5 1.7 18.2%\nDomestic 8.9 9.5 7.0%\nMiddle East 2.9 2.5 -14.9%\nTOTAL 26.3 28.5 8.3%\nData includes all Flights\nJAN - APR 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\n2025 2026 Change (%)Available Seat Kilometers (billion)\n2025 2026 Change (%)Load Factor (%)\n2025 2026 Change (%)Passengers Carried (million)\nREGIONAL BREAKDOWN",
+        "ticker": "THYAO",
+        "company_name": "TÜRK HAVA YOLLARI A.O.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-08T20:39:08",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1603784",
+        "source_filename": "1603784_April 2026 Traffic.pdf"
+      },
+      {
+        "score": 0.67188627,
+        "text": "2025 TOPLAM YOLCU DAĞILIMI (000)\nTOPLAM\n92.637\n%100\nİç Hat\nÖzel Kira\n31.819\n2.058\n%34,3\n%2,2\nDış Hat\n58.336\n%63,0\nHAC-UMRE\n%0,5\n92.637\n2025 2025\n8 5.1 3 0\n2024 2024\nTAŞINAN ÜCRETLİ YOLCU (000) ARZ EDİLEN KOL TUK -KM VE ÜCRETLİ \nYOLCU-KM GELİŞİMİ (MİLYON)\n2021\n44. 791\n20212022\n71.821\n20222023\n83.388\n2023\nArz Edilen Koltuk -Km Ücretli Yolcu-Km\n8 6.705\n1 2 7.7 9 3\n162.673\n193.9 61\n234.860\n208.849\n254.138\n2 2 7. 3 1 3\n273.231\n201.757\n\n106 / BÜYÜMEYLE #GÜLÜMSE (ÜRETİLMİŞ SERMA YE)\n Türk Hava Y olları 2025 Entegre Faaliyet Raporu 107\nTrafik Sonuçları\nTürk Hava Yolları, 2025 yılında Uzak Doğu'da %10 \nAKK, %13 ÜYK ve yolcu sayısı artışı elde etmiştir.",
+        "ticker": "THYAO",
+        "company_name": "TÜRK HAVA YOLLARI A.O.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:18:52",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566094",
+        "source_filename": "1566094_THY A.O. Entegre Faaliyet Raporu Aralık 2025.pdf"
+      },
+      {
+        "score": 0.6708795,
+        "text": "ŞUBAT 2026 TRAFİK\nTÜRK HAVA YOLLARI YATIRIMCI İLİŞKİLERİ \nTelefon: +90 212 463 63 63| E-posta: ir@thy.com\n2025 2026 Değişim (%)Arzedilen Koltuk Kilometre (milyar)\n2025 2026 Değişim (%)Yolcu Doluluk Oranı (%)\n2025 2026 Değişim (%)Yolcu Sayısı (milyon)\nBÖLGESEL DAĞILIM\n\nUçulan Nokta 352 356 %1.1\nUçak Sayısı 477 529 %10.9\nArzedilen Koltuk Kilometre (milyar) 40.0 43.9 %9.7\nYolcu Doluluk Oranı (%) %82.2 %83.4 1.2 pt\nYolcu Sayısı (milyon) 12.7 14.1 %11.0\nKonma Sayısı (Yolcu Seferleri) 80,226 87,764 %9.4\nKargo + Posta (bin ton) 298.7 351.2 %17.6\n \nArzedilen Koltuk Kilometre (milyar) 36.5 40.3 %10.2\nYolcu Doluluk Oranı (%) %81.9 %83.2 1.2 pt\nYolcu Sayısı (milyon) 8.5 9.5 %12.7\nKonma Sayısı (Yolcu Seferleri) 51,018 57,332 %12.4\nKargo + Posta (bin ton) 289.9 341.5 %17.8\nArzedilen Koltuk Kilometre (milyar) 3.5 3.7 %4.5\nYolcu Doluluk Oranı (%) %84.3 %85.6 1.3 pt\nYolcu Sayısı (milyon) 4.3 4.6 %7.6\nKonma Sayısı (Yolcu Seferleri) 29,208 30,432 %4.2\nKargo + Posta (bin ton) 8.8 9.8 %10.8\nTüm uçuşlar dahildir.",
+        "ticker": "THYAO",
+        "company_name": "TÜRK HAVA YOLLARI A.O.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-09T22:39:45",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1569213",
+        "source_filename": "1569213_Şubat 2026 Trafik.pdf"
+      },
+      {
+        "score": 0.66139436,
+        "text": "Number of Destinations 352 356 1.1%\nFleet 477 529 10.9%\nAvailable Seat Kilometers (billion) 18.5 20.3 9.4%\nPassenger Load Factor (%) 81.9% 82.7% 0.8 pt\nPassengers Carried (million) 6.0 6.5 9.3%\nNumber of Landing (Passenger Flights) 36,928 40,986 11.0%\nCargo and Mail (thousand tons) 148.6 172.2 15.9%\n \nAvailable Seat Kilometers (billion) 16.9 18.5 9.4%\nPassenger Load Factor (%) 81.6% 82.6% 1.0 pt\nPassengers Carried (million) 4.0 4.4 10.2%\nNumber of Landing (Passenger Flights) 23,564 26,531 12.6%\nCargo and Mail (thousand tons) 144.4 167.5 16.0%\nAvailable Seat Kilometers (billion) 1.6 1.8 9.2%\nPassenger Load Factor (%) 85.4% 83.7% -1.7 pt\nPassengers Carried (million) 2.0 2.1 7.6%\nNumber of Landing (Passenger Flights) 13,364 14,455 8.2%\nCargo and Mail (thousand tons) 4.2 4.7 12.2%\nData includes all Flights\nFEBRUARY 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\nTOTAL\n2025 2026 Change (%)\nINTERNATIONAL\n2025 2026 Change (%)\nDOMESTIC\n2025 2026 Change (%)\n\nFar East 5.0 6.0 19.6%\nEurope 4.2 4.8 12.7%\nAmericas 4.2 4.1 -0.4%\nAfrica 1.7 1.9 12.4%\nDomestic 1.6 1.8 9.2%\nMiddle East 1.8 1.7 -7.0%\nTOTAL 18.5 20.3 9.4%\nFar East 86.1% 88.6% 2.5 pt\nEurope 79.7% 79.2% -0.6 pt\nAmericas 80.0% 81.2% 1.2 pt\nAfrica 78.7% 78.9% 0.2 pt\nDomestic 85.4% 83.7% -1.7 pt\nMiddle East 80.1% 78.7% -1.4 pt\nTOTAL 81.9% 82.7% 0.8 pt\nFar East 0.6 0.8 20.8%\nEurope 1.9 2.1 12.9%\nAmericas 0.3 0.4 1.3%\nAfrica 0.4 0.4 14.3%\nDomestic 2.0 2.1 7.6%\nMiddle East 0.7 0.7 -3.5%\nTOTAL 6.0 6.5 9.3%\nData includes all Flights\nFEBRUARY 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\n2025 2026 Change (%)Available Seat Kilometers (billion)\n2025 2026 Change (%)Load Factor (%)\n2025 2026 Change (%)Passengers Carried (million)\nREGIONAL BREAKDOWN\n\nNumber of Destinations 352 356 1.1%\nFleet 477 529 10.9%\nAvailable Seat Kilometers (billion) 40.0 43.9 9.7%\nPassenger Load Factor (%) 82.2% 83.4% 1.2 pt\nPassengers Carried (million) 12.7 14.1 11.0%\nNumber of Landing (Passenger Flights) 80,226 87,764 9.4%\nCargo and Mail (thousand tons) 298.7 351.2 17.6%\n \nAvailable Seat Kilometers (billion) 36.5 40.3 10.2%\nPassenger Load Factor (%) 81.9% 83.2% 1.2 pt\nPassengers Carried (million) 8.5 9.5 12.7%\nNumber of Landing (Passenger Flights) 51,018 57,332 12.4%\nCargo and Mail (thousand tons) 289.9 341.5 17.8%\nAvailable Seat Kilometers (billion) 3.5 3.7 4.5%\nPassenger Load Factor (%) 84.3% 85.6% 1.3 pt\nPassengers Carried (million) 4.3 4.6 7.6%\nNumber of Landing (Passenger Flights) 29,208 30,432 4.2%\nCargo and Mail (thousand tons) 8.8 9.8 10.8%\nData includes all Flights\nJAN - FEB 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\nTOTAL\n2025 2026 Change (%)\nINTERNATIONAL\n2025 2026 Change (%)\nDOMESTIC\n2025 2026 Change (%)\n\nFar East 10.6 12.6 2.3%\nEurope 9.2 10.2 11.3%\nAmericas 9.3 9.5 19.0%\nAfrica 3.6 4.1 1.6%\nDomestic 3.5 3.7 12.5%\nMiddle East 3.8 3.8 4.5%\nTOTAL 40.0 43.9 9.7%\nFar East 86.5% 88.1% 1.7 pt\nEurope 77.9% 78.8% 0.8 pt\nAmericas 82.9% 83.8% 0.8 pt\nAfrica 79.9% 80.5% 0.5 pt\nDomestic 84.3% 85.6% 1.3 pt\nMiddle East 78.6% 79.9% 1.3 pt\nTOTAL 82.2% 83.4% 1.2 pt\nFar East 1.4 1.6 19.1%\nEurope 4.0 4.5 13.3%\nAmericas 0.8 0.8 3.1%\nAfrica 0.7 0.9 16.6%\nDomestic 4.3 4.6 7.6%\nMiddle East 1.5 1.7 8.7%\nTOTAL 12.7 14.1 11.0%\nData includes all Flights\nJAN - FEB 2026 TRAFFIC\nTURKISH AIRLINES INVESTOR RELATIONS \nPhone: +90 212 463 63 63| E-mail: ir@thy.com\n2025 2026 Change (%)Available Seat Kilometers (billion)\n2025 2026 Change (%)Load Factor (%)\n2025 2026 Change (%)Passengers Carried (million)\nREGIONAL BREAKDOWN",
+        "ticker": "THYAO",
+        "company_name": "TÜRK HAVA YOLLARI A.O.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-09T22:39:45",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1569213",
+        "source_filename": "1569213_February 2026 Traffic.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_03",
+    "ticker": "FROTO",
+    "category": "finansal_performans",
+    "difficulty": "easy",
+    "period": "2026Q1",
+    "question": "Ford Otosan'ın 2026 birinci çeyrek yurt içi toplam perakende satışları, genel pazar payı ve bir önceki yılın aynı dönemine göre değişimi nedir?",
+    "gold_answer": "2026 birinci çeyrekte yurt içi toplam perakende satışlar 18.707 adet olarak gerçekleşmiş; bir önceki yılın aynı dönemine göre yüzde 20 gerilemiştir. Toplam pazar payı yüzde 6,9 (2025Q1: yüzde 8,3). Hafif ticari araç payı yüzde 18,2 (2025Q1: yüzde 21,6), orta ticari araç payı yüzde 32,2 (2025Q1: yüzde 37,6). Kaynak: KAP #1601423",
+    "document": "FROTO 1Q2026 Faaliyet Raporu – KAP #1601423, 05.05.2026",
+    "elapsed_sec": 0.057,
+    "hits": [
+      {
+        "score": 0.7284429,
+        "text": "Tüm rapor boyunca parantez içindeki rakamlar geçen yılın aynı dönemine ait olan değerleri göstermektedir. Ford Otosan 2026 1. Çeyrek Faaliyet Raporu \n \n \nBinek araçların toplam pazardaki payı geçen yılın aynı döneminde \n%78,8 iken\n , bu dönem \n%7\n 7 olarak kaydedilmiştir\n . Hafif ticari araçların payı ise %20 \nile sabit kalmıştır. Binek \naraçların toplam pazardaki payı \n (4) \n1Ç'26 \n 2025 \n 1Ç\n'\n 2024 \n 2023 \n 2022 \n 2021 \n%\n %\n %\n %\n %\n %\n %\nBu dönemde ithal araçların payı binek araçlarda %64 seviyesine gerilerken, hafif ticari \naraçlarda %77’e ulaşmış ve toplamda %67 olarak gerçekleşmiştir.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.7108086,
+        "text": "(4) Kaynak: Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) \nTüm rapor boyunca parantez içindeki rakamlar geçen yılın aynı dönemine ait olan değerleri göstermektedir. Ford Otosan 2026 1. Çeyrek Faaliyet Raporu \n \n \nModel bazında üretim adetlerimiz aşağıdaki gibidir: \n \n3. İhracat, Yurt içi Satış ve Toplam Satış Verileri \n2026 yılının ilk çeyreğinde Avrupa otomotiv pazarında genel aktivite sınırlı toparlanma \ngöstermiştir. Avrupa Birliği ve Birleşik Krallık toplam binek araç pazarı yıllık %4\n ,3 \n(5) \nbüyürken, bu artış büyük ölçüde çeyreğin sonuna doğru ivmelenen talep ile bazı ülkelerde \nuygulamaya alınan yeni ve yenilenmiş vergi teşviklerinden kaynaklanmıştır.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.7072485,
+        "text": "İthal araçların payı \n (\n) \n Binek \n Hafif Ticari \n Toplam \n1Ç26 \n %64 \n %77 \n %67 \n2025 \n %70 \n %78 \n %72 \n1Ç25 \n %68 \n %78 \n %70 \n2024 \n %70 \n %73 \n %71 \n2023 \n %68 \n %54 \n %65 \n \nBu dönemde, Ford Otosan’ın toplam yurt içi perakende satışları %20 azalışla 18.707(23.459) \nadede gerilemiştir. Bu gelişmede, Focus modelinin üretiminin \n sonlanmasının \n ardından \nbinek araç satışlarında gözlenen zayıflama ile, daha rekabetçi fiyatlama ortamı ve artan araç \nbulunabilirliğinin özellikle orta ticari araç satışları üzerinde yarattığı baskı etkili olmuştur. Bu çerçevede Ford Otosan’ın toplam pazardaki payı %6,9 \n seviyesinde gerçekleşmiştir \n(%8,3).",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.697922,
+        "text": "Özellikle, yoğun fiyat rekabeti kapsamında yürütülen \nstratejik satış kampanyaları, makro-politik belirsizlikler, ÖTV artışı kaynaklı talebin \nöne çekilmesi ve altın fiyatındaki artışın yarattığı servet etkisi pazarın büyümesinde \netkili olmuştur. Ayrıca, araç bulunabilirliğindeki iyileşme ve elektrikli araçlara yönelik \nvergi avantajları da talebi destekleyen faktörler arasındadır. Bunun sonucunda, 2025 \nyılında Türkiye toplam otomotiv satışları bir önceki yıla göre %10 artarak 1.408.135 (1) \nadede ulaşmıştır. Ford Otosan’ın yurt içi perakende satış adetleri bu dönemde %3 artmış olup, 117.048 \nadet olmuştur. Böylece, Ford Otosan, %8,3 pazar payıyla toplam pazarda 3. sıradaki \nyerini korumuştur.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-02-18T23:50:10",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1558661",
+        "source_filename": "1558661_Ford Otosan Faaliyet Raporu 2025.pdf"
+      },
+      {
+        "score": 0.69591933,
+        "text": "FORD OTOSAN \n 1Ç’26 \nFİNANSAL SONUÇ BÜLTENİ \n \n \nOperasyonel Görünüm \n \n 1Ç\n’\n 1Ç\n’\n Δ \nYurt İçi Satışlar \nTürkiye Otomotiv Pazarı \n 272.491 \n 284.278 \n -\n%4 \nFord Otosan Yurt İçi Perakende Satış \n 18.707 \n 23.459 \n -\n%20 \nFord Otosan Pazar Payı \n %6,9 \n %8,3 \n 1,4 puan \nYurt Dışı Satışlar \nAvrupa + Birleşik Krallık Binek Pazarı \n (3) \n 3.437.470 \n 3.295.217 \n %4 \nAvrupa + Birleşik Krallık Ticari Araç Pazarı \n (3) \n 537.648 \n 523.878 \n %3 \nFord Avrupa Ticari Araç Pazar Payı \n %16,2 \n %19,3 \n 3,1 puan \nToptan Satış Adedi \nFord Otosan Toptan Satış Adedi \n 160.902 \n 165.280 \n -\n%3 \nFord Otosan Yurt İçi Satış Adedi \n 20.608 \n 25.241 \n -\n%18 \nFord Otosan Yurt Dışı Satış Adedi \n 140.294 \n 140.039 \n %0 \nÜretim ve Kapasite \nTürkiye Otomotiv Endüstri Üretimi \n(4) \n 321.856 \n 344.129 \n -\n%6 \nRomanya Otomotiv Endüstri Üretimi \n(4) \n 128.419 \n 135.723 \n -\n%5 \nFord Otosan Türkiye Üretim \n 105.696 \n 106.114 \n %0 \nFord Otosan Romanya Üretim \n 63.740 \n 59.911 \n %6 \nFord Otosan Toplam Üretim \n 169.436 \n 166.025 \n %2 \nFord Otosan Toplam KKO \n %73 \n %71 \n \nYurt İçi Satışlar \n1Ç’26 döneminde, yurt içi otomotiv pazarı, yılın ilk iki ayında gözlenen olumlu seyrin tersine \ndönmesiyle birlikte, yıllık bazda %4 daralarak 272 bin adet seviyesinde gerçekleşmiştir.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Geleceğe Dönük Değerlendirmeler",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-05T19:29:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601425",
+        "source_filename": "1601425_Ford Otosan 1Ç26 Finansal Sonuç Bülteni.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_04",
+    "ticker": "FROTO",
+    "category": "finansal_performans",
+    "difficulty": "hard",
+    "period": "2026Q1",
+    "question": "Ford Otosan 2026 birinci çeyrek raporunda yurt içi satışlardaki düşüşün nedeni olarak hangi gelişmeleri belirtmektedir?",
+    "gold_answer": "Şirket, Focus modelinin üretiminin sonlanması ardından binek araç satışlarında zayıflama yaşandığını belirtmektedir. Ayrıca daha rekabetçi fiyatlama ortamının ve artan araç bulunabilirliğinin özellikle orta ticari araç satışları üzerinde baskı oluşturduğunu açıklamaktadır. Kaynak: KAP #1601423",
+    "document": "FROTO 1Q2026 Faaliyet Raporu – KAP #1601423, 05.05.2026",
+    "elapsed_sec": 0.056,
+    "hits": [
+      {
+        "score": 0.6951757,
+        "text": "Ford Otosan 1Q’26 Interim Report \n \n \n7. Profitability \nIn the first quarter of the year, the following factors led to a contraction in our profitability: \n \ni) \n a more competitive pricing environment driven by increased vehicle availability, \nii) \n changes in the sales mix, \niii) \n the appreciation of the EUR/TRY remaining below CPI during the period and \nmore limited exchange rate movements compared to the same period of the \nprevious year (EUR/TRY ∆: 25% vs. CPI ∆: 31%), \niv) \n an increase in the share of export revenues within total revenues. Gross profit declined by 27% year‑on‑year to TRY 13.3 billion in 1Q’26 (TRY 18.2 billion). Accordingly, the gross profit margin decreased to 6.9% (8.6%).",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Q26 Interim Report.pdf"
+      },
+      {
+        "score": 0.67863977,
+        "text": "(9) Export volumes include exports from Ford Otosan & Ford Otosan Romania SRL \nData inside the \n parentheses \nrepresents 1Q’2\nnumbers. FORD OTOSAN \n 1Q’2\nEARNINGS RELEASE \n \n \n \nFinancial Overview \nRevenue \nIn 1Q’26, domestic revenues declined by \n% YoY to TL31. bn (TL40.5 bn), reflecting lower \ndomestic volumes, a more competitive pricing environment driven by increased vehicle \navailability, and \n sales \nmix dynamics. The decline was further influenced by a widening gap \nbetween EUR/TL appreciation and CPI inflation during the period \n(YoY EUR/TL change: 25% \nvs. CPI change: 31%). Export revenues amounted to TL160. bn (TL170.0 bn), representing a \n% YoY decrease, \namid broadly flat export volumes. The decline was mainly driven by unfavorable EUR/TL \nexchange rate movements\n .",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Geleceğe Dönük Değerlendirmeler",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-05T19:29:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601425",
+        "source_filename": "1601425_Ford Otosan 1Q26 Earnings Release.pdf"
+      },
+      {
+        "score": 0.6777644,
+        "text": "Ford Otosan 2026 1. Çeyrek Faaliyet Raporu \n \n \n7. Kârlılık \nYılın ilk çeyreğinde: \ni) \n Artan \naraç bulunabilirliğinin etkisiyle daha rekabetçi hale gelen fiyatlama ortamı \nii) \n S\natış karmasındaki değişimler \niii) \n Dönem içinde EUR/TL artışının TÜFE’nin gerisinde kalması ve önceki yılın aynı \ndönemine kıyasla daha sınırlı kur seyri \n(\nEUR/TL ∆: \n%\n 25 vs. TÜFE ∆: \n %\n 31) \niv) \n İhracat gelirlerinin toplam gelirler içindeki payının artması \nkarlılığımızda daralmaya neden olmuştur. Brüt kâr, 1Ç’26\n ’da \nyıllık bazda %27 azalışla 13,3 milyar TL olarak gerçekleşmiştir (18,2 milyar \nTL). Bu doğrultuda brüt kâr marjı %6,9 seviyesine gerilemiştir (%8,6).",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6732281,
+        "text": "(4) Kaynak: Otomotiv Distribütörleri ve Mobilite Derneği (ODMD) \nTüm rapor boyunca parantez içindeki rakamlar geçen yılın aynı dönemine ait olan değerleri göstermektedir. Ford Otosan 2026 1. Çeyrek Faaliyet Raporu \n \n \nModel bazında üretim adetlerimiz aşağıdaki gibidir: \n \n3. İhracat, Yurt içi Satış ve Toplam Satış Verileri \n2026 yılının ilk çeyreğinde Avrupa otomotiv pazarında genel aktivite sınırlı toparlanma \ngöstermiştir. Avrupa Birliği ve Birleşik Krallık toplam binek araç pazarı yıllık %4\n ,3 \n(5) \nbüyürken, bu artış büyük ölçüde çeyreğin sonuna doğru ivmelenen talep ile bazı ülkelerde \nuygulamaya alınan yeni ve yenilenmiş vergi teşviklerinden kaynaklanmıştır.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T19:27:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601423",
+        "source_filename": "1601423_Ford Otosan 1Ç26 Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6727731,
+        "text": "Bununla birlikte krediye erişimde devam eden zorluklar \nve yüksek vergilendirme politikaları sektörü sınırlandırmaya devam \netmektedir. 2025 yılında yüksek rekabet ortamı ve dalgalı makroekonomik \nkoşullara rağmen ulaşılan rekor satış seviyelerinin ardından, 2026 \nyılında iç pazarda talebin güçlü seyrini koruması beklenmekle \nbirlikte, Türkiye otomotiv pazarında satışların benzer seviyelerde \ngerçekleşeceği öngörülmektedir. Enflasyonla mücadelede kaydedilen \nilerleme, faiz oranlarında beklenen kademeli düşüş ile, yatırım \nharcamaları ve filo yenilemelerinin iç pazar talebini destekleyici \netkisinin sürmesi beklenmektedir. Ford Otosan’ın yurt içi satış \nadetlerinin ise pazardaki binek model sayımızın azalmasına bağlı \nolarak bir önceki yılın altında gerçekleşmesi beklenmektedir.",
+        "ticker": "FROTO",
+        "company_name": "FORD OTOMOTİV SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-02-18T23:50:10",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1558661",
+        "source_filename": "1558661_Ford Otosan Faaliyet Raporu 2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_05",
+    "ticker": "ENKAI",
+    "category": "finansal_performans",
+    "difficulty": "easy",
+    "period": "2026Q1",
+    "question": "Enka İnşaat'ın 2026 birinci çeyrek aktif büyüklüğü, konsolide satış gelirleri ve ana ortaklık payına düşen net kârı nedir?",
+    "gold_answer": "31 Mart 2026 itibarıyla aktif büyüklük 11,42 milyar ABD Doları (507,04 milyar TL). Konsolide satış gelirleri 821,82 milyon ABD Doları (35,83 milyar TL). Ana ortaklık payına düşen net kâr 78,3 milyon ABD Doları (3,41 milyar TL). Kaynak: KAP #1603547",
+    "document": "ENKAI 1Q2026 Faaliyet Raporu (Konsolide) – KAP #1603547, 08.05.2026",
+    "elapsed_sec": 0.064,
+    "hits": [
+      {
+        "score": 0.65916663,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vadeli Yükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden yükümlülükler 13.003.884 13.382.911\nDönem karı vergi yükümlülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yükümlülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansman giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:34",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566104",
+        "source_filename": "1566104_Enka_31.12.2025_Raporu.pdf"
+      },
+      {
+        "score": 0.6580873,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. BÖLÜMLERE GÖRE RAPORLAMA \n \na) İş sahaları \nİnşaat\nGayrimenkul \nkiralama Ticaret Enerji Eliminasyon Toplam\nHasılat 24.468.056 4.945.191 2.476.716 3.939.865 - 35.829.828\nBölüm içi hasılat 733.754 164.670 321.797 - (1.220.221) Satışların maliyeti (-) (18.358.280) (2.112.149) (1.488.087) (4.772.107) - (26.730.623)\nBölüm içi satışların maliyeti (-) (733.754) (164.670) (321.797) - 1.220.221 Brüt Kar 6.109.776 2.833.042 988.629 (832.242) - 9.099.205\nGenel yönetim giderleri (-) (1.673.314) (193.401) (131.317) (123.818) - (2.121.850)\nPazarlama giderleri (-) (292.614) - (243.538) - - (536.152)\nEsas faaliyetlerden diğer gelirler 213.743 3.270 22.584 67.315 - 306.912\nEsas faaliyetlerden diğer giderler (-) (219.582) (19.358) (19.881) (8.371) - (267.192)\nEsas Faaliyet Karı / (Zararı) 4.138.009 2.623.553 616.477 (897.116) - 6.480.923\nYatırım faaliyetlerinden gelirler 6.695.307 - - 4.055 - 6.699.362\nYatırım faaliyetlerinden giderler (-) (9.611.539) (56.198) - (1.134) - (9.668.871)\nFinansman Gelir / (Gideri)\nÖncesi Faaliyet Karı / (Zararı) 1.221.777 2.567.355 616.477 (894.195) - 3.511.414\nFinansal gelirler 703.182 354.931 6.714 269.828 - 1.334.655\nFinansal giderler (-) (743.495) (3.575) (94.695) (6.670) - (848.435)\nNet parasal pozisyon kazançları (kayıpları) - - (12.465) (770.582) - (783.047)\nSürdürülen Faaliyetler \nVergi Öncesi Kar / (Zarar) 1.181.464 2.918.711 516.031 (1.401.619) - 3.214.587\nDönem vergi gideri (-) 59.732 (526.664) (149.890) (27.336) - (644.158)\nErtelenmiş vergi gelir/(gideri) 2.157.996 (216.333) (59.686) 65.964 - 1.947.941\nSürdürülen Faaliyetler\nDönem Karı / (Zararı) 3.399.192 2.175.714 306.455 (1.362.991) - 4.518.370\n1 Ocak - 31 Mart 2026\n \n \nİnşaat\nGayrimenkul \nkiralama Ticaret Enerji Toplam\nBölüm varlıkları 311.027.745 109.885.808 12.992.874 73.129.655 507.036.082\nToplam Varlıklar 311.027.745 109.885.808 12.992.874 73.129.655 507.036.082\nBölüm yükümlülükleri 71.753.604 25.751.558 7.242.558 10.795.755 115.543.475\nToplam Yükümlülükler 71.753.604 25.751.558 7.242.558 10.795.755 115.543.475\nDiğer Bölüm Bilgileri İnşaat\nGayrimenkul \nkiralama Ticaret Enerji Toplam\nYatırım harcamaları\nMaddi duran varlıklar ve yatırım amaçlı \ngayrimenkuller 2.039.646 338.920 17.803 1.086.905 3.483.274\nMaddi olmayan duran varlıklar 5.106 7.459 - 46 12.611\nToplam Yatırım Harcamaları 2.044.752 346.379 17.803 1.086.951 3.495.885\nAmortisman gideri 754.473 32.098 39.379 764.190 1.590.140\nİtfa payları 16.427 4.795 2.886 1.066 25.174\n31 Mart 2026\n1 Ocak - 31 Mart 2026\n \n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-08T18:12:50",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1603543",
+        "source_filename": "1603543_Enka 31.03.2026 Raporu.pdf"
+      },
+      {
+        "score": 0.65735817,
+        "text": "Faaliyet alanları hakkında daha fazla bilgi için tıklayınız. Vizyon, misyon ve değerler için tıklayınız. 1.3 Ekonomik \nPerformans ENKA’nın Konsolide Ekonomik Performansı*\n* Veriler, milyar TL cinsindedir. ENKA 2025 yılında faaliyette \nbulunduğu 4 ana sektörden toplamda \n156,5 milyar TL gelir elde ederek, \nhissedarları için 36,2 milyar TL net \nkâr yaratmıştır. Mühendislik ve inşaat \nsektörünün cirosu 102,8 milyar TL \nseviyesinde gerçekleşmiştir. Ciro Net Kâr\n1.2 ENKA Hakkında\nENKA Grubu’nun değer zinciri, kapsamdaki şirketlerin faaliyetlerini \nsürdürebilmeleri için gerekli girdilerin temin edilmesinden \nbaşlayarak, bu girdilerin ENKA Grubu’nun operasyonları kapsamında \ndönüştürülmesine ve ortaya çıkan ürün ve hizmetlerin müşterilere \nsunulmasına kadar uzanan tüm süreçleri kapsamaktadır.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-04T21:49:41",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566109",
+        "source_filename": "1566109_ENKA TSRS Raporu 2025.pdf"
+      },
+      {
+        "score": 0.6573555,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n5. BÖLÜMLERE GÖRE RAPORLAMA (devamı) \n \na) İş sahaları (devamı) \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Eliminasyon Toplam\nHasılat 70.431.997 10.782.185 8.584.822 10.742.401 - 100.541.405\nBölüm içi hasılat 3.480.601 214.567 557.737 - (4.252.905) Satışların maliyeti (-) (54.009.466) (3.770.211) (5.864.849) (11.604.638) - (75.249.164)\nBölüm içi satışların maliyeti (-) (3.480.601) (214.567) (557.737) - 4.252.905 Brüt Kar 16.422.531 7.011.974 2.719.973 (862.237) - 25.292.241\nGenel yönetim giderleri (-) (4.514.264) (228.211) (233.656) (548.062) - (5.524.193)\nPazarlama giderleri (-) (316.197) (199.382) (484.400) - - (999.979)\nEsas faaliyetlerden diğer gelirler 1.354.359 138.278 90.294 127.717 - 1.710.648\nEsas faaliyetlerden diğer giderler (-) (773.403) (30.863) (33.684) (330.214) - (1.168.164)\nEsas Faaliyet Karı 12.173.026 6.691.796 2.058.527 (1.612.796) - 19.310.553\nYatırım faaliyetlerinden gelirler 16.536.594 2.766.120 - 8.429 - 19.311.143\nYatırım faaliyetlerinden giderler (-) (1.465.767) (611.428) - (6.724) - (2.083.919)\nFinansman Gelir/Gideri\nÖncesi Faaliyet Karı 27.243.853 8.846.488 2.058.527 (1.611.091) - 36.537.777\nFinansal gelirler 1.252.455 74.485 245.529 445.829 (426) 2.017.872\nFinansal giderler (-) (899.366) (653.869) (324.836) (150.873) 426 (2.028.518)\nNet parasal pozisyon kayıpları (-) - - (156.206) (1.453.343) - (1.609.549)\nSürdürülen Faaliyetler V ergi Öncesi Kar 27.596.942 8.267.104 1.823.014 (2.769.478) - 34.917.582\nDönem vergi gideri (-) (2.747.690) (1.271.234) (485.613) (5.838) - (4.510.375)\nErtelenmiş vergi gelir/(gideri) (1.669.498) (2.550.405) 17.055 (55.659) - (4.258.507)\nSürdürülen Faaliyetler\nDönem Karı/(Zararı) 23.179.754 4.445.465 1.354.456 (2.830.975) - 26.148.700\n1 Ocak - 31 Aralık 2024\n \n \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nBölüm varlıkları 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nToplam Varlıklar 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nBölüm yükümlülükleri 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\nToplam Yükümlülükler 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\n31 Aralık 2024\n \n \nDiğer Bölüm Bilgileri İnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nYatırım harcamaları\nMaddi duran varlıklar ve yatırım \namaçlı gayrimenkuller 2.767.810 127.574 87.107 5.848.592 8.831.083\nMaddi olmayan duran varlıklar 48.828 1.870 13.160 390 64.248\nToplam Yatırım Harcamaları 2.816.638 129.444 100.267 5.848.982 8.895.331\nAmortisman gideri 1.830.534 52.462 89.330 2.081.008 4.053.334\nİtfa payları 157.351 1.799 7.479 2.717 169.346\n1 Ocak - 31 Aralık 2024\n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.271\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.64878416,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vad eli Y ükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizm et sözleşm elerinden yüküm lülükler 13.003.884 13.382.911\nDönem karı vergi yüküm lülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yüküm lülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansm an giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.269\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_06",
+    "ticker": "AEFES",
+    "category": "temettu",
+    "difficulty": "easy",
+    "period": "2025Y",
+    "question": "Anadolu Efes'in 2025 yılı kârından ödenen temettünün pay başına brüt ve net tutarları ile ödeme tarihi nedir?",
+    "gold_answer": "1 TL nominal değerli pay başına brüt temettü 0,16975 TL, net temettü ise 0,1442875 TL. Ödeme tarihi 15 Mayıs 2026. Kaynak: KAP #1606333 ve KAP #1608029",
+    "document": "Hak Kullanımı Duyurusu – KAP #1606333, 12.05.2026 | MKK Pay Mali Hak Kullanım – KAP #1608029, 15.05.2026",
+    "elapsed_sec": 0.061,
+    "hits": [
+      {
+        "score": 0.68788433,
+        "text": "Anadolu Efes Biracılık ve Malt Sanayii A.Ş. 2025 Olağan Genel Kurul Bilgilendirme Dokümanı \n \n \n7. Yönetim Kurulu'nun kar dağıtımı ile ilgili teklifinin onaylanması, değiştirilerek \nonaylanması veya reddi \n \nYönetim Kurulumuzun 5 Mart 2026 tarihli toplantısında, Şirketimizin, 2025 Ocak-Aralık dönemine \nilişkin olarak çıkarılmış sermayesi 5 .921.052.630 TL üzerinden %33,95 brüt kâr dağıtımını teminen \nher 1 TL nominal bedelli hisseye tam mükellef kurum ile Türkiye’de bir işyeri veya daimi temsilcisi \naracılığı ile kar payı elde eden dar mükellef kurum niteliğindeki pay sahiplerine net=brüt 0,3395 TL \nve diğer pay sahiplerine de brüt 0,3395 (net 0,288575 TL) kâr payı olmak üzere 2.010.197.367,89 \nTL tutarında kârın nakit olarak ödenmesine ve nakit kâr dağıtımının 2 eşit taksitte \ngerçekleştirilmesine, ilk taksitin 13 Mayıs 2026 tarihinden itibaren , ikinci taksitin 5 Ekim 2026 \ntarihinden itibaren ödenmesinin önerilmesine karar verilmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-03-18T09:00:56",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1573698",
+        "source_filename": "1573698_3. Bilgilendirme Dökümanı.pdf"
+      },
+      {
+        "score": 0.6274384,
+        "text": "Grup tarafından yapılan de ğerlendirmeler sonucunda, 1 Ocak 2025 tarihi itibar ıyla ilgili şirket Grup bünyesinde yer almakla birlikte, TFRS \n10 kapsamında mali tablolarda konsolidasyon kapsam ı dışında bırakılmış finansal yatırım olarak muhasebeleştirilmiştir. Sayfa 18 of 18 www.anadoluefes.com ir@anadoluefes.com \n \n2025’E ILIŞKIN BIRA OPERASYONLAR I SUNUMU VE WEBCAST \nAnadolu Efes’in 2025 sonuçları 6 Mart 2026 Cuma günü, saat 1 7:00 itibarıyla (Londra 14:00 ve New York 09:00) \nyapılacak olan webcast ile değerlendirilecektir. Webcast Teams Canlı Etkinlik uygulaması üzerinden gerçekleştirilecektir. İlgili sunuma bağlanmak için toplantı öncesinde aşağıdaki linke erişiminizi denemenizi önermekteyiz.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.6240798,
+        "text": "2025 Ocak-Aralık dönemine ilişkin olarak çıkarılmış sermayesi 5.921.052.630 TL üzerinden %33,95 brüt kâr dağıtımını teminen \nher 1 TL nominal bedelli hisseye tam mükellef kurum ile Türkiye'de bir işyeri veya daimi temsilcisi aracılığı ile kar payı elde eden \ndar mükellef kurum niteliğindeki pay sahiplerine net=brüt 0,3395 TL ve diğer pay sahiplerine de brüt 0,3395 (net 0,288575 TL) \nkâr payı olmak üzere 2.010.197.367,89 TL tutarında kârın yasal kayıtlarda yer alan Geçmiş Yıllar Kârları hesabından karşılanmak \nüzere nakit olarak ödenmesine ve nakit kâr dağıtımının 2 eşit taksitte gerçekleştirilmesine, ilk taksitin 13 Mayıs 2026 tarihinden \nitibaren, ikinci taksitin 5 Ekim 2026 tarihinden itibaren ödenmesine karar verilmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-04-13T17:11:03",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1592212",
+        "source_filename": "1592212_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.6240797,
+        "text": "2025 Ocak-Aralık dönemine ilişkin olarak çıkarılmış sermayesi 5.921.052.630 TL üzerinden %33,95 brüt kâr dağıtımını teminen \nher 1 TL nominal bedelli hisseye tam mükellef kurum ile Türkiye'de bir işyeri veya daimi temsilcisi aracılığı ile kar payı elde eden \ndar mükellef kurum niteliğindeki pay sahiplerine net=brüt 0,3395 TL ve diğer pay sahiplerine de brüt 0,3395 (net 0,288575 TL) \nkâr payı olmak üzere 2.010.197.367,89 TL tutarında kârın yasal kayıtlarda yer alan Geçmiş Yıllar Kârları hesabından karşılanmak \nüzere nakit olarak ödenmesine ve nakit kâr dağıtımının 2 eşit taksitte gerçekleştirilmesine, ilk taksitin 13 Mayıs 2026 tarihinden \nitibaren, ikinci taksitin 5 Ekim 2026 tarihinden itibaren ödenmesine karar verilmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-05-07T18:37:58",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602713",
+        "source_filename": "1602713_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.62181324,
+        "text": "2025 Ocak-Aralık dönemine ilişkin olarak çıkarılmış sermayesi 5.921.052.630 TL üzerinden %33,95 brüt kâr dağıtımını \nteminen her 1 TL nominal bedelli hisseye tam mükellef kurum ile Türkiye'de bir işyeri veya daimi temsilcisi aracılığı ile \nkar payı elde eden dar mükellef kurum niteliğindeki pay sahiplerine net=brüt 0,3395 TL ve di ğer pay sahiplerine de \nbrüt 0,3395 (net 0,288575 TL) k ar payı olmak üzere 2.010.197.367,89 TL tutar ında kârın yasal kay ıtlarda yer alan \nGeçmiş Yıllar Kârları hesabından karşılanmak üzere nakit olarak ödenmesine ve nakit kâr dağıtımının 2 eşit taksitte \ngerçekleştirilmesine, ilk taksitin 13 May ıs 2026 tarihinden itibaren, ikinci taksitin 5 Ekim 2026 tarihinden itibaren \nödenmesine karar verilmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_07",
+    "ticker": "AEFES",
+    "category": "temettu",
+    "difficulty": "medium",
+    "period": "2025Y",
+    "question": "Anadolu Efes 2025 temettüsünde pay başına stopaj kesintisi tutarı nedir ve brüt temettünün yüzde kaçına karşılık gelmektedir?",
+    "gold_answer": "Brüt temettü 0,16975 TL, net temettü 0,1442875 TL. Pay başı stopaj kesintisi 0,0254625 TL (= 0,16975 − 0,1442875). Bu tutar brüt temettünün yaklaşık yüzde 15'ine karşılık gelmektedir. Kaynak: KAP #1606333",
+    "document": "Hak Kullanımı Duyurusu – KAP #1606333, 12.05.2026",
+    "elapsed_sec": 0.072,
+    "hits": [
+      {
+        "score": 0.592332,
+        "text": "Proforma bazda: TMS 29 etkisi olmadan 2025 yılında, \nAnadolu Efes; \n• Net satış gelirleri %36,4 oranında artarak 234.278,0 milyon TL seviyesinde\n• Brüt kar %34,6 oranında artarak 94.094,1 milyon TL, marj ise 55 baz puan azalarak %40,2 seviyesinde\n• FAVÖK (BMKÖ) %28,5 oranında artarak 44.473,8 milyon TL, marj 116 baz puan düşüşle %19,0 seviyesinde\n• Net kar/(zarar) (KÇFD(*) hariç) 4.914.9 milyon TL seviyesine gerilemiştir. Bira Grubu: \n• Net satış gelirleri %29,7 oranında artarak 52.640,5 milyon TL seviyesinde\n• Brüt kar %25,8 oranında artarak 27.316,6 milyon TL, marj ise 161 baz puan azalarak %51,9 seviyesinde\n• FAVÖK (BMKÖ) %15,6 artarak 10.320,7 milyon TL, marj ise 239 baz puan düşüşle %19,6 seviyesinde\n• Net kar/(zarar) (KÇFD(*) hariç) 335,3 milyon TL seviyesinde gerçekleşmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.5921594,
+        "text": "Söz konusu \niyileşme, zamanında yapılan fiyat artı şları, disiplinli maliyet yönetimi ve proaktif tedarik uygulamalarının \nkatkısıyla sağlanmıştır. Ayrıca, faaliyet giderlerindeki artı şın görece sınırlı kalmasıyla faaliyet giderlerinin net \ngelirlere oranı yıllık bazda gerilemi ştir. TMS 29 etkisi hariç tutulduğunda, FAVÖK (BMKÖ) %8 5,1 oranında \nartarak 9.874,1 milyon TL’ye ulaşmış ve marj ise %15,8 seviyesinde gerçekleşmiştir. Anadolu Efes konsolide net karı, 1Ç2026’da 2.009,7 milyon TL seviyesinde gerçekleşmiş olup, geçen yılın \naynı döneminde kaydedilen 2.257,6 milyon TL’nin altında kalmı ştır.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.58854973,
+        "text": "31 ARALIK 2025 SERMAYEDEKİ PAYI (TL) SERMAYEDEKİ PAYI (%)\nAG Anadolu Grubu Holding A.Ş. 2.548.911.569 43,05\nAB InBev Harmony Limited 1.421.052.630 24,00\nHalka Açık ve Diğer 1.951.088.431 32,95\nToplam Çıkarılmış Sermaye 5.921.052.630 100,00\n1 OCAK - 31 ARALIK 2025 EN DÜŞÜK EN YÜKSEK ORTALAMA 31.12.2024 31.12.2025 DEĞİŞİM (%)\nHisse Kapanış Fiyatı2 (TL) 13,27 18,84 15,72 19,00 15,71 -%17\nPiyasa Değeri² (milyon TL) 78.572 111.559 93.076 112.500 93.020 -%17\nBIST-100 9.009 11.530 10.290 9.831 11.262 %15\nANADOLU EFES \nENTEGRE FAALİYET \nRAPORU 2025\nGİRİŞ\nANADOLU EFES DÜNYASI\n• Kısac\na Anadolu Efes\n• Değer Zincirimiz\n• Tr\nendler ve Faaliyet \nOrtamımız\nKURUMSAL YÖNETİŞİM \nYAPIMIZ\nGELECEĞE ARTI DEĞER\nFİNANSAL DİSİPLİN İLE \nBÜYÜYORUZ\nTOPLUMSAL FAYDA İÇİN \nÇALIŞIYORUZ\nÇEVRE İÇİN SIFIRLIYORUZ\nÇALIŞANLARIMIZ İLE \nGÜÇLENİYORUZ\nKURUMSAL YÖNETİŞİM\nFİNANSAL BİLGİLER\nEKLER\n\nCoğrafi Ayak İzimiz\nAnadolu Efes 5 ülkede, toplam 10 bira \nfabrikası, 2 malt üretim tesisi, 1 şerbetçi \notu işleme tesisi ve Coca-Cola \noperasyonlarını yürüttüğü 12 ülkede \n36 şişeleme ve 3 meyve işleme \nfabrikası ile faaliyet göstermektedir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T00:15:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+        "source_filename": "1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.5884502,
+        "text": "Sonuç olarak, 2025 y ılında konsolide net sat ış gelirleri proforma bazda %2,5 oran ında art ış \nkaydederek 243.847,1 milyon TL seviyesine ula şmıştır. TMS 29 etkisi hariç tutulduğunda, 2025 yılında konsolide net \nsatış gelirleri proforma bazda %36,4 oran ında güçlü bir art ış göstermiş olup, kur etkisinden arındırılmı ş net gelir \nartışı ise %19,5 seviyesinde gerçekleşmiştir. Anadolu Efes konsolide FAVÖK (BMKÖ) rakamı, 4Ç2025’te proforma bazda yıllık %69,8 oranında artı ş \ngöstererek 5.739,2 milyon TL seviyesine ula şmış, marj ise 368 baz puanlık güçlü bir iyile şme ile %12,2 seviyesinde \ngerçekleşmiştir. Brüt kardaki iyile şmenin deste ğiyle, güçlü ciro performansına takiben operasyonel karlılıkta da \nartış görülmüştür.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.5859873,
+        "text": "Değişim (bp)\nBrüt Kar Marjı 32.2% 37.5% 531\nFaaliyet Kar/(Zarar) Marjı 10.6% 15.2% 466\nFAVÖK Marjı 14.2% 18.6% 440\nNet Kar/(Zarar) Marjı* 0.2% 7.1% 687\n*Ana ortaklık payları\nBAŞLICA FİNANSAL GÖSTERGELER (TMS 29 Uygulanmam ış & Denetimden Ge çmemiş) \n\n \nSayfa 8 of 17 www.anadoluefes.com ir@anadoluefes.com \n \n \n \n \n \n \n \n \n \n \nFAVÖK (milyon TL) 1Ç2025 1Ç2026\nEsas Faaliyet Karı/Zararı 1,149.7 4,293.1\nAmortisman ve itfa giderleri 3,687.5 3,783.2\nKıdem tazminatı karşılığı 150.2 120.8\nÜcretli izin karşılığı 245.6 253.3\nEsas faaliyetlerden kaynaklanan kur farkı gelir/giderleri 27.5 -32.3\nEsas faaliyetlerden kaynaklanan reeskont farkı gelir/giderleri 16.2 3.2\nDiğer 81.5 79.4\nFAVÖK 5,358.2 8,500.6\nFAVÖK (BMKÖ*) 5,402.3 8,513.8\n*1Ç2025'de tek seferlik giderlerin toplamı 44,1 milyon TL, 1Ç2026'da ise 13,2 milyon TL'dir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_08",
+    "ticker": "ENKAI",
+    "category": "temettu",
+    "difficulty": "medium",
+    "period": "2026Q1",
+    "question": "Enka İnşaat'ın 2026 birinci çeyrek net nakit pozisyonu ve toplam finansal borcu nedir?",
+    "gold_answer": "Net nakit pozisyonu 5,32 milyar ABD Doları (236 milyar TL). Toplam finansal borç 156,87 milyon ABD Doları. Kaynak: KAP #1603547",
+    "document": "ENKAI 1Q2026 Faaliyet Raporu (Konsolide) – KAP #1603547, 08.05.2026",
+    "elapsed_sec": 0.064,
+    "hits": [
+      {
+        "score": 0.6908989,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vadeli Yükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden yükümlülükler 13.003.884 13.382.911\nDönem karı vergi yükümlülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yükümlülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansman giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:34",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566104",
+        "source_filename": "1566104_Enka_31.12.2025_Raporu.pdf"
+      },
+      {
+        "score": 0.68293583,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vad eli Y ükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizm et sözleşm elerinden yüküm lülükler 13.003.884 13.382.911\nDönem karı vergi yüküm lülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yüküm lülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansm an giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.269\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.6821695,
+        "text": "x\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.201\nTEMEL RASYOLAR (TUTARLAR BİN T ÜRK LİR ASI’DIR)\n31.12.2025 31.12.2024\nCari Oran:\nDönen Varlıklar 275.272.393\n= %378.8\n159.722.509\n= %290.5\nKısa Vadeli Yükümlülükler 72.660.815 54.978.712\nNakit Oranı:\nNakit ve Nakit Benzerleri + Finansal Yatırımlar 245.280.086\n= %337,6\n194.737.166\n= %354,2\nKısa Vadeli Yükümlülükler 72.660.815 54.978.712\nKaldıraç Oranı:\nToplam Yükümlülükler 113.520.853\n= %23,0\n80.278.919\n= %22,1\nToplam Varlıklar 493.059.685 363.510.879\nÖzkaynak/Varlıklar Toplamı Oranı:\nÖzkaynaklar 379.538.832\n= %77,0\n283.231.960\n= %77,9\nToplam Varlıklar 493.059.685 363.510.879\nDönen Varlıklar/Varlıklar Toplamı Oranı:\nDönen Varlıklar 275.272.393\n= %55,8\n159.722.509\n= %43,9\nToplam Varlıklar 493.059.685 363.510.879\nDuran Varlıklar/Varlıklar Toplamı Oranı:\nDuran Varlıklar 217.787.292\n= %44,2\n203.788.370\n= %56,1\nToplam Varlıklar 493.059.685 363.510.879\nAktif Kârlılığı:\nNet Dönem Kârı 36.183.302\n= %7,3\n24.690.869\n= %6,8\nToplam Varlıklar 493.059.685 363.510.879\nNet Kâr Marjı:\nNet Dönem Kârı 36.183.302\n= %23,1\n24.690.869\n= %24,6\nToplam Satış Gelirleri 156.507.106 100.541.405\nToplam Borç/Özkaynak Oranı:\nToplam Yükümlülükler 113.520.853\n= %29,9\n80.278.919\n= %28,3\nÖzkaynaklar 379.538.832 283.231.960\n\n2.2 FAALİYET RAPORU\n2.2.1 Yönetim kurulu, yıllık faaliyet raporunun şirket faaliyetlerini tam ve doğru şekilde \nyansıtmasını temin etmektedir.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.6661656,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n5. BÖLÜMLERE GÖRE RAPORLAMA (devamı) \n \na) İş sahaları (devamı) \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Eliminasyon Toplam\nHasılat 70.431.997 10.782.185 8.584.822 10.742.401 - 100.541.405\nBölüm içi hasılat 3.480.601 214.567 557.737 - (4.252.905) Satışların maliyeti (-) (54.009.466) (3.770.211) (5.864.849) (11.604.638) - (75.249.164)\nBölüm içi satışların maliyeti (-) (3.480.601) (214.567) (557.737) - 4.252.905 Brüt Kar 16.422.531 7.011.974 2.719.973 (862.237) - 25.292.241\nGenel yönetim giderleri (-) (4.514.264) (228.211) (233.656) (548.062) - (5.524.193)\nPazarlama giderleri (-) (316.197) (199.382) (484.400) - - (999.979)\nEsas faaliyetlerden diğer gelirler 1.354.359 138.278 90.294 127.717 - 1.710.648\nEsas faaliyetlerden diğer giderler (-) (773.403) (30.863) (33.684) (330.214) - (1.168.164)\nEsas Faaliyet Karı 12.173.026 6.691.796 2.058.527 (1.612.796) - 19.310.553\nYatırım faaliyetlerinden gelirler 16.536.594 2.766.120 - 8.429 - 19.311.143\nYatırım faaliyetlerinden giderler (-) (1.465.767) (611.428) - (6.724) - (2.083.919)\nFinansman Gelir/Gideri\nÖncesi Faaliyet Karı 27.243.853 8.846.488 2.058.527 (1.611.091) - 36.537.777\nFinansal gelirler 1.252.455 74.485 245.529 445.829 (426) 2.017.872\nFinansal giderler (-) (899.366) (653.869) (324.836) (150.873) 426 (2.028.518)\nNet parasal pozisyon kayıpları (-) - - (156.206) (1.453.343) - (1.609.549)\nSürdürülen Faaliyetler V ergi Öncesi Kar 27.596.942 8.267.104 1.823.014 (2.769.478) - 34.917.582\nDönem vergi gideri (-) (2.747.690) (1.271.234) (485.613) (5.838) - (4.510.375)\nErtelenmiş vergi gelir/(gideri) (1.669.498) (2.550.405) 17.055 (55.659) - (4.258.507)\nSürdürülen Faaliyetler\nDönem Karı/(Zararı) 23.179.754 4.445.465 1.354.456 (2.830.975) - 26.148.700\n1 Ocak - 31 Aralık 2024\n \n \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nBölüm varlıkları 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nToplam Varlıklar 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nBölüm yükümlülükleri 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\nToplam Yükümlülükler 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\n31 Aralık 2024\n \n \nDiğer Bölüm Bilgileri İnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nYatırım harcamaları\nMaddi duran varlıklar ve yatırım \namaçlı gayrimenkuller 2.767.810 127.574 87.107 5.848.592 8.831.083\nMaddi olmayan duran varlıklar 48.828 1.870 13.160 390 64.248\nToplam Yatırım Harcamaları 2.816.638 129.444 100.267 5.848.982 8.895.331\nAmortisman gideri 1.830.534 52.462 89.330 2.081.008 4.053.334\nİtfa payları 157.351 1.799 7.479 2.717 169.346\n1 Ocak - 31 Aralık 2024\n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.271\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.66464263,
+        "text": "FİNANSAL BORÇLAR \n \n \na) Finansal kredilerden borçlar \n \nGrup’un 2025 ve 2024 yıllarında finansal kredilerden borcu bulunmamaktadır. 31 Aralık 20 25 tarihinde sona eren yıla ait finansman faaliyetlerinden kaynaklanan nakit akışları ile \nyükümlülüklerdeki hareketlerin mutabakatı aşağıdaki gibidir: \n \n \nKur farkı\ndeğişimi\nDiğer nakit\nolmayan\nhareketler\nKiralama borçları (KV) 152.274 57.826 5.141 97.303 27.522 340.066\nKiralama borçları (UV) 3.950.390 4.242 1.131.512 633.559 847.150 6.566.853\nFinansman faaliyetlerinden kaynaklanan \ntoplam yükümlülükler 4.102.664 62.068 1.136.653 730.862 874.672 6.906.919\n31 Aralık\n2024\nNakit Hareketi \nYaratanlar\nÇevrim \nFarkı\n31 Aralık\n2025\nNakit Hareketi Yaratmayanlar\n \n \n \n31 Aralık 20 24 tarihinde sona eren yıla ait finansman faaliyetlerinden kaynaklanan nakit akışları ile \nyükümlülüklerdeki hareketlerin mutabakatı aşağıdaki gibidir: \n \n \nKur farkı\ndeğişimi\nDiğer nakit\nolmayan\nhareketler\nKiralama borçları (KV) 131.815 (148.036) - 142.285 26.210 152.274\nKiralama borçları (UV) 3.454.920 145.513 (413.450) 79.804 683.603 3.950.390\nFinansman faaliyetlerinden kaynaklanan \ntoplam yükümlülükler 3.586.735 (2.523) (413.450) 222.089 709.813 4.102.664\n31 Aralık\n2023\nNakit Hareketi \nYaratanlar\nÇevrim \nFarkı\nNakit Hareketi Yaratmayanlar\n31 Aralık\n2024\n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:34",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566104",
+        "source_filename": "1566104_Enka_31.12.2025_Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_09",
+    "ticker": "AEFES",
+    "category": "temettu",
+    "difficulty": "medium",
+    "period": "2025Y",
+    "question": "15 Mayıs 2026 tarihli MKK bildiriminde AEFES dışında hangi şirketlerin temettü ödemesi gerçekleştirilmiştir?",
+    "gold_answer": "BEYAZ, BRKVY, MCARD, MGROS ve TRCAS için de temettü ödemesi gerçekleştirilmiştir. Kaynak: KAP #1608029",
+    "document": "MKK Pay Mali Hak Kullanım İşlemi – KAP #1608029, 15.05.2026",
+    "elapsed_sec": 0.058,
+    "hits": [
+      {
+        "score": 0.56927276,
+        "text": "sayfadan ulaşabilirsiniz. Aksi \nbelirtilmedikçe, bu duyuruda yer alan tüm finansal veriler TMS 29'a uygun olarak sunulmuştur. AEFES \nKonsolide (milyon TL)\n4Ç2024 \nRaporlanan\n4Ç2024 \nProforma 4Ç2025 Proforma\n% Değişim \n2024 \nRaporlanan\n2024 \nProforma 2025 Proforma\n% Değişim \nSatış Hacmi (mhl) 24.2 18.1 18.9 4.6% 123.9 98.3 105.1 7.0%\nSatış Gelirleri 53,091.0 39,628.7 47,010.2 18.6% 302,824.5 237,838.0 243,847.1 2.5%\nBrüt Kar 20,226.5 14,092.6 18,493.3 31.2% 119,122.1 90,384.2 91,925.9 1.7%\nFaaliyet Karı/(Zararı) (BMKÖ) 545.7 -519.9 2,334.7 a.d.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-03-05T23:56:23",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566777",
+        "source_filename": "1566777_AEFES 2025 Sonuç Açıklaması.pdf"
+      },
+      {
+        "score": 0.5453793,
+        "text": "sayfadan ula şabilirsiniz. Aksi \nbelirtilmedikçe, bu duyuruda yer alan tüm finansal veriler TMS 29'a uygun olarak sunulmuştur. AEFES \nKonsolide (milyon TL) 1Ç2025 1Ç2026 % Değişim \nSatış Hacmi (mhl) 24.3 25.6 5.3%\nSatış Gelirleri 58,033.2 62,424.7 7.6%\nBrüt Kar 18,416.9 22,372.9 21.5%\nFaaliyet Karı/(Zararı) (BMKÖ) 1,193.8 4,306.3 260.7%\nFAVÖK (BMKÖ) 5,402.3 8,513.8 57.6%\nNet Dönem Karı/(Zararı)* 2,257.6 2,009.7 -11.0%\nSerbest Nakit Akımı -22,025.4 -7,289.5 66.9%\nDeğişim (bp)\nBrüt Kar Marjı 31.7% 35.8% 410\nFaaliyet Kar/(Zarar) (BMKÖ) Marjı 2.1% 6.9% 484\nFAVÖK (BMKÖ) Marjı 9.3% 13.6% 433\nNet Kar/(Zarar) Marjı* 3.9% 3.2% -67\nBira Grubu (milyon TL) 1Ç2025 1Ç2026 % Değişim \nSatış Hacmi (mhl) 2.3 2.1 -9.6%\nSatış Gelirleri 10,275.3 9,410.6 -8.4%\nBrüt Kar 4,145.2 3,382.7 -18.4%\nFaaliyet Karı/(Zararı) (BMKÖ) -2,251.1 -2,336.4 -3.8%\nFAVÖK (BMKÖ) -635.9 -761.0 -19.7%\nNet Dönem Karı/(Zararı)* 1,237.5 -327.3 a.d\nSerbest Nakit Akımı -9,411.1 -6,918.9 26.5%\nDeğişim (bp)\nBrüt Kar Marjı 40.3% 35.9% -440\nFaaliyet Kar/(Zarar) (BMKÖ) Marjı -21.9% -24.8% -292\nFAVÖK (BMKÖ) Marjı -6.2% -8.1% -190\nNet Kar/(Zarar) Marjı* 12.0% -3.5% a.d\nCCI (milyon TL) 1Ç2025 1Ç2026 % Değişim\nSatış Hacmi (Milyon Ünite Kasa) 387.3 413.9 6.9%\nSatış Gelirleri 47,318.0 52,368.6 10.7%\nBrüt Kar 14,392.3 19,027.8 32.2%\nFaaliyet Karı/(Zararı) 3,759.8 6,931.0 84.3%\nFAVÖK 6,119.4 9,342.4 52.7%\nNet Dönem Karı/(Zararı)* 1,668.9 5,237.3 213.8%\nSerbest Nakit Akımı -10,491.3 461.7 a.d\nDeğişim (bp)\nBrüt Kar Marjı 30.4% 36.3% 592\nFaaliyet Kar/(Zarar) Marjı 7.9% 13.2% 529\nFAVÖK Marjı 12.9% 17.8% 491\nNet Kar/(Zarar) Marjı* 3.5% 10.0% 647\n*Ana ortaklık payları\nBAŞLICA FİNANSAL GÖSTERGELER \n\n \nSayfa 3 of 17 www.anadoluefes.com ir@anadoluefes.com \n \n \n \n \n Anadolu Efes konsolide satı ş hacmi, 1Ç2026’da geçen yılın aynı dönemine kıyasla %5,3 oranında \nartarak 25,6 milyon hektolitreye ula şmıştır.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.54348147,
+        "text": "Anadolu Efes Biracılık ve Malt Sanayii A.Ş. 2025 Olağan Genel Kurul Bilgilendirme Dokümanı \n \n \n7. Yönetim Kurulu'nun kar dağıtımı ile ilgili teklifinin onaylanması, değiştirilerek \nonaylanması veya reddi \n \nYönetim Kurulumuzun 5 Mart 2026 tarihli toplantısında, Şirketimizin, 2025 Ocak-Aralık dönemine \nilişkin olarak çıkarılmış sermayesi 5 .921.052.630 TL üzerinden %33,95 brüt kâr dağıtımını teminen \nher 1 TL nominal bedelli hisseye tam mükellef kurum ile Türkiye’de bir işyeri veya daimi temsilcisi \naracılığı ile kar payı elde eden dar mükellef kurum niteliğindeki pay sahiplerine net=brüt 0,3395 TL \nve diğer pay sahiplerine de brüt 0,3395 (net 0,288575 TL) kâr payı olmak üzere 2.010.197.367,89 \nTL tutarında kârın nakit olarak ödenmesine ve nakit kâr dağıtımının 2 eşit taksitte \ngerçekleştirilmesine, ilk taksitin 13 Mayıs 2026 tarihinden itibaren , ikinci taksitin 5 Ekim 2026 \ntarihinden itibaren ödenmesinin önerilmesine karar verilmiştir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Genel Kurul İşlemlerine İlişkin Bildirim",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-03-18T09:00:56",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1573698",
+        "source_filename": "1573698_3. Bilgilendirme Dökümanı.pdf"
+      },
+      {
+        "score": 0.5386108,
+        "text": "(1) (*) 20.251 27.959 293.665 317.630 \nOther 42.414 91.456 - - \n 3.195.136 2.529.968 615.947 659.884 \n \n(*) As of 31 March 2026, TL293.665 accounted for in accordance with TFRS 16 includes other receivables related to sublease. (December 31, \n2025 – TL317.630). Due to Related Parties and Other Payables \n Trade Payables Other Payables \n March 31, 2026 December 31, 2025 March 31, 2026 December 31, 2025 \nAB InBev Group Companies(3) 733.802 743.174 4.525.954 4.806.436 \nAnadolu Efes Spor Kulübü 120.002 264.096 - - \nAG Anadolu Group Holding A.Ş. (1) 54.439 65.727 - - \nOyex Handels GmbH(2) 35.036 121.877 - - \nMigros Group Companies (2) 28.880 - - - \nOther 6.128 4.845 - - \n 978.287 1.199.719 4.525.954 4.806.436 \n \n(1) The shareholder of the Group \n(2) Related party of AG Anadolu Group Holding A.Ş.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:34:28",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601482",
+        "source_filename": "1601482_AEFES Kons 31 03 2026 ENG.pdf"
+      },
+      {
+        "score": 0.5367996,
+        "text": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. Finansal Rapor\nKonsolide\n2026 - 1. 3 Aylık Bildirim\nKAMUYU AYDINLATMA PLATFORMU\nFinansal Tablolara ilişkin Genel Açıklama\nKAP'ta yayınlanma tarihi ve saati: 05.05.2026 22:34:27\nhttps://www.kap.org.tr/tr/Bildirim/1601482\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSunum Para Birimi 1.000 TL\nFinansal Tablo Niteliği Konsolide\nDipnot Referansı Cari Dönem\n31.03.2026\nÖnceki Dönem\n31.12.2025\nFinansal Durum Tablosu (Bilanço)\nVarlıklar\nDÖNEN VARLIKLAR\nNakit ve Nakit Benzerleri 5 32.113.219 40.906.724\nFinansal Yatırımlar 6 367.864 471.648\nTicari Alacaklar 40.630.047 29.636.692\nİlişkili Taraflardan Ticari Alacaklar 24 3.195.136 2.529.968\nİlişkili Olmayan Taraflardan Ticari Alacaklar 37.434.911 27.106.724\nDiğer Alacaklar 9 1.127.724 1.266.437\nİlişkili Taraflardan Diğer Alacaklar 24 420.115 363.827\nİlişkili Olmayan Taraflardan Diğer Alacaklar 707.609 902.610\nTürev Araçlar 8 394.639 269.226\nStoklar 30.663.586 31.908.829\nPeşin Ödenmiş Giderler 17 9.399.323 9.980.082\nİlişkili Taraflara Peşin Ödenmiş Giderler 0 0\nİlişkili Olmayan Taraflara Peşin Ödenmiş Giderler 9.399.323 9.980.082\nCari Dönem Vergisiyle İlgili Varlıklar 1.754.953 1.714.927\nDiğer Dönen Varlıklar 18 2.369.265 3.924.751\nİlişkili Taraflardan Diğer Dönen Varlıklar 120.002 264.095\nİlişkili Olmayan Taraflardan Diğer Dönen Varlıklar 2.249.263 3.660.656\nARA TOPLAM 118.820.620 120.079.316\nTOPLAM DÖNEN VARLIKLAR 118.820.620 120.079.316\nDURAN VARLIKLAR\nFinansal Yatırımlar 6 56.609.112 60.116.758\nTicari Alacaklar 0 1.236\nİlişkili Olmayan Taraflardan Ticari Alacaklar 0 1.236\nDiğer Alacaklar 9 440.358 550.606\nİlişkili Taraflardan Diğer Alacaklar 24 195.832 296.057\nİlişkili Olmayan Taraflardan Diğer Alacaklar 244.526 254.549\nTürev Araçlar 93.949 0\nÖzkaynak Yöntemiyle Değerlenen Yatırımlar 10 22.646 24.001\nMaddi Duran Varlıklar 12 97.907.554 101.636.094\nKullanım Hakkı Varlıkları 11 5.530.384 5.481.853\nMaddi Olmayan Duran Varlıklar 147.722.565 149.753.780\nŞerefiye 14 10.308.505 10.715.785\nDiğer Maddi Olmayan Duran Varlıklar 13 137.414.060 139.037.995\nPeşin Ödenmiş Giderler 17 6.222.718 5.205.413\nErtelenmiş Vergi Varlığı 22 12.265.274 12.210.892\nDiğer Duran Varlıklar 18 6.576 41.742\nTOPLAM DURAN VARLIKLAR 326.821.136 335.022.375\nTOPLAM VARLIKLAR 445.641.756 455.101.691\nKAYNAKLAR\nKISA VADELİ YÜKÜMLÜLÜKLER\nKısa Vadeli Borçlanmalar 25.107.600 28.712.283\nİlişkili Olmayan Taraflardan Kısa Vadeli Borçlanmalar 25.107.600 28.712.283\nBanka Kredileri 7a 17.568.593 16.833.639\nİhraç Edilmiş Borçlanma Araçları 7a 7.539.007 11.878.644\nUzun Vadeli Borçlanmaların Kısa Vadeli Kısımları 11.122.844 10.861.472\nİlişkili Olmayan Taraflardan Uzun Vadeli \nBorçlanmaların Kısa Vadeli Kısımları 11.122.844 10.861.472\nBanka Kredileri 7a 7.218.986 8.003.500\nKiralama İşlemlerinden Borçlar 7b 1.107.155 1.469.695\nİhraç Edilmiş Borçlanma Araçları 7a 2.796.703 1.388.277\nTicari Borçlar 49.014.149 45.851.789\nİlişkili Taraflara Ticari Borçlar 24 978.287 1.199.719\nİlişkili Olmayan Taraflara Ticari Borçlar 48.035.862 44.652.070\nÇalışanlara Sağlanan Faydalar Kapsamında Borçlar 1.820.508 1.604.087\nDiğer Borçlar 9 22.486.394 24.290.066\nİlişkili Taraflara Diğer Borçlar 24 4.525.954 4.806.436\nİlişkili Olmayan Taraflara Diğer Borçlar 17.960.440 19.483.630\nTürev Araçlar 8 190.863 337.197\nFinansal Durum Tablosu (Bilanço)\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n Ertelenmiş Gelirler (Müşteri Sözleşmelerinden Doğan \nYükümlülüklerin Dışında Kalanlar)\n17 786.834 1.289.206\nDönem Karı Vergi Yükümlülüğü 2.473.217 1.009.577\nKısa Vadeli Karşılıklar 2.145.299 2.010.741\nÇalışanlara Sağlanan Faydalara İlişkin Kısa Vadeli \nKarşılıklar 1.293.531 920.534\nDiğer Kısa Vadeli Karşılıklar 851.768 1.090.207\nDiğer Kısa Vadeli Yükümlülükler 18 538.781 385.547\nARA TOPLAM 115.686.489 116.351.965\nTOPLAM KISA VADELİ YÜKÜMLÜLÜKLER 115.686.489 116.351.965\nUZUN VADELİ YÜKÜMLÜLÜKLER\nUzun Vadeli Borçlanmalar 60.374.641 62.749.220\nİlişkili Olmayan Taraflardan Uzun Vadeli Borçlanmalar 60.374.641 62.749.220\nBanka Kredileri 7a 10.144.774 11.494.203\nKiralama İşlemlerinden Borçlar 7b 2.900.364 2.758.002\nİhraç Edilmiş Borçlanma Araçları 7a 47.329.503 48.497.015\nTicari Borçlar 290.432 318.636\nİlişkili Olmayan Taraflara Ticari Borçlar 290.432 318.636\nÇalışanlara Sağlanan Faydalar Kapsamında Borçlar 81.799 90.806\nDiğer Borçlar 9 1.757.098 1.865.434\nİlişkili Olmayan Taraflara Diğer Borçlar 1.757.098 1.865.434\nErtelenmiş Gelirler (Müşteri Sözleşmelerinden Doğan \nYükümlülüklerin Dışında Kalanlar) 17 186.037 942\nUzun Vadeli Karşılıklar 1.814.560 1.819.163\nÇalışanlara Sağlanan Faydalara İlişkin Uzun Vadeli \nKarşılıklar 1.814.560 1.819.163\nErtelenmiş Vergi Yükümlülüğü 22 29.595.977 30.903.782\nDiğer Uzun Vadeli Yükümlülükler 18 7.830 9.488\nTOPLAM UZUN VADELİ YÜKÜMLÜLÜKLER 94.108.374 97.757.471\nTOPLAM YÜKÜMLÜLÜKLER 209.794.863 214.109.436\nÖZKAYNAKLAR\nAna Ortaklığa Ait Özkaynaklar 119.321.530 119.515.804\nÖdenmiş Sermaye 1 5.921.052 5.921.052\nSermaye Düzeltme Farkları 15 12.056.622 12.056.622\nPaylara İlişkin Primler (İskontolar) 15 2.995.903 2.995.903\nKar veya Zararda Yeniden Sınıflandırılmayacak \nBirikmiş Diğer Kapsamlı Gelirler (Giderler) -460.618 -460.618\nYeniden Değerleme ve Ölçüm Kazançları (Kayıpları) -460.618 -460.618\nKar veya Zararda Yeniden Sınıflandırılacak Birikmiş \nDiğer Kapsamlı Gelirler (Giderler) -60.092.527 -57.888.561\nYabancı Para Çevrim Farkları 20.315.399 21.700.219\nRiskten Korunma Kazançları (Kayıpları) -80.407.926 -79.588.780\nKardan Ayrılan Kısıtlanmış Yedekler 15 7.868.355 7.868.355\nGeçmiş Yıllar Karları veya Zararları 149.023.051 139.166.927\nNet Dönem Karı veya Zararı 2.009.692 9.856.124\nKontrol Gücü Olmayan Paylar 116.525.363 121.476.451\nTOPLAM ÖZKAYNAKLAR 235.846.893 240.992.255\nTOPLAM KAYNAKLAR 445.641.756 455.101.691\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSunum Para Birimi 1.000 TL\nFinansal Tablo Niteliği Konsolide\nDipnot Referansı\nCari Dönem\n01.01.2026 - \n31.03.2026\nÖnceki Dönem\n01.01.2025 - \n31.03.2025\nKar veya Zarar Tablosu\nKAR VEYA ZARAR KISMI\nHasılat 4 62.424.703 58.033.193\nSatışların Maliyeti -40.051.844 -39.616.341\nTİCARİ FAALİYETLERDEN BRÜT KAR (ZARAR) 22.372.859 18.416.852\nBRÜT KAR (ZARAR) 22.372.859 18.416.852\nGenel Yönetim Giderleri -5.425.063 -4.988.298\nPazarlama Giderleri -12.665.831 -12.434.190\nEsas Faaliyetlerden Diğer Gelirler 19 1.583.090 1.586.675\nEsas Faaliyetlerden Diğer Giderler 19 -1.571.930 -1.431.322\nESAS FAALİYET KARI (ZARARI) 4 4.293.125 1.149.717\nYatırım Faaliyetlerinden Gelirler 20 57.229 4.068.886\nYatırım Faaliyetlerinden Giderler 20 -32.518 -92.938\nÖzkaynak Yöntemiyle Değerlenen Yatırımların Karlarından (\nZararlarından) Paylar 10 828 4.872\nFİNANSMAN GELİRİ (GİDERİ) ÖNCESİ FAALİYET KARI (ZARARI) 4 4.318.664 5.130.537\nFinansman Gelirleri 21 1.472.342 1.697.468\nFinansman Giderleri 21 -5.287.767 -6.951.095\nNet Parasal Pozisyon Kazançları (Kayıpları) 28 6.503.684 6.013.673\nSÜRDÜRÜLEN FAALİYETLER VERGİ ÖNCESİ KARI (ZARARI) 4 7.006.923 5.890.583\nSürdürülen Faaliyetler Vergi (Gideri) Geliri 4 -2.482.285 -1.035.108\nDönem Vergi (Gideri) Geliri -3.413.702 -1.596.935\nErtelenmiş Vergi (Gideri) Geliri 931.417 561.827\nSÜRDÜRÜLEN FAALİYETLER DÖNEM KARI (ZARARI) 4.524.638 4.855.475\nDÖNEM KARI (ZARARI) 4.524.638 4.855.475\nDönem Karının (Zararının) Dağılımı\nKontrol Gücü Olmayan Paylar 2.514.946 2.597.851\nAna Ortaklık Payları 2.009.692 2.257.624\nPay Başına Kazanç\nPay Başına Kazanç\nPay Başına Kazanç (Zarar)\nSulandırılmış Pay Başına Kazanç (Zarar)\nKar veya Zarar Tablosu\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSunum Para Birimi 1.000 TL\nFinansal Tablo Niteliği Konsolide\nDipnot Referansı\nCari Dönem\n01.01.2026 - \n31.03.2026\nÖnceki Dönem\n01.01.2025 - \n31.03.2025\nDiğer Kapsamlı Gelir Tablosu\nDÖNEM KARI (ZARARI) 4.524.638 4.855.475\nDİĞER KAPSAMLI GELİRLER\nKar veya Zararda Yeniden Sınıflandırılmayacaklar 0 0\nTanımlanmış Fayda Planları Yeniden Ölçüm Kazançları (\nKayıpları) 0 0\nKar veya Zararda Yeniden Sınıflandırılmayacak Diğer Kapsamlı \nGelire İlişkin Vergiler 0 0\nErtelenmiş Vergi (Gideri) Geliri 0 0\nKar veya Zarar Olarak Yeniden Sınıflandırılacaklar -9.662.676 -11.305.817\nYurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim \nFarkları -8.583.048 -8.684.512\nYurtdışındaki İşletmelerin Çevrimine İlişkin Yabancı Para Çevrim \nFarklarından Kazançlar (Kayıplar) -8.583.048 -8.684.512\nNakit Akış Riskinden Korunmaya İlişkin Diğer Kapsamlı Gelir (\nGider) 248.185 98.364\nNakit Akış Riskinden Korunma Kazançları (Kayıpları) 248.185 98.364\nYurtdışındaki İşletmeye İlişkin Net Yatırım Riskinden Korunma \nile İlgili Diğer Kapsamlı Gelir (Gider) -1.695.134 -3.581.015\nYurtdışındaki İşletmeye İlişkin Net Yatırım Riskinden Korunma \nKazançları (Kayıpları) -1.695.134 -3.581.015\nKar veya Zararda Yeniden Sınıflandırılacak Diğer Kapsamlı Gelire\nİlişkin Vergiler 367.321 861.346\nErtelenmiş Vergi (Gideri) Geliri 367.321 861.346\nDİĞER KAPSAMLI GELİR (GİDER) -9.662.676 -11.305.817\nTOPLAM KAPSAMLI GELİR (GİDER) -5.138.038 -6.450.342\nToplam Kapsamlı Gelirin Dağılımı\nKontrol Gücü Olmayan Paylar -4.943.764 -1.288.969\nAna Ortaklık Payları -194.274 -5.161.373\nDiğer Kapsamlı Gelir Tablosu\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSunum Para Birimi 1.000 TL\nFinansal Tablo Niteliği Konsolide\nDipnot Referansı Cari Dönem\n01.01.2026 - 31.03.2026\nÖnceki Dönem\n01.01.2025 - 31.03.2025\nNakit Akış Tablosu (Dolaylı Yöntem)\nİŞLETME FAALİYETLERİNDEN NAKİT AKIŞLARI -184.762 -11.588.291\nDönem Karı (Zararı) 4.524.638 4.855.475\nSürdürülen Faaliyetlerden Dönem Karı (Zararı) 4.524.638 4.855.475\nDurdurulan Faaliyetlerden Dönem Karı (Zararı) 0 0\nDönem Net Karı (Zararı) Mutabakatı İle İlgili Düzeltmeler 4.208.598 -1.456.689\nAmortisman ve İtfa Gideri İle İlgili Düzeltmeler 4 3.783.192 3.687.459\nDeğer Düşüklüğü (İptali) İle İlgili Düzeltmeler 27 78.249 23.491\nKarşılıklar İle İlgili Düzeltmeler 326.615 941.763\nÇalışanlara Sağlanan Faydalara İlişkin Karşılıklar (\nİptali) ile İlgili Düzeltmeler 27 481.799 509.113\nDiğer Karşılıklar (İptalleri) ile İlgili Düzeltmeler -155.184 432.650\nFaiz (Gelirleri) ve Giderleri İle İlgili Düzeltmeler 27 3.449.385 5.153.603\nFaiz Giderleri ile İlgili Düzeltmeler 3.449.385 5.153.603\nGerçekleşmemiş Yabancı Para Çevrim Farkları İle İlgili \nDüzeltmeler -83.141 209.113\nGerçeğe Uygun Değer Kayıpları (Kazançları) İle İlgili \nDüzeltmeler 27 221.443 -35.285\nTürev Finansal Araçların Gerçeğe Uygun Değer \nKayıpları (Kazançları) ile İlgili Düzeltmeler 221.443 -35.285\nÖzkaynak Yöntemiyle Değerlenen Yatırımların \nDağıtılmamış Karları ile İlgili Düzeltmeler 10 -828 -4.872\nVergi (Geliri) Gideri İle İlgili Düzeltmeler 2.482.285 1.035.108\nDuran Varlıkların Elden Çıkarılmasından Kaynaklanan \nKayıplar (Kazançlar) İle İlgili Düzeltmeler -9.564 44.493\nİştirak, İş ortaklığı ve Finansal Yatırımların Elden \nÇıkarılmasından veya Paylarındaki Değişim Sebebi ile \nOluşan Kayıplar (Kazançlar) ile İlgili Düzeltmeler\n0 -4.042.699\nParasal Pozisyon Kazanç ve Kayıplarıyla İlgili \nDüzeltmeler -6.052.724 -8.655.745\nKar (Zarar) Mutabakatı İle İlgili Diğer Düzeltmeler 13.686 186.882\nİşletme Sermayesinde Gerçekleşen Değişimler -6.821.115 -12.738.164\nTicari Alacaklardaki Azalış (Artış) ile İlgili Düzeltmeler -11.031.634 -16.200.414\nFaaliyetlerle İlgili Diğer Alacaklardaki Azalış (Artış) ile \nİlgili Düzeltmeler 1.501.394 -415.051\nStoklardaki Azalışlar (Artışlar) İle İlgili Düzeltmeler 1.278.818 1.982.344\nTicari Borçlardaki Artış (Azalış) ile İlgili Düzeltmeler 3.013.100 3.966.636\nFaaliyetler ile İlgili Diğer Borçlardaki Artış (Azalış) ile İlgili \nDüzeltmeler -1.582.793 -2.071.679\nFaaliyetlerden Elde Edilen Nakit Akışları 1.912.121 -9.339.378\nÇalışanlara Sağlanan Faydalara İlişkin Karşılıklar \nKapsamında Yapılan Ödemeler -144.096 -157.818\nDiğer Karşılıklara İlişkin Ödemeler 0 -742.928\nVergi İadeleri (Ödemeleri) -1.952.787 -1.348.167\nYATIRIM FAALİYETLERİNDEN KAYNAKLANAN NAKİT AKIŞLARI -3.348.780 -39.899.887\nMaddi ve Maddi Olmayan Duran Varlıkların Satışından \nKaynaklanan Nakit Girişleri 157.356 107.290\nMaddi Duran Varlıkların Satışından Kaynaklanan Nakit \nGirişleri 157.356 107.290\nMaddi ve Maddi Olmayan Duran Varlıkların Alımından \nKaynaklanan Nakit Çıkışları 12, 13 -3.506.136 -5.153.971\nMaddi Duran Varlık Alımından Kaynaklanan Nakit \nÇıkışları -3.506.136 -5.153.971\nVerilen Nakit Avans ve Borçlar 0 0\nDiğer Nakit Girişleri (Çıkışları) 0 -34.853.206\nFİNANSMAN FAALİYETLERİNDEN NAKİT AKIŞLARI -2.460.437 8.375.613\nBağlı Ortaklıklardaki Kontrolün Kaybına Yol Açmayan \nŞekilde Ortaklık Payları Değişmelerinden Kaynaklanan \nNakit Çıkışları\n0 0\nBorçlanmadan Kaynaklanan Nakit Girişleri 7a 22.485.312 35.752.115\nBorç Ödemelerine İlişkin Nakit Çıkışları 7a -21.252.432 -21.486.872\nKira Sözleşmelerinden Kaynaklanan Borç Ödemelerine \nİlişkin Nakit Çıkışları 7b -667.917 -551.776\nTürev Araçlardan Nakit Girişleri 175 0\nTürev Araçlardan Nakit Çıkışları -164.217 274\nÖdenen Temettüler -5.330 -2.222\nNakit Akış Tablosu (Dolaylı Yöntem)\n\n \n \n \n \n \n \n \nÖdenen Faiz 7a -3.792.734 -5.640.497\nAlınan Faiz 867.968 793.236\nDiğer Nakit Girişleri (Çıkışları) 27 68.738 -488.645\nYABANCI PARA ÇEVRİM FARKLARININ ETKİSİNDEN ÖNCE NAKİT \nVE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ) -5.993.979 -43.112.565\nYabancı Para Çevrim Farklarının Nakit ve Nakit Benzerleri \nÜzerindeki Etkisi -2.767.235 1.373.305\nNAKİT VE NAKİT BENZERLERİNDEKİ NET ARTIŞ (AZALIŞ) -8.761.214 -41.739.260\nDÖNEM BAŞI NAKİT VE NAKİT BENZERLERİ 5 40.846.048 77.912.038\nDÖNEM SONU NAKİT VE NAKİT BENZERLERİ 5 32.084.834 36.172.778\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSunum Para Birimi 1.000 TL\nFinansal Tablo Niteliği Konsolide\nDipnot Referansı\nÖzkaynaklar\nAna Ortaklığa Ait Özkaynaklar\nKontrol Gücü Olmayan Paylar\nÖdenmiş Sermaye Sermaye Düzeltme Farkları Pay İhraç Primleri / İskontoları\nKar veya Zararda Yeniden Sınıflandırılmayacak Birikmiş Diğer Kapsamlı Gelirler veya Giderler Kar veya Zararda Yeniden Sınıflandırılacak Birikmiş Diğer Kapsamlı Gelirler veya Giderler\nKardan Ayrılan Kısıtlanmış Yedekler\nBirikmiş Karlar\nYeniden Değerleme ve Ölçüm Kazanç / Kayıpları Yabancı Para Çevrim Farkları Riskten Korunma Kazanç / Kayıpları Yeniden Değerleme ve Sınıflandırma Kazanç / Kayıpları Geçmiş Yıllar Kar / Zararları Net Dönem Karı Zararı\nÖnceki Dönem\n01.01.2025 - 31.03.2025\nÖzkaynaklar Değişim Tablosu\nÖzkaynaklar Değişim Tablosu\nDönem Başı Bakiyeler 592.105 17.385.519 2.995.895 -488.535 26.765.962 -74.196.822 7.775.786 121.324.773 18.893.065 121.047.748 123.474.597 244.522.345\nMuhasebe Politikalarındaki Değişikliklere İlişkin \nDüzeltmeler\nMuhasebe Politikalarındaki Zorunlu Değişikliklere \nİlişkin Düzeltmeler\nMuhasebe Politikalarındaki Gönüllü Değişikliklere \nİlişkin Düzeltmeler\nHatalara İlişkin Düzeltmeler\nDiğer Düzeltmeler\nDüzeltmelerden Sonraki Tutar\nTransferler 18.893.065 -18.893.065\nToplam Kapsamlı Gelir (Gider) 30.963 -5.685.033 -1.764.211 -716 2.257.624 -5.161.373 -1.288.969 -6.450.342\nDönem Karı (Zararı) 2.257.624 2.257.624 2.597.851 4.855.475\nDiğer Kapsamlı Gelir (Gider) 30.963 -5.685.033 -1.764.211 -716 -7.418.997 -3.886.820 -11.305.817\nSermaye Arttırımı\nSermaye Azaltımı\nSermaye Avansı\nBirleşme/Bölünme/Tasfiye Etkisi\nOrtak Kontrole Tabi Teşebbüs veya İşletmeleri \nİçeren Birleşmelerin Etkisi\nDönemde Ödenen Kar Payı Avansları\nKar Payları -3.829 -3.829\nKar Payı Hariç Pay Sahiplerine Yapılan Diğer \nÖdemeler\nPayların Geri Alım İşlemleri Nedeniyle Meydana \nGelen Artış (Azalış)\nPay Bazlı İşlemler Nedeniyle Meydana Gelen Artış (\nAzalış)\nBağlı Ortaklık Edinimi veya Elden Çıkarılması\nBağlı Ortaklıklarda Kontrol Kaybı ile \nSonuçlanmayan Pay Oranı Değişikliklerine Bağlı \nArtış/Azalış\nKontrol Gücü Olmayan Pay Sahipleriyle Yapılan \nİşlemler\nPay Sahiplerinin Diğer Katkıları\nNakit Akış Riskinden Korunma Kazançları (Kayıpları\n) Kaleminden Çıkarılan ve Finansal Olmayan \nVarlığın (Yükümlülüğün) veya Gerçeğe Uygun Değer\nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nOpsiyonların Zaman Değerindeki Değişiklikler \nKaleminden Çıkarılan ve Finansal Olmayan Varlığın\n(Yükümlülüğün) veya Gerçeğe Uygun Değer \nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nForward Sözleşmesinin Forward Bileşeninin \nDeğerindeki Değişiklikler Kaleminden Çıkarılan ve \nFinansal Olmayan Varlığın (Yükümlülüğün) veya \nGerçeğe Uygun Değer Riskinden Korunma \nMuhasebesi Uygulanan Kesin Taahhüdün \nBaşlangıç Maliyetine veya Defter Değerine Dahil \nEdilen Tutar\nYabancı Para Alım Satım Marjlarındaki Değişiklikler\nKaleminden Çıkarılan ve Finansal Olmayan Varlığın\n(Yükümlülüğün) veya Gerçeğe Uygun Değer \nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nDiğer Değişiklikler Nedeni İle Artış (Azalış)\nDönem Sonu Bakiyeler 592.105 17.385.519 2.995.895 -457.572 21.080.929 -75.961.033 7.775.786 140.217.122 2.257.624 115.886.375 122.181.799 238.068.174\nÖzkaynaklar Değişim Tablosu\nÖzkaynaklar Değişim Tablosu\nDönem Başı Bakiyeler 5.921.052 12.056.622 2.995.903 -460.618 21.700.219 -79.588.780 7.868.355 139.166.925 9.856.126 119.515.804 121.476.451 240.992.255\nMuhasebe Politikalarındaki Değişikliklere İlişkin \nDüzeltmeler\nMuhasebe Politikalarındaki Zorunlu Değişikliklere \nİlişkin Düzeltmeler\nMuhasebe Politikalarındaki Gönüllü Değişikliklere \nİlişkin Düzeltmeler\nHatalara İlişkin Düzeltmeler\nDiğer Düzeltmeler\nDüzeltmelerden Sonraki Tutar\nTransferler 9.856.126 -9.856.126\nToplam Kapsamlı Gelir (Gider) -1.384.820 -819.146 2.009.692 -194.274 -4.943.764 -5.138.038\nDönem Karı (Zararı) 2.009.692 2.009.692 2.514.946 4.524.638\nDiğer Kapsamlı Gelir (Gider) -1.384.820 -819.146 -2.203.966 -7.458.710 -9.662.676\nSermaye Arttırımı\nSermaye Azaltımı\nSermaye Avansı\nBirleşme/Bölünme/Tasfiye Etkisi\nOrtak Kontrole Tabi Teşebbüs veya İşletmeleri \nİçeren Birleşmelerin Etkisi\nDönemde Ödenen Kar Payı Avansları\nKar Payları -7.324 -7.324\nÖzkaynaklar Değişim Tablosu\n\n \n \n \n \n \n \n \n \n \n \n \n \n Cari Dönem\n01.01.2026 - 31.03.2026\nKar Payı Hariç Pay Sahiplerine Yapılan Diğer \nÖdemeler\nPayların Geri Alım İşlemleri Nedeniyle Meydana \nGelen Artış (Azalış)\nPay Bazlı İşlemler Nedeniyle Meydana Gelen Artış (\nAzalış)\nBağlı Ortaklık Edinimi veya Elden Çıkarılması\nBağlı Ortaklıklarda Kontrol Kaybı ile \nSonuçlanmayan Pay Oranı Değişikliklerine Bağlı \nArtış/Azalış\nKontrol Gücü Olmayan Pay Sahipleriyle Yapılan \nİşlemler\nPay Sahiplerinin Diğer Katkıları\nNakit Akış Riskinden Korunma Kazançları (Kayıpları\n) Kaleminden Çıkarılan ve Finansal Olmayan \nVarlığın (Yükümlülüğün) veya Gerçeğe Uygun Değer\nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nOpsiyonların Zaman Değerindeki Değişiklikler \nKaleminden Çıkarılan ve Finansal Olmayan Varlığın\n(Yükümlülüğün) veya Gerçeğe Uygun Değer \nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nForward Sözleşmesinin Forward Bileşeninin \nDeğerindeki Değişiklikler Kaleminden Çıkarılan ve \nFinansal Olmayan Varlığın (Yükümlülüğün) veya \nGerçeğe Uygun Değer Riskinden Korunma \nMuhasebesi Uygulanan Kesin Taahhüdün \nBaşlangıç Maliyetine veya Defter Değerine Dahil \nEdilen Tutar\nYabancı Para Alım Satım Marjlarındaki Değişiklikler\nKaleminden Çıkarılan ve Finansal Olmayan Varlığın\n(Yükümlülüğün) veya Gerçeğe Uygun Değer \nRiskinden Korunma Muhasebesi Uygulanan Kesin \nTaahhüdün Başlangıç Maliyetine veya Defter \nDeğerine Dahil Edilen Tutar\nDiğer Değişiklikler Nedeni İle Artış (Azalış)\nDönem Sonu Bakiyeler 5.921.052 12.056.622 2.995.903 -460.618 20.315.399 80.407.926 7.868.355 149.023.051 2.009.692 119.321.530 116.525.363 235.846.893",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:34:28",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601482",
+        "source_filename": "1601482_KAP_Bildirim.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_10",
+    "ticker": "MGROS",
+    "category": "temettu",
+    "difficulty": "easy",
+    "period": "2025Y",
+    "question": "Migros Ticaret'in 2025 yılı kârından ödenen temettünün pay başına brüt ve net tutarları ile ödeme tarihi nedir?",
+    "gold_answer": "1 TL nominal değerli pay başına brüt temettü 4,5566457 TL, net temettü ise 3,8731488 TL. Ödeme tarihi 15 Mayıs 2026. Kaynak: KAP #1608029",
+    "document": "MKK Pay Mali Hak Kullanım İşlemi – KAP #1608029, 15.05.2026",
+    "elapsed_sec": 0.058,
+    "hits": [
+      {
+        "score": 0.6814295,
+        "text": "Şirket, 15 Nisan 2025 tarihli 2024 yılı olağan Genel Kurul toplantısında, dağıtılması öngörülen diğer \nkaynaklardan, Kasım 2024’te dağıtılan 676 milyon TL kar payı avansının mahsup edilerek, tam \nmükellef kurumlar ile Türkiye'de bir işyeri veya daimi temsilc i aracılığı ile kar payı elde eden dar \nmükellef kurum ortaklarına; 1,00 TL nominal değerli pay için %690,40087 oranında ve 6,9040087 TL \nbrüt=net nakit kar payı ödenmesine, diğer hissedarlara 1,00 TL nominal değerli hisse için %690,40087 \noranında ve 6,9040087 TL brüt; %586,84074 oranında ve 5,8684074 TL net nakit kar payı ödenmesine \nilişkin Genel Kurul kararı almış ve bu toplam 1.444 milyon TL (Geri alınmış paylar hariç 1.318 milyon \nTL) tutarındaki temettü ödemeleri 29 Mayıs 2025 tarihi itibarıyla tamamlanmıştır.",
+        "ticker": "MGROS",
+        "company_name": "MİGROS TİCARET A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-05T00:40:41",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566129",
+        "source_filename": "1566129_Migros Ticaret A.S. TR 31.12.2025.pdf"
+      },
+      {
+        "score": 0.6767013,
+        "text": "Şirket, 15 Nisan 2025 tarihli 2024 yılı olağan Genel Kurul toplantısında, dağıtılması öngörülen diğer kaynaklardan, Kasım 2024’te dağıtılan \n676 milyon TL kâr payı avansının mahsup edilerek, tam mükellef kurumlar ile Türkiye’de bir işyeri veya daimi temsilci aracılığı ile kâr payı \nelde eden dar mükellef kurum ortaklarına; 1,00 TL nominal değerli pay için %690,40087 oranında ve 6,9040087 TL brüt=net nakit kâr \npayı ödenmesine, diğer hissedarlara 1,00 TL nominal değerli hisse için %690,40087 oranında ve 6,9040087 TL brüt; %586,84074 \noranında ve 5,8684074 TL net nakit kâr payı ödenmesine ilişkin Genel Kurul kararı almış ve bu toplam 1.444 milyon TL (Geri alınmış \npaylar hariç 1.318 milyon TL) tutarındaki temettü ödemeleri 29 Mayıs 2025 tarihi itibarıyla tamamlanmıştır.",
+        "ticker": "MGROS",
+        "company_name": "MİGROS TİCARET A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T21:59:00",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1571174",
+        "source_filename": "1571174_Migros Entegre FR 2025.pdf"
+      },
+      {
+        "score": 0.66538674,
+        "text": "Bu hususta 10.03.2025 \ntarihinde KAP açıklaması ile bilgilendirme \nyapılmıştır. Kâr Payı Avansı Dağıtımı\nMigros’un 15 Nisan 2025 tarihli Olağan \nGenel Kurul Toplantısında Şirket Yönetim \nKurulu’na verilen yetkiye istinaden, 6 Kasım \n2025 tarihinde Şirketin sermaye piyasası \nmevzuatına uygun olarak hazırlanmış \n1 Ocak 2025-30 Eylül 2025 ara hesap \ndönemine ait konsolide finansal tablolarına \ngöre oluşan net dönem kârından ayrılması \ngereken yedek akçeler düşüldükten sonra \nkalan tutardan 650.000.000,00 TL’nin, \nVUK yasal kayıtları da dikkate alınarak, pay \nsahiplerine tamamı nakden ödenmek üzere \nkâr payı avansı olarak dağıtılmasına karar \nverilmiştir.",
+        "ticker": "MGROS",
+        "company_name": "MİGROS TİCARET A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T21:59:00",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1571174",
+        "source_filename": "1571174_Migros Entegre FR 2025.pdf"
+      },
+      {
+        "score": 0.663591,
+        "text": "Bu kapsamda,\n• Tam mükellef kurumlar ile Türkiye’de bir \nişyeri veya daimi temsilcisi aracılığı ile \nkâr payı elde eden dar mükellef kurum \nortaklar için 1 TL nominal değerdeki pay \niçin 3,5900845 TL brüt=net kâr payı \navansı,\n• Diğer hissedarlara ise 1 TL nominal \ndeğerdeki pay için brüt 3,5900845 TL; \nnet 3,0515718 TL şeklinde (%15 stopaj \nuygulayarak) kâr payı avansı\nödemesi Kasım 2025’te gerçekleştirilmiştir. Finansal Yapıya İlişkin Bilgiler\nMigros’un bağımsız denetimden geçmiş \n2024 ve 2025 yılı konsolide finansal \ntabloları, TMS 29 enflasyon muhasebesi \nilkelerine uygun olarak hazırlandı.",
+        "ticker": "MGROS",
+        "company_name": "MİGROS TİCARET A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T21:59:00",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1571174",
+        "source_filename": "1571174_Migros Entegre FR 2025.pdf"
+      },
+      {
+        "score": 0.6525961,
+        "text": "Eklenen Dökümanlar\nEK: 1 Migros Kar Dagitim Tablosu 2025.pdf\nEK: 2 Migros Dividend Distribution Table 2025.pdf\nKAR PAYI DAĞITIM TABLOSU\nMİGROS TİCARET A.Ş. 01.01.2025/31.12.2025 Dönemi Kâr Payı Dağıtım Tablosu (TL)\n1. Ödenmiş/Çıkarılmış Sermaye 181.054.233\n2. Genel Kanuni Yedek Akçe (Yasal \nKayıtlara Göre)\n394.805.934,2\nEsas sözleşme uyarınca kâr \ndağıtımında imtiyaz var ise söz \nkonusu imtiyaza ilişkin bilgi\nYok\n* SPK'ya Göre (TL) Yasal Kayıtlara (YK) Göre (TL)\n3. Dönem Kârı 8.902.032.000 1.175.361.463,76\n4. Vergiler ( - ) -2.434.902.000 -132.903.246,87\n5. Net Dönem Kârı 6.467.130.000 1.042.458.216,89\n6. Geçmiş Yıllar Zararları ( - ) 0 0\n7. Genel Kanuni Yedek Akçe ( - ) 0 0\n8.",
+        "ticker": "MGROS",
+        "company_name": "MİGROS TİCARET A.Ş.",
+        "subject": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-03-18T22:38:35",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1574285",
+        "source_filename": "1574285_KAP_Bildirim.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_11",
+    "ticker": "YKBNK",
+    "category": "banka_kredi_buyumesi",
+    "difficulty": "easy",
+    "period": "2026Q1",
+    "question": "Yapı Kredi Bankası'nın Mayıs 2026'da ihaleyle devrettiği NPL portföyünün anapara tutarı, portföy türü ve devralıcı şirket nedir?",
+    "gold_answer": "517 milyon TL anapara değerindeki bireysel ve KOBİ nitelikli alacak portföyü, Arsan Varlık Yönetimi A.Ş. tarafından ihaleyle satın alınmıştır. Kaynak: KAP ODA #1603672",
+    "document": "YKBNK NPL Portföy Satışı ODA Bildirimi – KAP #1603672, 08.05.2026",
+    "elapsed_sec": 0.068,
+    "hits": [
+      {
+        "score": 0.6159443,
+        "text": "Hayır (No)\nKonuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi 12.02.2026\nYapılan Açıklama Ertelenmiş Bir Açıklama mı? Hayır (No)\nBildirim İçeriği\nAçıklamalar\n12.02.2026  tarihinde yapmış olduğumuz Özel Durum Açıklamamızda,\nŞirketimizin Yapı ve Kredi Bankası A.Ş.'nin gerçekleştirdiği tahsili gecikmiş alacak satışında, satışa çıkarılan   243,8 milyon \n TL anaparaya sahip 1 bireysel nitelikli ve 280,6 milyon TL anaparaya sahip 1 KOBİ karma nitelikli portföylerin ihalesini\nkazandığı duyurulmuştu. Anaparası, toplam  524,4 milyon TL olan ihaleye konu alacakların devir işlemleri ve sözleşmenin imza süreci 24.02.2026 \ntarihinde tamamlanmıştır. Kamuoyuna ve yatırımcılarımıza saygı ile duyurulur.",
+        "ticker": "YKBNK",
+        "company_name": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-02-24T18:13:16",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1561009",
+        "source_filename": "1561009_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.58950233,
+        "text": "Hayır (No)\nYapılan Açıklama Düzeltme mi? Hayır (No)\nKonuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi Yapılan Açıklama Ertelenmiş Bir Açıklama mı? Hayır (No)\nBildirim İçeriği\nAçıklamalar\nŞirketimiz, Yapı ve Kredi Bankası A.Ş.'nin 08/05/2026 tarihinde  gerçekleştirdiği tahsili gecikmiş alacak satışında, 258,5  \nmilyon TL anaparaya sahip 1 bireysel nitelikli ve 397,3 milyon TL anaparaya sahip 1 KOBİ karma nitelikli portföylerin \nihalesini en yüksek teklifi vererek kazanmıştır. Bu ihaleye toplam 7 varlık yönetim şirketi katılmıştır. İhale sonuçlarının  kesinleşmesi ihaleyi açan finansal kuruluş Yönetim  Kurulu'nun onayına  bağlı olup, onay sonrası \nsözleşmenin imza süreci ve satışa konu alacakların devir işlemleri başlatılacaktır. Kamuoyuna ve yatırımcılarımıza saygı ile duyurulur.",
+        "ticker": "YKBNK",
+        "company_name": "BİRİKİM VARLIK YÖNETİM A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-08T18:11:45",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1603521",
+        "source_filename": "1603521_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.58888716,
+        "text": "Değerler\nYapı Kredi 2025 Entegre Faaliyet Raporu\nİnsan Odaklılık Kurumsal Yönetim Finansal Bilgiler EklerYenilikçi Bankacılık\nYapı Kredi 2025 Entegre Faaliyet RaporuYapı Kredi 2025 Entegre Faaliyet Raporu\nİnsan Odaklılık Kurumsal Yönetim Finansal Bilgiler EklerYenilikçi Bankacılıkİş Modeli ve PaydaşlarYapı Kredi HakkındaSunuş Sorumlu BüyümeYönetimden\n24 25\nYapı Kredi, sürdürülebilir ve kârlı büyümeyi destekleyen güçlü \nbir ortaklık yapısına sahiptir. Koç Grubu, Yapı Kredi hisselerinin \n%61,17'sine sahiptir. %38,83 oranındaki pay ise halka açıktır ve \nBorsa İstanbul’da işlem görmektedir.",
+        "ticker": "YKBNK",
+        "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+        "subject": "Entegre Rapor",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-02-18T19:59:13",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1558609",
+        "source_filename": "1558609_Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.5888871,
+        "text": "Değerler\nYapı Kredi 2025 Entegre Faaliyet Raporu\nİnsan Odaklılık Kurumsal Yönetim Finansal Bilgiler EklerYenilikçi Bankacılık\nYapı Kredi 2025 Entegre Faaliyet RaporuYapı Kredi 2025 Entegre Faaliyet Raporu\nİnsan Odaklılık Kurumsal Yönetim Finansal Bilgiler EklerYenilikçi Bankacılıkİş Modeli ve PaydaşlarYapı Kredi HakkındaSunuş Sorumlu BüyümeYönetimden\n24 25\nYapı Kredi, sürdürülebilir ve kârlı büyümeyi destekleyen güçlü \nbir ortaklık yapısına sahiptir. Koç Grubu, Yapı Kredi hisselerinin \n%61,17'sine sahiptir. %38,83 oranındaki pay ise halka açıktır ve \nBorsa İstanbul’da işlem görmektedir.",
+        "ticker": "YKBNK",
+        "company_name": "YAPI VE KREDİ BANKASI A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-02-18T19:58:54",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1558607",
+        "source_filename": "1558607_Yapi Kredi 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.5812943,
+        "text": "Hayır (No)\nYapılan Açıklama Düzeltme mi? Hayır (No)\nKonuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi Yapılan Açıklama Ertelenmiş Bir Açıklama mı? Hayır (No)\nBildirim İçeriği\nAçıklamalar\nŞirketimiz, Yapı ve Kredi Bankası A.Ş.'nin 08.05.2026 tarihinde gerçekleştirdiği tahsili gecikmiş alacak satışında satışa \nçıkarılan 12 bireysel ve 1 kobi portföyden 258,5 milyon TL anapara büyüklüğündeki 1 bireysel portföyün ihalesini en yüksek \nteklifi vererek kazanmıştır. Bu ihaleye toplam 7 varlık yönetim şirketi katılmıştır. İhale sonuçlarının kesinleşmesi ihaleyi açan banka Yönetim Kurulu'nun onayına bağlı olup, onay sonrası sözleşmenin imza \nsüreci ve satışa konu alacakların devir işlemleri başlatılacaktır. Kamuoyunun bilgilerine sunarız.",
+        "ticker": "YKBNK",
+        "company_name": "GELECEK VARLIK YÖNETİMİ A.Ş.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-08T18:11:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1603528",
+        "source_filename": "1603528_KAP_Bildirim.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_12",
+    "ticker": "ISCTR",
+    "category": "banka_kredi_buyumesi",
+    "difficulty": "medium",
+    "period": "2026Q1",
+    "question": "Türkiye İş Bankası'nın 31 Mart 2026 itibarıyla konsolide nakit ve nakit benzerleri toplamı ile 31 Aralık 2025'e göre değişimi nedir?",
+    "gold_answer": "31.03.2026: TP 382.108.811 bin TL + YP 791.082.957 bin TL = Toplam 1.173.191.768 bin TL. 31.12.2025: TP 394.840.534 bin TL + YP 681.395.081 bin TL = Toplam 1.076.235.615 bin TL. Dönemsel artış yaklaşık 96,9 milyar TL. Kaynak: KAP #1601308",
+    "document": "ISCTR 1Q2026 Banka Finansal Raporu (Konsolide) – KAP #1601308, 05.05.2026",
+    "elapsed_sec": 0.065,
+    "hits": [
+      {
+        "score": 0.7569278,
+        "text": "31 Aralık 2025 Tarihli Konsolide Olmayan Finansal Rapor\nTürkiye İş Bankası A.Ş. Dönem başındaki nakit ve nakde eşdeğer varlıklar:\n31.12.2024 31.12.2023\nNakit 319.796.000 325.002.285\nKasa ve Efektif Deposu 35.294.459 30.724.839\nT .C. Merkez Bankası ve Diğer 284.501.541 294.277.446\nNakde Eşdeğer Varlıklar 35.233.322 34.862.415\nVadesiz ve 3 Aya Kadar Vadeli Bankalar 35.233.322 34.862.415\nPara Piyasalarından Alacaklar \nToplam Nakit ve Nakde Eşdeğer Varlık 355.029.322 359.864.700\n31.12.2025 31.12.2024\nNakit 390.946.740 319.796.000\nKasa ve Efektif Deposu 47.583.998 35.294.459\nT .C.",
+        "ticker": "ISCTR",
+        "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-09T22:01:33",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1569176",
+        "source_filename": "1569176_İş Bankası 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.7250344,
+        "text": "YARINDAYIZ. 31 Aralık 2025 Tarihli Konsolide Finansal Rapor\nTürkiye İş Bankası A.Ş. 31 Aralık 2025 Tarihli Konsolide Finansal Rapor\nTürkiye İş Bankası A.Ş. Nakit ve nakit benzerleri için ayrılan beklenen zarar karşılıkları: \nCari Dönem Önceki Dönem\n1. Aşama 2. Aşama 3. Aşama 1. Aşama 2. Aşama 3. Aşama\nDönem Başı Karşılık 455.336 382.386\nDönem İçi İlave Karşılıklar 72.249 15 146.630\nDönem İçi Çıkanlar -100.101 -109.433\nAktiften Silinen\n1. Aşamaya Transfer\n2. Aşamaya Transfer\n3. Aşamaya Transfer -1 1\nKur Farkı 154.833 35.753\nDönem Sonu Karşılık 582.316 16 455.336\nd. Gerçeğe uygun değer farkı diğer kapsamlı gelire yansıtılan finansal varlıklara ilişkin bilgiler:\nd.1.",
+        "ticker": "ISCTR",
+        "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-09T22:01:33",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1569176",
+        "source_filename": "1569176_İş Bankası 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.7201065,
+        "text": "Aynı dönemde, Banka’nın konsolide vadesiz mevduatının toplam mevduat içindeki payı \n%41,9 olarak gerçekleşmiştir. İhraç edilen menkul kıymetler kalemi ise konsolide bazda 292,3 milyar TL seviyesinde \ngerçekleşmiştir. Dönem sonu itibarıyla, konsolide aktif büyüklüğü 5,78 trilyon TL, konsolide özkaynakları ise 498,1 milyar TL \nseviyesine ulaşan İş Bankası’nın konsolide kârı 25,7 milyar TL, konsolide sermaye yeterlilik oranı ise %13,98 olarak \nbelirlenmiştir. 5. 2026 Yılına İlişkin Beklentiler: \n \n06.02.2026 tarihli özel durum açıklamasında duyurulan Banka’nın 2026 yıl sonu beklentilerinde 31.03.2026 itibarıyla herhangi \nbir değişiklik bulunmamaktadır. IV.",
+        "ticker": "ISCTR",
+        "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T18:12:27",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601308",
+        "source_filename": "1601308_ISBTR-31032026-Konsolide Finansal Rapor.pdf"
+      },
+      {
+        "score": 0.7093917,
+        "text": "31 Aralık 2025 Tarihli Konsolide Finansal Rapor\nTürkiye İş Bankası A.Ş. 31 Aralık 2025 Tarihli Konsolide Finansal Rapor\nTürkiye İş Bankası A.Ş. Önceki Dönem Sonu 1 Aya Kadar 1-3 Ay 3-12 Ay 1-5 Yıl 5 Yıl ve Üzeri Faizsiz Toplam\nVarlıklar\nNakit Değerler (Kasa, Efektif Deposu, \nYoldaki Paralar, Satın Alınan Çekler) ve \nTCMB 229.509.781 403.036.755 632.546.536\nBankalar 43.295.948 6.860.187 1.401.892 38.865.584 90.423.611\nGerçeğe Uygun Değer Farkı Kar veya \nZarara Yansıtılan Finansal Varlıklar \n(1) 11.780.978 8.070.626 9.876.301 17.525.666 319.289 48.189.697 95.762.557\nPara Piyasalarından Alacaklar 7.338.988 1.395.838 2.078.539 10.813.365\nGerçeğe Uygun Değer Farkı Diğer \nKapsamlı Gelire Yansıtılan Finansal \nVarlıklar 75.904.055 38.513.176 66.692.411 124.465.558 116.104.915 4.468.913 426.149.028\nVerilen Krediler \n(2) 661.102.497 196.417.042 589.741.531 403.715.600 98.161.334 1.494.182 1.950.632.186\nİtfa Edilmiş Maliyeti Üzerinden \nDeğerlenen Finansal Varlıklar 39.237.150 61.045.791 76.904.323 68.853.324 35.316.591 281.357.179\nDiğer Varlıklar \n(3) 30.290.901 3.425.217 2.512.596 216.697 336.568.448 373.013.859\nToplam Varlıklar 1.098.460.298 315.727.877 749.207.593 614.776.845 249.902.129 832.623.579 3.860.698.321\n \nYükümlülükler \nBankalar Mevduatı 50.809.208 1.517.783 3.867.624 3.346.709 59.541.324\nDiğer Mevduat 936.917.204 245.819.977 72.412.685 12.356.651 2.802.934 849.566.755 2.119.876.206\nPara Piyasalarına Borçlar 325.652.696 25.678.929 6.301.572 21.096 357.654.293\nMuhtelif Borçlar 14.902.807 78.320 72.205 168.650.943 183.704.275\nİhraç Edilen Menkul Değerler (4) 18.500.946 63.872.751 33.382.948 87.081.081 27.485.311 230.323.037\nDiğer Mali Kuruluşlardan Sağlanan \nFonlar 154.579.278 86.720.421 45.482.364 13.942.611 976.458 301.701.132\nDiğer Yükümlülükler \n(5) (6) 6.258.851 4.373.767 4.650.977 1.052.458 3.018.288 588.543.713 607.898.054\nToplam Yükümlülükler 1.507.620.990 428.061.948 166.170.375 114.453.897 34.282.991 1.610.108.120 3.860.698.321\n \nBilançodaki Uzun Pozisyon 583.037.218 500.322.948 215.619.138 1.298.979.304\nBilançodaki Kısa Pozisyon -409.160.692 -112.334.071 -777.484.541 -1.298.979.304\nNazım Hesaplardaki Uzun Pozisyon 26.900.051 31.720.515 19.704.446 78.325.012\nNazım Hesaplardaki Kısa Pozisyon -72.110.785 -446.141 -72.556.926\nToplam Pozisyon -382.260.641 -80.613.556 510.926.433 520.027.394 215.172.997 -777.484.541 5.768.086\n (1) Türev finansal varlıkları da içermektedir.",
+        "ticker": "ISCTR",
+        "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-09T22:01:33",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1569176",
+        "source_filename": "1569176_İş Bankası 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.70875347,
+        "text": "Nakit ve Nakde Eşdeğer Varlıklardaki Net Artış 39.470.863 64.935.979\nVI. Dönem Başındaki Nakit ve Nakde Eşdeğer Varlıklar 552.243.687 395.130.686\nVII. Dönem Sonundaki Nakit ve Nakde Eşdeğer Varlıklar 591.714.550 460.066.665\n(*) İtfa edilen İtfa Edilmiş Maliyeti ile Ölçülen Finansal Varlıkları da içermektedir. TÜRKİYE İŞ BANKASI A.Ş. KONSOLİDE NAKİT AKIŞ TABLOSU\nBİN TÜRK LİRASI\n\nTÜRKİYE İŞ BANKASI A.Ş. 13 \n31 Mart 2026 Tarihli Konsolide Finansal Rapor \n \n \n \n(Yetkili İmza / Kaşe) \n \nÜÇÜNCÜ BÖLÜM: MUHASEBE POLİTİKALARINA İLİŞKİN AÇIKLAMALAR \n \nI.",
+        "ticker": "ISCTR",
+        "company_name": "TÜRKİYE İŞ BANKASI A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T18:12:27",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601308",
+        "source_filename": "1601308_ISBTR-31032026-Konsolide Finansal Rapor.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_13",
+    "ticker": "AKBNK",
+    "category": "banka_kredi_buyumesi",
+    "difficulty": "medium",
+    "period": "2026Q2",
+    "question": "Akbank'ın Mayıs 2026'da erken itfa ettiği sermaye benzeri tahvilin başlangıç tutarı, ISIN kodu ve erken itfa yetkisi kimden alınmıştır?",
+    "gold_answer": "2021 yılında ihraç edilen toplam 500 milyon ABD Doları tutarındaki sürdürülebilir sermaye benzeri tahvil (ISIN: XS2355183091 ve US00971YAJ91). 10 yıl vadeli, 5. yılda erken itfa opsiyonlu. Erken itfa için BDDK onayı alınmıştır. Kaynak: KAP #1608065",
+    "document": "AKBNK Sermaye Benzeri Tahvil Bildirimi – KAP #1608065, 15.05.2026",
+    "elapsed_sec": 0.065,
+    "hits": [
+      {
+        "score": 0.61153054,
+        "text": "AKBANK T.A.Ş. Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin \nBildirim (Faiz İçeren)\nKAMUYU AYDINLATMA PLATFORMU\nKAP'ta yayınlanma tarihi ve saati: 15.05.2026 17:50:17\nhttps://www.kap.org.tr/tr/Bildirim/1608066\n\nÖzet Bilgi\nXS2355183091 ve US00971YAJ91 ISIN kodlu Sürdürülebilir Sermaye Benzeri Tahvillerin erken itfa opsiyonunun kullanılması \nhakkında\nYapılan Açıklama Güncelleme mi ? Hayır\nYapılan Açıklama Düzeltme mi ? Evet\nYapılan Açıklama Ertelenmiş Bir \nAçıklama mı ?",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-05-15T17:50:19",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1608066",
+        "source_filename": "1608066_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.6086625,
+        "text": "AKBANK T.A.Ş. Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin \nBildirim (Faiz İçeren)\nKAMUYU AYDINLATMA PLATFORMU\nKAP'ta yayınlanma tarihi ve saati: 15.05.2026 17:49:58\nhttps://www.kap.org.tr/tr/Bildirim/1608065\n\nÖzet Bilgi\nXS2355183091 ve US00971YAJ91 ISIN kodlu Sürdürülebilir Sermaye Benzeri Tahvillerin erken itfa opsiyonunun kullanılması \nhakkında\nYapılan Açıklama Güncelleme mi ? Hayır\nYapılan Açıklama Düzeltme mi ? Evet\nYapılan Açıklama Ertelenmiş Bir \nAçıklama mı ?",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-05-15T17:50:01",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1608065",
+        "source_filename": "1608065_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.5840147,
+        "text": "AKBANK T.A.Ş. Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin \nBildirim (Faiz İçeren)\nKAMUYU AYDINLATMA PLATFORMU\nKAP'ta yayınlanma tarihi ve saati: 07.05.2026 18:35:04\nhttps://www.kap.org.tr/tr/Bildirim/1602709\n\nÖzet Bilgi XS3017358394 ISIN Kodlu Tahvilin İtfası\nYapılan Açıklama Güncelleme mi ? Hayır\nYapılan Açıklama Düzeltme mi ? Evet\nYapılan Açıklama Ertelenmiş Bir \nAçıklama mı ?",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Pay Dışında Sermaye Piyasası Aracı İşlemlerine İlişkin Bildirim (Faiz İçeren)",
+        "disclosure_type": "CA",
+        "publish_datetime": "2026-05-07T18:35:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602709",
+        "source_filename": "1602709_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.5830851,
+        "text": "AKBANK T.A.Ş. 31 MART 2026 TARİHİ İTİBARIYLA KONSOLİDE OLMAYAN \nFİNANSAL TABLOLARA İLİŞKİN AÇIKLAMA VE DİPNOTLAR \n(Tutarlar aksi belirtilmedikçe bin Türk Lirası (“TL”) olarak ifade edilmiştir.) \nYENİ METİN \nMadde 9 – Sermaye ve sermayenin ödeme şekil ve şartları \nA. Banka, Sermaye Piyasası Kanunu hükümleri ne göre kayıtlı sermaye sistemini kabul etmiş ve Sermaye Piyasası Kurulu’nun \n2/12/1999 tarih ve 116/1376 sayılı izni ile ka yıtlı sermaye sistemine geçmiştir. Bankanın kayıtlı sermaye tavanı 30.000.000.000.-\n(Otuzmilyar) TL. olup, her biri 1 Kuruş itibari değerde nama yazılı 3.000.000.000.000 (Üçtrilyon) paya bölünmüştür. Sermaye Piyasası Kurulu’nca verilen kayıtlı sermaye tavanı izni, 2026-2030 yılları (5 yıl) için geçerlidir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-04-28T18:15:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1598264",
+        "source_filename": "1598264_31032026 Akbank Konsolide Olmayan Finansal Tablolar ve Dipnotlar.pdf"
+      },
+      {
+        "score": 0.58216536,
+        "text": "AKBANK T.A.Ş. 31 MART 2026 TARİHİ İTİBARIYLA KONSOLİDE \nFİNANSAL TABLOLARA İLİŞKİN AÇIKLAMA VE DİPNOTLAR \n(Tutarlar aksi belirtilmedikçe bin Türk Lirası (“TL”) olarak ifade edilmiştir.) \nYENİ METİN \nMadde 9 – Sermaye ve sermayenin ödeme şekil ve şartları \nA. Banka, Sermaye Piyasası Kanunu hükümleri ne göre kayıtlı sermaye sistemini kabul etmiş ve Sermaye Piyasası Kurulu’nun \n2/12/1999 tarih ve 116/1376 sayılı izni ile kayıtlı sermaye sistemine geçmiştir. Bankanın kayıtlı sermaye tavanı 30.000.000.000.-\n(Otuzmilyar) TL. olup, her biri 1 Kuruş itibari değerde nama yazılı 3.000.000.000.000 (Üçtrilyon) paya bölünmüştür. Sermaye Piyasası Kurulu’nca verilen kayıtlı sermaye tavanı izni, 2026-2030 yılları (5 yıl) için geçerlidir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-04-28T18:15:32",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1598259",
+        "source_filename": "1598259_31032026 Akbank Konsolide Finansal Tablolar ve Dipnotlar.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_14",
+    "ticker": "AKBNK",
+    "category": "banka_kredi_buyumesi",
+    "difficulty": "medium",
+    "period": "2025Y",
+    "question": "Bankacılık sektöründe sorunlu kredi (TGA) oranı 2024 yıl sonu ile 2025 Aralık sonu arasında nasıl değişmiştir?",
+    "gold_answer": "Sektör TGA oranı 2024 sonundaki yüzde 1,8'den Aralık 2025 sonunda yüzde 2,5'e yükselmiştir; ancak düşük seyrini sürdürmüştür. Kaynak: KAP #1564365",
+    "document": "AKBNK 2025 Entegre Faaliyet Raporu – KAP #1564365, 02.03.2026",
+    "elapsed_sec": 0.056,
+    "hits": [
+      {
+        "score": 0.696525,
+        "text": "Sektörde sorunlu kredi oranı 2024 sonunda %1,8 \niken aralık ayı itibarıyla %2,5’e yükselmekle birlikte \ndüşük seyrini sürdürdü. Aktif kalitesinde tabana \nyaygın bir bozulma gözlenmemekle birlikte sektörel \nbazda bazı ayrışmalar gözlenmiştir. Bankacılık sektörü 2026 yılına yurt içi ve yurt \ndışına ilişkin belirsizliklerle girmektedir. Ancak, \nbankalar ihtiyatlı karşılık politikalarıyla bu riskleri \nyönetebilecek kapasiteye sahiptir. Belirsizliklerin \nhızlı şekilde giderilmesi ve risklerin azalması \nsektör açısından önem taşımaktadır.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6567112,
+        "text": "2026 \nyılında da, mali duruşun enflasyonla mücadele \nsürecini destekleyebilmesi için OVP'de belirtilen \nçerçeveye bağlı kalmaya devam etmesinin önemli \nolduğunu değerlendiriyoruz. Faiz indirimlerine bağlı olarak mevduat ve kredi \nfaizleri de düşüşe geçerken, kredi büyümelerinde \nbir ivmelenme devam etmiştir. Haftalık verilere \ngöre 2025 yılında yıllık TL kredi büyümesi yaklaşık \n%44,0, YP kredi yıllık büyümesi ise dolar cinsinden \nyaklaşık %19 düzeyinde gerçekleşmiştir. Bankacılık \nsektöründe sorunlu kredi oranı ise 2024 sonunda \n%1,8 iken 2025 aralık ayı itibarıyla %2,5 olarak \ngerçekleşmiş olup, düşük seyrini sürdürmektedir. Sermaye yeterlilik oranı (SYR) aralıkta %19,7 ile \nyasal sınırın üstünde kalmaya devam etmiştir. Çekirdek SYR de %15,1 ile güçlü seyretmektedir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6380032,
+        "text": "Metrik ve HedeflerRisk YönetimiStratejiYönetişimGenel Bakış Ekler\nAkbank TSRS Uyumlu Sürdürülebilirlik Raporu 2025\n801 Ocak 2024 – 31 Aralık 2024 finansal raporlama döneminde, Banka’nın nakdi ticari kredi portföyü içerisinde gayrimenkul teminatlı ticari krediler payı %20,5 olarak \ngerçekleşmiştir. Bu oran 2025 yılında %20,8’e yükselmiştir. 01 Ocak 2024 – 31 Aralık 2024 finansal raporlama döneminde toplam tüketici kredileri içerisindeki gayrimenkul \nteminatlı konut kredilerinin payı %11,8 olarak gerçekleşirken bu oran 2025 yılında %13,2’ye yükselmiştir. Bu durum, Banka’nın aşırı hava olayları nedeniyle teminat değerlerinin \ndüşmesi riskinde sınırlı bir maruziyet artışına işaret etmekte olup ilgili teminatlı kredilerin risklerinin izlenmesine devam edilmektedir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-07T18:43:42",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602720",
+        "source_filename": "1602720_Akbank 2025 TSRS Raporu.pdf"
+      },
+      {
+        "score": 0.6301798,
+        "text": "Brüt kredi portföyü ve portföyün \nrisk payları baz alınarak iklim kırılganlığı \nMetrik ve HedeflerRisk YönetimiStratejiYönetişimGenel Bakış Ekler\nAkbank TSRS Uyumlu Sürdürülebilirlik Raporu 2025\n701 Ocak 2024 – 31 Aralık 2024 finansal raporlama döneminde, Banka’nın nakdi kredi portföyü içerisinde suya yüksek düzeyde bağımlı olan tarım, gıda ve tekstil sektörlerinin \npayı %5,4 olarak gerçekleşmiştir. Bu oran 2025 yılında %5,5’e yükselmiştir. Bu durum, Banka’nın suya bağımlı sektörlere olan maruziyetinde sınırlı bir yükselişe işaret etmekte \nolup ilgili sektörlere yönelik risklerin izlenmesi ve değerlendirilmesine devam edilmektedir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-07T18:43:42",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602720",
+        "source_filename": "1602720_Akbank 2025 TSRS Raporu.pdf"
+      },
+      {
+        "score": 0.6060151,
+        "text": "Fiziksel risklerin sistematik hale gelmesi \nnedeniyle Banka’nın kredi portföyünde \nbozulmalar ve kredi kayıplarında artış \ngözlenebilir. Metrik ve HedeflerRisk YönetimiStratejiYönetişimGenel Bakış Ekler\nAkbank TSRS Uyumlu Sürdürülebilirlik Raporu 2025\nİklimle İlgili Risk ve Fırsatlar\nBanka, 2025 yılında müşteri portföyü çerçevesinde \nfiziksel ve geçiş risklerini değerlendirirken 2024 \nyılı TSRS Uyumlu Sürdürülebilirlik Raporunda \npaylaştığı riskler de dahil olmak üzere \noperasyonları ve müşteri portföyü kaynaklı \nkarşılaşabileceği risklerin mevcut ve potansiyel \netkilerini değerlendirmiştir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "TSRS Uyumlu Sürdürülebilirlik Raporu",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-07T18:43:42",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602720",
+        "source_filename": "1602720_Akbank 2025 TSRS Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_15",
+    "ticker": "VAKBN",
+    "category": "banka_kredi_buyumesi",
+    "difficulty": "easy",
+    "period": "2026Q2",
+    "question": "VakıfBank'ın Mayıs 2026'da sağladığı sendikasyon kredisinin toplam tutarı, para birimi bileşimi ve vadesi nedir?",
+    "gold_answer": "Toplam 1,2 milyar ABD Doları karşılığı; 484 milyon ABD Doları ve 574 milyon Euro olmak üzere iki dilimden oluşmaktadır. Vade 367 gündür. USD dilimi maliyeti SOFR + yüzde 1,25; Euro dilimi Euribor + yüzde 1,10. Kaynak: KAP ODA #1608322",
+    "document": "VAKBN Sendikasyon Kredisi ODA Bildirimi – KAP #1608322, 18.05.2026",
+    "elapsed_sec": 0.061,
+    "hits": [
+      {
+        "score": 0.66658115,
+        "text": "31 Aralık 2025 tarihi itibarıyla toplam seküritizasyon kredisi bakiyesi 2,677 milyon ABD Doları ve 847,750 \nmilyon AVRO eşdeğerindedir (31 Aralık 2024: 2,051 milyon ABD Doları ve 528,7 milyon AVRO). VakıfBank 2025 Entegre Faaliyet Raporu\n(Tutarlar aksi belirtilmedikçe Bin Türk Lirası (“TL”) olarak ifade edilmiştir.)\nTÜRKİYE VAKIFLAR BANKASI TÜRK ANONİM ORTAKLIĞI\n31 ARALIK 2025 TARİHİ İTİBARIYLA HAZIRLANAN KONSOLİDE OLMAYAN FİNANSAL\nTABLOLARA İLİŞKİN AÇIKLAMA VE DİPNOTLAR\nTÜRKİYE VAKIFLAR BANKASI TÜRK ANONİM ORTAKLIĞI \n \n31 ARALIK 2025 TARİHİ İTİBARIYLA HAZIRLANAN KONSOLİDE OLMAYAN \nFİNANSAL TABLOLARA İLİŞKİN AÇIKLAMA VE DİPNOTLAR \n(Tutarlar aksi belirtilmedikçe Bin Türk Lirası (“TL”) olarak ifade edilmiştir.) \nFİNANSAL TABLOLARA İLİŞKİN AÇIKLAMA VE DİPNOTLAR (Devamı) \n \nII.",
+        "ticker": "VAKBN",
+        "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-03T20:02:41",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1565260",
+        "source_filename": "1565260_Vakıfbank 2025 Yılı Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.65009224,
+        "text": "Sermaye Yeterliliği Rasyosu\n2023\n15,09\n2021\n14,85\n2022\n15,19\n2024\n16,11\n2025\n16,71\n\nVakıfBank 2025 Entegre Faaliyet Raporu\nEk 1: Uluslararası Finans Kuruluşları ile Yapılan \nKredi Anlaşmaları\nDönem Kurum Proje/Kredi Adı Tutar Anlaşma Tarihi\n2010\nEBRD (Avrupa İmar ve Kalkınma Bankası) TurSEFF I (Türkiye Sürdürülebilir Enerji Finansmanı \nI)\n60 milyon ABD \nDoları Mayıs 2010\nDünya Bankası SME II (KOBİ’lerin Finansmana Erişimi II) 200 milyon ABD \nDoları Temmuz 2010\n2011 EIB (Avrupa Yatırım Bankası) İklim Değişikliği Projesi 75 milyon Euro Aralık 2011\n2013 Dünya Bankası Enerji Verimliliği Projesi 67 milyon ABD \nDoları Mayıs 2013\n2015\nKfW (Alman Kalkınma Bankası) Mikro, Küçük ve Orta Ölçekli İşletmeler Kredisi II \n(MSME II) 200 milyon Euro Haziran 2015\nEIB (Avrupa Yatırım Bankası) KOBİ ve Orta Büyüklükteki Firmaların Finansmanı \nII-B 100 milyon Euro Mayıs 2015\n2016 EIB (Avrupa Yatırım Bankası)\nİlave KOBİ Kredisi- B (Eski adı Municipal Loan) 100 milyon Euro Mayıs 2016\nKOBİ ve Orta Büyüklükteki Firmaların Finansmanı \nIII/A 100 milyon Euro Aralık 2016\n2017 AFD (Fransız Kalkınma Ajansı) Tarım ve Kırsal Kalkınma Kredisi 80 milyon Euro Kasım 2017\n2020\nDünya Bankası Acil Durum Firma Destek Projesi 250 milyon ABD \nDoları Eylül 2020\nAFD (Fransız Kalkınma Ajansı) Yeşil Konut Finansmanı Kredisi 200 milyon Euro Aralık 2020\n2023 ING Bank 50 milyon Euro Aralık 2023\n2024 Intesa Sanpaolo SpA 30 milyon Euro Temmuz 2024\n2024 Çin Exim Bank 708 milyon CNY ve \n284 milyon Euro Aralık 2024\n2025 Kuwait Finance House Murabaha 500 milyon USD Ağustos 2025\n2025 China Development Bank Bilateral 4 Milyar CNY Mayıs 2025\n2025 Asian Infrastructure Investment Bank İklim Geçişi ve Yeniden Yapılanma Tesisi 300 Milyon USD Aralık 2025\n2025 International Bank for Reconstruction and \nDevelopment\nİstihdam ve Büyüme için Finansmana Erişim \nProjesi (FINGROW)\n1 Milyar 500 Milyon \nUSD Aralık 2025\n\nEkler Dizini\nEk 2: Beş Yıllık Döneme İlişkin Özet Finansal Bilgiler\nVARLIKLAR (Bin TL) 2021 2022 2023 2024 2025\nNakit Değerler ve Bankalar* 172.369.725 309.576.715 518.222.539 968.666.661 980.318.495 \nMenkul Kıymetler Portföyü 223.736.789 372.587.589 659.771.028 915.385.649 1.199.692.750 \nCanlı Krediler 573.700.310 933.450.970 1.499.288.217 2.009.402.124 2.925.229.862 \nTicari Krediler 448.952.720 755.178.112 1.217.369.760 1.606.882.855 2.346.305.177 \nBireysel Krediler 124.747.590 178.272.858 281.918.457 402.519.269 578.924.685 \nDonuk Alacaklar 18.309.561 20.274.348 19.823.287 36.667.071 87.224.274 \nÜçüncü Aşama Beklenen Zarar Karşılıkları 14.133.868 16.483.985 16.135.770 23.415.531 53.820.807 \nİştirakler ve Bağlı Ortaklıklar 6.697.833 14.201.803 20.364.932 30.072.878 59.103.129 \nMaddi Duran Varlıklar** 5.621.885 12.273.649 25.936.703 40.007.452 62.559.846 \nDiğer Aktifler 32.703.971 60.232.577 114.780.055 89.231.215 173.909.952 \nVarlıklar Toplamı 1.007.213.697 1.681.060.623 2.796.634.132 4.021.485.697 5.388.289.819 \n \n* Para Piyasalarından Alacaklar dâhildir.",
+        "ticker": "VAKBN",
+        "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-03T20:02:41",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1565260",
+        "source_filename": "1565260_Vakıfbank 2025 Yılı Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6494901,
+        "text": "Hayır (No)\nYapılan Açıklama Düzeltme mi? Hayır (No)\nKonuya İlişkin Daha Önce Yapılan Açıklamanın Tarihi Yapılan Açıklama Ertelenmiş Bir Açıklama mı? Hayır (No)\nBildirim İçeriği\nAçıklamalar\nVakıfBank, 18 ülkeden 44 bankanın katılımıyla 484 milyon ABD Doları ve 574 milyon Euro olmak üzere iki dilimden oluşan toplam 1,2 milyar ABD Doları karşılığı sürdürülebilirlik \ntemalı sendikasyon kredisi temin ederek söz konusu sendikasyon kredisini geçen yılın aynı dönemine göre %110'ün üzerinde yenilemiştir. 367 gün vadeli kredinin toplam maliyeti ABD Doları kısmı için SOFR +%1,25 ve Euro kısmı için Euribor +%1,10 olarak gerçekleşmiştir. Söz konusu işlemde Abu Dhabi Commercial Bank PJSC ve Emirates NBD Capital Limited ortak koordinatör bankalar ve First Abu Dhabi Bank PSJC, ING Bank N.V.",
+        "ticker": "VAKBN",
+        "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "subject": "Özel Durum Açıklaması (Genel)",
+        "disclosure_type": "ODA",
+        "publish_datetime": "2026-05-18T08:17:44",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1608322",
+        "source_filename": "1608322_KAP_Bildirim.pdf"
+      },
+      {
+        "score": 0.6488019,
+        "text": "Söz konusu işlem ile \nkatılımcı sayısı bakımından son 10 yılın en yüksek katılımcı \nbanka sayısına ulaştık. Malta, Mısır ve Polonya gibi uzun süredir \nsendikasyonlarımıza katılmayan ülkelerden bu işleme gelen ilgi, \ngeniş muhabir ağımızla kurduğumuz kalıcı ve güvene dayalı \nilişkilerin bir sonucu oldu. Bu başarılı işlemle birlikte VakıfBank’ın \nuluslararası alandaki güçlü konumu bir kez daha teyit edildi. 2025 yılında yenilediğimiz sendikasyon kredilerimizi \n“Sürdürülebilir Finansman Çerçevemize” uyumlu olarak \nyenilemeye devam ettik. Sürdürülebilir Finansman Çerçevesine \nuyumlu kredi portföyümüzün tutarı 2025 yılında 6,1 milyar ABD \nDoları olarak gerçekleşti.",
+        "ticker": "VAKBN",
+        "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-03T20:02:41",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1565260",
+        "source_filename": "1565260_Vakıfbank 2025 Yılı Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6255598,
+        "text": "Kredilerin alt dağılımına bakıldığında, ticari kredilerimizin \n2,555 milyar TL’ye, bireysel kredilerimizin ise yaklaşık 607 milyar TL’ye ulaştığı görülmektedir. Grubun mevduatı ise 2026 \nyılının birinci çeyreğinde 3,430 milyar TL olarak gerçekleşmiştir. Mevduat dışında ise Bankamızca; yurt içinde halka arz yoluyla ve nitelikli yatırımcılara satılmak üzere, 2026 yılının birinci \nçeyreği itibarıyla toplamda 803 milyon TL nominal değerli finansman bonosu ihracı gerçekleştirilmiştir. Yurt dışından temin \nettiğimiz kaynak tutarı ise yıl içerisinde 2.9 milyar ABD Doları seviyesine ulaşmıştır. VakıfBank olarak Dünya Bankası İcra Kurulu tarafından Aralık 2025’te onaylanan “Türkiye İstihdam ve Büyüme için \nFinansmana Erişim Projesi” kapsamında, T.C.",
+        "ticker": "VAKBN",
+        "company_name": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-06T18:40:20",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1602078",
+        "source_filename": "1602078_VAKBN KONS 03.26.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_16",
+    "ticker": "AEFES",
+    "category": "genel_finansal_durum",
+    "difficulty": "medium",
+    "period": "2025Y",
+    "question": "Anadolu Efes'in 2025 yıl sonu toplam varlıkları, ana ortaklığa ait özkaynakları ve toplam finansal borcu nedir?",
+    "gold_answer": "Toplam Varlıklar: 413.578 milyon TL (2024: 461.029 milyon TL; yüzde 10,3 azalma). Ana Ortaklığa ait Özkaynaklar: 108.611 milyon TL (2024: 110.003 milyon TL; yüzde 1,3 azalma). Toplam Finansal Borç (kiralama dahil): 92.987 milyon TL (2024: 103.258 milyon TL; yüzde 9,9 azalma). Kaynak: KAP #1570140",
+    "document": "AEFES 2025 Yıllık Faaliyet Raporu – KAP #1570140, 11.03.2026",
+    "elapsed_sec": 0.056,
+    "hits": [
+      {
+        "score": 0.6860827,
+        "text": "10. Bağış ve Yardımlar, Sosyal \nSorumluluk Projeleri Çerçevesinde \nYapılan Harcamalar ve Yönetim \nKurulu Üyeleri ile Üst Düzey \nYöneticilere Sağlanan Haklara \nİlişkin Bilgiler\nAnadolu Efes’in 2025 yılı toplam bağış rakamı \n91,2 milyon TL’dir. Yönetim Kurulu üyeleri ve üst düzey yöneticilere \nsağlanan huzur hakkı, ücret, prim, ikramiye, kâr \npayı gibi mali menfaatlerin toplam tutarları, mali \ntabloların ilgili dipnotlarında verilirken verilen \nödenekler, yolculuk, konaklama ve temsil giderleri \nve ayni ve nakdi imkânlar, sigortalar ve benzeri \nteminatların toplam tutarı 2025 yılında 1.625,7 bin \nTL olarak gerçekleşmiştir. 11.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T00:15:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+        "source_filename": "1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.65980744,
+        "text": "ANADOLU EFES \nENTEGRE FAALİYET \nRAPORU 2025\nGİRİŞ\nANADOLU EFES DÜNYASI\n• Kısac\na Anadolu Efes\n• Değer Zincirimiz\n• Tr\nendler ve Faaliyet \nOrtamımız\nKURUMSAL YÖNETİŞİM \nYAPIMIZ\nGELECEĞE ARTI DEĞER\nFİNANSAL DİSİPLİN İLE \nBÜYÜYORUZ\nTOPLUMSAL FAYDA İÇİN \nÇALIŞIYORUZ\nÇEVRE İÇİN SIFIRLIYORUZ\nÇALIŞANLARIMIZ İLE \nGÜÇLENİYORUZ\nKURUMSAL YÖNETİŞİM\nFİNANSAL BİLGİLER\nEKLER\n\n2025 yılı itibarıyla küresel ekonomi, pandemi \nsonrası toparlanma sürecini büyük ölçüde \ngeride bırakmış olsa da jeopolitik gelişmeler, \nfinansman maliyetlerindeki dalgalanma ve \nbölgesel kırılganlıklar nedeniyle belirsizlik \netkileri devam ediyor. Küresel ölçekte devam \neden bu belirsizliklere rağmen, önümüzdeki \ndöneme ilişkin beklentiler daha dengeli bir \nçerçeve sunuyor.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T00:15:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+        "source_filename": "1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.6527543,
+        "text": "sayfadan ula şabilirsiniz. Aksi \nbelirtilmedikçe, bu duyuruda yer alan tüm finansal veriler TMS 29'a uygun olarak sunulmuştur. AEFES \nKonsolide (milyon TL) 1Ç2025 1Ç2026 % Değişim \nSatış Hacmi (mhl) 24.3 25.6 5.3%\nSatış Gelirleri 58,033.2 62,424.7 7.6%\nBrüt Kar 18,416.9 22,372.9 21.5%\nFaaliyet Karı/(Zararı) (BMKÖ) 1,193.8 4,306.3 260.7%\nFAVÖK (BMKÖ) 5,402.3 8,513.8 57.6%\nNet Dönem Karı/(Zararı)* 2,257.6 2,009.7 -11.0%\nSerbest Nakit Akımı -22,025.4 -7,289.5 66.9%\nDeğişim (bp)\nBrüt Kar Marjı 31.7% 35.8% 410\nFaaliyet Kar/(Zarar) (BMKÖ) Marjı 2.1% 6.9% 484\nFAVÖK (BMKÖ) Marjı 9.3% 13.6% 433\nNet Kar/(Zarar) Marjı* 3.9% 3.2% -67\nBira Grubu (milyon TL) 1Ç2025 1Ç2026 % Değişim \nSatış Hacmi (mhl) 2.3 2.1 -9.6%\nSatış Gelirleri 10,275.3 9,410.6 -8.4%\nBrüt Kar 4,145.2 3,382.7 -18.4%\nFaaliyet Karı/(Zararı) (BMKÖ) -2,251.1 -2,336.4 -3.8%\nFAVÖK (BMKÖ) -635.9 -761.0 -19.7%\nNet Dönem Karı/(Zararı)* 1,237.5 -327.3 a.d\nSerbest Nakit Akımı -9,411.1 -6,918.9 26.5%\nDeğişim (bp)\nBrüt Kar Marjı 40.3% 35.9% -440\nFaaliyet Kar/(Zarar) (BMKÖ) Marjı -21.9% -24.8% -292\nFAVÖK (BMKÖ) Marjı -6.2% -8.1% -190\nNet Kar/(Zarar) Marjı* 12.0% -3.5% a.d\nCCI (milyon TL) 1Ç2025 1Ç2026 % Değişim\nSatış Hacmi (Milyon Ünite Kasa) 387.3 413.9 6.9%\nSatış Gelirleri 47,318.0 52,368.6 10.7%\nBrüt Kar 14,392.3 19,027.8 32.2%\nFaaliyet Karı/(Zararı) 3,759.8 6,931.0 84.3%\nFAVÖK 6,119.4 9,342.4 52.7%\nNet Dönem Karı/(Zararı)* 1,668.9 5,237.3 213.8%\nSerbest Nakit Akımı -10,491.3 461.7 a.d\nDeğişim (bp)\nBrüt Kar Marjı 30.4% 36.3% 592\nFaaliyet Kar/(Zarar) Marjı 7.9% 13.2% 529\nFAVÖK Marjı 12.9% 17.8% 491\nNet Kar/(Zarar) Marjı* 3.5% 10.0% 647\n*Ana ortaklık payları\nBAŞLICA FİNANSAL GÖSTERGELER \n\n \nSayfa 3 of 17 www.anadoluefes.com ir@anadoluefes.com \n \n \n \n \n Anadolu Efes konsolide satı ş hacmi, 1Ç2026’da geçen yılın aynı dönemine kıyasla %5,3 oranında \nartarak 25,6 milyon hektolitreye ula şmıştır.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-05-05T22:37:07",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1601483",
+        "source_filename": "1601483_1Ç2026 - Ara Dönem Faaliyet Raporu.pdf"
+      },
+      {
+        "score": 0.65102696,
+        "text": "NOT 17. TAAHHÜTLER, KOŞULLU VARLIKLAR VE YÜKÜMLÜLÜKLER \n \nAna Ortak (Anadolu Efes) ve Konsolidasyon Kapsamına Dahil Edilen Ortaklıklar \n \n31 Aralık 2025 ve 31 Aral ık 2024 tarihleri itibar ıyla ana ortak ve konsolidasyon kapsam ına dahil edilen ortakl ıklar \niçin verilen teminat rehin ipotek (TRİ) pozisyonu aşağıdaki gibidir: \n \n 31 Aralık 2025 \n \nToplam \nTL Karşılığı \nOrijinal \nPara Birimi \nTL \nOrijinal \nPara Birimi \nBin USD \nOrijinal \nPara Birimi \nBin EUR \nOrijinal \npara birimi \nBin PKR \nDiğer \nYabancı \nPara TL \nKarşılığı \n \nA. Kendi Tüzel Kişiliği Adına Vermiş Olduğu TRİ'lerin \nToplam Tutarı 3.956.519 3.257.181 6.062 3.553 162.152 236.115 \nB.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-05T23:54:28",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566776",
+        "source_filename": "1566776_AEFES Kons 31 12 2025 TR.pdf"
+      },
+      {
+        "score": 0.6500559,
+        "text": "Anadolu Efes’in tedavüldeki borçlanma araçlarına ilişkin bilgiler aşağıda yer almaktadır. Kredi \nDerecelendirme \nKuruluşu\nSon \nGüncelleme Derecelendirme Türü Kredi Derecelendirme Notu Görünüm\nFitch 12.12.2025 Uzun Vadeli Kurumsal Kredi Notu BB Negatif\nFitch 12.12.2025 Uzun Vadeli Ulusal Kredi Notu AAA(tur) (Yatırım yapılabilir seviye) Negatif\nStandard & Poors 15.10.2025 Uzun Vadeli Kurumsal Kredi Notu BB Negatif\nJCR Eurasia 19.08.2025 Uzun Vadeli Ulusal Kredi Notu AAA (tr) (Yatırım yapılabilir seviye) Durağan\nTürü İhraç Tutarı İhraç Tarihi İtfa Tarihi Faiz/Getiri Oranı (%) İhraç Şekli\nEurotahvil 500.000.000 ABD Doları 29.06.2021 29.06.2028 %3,375 Yurtdışı\nTahvil 1.800.000.000 Türk Lirası 17.02.2025 16.02.2026 TL Ref + %1 Nitelikli Yatırımcıya Satış\nTahvil 2.000.000.000 Türk Lirası 23.06.2025 22.06.2026 %47,00 Nitelikli Yatırımcıya Satış\nTahvil 2.000.000.000 Türk Lirası 8.09.2025 7.09.2026 TL Ref + %1 Nitelikli Yatırımcıya Satış\nTahvil 1.300.000.000 Türk Lirası 19.12.2025 13.01.2027 %39,50 Nitelikli Yatırımcıya Satış\nANADOLU EFES \nENTEGRE FAALİYET \nRAPORU 2025\nGİRİŞ\nANADOLU EFES DÜNYASI\nKURUMSAL YÖNETİŞİM \nYAPIMIZ\nGELECEĞE ARTI DEĞER\nFİNANSAL DİSİPLİN İLE \nBÜYÜYORUZ\nTOPLUMSAL FAYDA İÇİN \nÇALIŞIYORUZ\nÇEVRE İÇİN SIFIRLIYORUZ\nÇALIŞANLARIMIZ İLE \nGÜÇLENİYORUZ\nKURUMSAL YÖNETİŞİM\n• Ya\ntırımcı ve Pay \nSahipleri ile İlişkiler\n• Kr\nedi Notları ve \nBorçlanma Aracı İhraçları\n• Kurumsal Y\nönetim \nİlkeleri Uyum Beyanı\n• SPK Sürdürülebilirlik\n \nİlkeleri Uyum Beyanı\n• Kurumsal Y\nönetime \nİlişkin Ek Bilgiler\n• Bağımsızlık Be\nyanı\n• Faaliy\netlere İlişkin Diğer \nBilgiler\n• 2025 Y\nılı Kâr Dağıtım \nTablosu\n• Yöne\ntim Kurulu \nSorumluluk Beyanı\n• Yöne\ntim Kurulu’nun Yıllık \nFaaliyet Raporuna İlişkin \nBağımsız Denetçi Raporu\nFİNANSAL BİLGİLER\nEKLER\n\nKurumsal Yönetim İlkeleri Uyum Beyanı\nKurumsal yönetişim anlayışını faaliyetlerinin vazgeçilmez \nbir unsuru olarak kabul eden Anadolu Efes, bütün yasal \ndüzenlemeleri ve SPK tarafından düzenlenen “Kurumsal \nYönetim İlkelerini yönetişim anlayışının önemli bir parçası \nolarak benimsemekte; ayrıca ortakların ve Şirketimiz ile ilgili \nolan bütün grupların çıkarlarına en iyi hizmeti vermek için \nŞirketimizin işleyişine uygun yapılar ve prensipler geliştirmeyi \nhedeflemektedir.",
+        "ticker": "AEFES",
+        "company_name": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-11T00:15:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1570140",
+        "source_filename": "1570140_Anadolu Efes 2025 Entegre Faaliyet Raporu.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_17",
+    "ticker": "AKBNK",
+    "category": "genel_finansal_durum",
+    "difficulty": "easy",
+    "period": "2025Y",
+    "question": "TCMB, 2025 Temmuz'dan itibaren politika faizinde kaç toplantıda toplam kaç baz puan indirim gerçekleştirmiştir ve mevcut politika faizi nedir?",
+    "gold_answer": "TCMB Temmuz 2025'ten itibaren 5 toplantıda toplam 900 baz puan faiz indirimi gerçekleştirmiştir; politika faizi yüzde 37,0'ye çekilmiştir. Gecelik borç verme faizi yüzde 40,0, borç alma faizi yüzde 35,5. Kaynak: KAP #1564365",
+    "document": "AKBNK 2025 Entegre Faaliyet Raporu – KAP #1564365, 02.03.2026",
+    "elapsed_sec": 0.058,
+    "hits": [
+      {
+        "score": 0.7498496,
+        "text": "TCMB temmuz ayı ile birlikte \nyeniden faiz indirim sürecine girmiş, beş toplantıda \npolitika faizi 900 bp azalarak %37’ye gerilemiştir. Enflasyondaki katılık nedeniyle 2026 yılında bu \nsürecin ölçülü adımlarla, kademeli gerçekleşmesi \nbeklenmektedir. 28 Akbank Entegre Faaliyet Raporu 2025\nBankacılık Sektörü\n2025 yılı ikinci çeyreğinde yurt içi ve yurt dışı \ngelişmeler kaynaklı finansal koşullar sıkılaşırken, \nalınan tedbirler makro-finansal risklerin sınırlanmasını \nsağladı. Bu durum bankacılık sektöründe fonlama \nmaliyetlerini artırırken, karlılık ve varlık kalitesi \naçısından şartların zorlaşmasına neden oldu. Yılın üçüncü çeyreğinde başlayan faiz indirim \nsüreci ise bankacılık sektöründe kredi büyümesi \nve karlılık açısından şartların daha olumlu hale \ngelmesini sağladı.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.73973215,
+        "text": "TCMB temmuz ayı ile birlikte yeniden faiz indirim \nsürecine girmiş, beş toplantıda politika faizini \ntoplam 900 bp azaltarak %37,0’ye çekmiştir. Gecelik borç verme ve borç alma faizleri de aynı \nmiktarda azaltılarak sırasıyla %40,0 ve %35,5 \nolarak belirlenirken, asimetrik faiz koridorunun \ngenişliği korunmuştur. Enflasyondaki katılık \nnedeniyle 2026 yılında bu sürecin ölçülü adımlarla, \nkademeli gerçekleşmesi beklenmektedir. Bütçe açığı 2025 yılını Orta Vadeli Program’da \nöngörülen açığın belirgin altında tamamladı. Merkezi \nyönetim bütçe açığı yılın tamamında 1.799 milyar \nTL’ye ulaşırken (milli gelirin %2,9’u), faiz dışı denge \n255 milyar TL fazla verdi (milli gelirin %0,4).",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.7337821,
+        "text": "Yıllık enflasyonun 2026 \nyılında da kademeli şekilde azalarak yıl sonunda \n%25’e gerileyeceği öngörülmektedir. Türkiye Cumhuriyeti Merkez Bankası (TCMB) \naralık ayında başlattığı faiz indirim döngüsüne \nocak ve mart ayındaki 250 baz puanlık indirimlerle \ndevam ederek politika faizini %42,5’e indirmiştir. Ancak yurt içi ve yurt dışı siyasi, ekonomik ve \njeopolitik gelişmelere bağlı olarak risk iştahının \nazalmasıyla birlikte oluşan finansal dalgalanmaların \nkontrol altına alınması için yeniden parasal \nsıkılaştırma kararı alınmıştır. Ayrıca alınan ilave \nmakroihtiyati tedbirler yoluyla parasal duruş daha \nda güçlendirilmiştir. TCMB temmuz ayı ile birlikte \nyeniden faiz indirim sürecine girmiş, beş toplantıda \npolitika faizi 900 bp azalarak %37’ye gerilemiştir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6218394,
+        "text": "Kasım itibarıyla 12 aylık \nbirikimli cari açık 23,2 milyar ABD Doları ile \n2024 yıl sonuna kıyasla (10 milyar ABD Doları) \nbelirgin artmıştır. Artışa rağmen cari açık GSYİH’nin \n%1,5’i ile yönetilebilir seviyelerdedir. Yıllık tüketici enflasyonu 2024 yıl sonunda \n%44,4 iken 2025 sonunda %30,9’a gerilemiştir. Enflasyon bekleyişlerinin yüksek seyri, hizmet \nenflasyonundaki katılık ve gıdada kuraklık ve don \nkaynaklı fiyat hareketleri enflasyondaki düşüşün \nhızını yavaşlatmıştır. Yıllık enflasyonun TCMB’nin \nara hedefinin (%16) belirgin üzerinde kalacağını ve \n2026 yıl sonunda %25 seviyesinde gerçekleşeceğini \nöngörüyoruz. TCMB temmuz ayı ile birlikte yeniden faiz indirim \nsürecine girmiş, beş toplantıda politika faizini \ntoplam 900 bp azaltarak %37,0’ye çekmiştir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6171626,
+        "text": "Bu ortam, ülkeler ve finansal kurumlar açısından risk yönetimi ile \nuzun vadeli stratejik uyumun giderek daha kritik hale gelmesine yol açıyor. Türkiye Cumhuriyeti Merkez \nBankası’nın (TCMB) Aralık 2024’te başlattığı faiz indirim döngüsü, izleyen dönemde küresel ve yurtiçi \ngelişmelerin etkisiyle yön değiştirerek finansal piyasalarda oynaklığın artmasına ve finansal koşullarda \nbeklenmedik bir sıkılaşmaya neden oldu. Sürecin makroihtiyati tedbirlerle desteklenmesine rağmen, \nfonlama maliyetleri, karlılık ve aktif kalitesi üzerindeki artan baskılar sonucunda bankacılık sektörü yılın \nbaşında öngörülen projeksiyonun dışına çıktı. Detaylı bilgilere raporun Ekonomik ve Sektörel Gelişmeler \nBölümü’nden ulaşabilirsiniz.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_18",
+    "ticker": "AKBNK",
+    "category": "genel_finansal_durum",
+    "difficulty": "hard",
+    "period": "2025Y",
+    "question": "Türkiye'de kur korumalı mevduatın (KKM) bakiyesi 23 Ocak 2026 itibarıyla ne düzeydedir ve döviz tevdiat hesabı (DTH) bakiyesi 2025 yılında nasıl değişmiştir?",
+    "gold_answer": "KKM bakiyesi 23 Ocak 2026 itibarıyla 0,1 milyar ABD Dolarına gerilemiştir. DTH bakiyesi 18 Mart 2025'ten 2025 sonuna kadar yaklaşık 44 milyar ABD Doları artarak 249 milyar ABD Dolarına yükselmiştir. Altın ve parite etkisi hariç artış yaklaşık 14 milyar ABD Doları düzeyindedir. Kaynak: KAP #1564365",
+    "document": "AKBNK 2025 Entegre Faaliyet Raporu – KAP #1564365, 02.03.2026",
+    "elapsed_sec": 0.061,
+    "hits": [
+      {
+        "score": 0.68277353,
+        "text": "Sermaye yeterlilik oranı (SYR) aralıkta %19,7 ile \nyasal sınırın üstünde kalmaya devam etmiştir. Çekirdek SYR de %15,1 ile güçlü seyretmektedir. TCMB’nin sadeleşme adımlarına kapsamında kur \nkorumalı mevduat (KKM) ilişkin tüm işlemlerin \nsonlandırılmasına yönelik kararın ardından, KKM \nbakiyesi 23 Ocak itibarıyla 0,1 milyar ABD Doları’na \ngerilemiştir. DTH 18 Mart’tan 2025 sonuna kadar \nolan dönemde yaklaşık 44 milyar ABD Doları \nartışla 249 milyar ABD Doları’na yükselirken, bu \nartışta özellikle altın fiyatlarında görülen artış \netkili olmuştur. Altın fiyatı ve parite etkisi hariç \nbaktığımızda DTH’taki artışın yaklaşık 14 milyar \nABD Doları ile daha sınırlı kalmıştır.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6628895,
+        "text": "Merkez Bankası - - - - - - - --\n Yurtiçi Bankalar 32.037 38.053.309 - - 6.063.164 - - 444.148.510\n Yurtdışı Bankalar 1.723.515 159.095 43.443.572 9.931.028 29.333.767 7.606.505 - 992.197.482\n Katılım Bankaları 100.439 - - - - - - 1100.439\n Diğe r -- ---- - Toplam 694.775.243 350.595.197 731.169.141 113.323.439 103.545.524 78.166.472 5.407 2.071.580.423\nHazine ve Maliye Bakanlığı ile TCMB tarafından işleyiş kuralları belirlenen ve TL mevduatların faiz oranıyla değerlenirken \nyabancı parada oluşacak kur değişimine karşı da korunmasını sağlayan kur korumalı mevduat ürünü banka müşterilerine \nsunulmaktadır. 31 Aralık 2025 tarihi itibarıyla TL mevduat tutarı bu kapsamdaki 1.286.609 TL (31 Aralık 2024: 107.084.307 TL) \nmevduatı içermektedir. 1 (ii).",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.66244626,
+        "text": "Merkez Bankası -- - - - - - --\n Yurtiçi Bankalar 32.021 38.053.309 - - 6.063.164 - - 444.148.494\n Yurtdışı Bankalar 1.776.141 159.095 37.658.310 9.931.028 29.321.496 7.606.505 - 886.452.575\n Katılım Bankaları 100.439 - - - - - - 1100.439\n Diğer -- - - - - - -Toplam 723.290.659 351.793.880 755.082.935 118.455.033 120.199.095 104.594.158 5.407 2.173.421.167\nHazine ve Maliye Bakanlığı ile TCMB tarafından işleyiş kuralları belirlenen ve TL mevduatların faiz oranıyla değerlenirken \nyabancı parada oluşacak kur değişimine karşı da korunmasını sağlayan kur korumalı mevduat ürünü banka müşterilerine \nsunulmaktadır. 31 Aralık 2025 tarihi itibarıyla TL mevduat tutarı bu kapsamdaki 1.286.609 TL (31 Aralık 2024: 107.084.307 TL) \nmevduatı içermektedir. 1 (ii).",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6559885,
+        "text": "https://www.bddk. org.tr/Mevzuat/\nDokumanGetir/1318\nKur Korumalı Mevduat \nHesaplarına İlişkin \nDeğişiklikler\nTCMB, 2025 yılı Para Politikası metninde yıl içerisinde KKM \nuygulamasını sonlandırmayı hedeflediğini belirtmiş olup \nKKM hesaplarından çıkış stratejisini benimsemiş, bu strateji \nTL payındaki artış ile birlikte kademeli olacak şekilde \ngerçekleştirilmiştir. Bu kapsamda tüzel kişi KKM hesapları için \nyenileme ve açılış işlemleri Şubat ayında sonlandırılmış, \n23 Ağustos 2025 tarihi itibarıyla (YUVAM hesapları hariç) KKM \nhesap açma ve yenileme işlemlerinin gerçek kişiler bakımından \nda sonlandırılmasına karar verilmiştir. https://www.tcmb.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6495344,
+        "text": "Altın fiyatı ve parite etkisi hariç \nbaktığımızda DTH’taki artışın yaklaşık 14 milyar \nABD Doları ile daha sınırlı kalmıştır. 132025 Akbank Entegre Faaliyet Raporu\n2025 yılında TCMB rezervlerinde altın fiyatlarındaki \nartışın getirdiği değerleme etkisiyle önemli bir \ntoparlanma gerçekleşti. TCMB brüt rezervi 23 Ocak \nitibarıyla 216 milyar ABD Doları’na yükseldi. 2025 \nyılının tamamında hisseye 2,3 milyar ABD Doları, \nDİBS’e 2,9 milyar ABD Doları, swap’a 18 milyar \nABD Doları giriş gerçekleşti. Ülke risk primini \ngösteren 5 yıllık CDS’ler de nisan ayında gördüğü \nyaklaşık 380 bp’dan 2025 yıl sonunda 204 bp’ye \nkadar geriledi. Küresel çapta 2026 yılında da ticaret savaşları \nve jeopolitik gelişmelerin etkileri takip edilmeye \ndevam edecek.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_19",
+    "ticker": "AKBNK",
+    "category": "genel_finansal_durum",
+    "difficulty": "easy",
+    "period": "2025Y",
+    "question": "Akbank'ın 2025 yılı toplam aktifleri, toplam kredileri ve özsermayesi ile bunların 2024'e göre yıllık büyüme oranları nedir?",
+    "gold_answer": "Toplam Aktifler: 3.558.950 milyon TL (yıllık +yüzde 34,1; 2024: 2.653.105 milyon TL). Toplam Krediler: 1.920.958 milyon TL (yıllık +yüzde 39,6; 2024: 1.375.995 milyon TL). Özsermaye: 310.169 milyon TL (yıllık +yüzde 29,0; 2024: 240.384 milyon TL). Kaynak: KAP #1564365",
+    "document": "AKBNK 2025 Entegre Faaliyet Raporu – KAP #1564365, 02.03.2026",
+    "elapsed_sec": 0.071,
+    "hits": [
+      {
+        "score": 0.7519775,
+        "text": "Detaylı bilgilere raporun İnsan ve Toplum Bölümü’nden ulaşabilirsiniz. İlişkili Sermaye Öğelerimiz\nİnsan Sermayesi\n\n38 Akbank Entegre Faaliyet Raporu 2025\n2025’te Öne Çıkanlar\n2025 Yılında Öne Çıkanlar \nve Sektörel Konumumuz\nYıllık artış\n%34,1\nYıllık artış\n%39,6\nToplam Aktifler (milyon TL) Toplam Krediler (milyon TL)\n2021 2022 2023 2024 2025\n762.798\n396.750\n1.147.294 616.109\n1.904.769 962.081\n2.653.105\n1.375.995\n3.558.950 1.920.958\nÖzsermaye (milyon TL)\nYıllık artış\n%29,0\n2021 2022 2023 2024 2025\n2021 2022 2023 2024 2025\n75.959\n153.606\n211.219\n240.384\n310.169\nToplam Mevduat (milyon TL)\nYıllık artış\n%33,1\n2021 2022 2023 2024 2025\n453.551\n721.562\n1.292.914\n1.632.597\n2.173.421\n\n392025 Akbank Entegre Faaliyet Raporu\ntoplam aktif müşteri\n(2021 sonundan bu yana \n%80 artış)\n15,2 \nmilyonsermaye yeterlilik \noranı1\n%19,0\n1 BDDK düzenlemeleri dahil paylaşılmış olup, \nmenkullerin gerçeğe uygun değerleme farkları ve risk \nağırlıklı kalemler hesaplamasında 28.06.2024 döviz \nkuru dikkate alınmıştır.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.71931493,
+        "text": "İhtiyaç kredilerinin yaklaşık %90’ı, \ntaksitli ticari kredilerin %95’ten fazlası dijital \nkanallar aracılığı ile gerçekleştirilmiştir. 2025 Yılının Özet Finansal \nSonuçları ve Banka’nın \nGeleceğe İlişkin Beklentileri\n\n3352025 Akbank Entegre Faaliyet Raporu\n>%30\nOrta tek haneli seviye\n%3-3,5\n~ %60\n~ %40\nYüksek %40’lı seviye\n~ %3,5\n150 -200 baz puan\n> %25\nTL Kredi Büyümesi\nYP Kredi Büyümesi (ABD Doları)\nNet Faiz Marjı (SWAP Düzl.)\nNet Ücret ve Komisyon Artışı\nOperasyonel Giderler Artışı\nOperasyonel Giderler / Gelirler\nTakipteki Krediler Oranı\nNet Kredi Maliyeti (Kur Etkisi Hariç)\nÖzsermaye Karlılığı\n2025 Beklentiler Özet Tablosu\n%41,8\n%10,1\n%2,5\n%64,1\n%33,1\n%50,6\n%3,4\n214 baz puan\n%21,5\n2025B\nTL Kredi Büyümesi\nYP Kredi Büyümesi (ABD Doları)\nNet Faiz Marjı (SWAP Düzl.)\nNet Ücret ve Komisyon Artışı\nOperasyonel Giderler Artışı\nOperasyonel Giderler / Gelirler\nTakipteki Krediler Oranı\nNet Kredi Maliyeti (Kur Etkisi Hariç)\nÖzsermaye Karlılığı\n2026 Beklentiler\n>%30\n>% 1 0\n~ %4\n>%30\nDüşük %30’lu seviye\nDüşük %40’lı seviye\n~ %3,5\n~ 200 baz puan\nYüksek %20’li seviye\n2026B\n2025\n1 Operasyonel Gider / Gelir hesaplamasında; 1&2 Grup kredi karsılıklarından kaynaklanan kambiyo kar / zarar etkisi hariçtir.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.7139863,
+        "text": "Akbank’ın organik büyüme hedefleri \nve dijital stratejisinin bir çıktısı olarak müşteri \nbazlı gelir üretimi de güçlenmeye devam etmiştir. Böylece, net ücret ve komisyon gelirleri 2025 yılında \ngeçen yıla kıyasla %64 artış kaydederek yıl sonu \nbeklentisinin üzerinde artış göstermiştir. Akbank, \n2025 yılı itibarıyla net ücret ve komisyon gelirleri \n/ operasyonel giderler rasyosunu 2022 yılından bu \nyana 48 puan artışla %106’ya ulaştırırken, aynı \ndönemde özel bankalar arasındaki net ücret ve \nkomisyon pazar payını yaklaşık 4 puan artırarak \n%17,8 seviyesine çıkartmıştır. 2025 yılında konsolide toplam aktif büyüklüğü 3 \ntrilyon 559 milyar TL seviyesine yükselmiştir. Aynı \ndönemde krediler, 1 trilyon 921 milyar TL’si nakdi \nolmak üzere toplam 2 trilyon 467 milyar TL’ye \nulaşmıştır.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.68963933,
+        "text": "Aynı \ndönemde krediler, 1 trilyon 921 milyar TL’si nakdi \nolmak üzere toplam 2 trilyon 467 milyar TL’ye \nulaşmıştır. Banka’nın toplam mevduatı ise 2 trilyon \n173 milyar TL seviyesine ulaşmıştır. Akbank, 2025 yılında etkin ve ihtiyatlı risk yönetimi \nanlayışını sürdürerek aktif kalitesini güçlü şekilde \nyönetmeye devam etmiştir. Banka, risk-getiri odaklı \nbüyüme stratejisi sayesinde 2. ve 3. aşama kredi \npayını %10,8 gibi kontrollü bir seviyede tutmuştur. Yeniden yapılandırılan kredilerin toplam portföy \niçerisindeki sınırlı payı ve temkinli kredi tahsis \nyaklaşımı, kredi portföyünün kalitesini güçlendiren \nunsurlar arasında yer almıştır.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      },
+      {
+        "score": 0.6875795,
+        "text": "Beş Yıllık \nÖzet Konsolide \nFinansal Bilgiler Birim 2021 2022 2023 2024 2025\nToplam Aktifler milyon TL 762.798 1.147.294 1.904.769 2.653.105 3.558.950\nKrediler milyon TL 396.750 616.109 962.081 1.375.995 1.920.958\nMevduat milyon TL 453.551 721.562 1.292.914 1.632.597 2.173.421\nÖz Sermaye milyon TL 75.959 153.606 211.219 240.384 310.169\nNet Kar milyon TL 12.127 60.026 66.496 42.362 57.224\nBeş Yıllık \nÖzet Konsolide \nOlmayan \nFinansal Bilgiler Birim 2021 2022 2023 2024 2025\nToplam Aktifler milyon TL 708.911 1.075.186 1.789.174 2.515.597 3.336.007\nKrediler milyon TL 353.372 560.350 870.106 1.286.771 1.782.069\nMevduat milyon TL 413.261 679.325 1.218.108 1.562.097 2.071.580\nÖz Sermaye milyon TL 75.955 153.600 211.195 240.348 310.158\nNet Kar milyon TL 12.126 60.024 66.479 42.366 57.247\n\n338 Akbank Entegre Faaliyet Raporu 2025\nDenetçi Raporu\nRİSKİN ERKEN SAPTANMASI SİSTEMİ VE KOMİTESİ HAKKINDA DENETÇİ RAPORU\nAkbank T.A.Ş.",
+        "ticker": "AKBNK",
+        "company_name": "AKBANK T.A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-02T21:09:51",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1564365",
+        "source_filename": "1564365_Akbank_EFR_2025_KAP.pdf"
+      }
+    ]
+  },
+  {
+    "id": "KAP_RAG_20",
+    "ticker": "ENKAI",
+    "category": "genel_finansal_durum",
+    "difficulty": "medium",
+    "period": "2026Q1",
+    "question": "Enka İnşaat'ın 2026 birinci çeyrek toplam finansal borcu ve net nakit pozisyonu nedir?",
+    "gold_answer": "Kısa ve uzun vadeli finansal borçlar toplamı 156,87 milyon ABD Doları (6,96 milyar TL). Nakit ve benzerleri ile kısa ve uzun vadeli finansal yatırımlar toplamı 5,47 milyar ABD Doları (243 milyar TL). Net nakit pozisyonu 5,32 milyar ABD Doları (236 milyar TL). Kaynak: KAP #1603547",
+    "document": "ENKAI 1Q2026 Faaliyet Raporu (Konsolide) – KAP #1603547, 08.05.2026",
+    "elapsed_sec": 0.057,
+    "hits": [
+      {
+        "score": 0.6878679,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vadeli Yükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden yükümlülükler 13.003.884 13.382.911\nDönem karı vergi yükümlülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yükümlülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansman giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:34",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566104",
+        "source_filename": "1566104_Enka_31.12.2025_Raporu.pdf"
+      },
+      {
+        "score": 0.68110543,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n4. MÜŞTEREK FAALİYETLER \n \n Grup’un müşterek faaliyetlerinin aktif ve pasifleri içindeki payı aşağıdaki gibidir: \n \n31 Aralık 31 Aralık\n2025 2024\nVARLIKLAR\nDönen Varlıklar\nNakit ve nakit benzeri değerler 7.429.701 11.361.774\nFinansal yatırımlar 457.763 446.366\nTicari alacaklar 7.358.278 5.738.764\nDiğer alacaklar 59.341 35.845\nStoklar 745.344 466.653\nDevam eden inşaat,taahhüt veya hizmet sözleşmelerinden varlıklar 833.263 108.416\nDiğer dönen varlıklar 1.482.247 980.545\nGrup'un müşterek faaliyetlerinin\n dönen varlıklar içindeki payı 18.365.937 19.138.363\nDuran Varlıklar\nMaddi duran varlıklar 7.733.793 5.527.717\nBirikmiş amortismanlar (3.668.305) (2.533.819)\nGrup'un müşterek faaliyetlerinin\n maddi duran varlıklar içindeki payı 4.065.488 2.993.898\nKAYNAKLAR\nKısa Vad eli Y ükümlülükler\nTicari borçlar 2.260.753 1.316.414\nDevam eden inşaat,taahhüt veya hizm et sözleşm elerinden yüküm lülükler 13.003.884 13.382.911\nDönem karı vergi yüküm lülüğü 542.769 150.859\nKısa vadeli karşılıklar 609.480 748.648\nÇalışanlara sağlanan faydalara ilişkin karşılıklar 379.998 265.873\nDiğer kısa vadeli yüküm lülükler 2.546.277 2.939.308\nGrup'un müşterek faaliyetlerinin\n kısa vadeli yükümlülükler içindeki payı 19.343.161 18.804.013\n \n \n Grup’un müşterek faaliyetlerindeki paylarına ilişkin konsolide kâr veya zarar tablosunda muhasebeleştirilen tutar lar \naşağıdaki gibidir: \n \n1 Ocak - 1 Ocak - \n31 Aralık 2025 31 Aralık 2024\nHasılat 33.707.826 25.243.500 \nSatışların maliyeti (26.473.415) (17.659.817)\nEsas faaliyetlerden diğer gelirler 264.905 235.651\nEsas faaliyetlerden diğer giderler - (33)\nYatırım faaliyetlerinden gelirler 100.226 7.647\nFinansman gelirleri 275.541 406.700\nFinansm an giderleri (142.333) (107.284)\nSürdürülen faaliyetler net vergi gideri (966.685) (1.612.501)\nNet kar 6.766.065 6.513.863 \n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.269\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.6806356,
+        "text": "x\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.201\nTEMEL RASYOLAR (TUTARLAR BİN T ÜRK LİR ASI’DIR)\n31.12.2025 31.12.2024\nCari Oran:\nDönen Varlıklar 275.272.393\n= %378.8\n159.722.509\n= %290.5\nKısa Vadeli Yükümlülükler 72.660.815 54.978.712\nNakit Oranı:\nNakit ve Nakit Benzerleri + Finansal Yatırımlar 245.280.086\n= %337,6\n194.737.166\n= %354,2\nKısa Vadeli Yükümlülükler 72.660.815 54.978.712\nKaldıraç Oranı:\nToplam Yükümlülükler 113.520.853\n= %23,0\n80.278.919\n= %22,1\nToplam Varlıklar 493.059.685 363.510.879\nÖzkaynak/Varlıklar Toplamı Oranı:\nÖzkaynaklar 379.538.832\n= %77,0\n283.231.960\n= %77,9\nToplam Varlıklar 493.059.685 363.510.879\nDönen Varlıklar/Varlıklar Toplamı Oranı:\nDönen Varlıklar 275.272.393\n= %55,8\n159.722.509\n= %43,9\nToplam Varlıklar 493.059.685 363.510.879\nDuran Varlıklar/Varlıklar Toplamı Oranı:\nDuran Varlıklar 217.787.292\n= %44,2\n203.788.370\n= %56,1\nToplam Varlıklar 493.059.685 363.510.879\nAktif Kârlılığı:\nNet Dönem Kârı 36.183.302\n= %7,3\n24.690.869\n= %6,8\nToplam Varlıklar 493.059.685 363.510.879\nNet Kâr Marjı:\nNet Dönem Kârı 36.183.302\n= %23,1\n24.690.869\n= %24,6\nToplam Satış Gelirleri 156.507.106 100.541.405\nToplam Borç/Özkaynak Oranı:\nToplam Yükümlülükler 113.520.853\n= %29,9\n80.278.919\n= %28,3\nÖzkaynaklar 379.538.832 283.231.960\n\n2.2 FAALİYET RAPORU\n2.2.1 Yönetim kurulu, yıllık faaliyet raporunun şirket faaliyetlerini tam ve doğru şekilde \nyansıtmasını temin etmektedir.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.6609473,
+        "text": "TL dışındaki para birimleri, aksi belirtilmedikçe bin olarak \nbelirtilmiştir.) \n5. BÖLÜMLERE GÖRE RAPORLAMA (devamı) \n \na) İş sahaları (devamı) \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Eliminasyon Toplam\nHasılat 70.431.997 10.782.185 8.584.822 10.742.401 - 100.541.405\nBölüm içi hasılat 3.480.601 214.567 557.737 - (4.252.905) Satışların maliyeti (-) (54.009.466) (3.770.211) (5.864.849) (11.604.638) - (75.249.164)\nBölüm içi satışların maliyeti (-) (3.480.601) (214.567) (557.737) - 4.252.905 Brüt Kar 16.422.531 7.011.974 2.719.973 (862.237) - 25.292.241\nGenel yönetim giderleri (-) (4.514.264) (228.211) (233.656) (548.062) - (5.524.193)\nPazarlama giderleri (-) (316.197) (199.382) (484.400) - - (999.979)\nEsas faaliyetlerden diğer gelirler 1.354.359 138.278 90.294 127.717 - 1.710.648\nEsas faaliyetlerden diğer giderler (-) (773.403) (30.863) (33.684) (330.214) - (1.168.164)\nEsas Faaliyet Karı 12.173.026 6.691.796 2.058.527 (1.612.796) - 19.310.553\nYatırım faaliyetlerinden gelirler 16.536.594 2.766.120 - 8.429 - 19.311.143\nYatırım faaliyetlerinden giderler (-) (1.465.767) (611.428) - (6.724) - (2.083.919)\nFinansman Gelir/Gideri\nÖncesi Faaliyet Karı 27.243.853 8.846.488 2.058.527 (1.611.091) - 36.537.777\nFinansal gelirler 1.252.455 74.485 245.529 445.829 (426) 2.017.872\nFinansal giderler (-) (899.366) (653.869) (324.836) (150.873) 426 (2.028.518)\nNet parasal pozisyon kayıpları (-) - - (156.206) (1.453.343) - (1.609.549)\nSürdürülen Faaliyetler V ergi Öncesi Kar 27.596.942 8.267.104 1.823.014 (2.769.478) - 34.917.582\nDönem vergi gideri (-) (2.747.690) (1.271.234) (485.613) (5.838) - (4.510.375)\nErtelenmiş vergi gelir/(gideri) (1.669.498) (2.550.405) 17.055 (55.659) - (4.258.507)\nSürdürülen Faaliyetler\nDönem Karı/(Zararı) 23.179.754 4.445.465 1.354.456 (2.830.975) - 26.148.700\n1 Ocak - 31 Aralık 2024\n \n \nİnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nBölüm varlıkları 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nToplam Varlıklar 236.594.728 66.107.203 9.609.295 51.199.653 363.510.879\nBölüm yükümlülükleri 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\nToplam Yükümlülükler 51.095.514 17.268.613 4.185.443 7.729.349 80.278.919\n31 Aralık 2024\n \n \nDiğer Bölüm Bilgileri İnşaat\nGayrimenkul \nKiralama Ticaret Enerji Toplam\nYatırım harcamaları\nMaddi duran varlıklar ve yatırım \namaçlı gayrimenkuller 2.767.810 127.574 87.107 5.848.592 8.831.083\nMaddi olmayan duran varlıklar 48.828 1.870 13.160 390 64.248\nToplam Yatırım Harcamaları 2.816.638 129.444 100.267 5.848.982 8.895.331\nAmortisman gideri 1.830.534 52.462 89.330 2.081.008 4.053.334\nİtfa payları 157.351 1.799 7.479 2.717 169.346\n1 Ocak - 31 Aralık 2024\n\nFaaliyet Raporu 2025\nENKA İnşaat ve Sanayi A.Ş.271\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Faaliyet Raporu (Konsolide)",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:55",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566105",
+        "source_filename": "1566105_Enka_Faaliyet_Raporu_2025.pdf"
+      },
+      {
+        "score": 0.6566822,
+        "text": "FİNANSAL BORÇLAR \n \n \na) Finansal kredilerden borçlar \n \nGrup’un 2025 ve 2024 yıllarında finansal kredilerden borcu bulunmamaktadır. 31 Aralık 20 25 tarihinde sona eren yıla ait finansman faaliyetlerinden kaynaklanan nakit akışları ile \nyükümlülüklerdeki hareketlerin mutabakatı aşağıdaki gibidir: \n \n \nKur farkı\ndeğişimi\nDiğer nakit\nolmayan\nhareketler\nKiralama borçları (KV) 152.274 57.826 5.141 97.303 27.522 340.066\nKiralama borçları (UV) 3.950.390 4.242 1.131.512 633.559 847.150 6.566.853\nFinansman faaliyetlerinden kaynaklanan \ntoplam yükümlülükler 4.102.664 62.068 1.136.653 730.862 874.672 6.906.919\n31 Aralık\n2024\nNakit Hareketi \nYaratanlar\nÇevrim \nFarkı\n31 Aralık\n2025\nNakit Hareketi Yaratmayanlar\n \n \n \n31 Aralık 20 24 tarihinde sona eren yıla ait finansman faaliyetlerinden kaynaklanan nakit akışları ile \nyükümlülüklerdeki hareketlerin mutabakatı aşağıdaki gibidir: \n \n \nKur farkı\ndeğişimi\nDiğer nakit\nolmayan\nhareketler\nKiralama borçları (KV) 131.815 (148.036) - 142.285 26.210 152.274\nKiralama borçları (UV) 3.454.920 145.513 (413.450) 79.804 683.603 3.950.390\nFinansman faaliyetlerinden kaynaklanan \ntoplam yükümlülükler 3.586.735 (2.523) (413.450) 222.089 709.813 4.102.664\n31 Aralık\n2023\nNakit Hareketi \nYaratanlar\nÇevrim \nFarkı\nNakit Hareketi Yaratmayanlar\n31 Aralık\n2024\n\nENKA İNŞAAT VE SANAYİ A.Ş.",
+        "ticker": "ENKAI",
+        "company_name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+        "subject": "Finansal Rapor",
+        "disclosure_type": "FR",
+        "publish_datetime": "2026-03-04T21:45:34",
+        "url": "https://www.kap.org.tr/tr/Bildirim/1566104",
+        "source_filename": "1566104_Enka_31.12.2025_Raporu.pdf"
+      }
+    ]
+  }
+]
