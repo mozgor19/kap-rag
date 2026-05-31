@@ -332,9 +332,19 @@ class KapWebClient:
 
 
 def serialize_disclosure(ticker: str, member: dict, summary: dict) -> dict:
-    index = parse_int(summary.get("disclosureIndex")) or summary.get("disclosureIndex")
+    index = parse_int(summary.get("disclosureIndex"))
+    if index is None:
+        raw = summary.get("disclosureIndex")
+        log.warning("disclosureIndex int'e dönüştürülemedi: %r — ham değer kullanılıyor", raw)
+        index = raw
     publish_dt = parse_datetime(summary.get("publishDate"))
     stock_codes = split_stock_codes(summary.get("stockCodes") or summary.get("relatedStocks"), ticker)
+
+    url = (
+        f"{CONFIG.kap_base_url.rstrip('/')}/{CONFIG.kap_language}/Bildirim/{index}"
+        if index is not None
+        else ""
+    )
 
     return {
         "index": index,
@@ -352,7 +362,7 @@ def serialize_disclosure(ticker: str, member: dict, summary: dict) -> dict:
         "is_corrective": bool(summary.get("modifyStatus")),
         "is_english": False,
         "has_multi_language_support": bool(summary.get("hasMultiLanguageSupport")),
-        "url": f"{CONFIG.kap_base_url.rstrip('/')}/{CONFIG.kap_language}/Bildirim/{index}",
+        "url": url,
         "ticker": ticker,
         "company_oid": member.get("kapMemberOid"),
         "mkk_member_oid": member.get("mkkMemberOid"),
