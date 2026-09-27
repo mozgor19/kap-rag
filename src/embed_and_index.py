@@ -22,9 +22,16 @@ logging.basicConfig(
 
 
 def get_embedder(device: str = None) -> SentenceTransformer:
+    """CUDA varsa modeli fp16 yükler — WSL'de host RAM'i 2.3GB'dan ~1.2GB'a indirir.
+    Chunk'lar <=800 karakter olduğu için max_seq_length=1024 hiçbir metni kesmez."""
+    import torch
+
     log.info("Embedding modeli yükleniyor: %s", CONFIG.embedding_model)
-    model = SentenceTransformer(CONFIG.embedding_model, device=device)
-    log.info("  Cihaz: %s", model.device)
+    use_cuda = torch.cuda.is_available() if device is None else str(device).startswith("cuda")
+    kwargs = {"model_kwargs": {"torch_dtype": torch.float16}} if use_cuda else {}
+    model = SentenceTransformer(CONFIG.embedding_model, device=device, **kwargs)
+    model.max_seq_length = 1024
+    log.info("  Cihaz: %s (fp16=%s)", model.device, use_cuda)
     return model
 
 
@@ -70,6 +77,7 @@ def ensure_collection(client: QdrantClient) -> None:
         vectors_config=qm.VectorParams(
             size=CONFIG.embedding_dim,
             distance=qm.Distance.COSINE,
+            on_disk=True,          # 107k x 1024 vektör RAM yerine memmap
         ),
     )
     log.info("Collection oluşturuldu: %s (dim=%d, cosine)",

@@ -22,7 +22,13 @@ logging.basicConfig(
 
 @lru_cache(maxsize=1)
 def _embedder() -> SentenceTransformer:
-    return SentenceTransformer(CONFIG.embedding_model)
+    """Korpus ile aynı dtype: CUDA varsa fp16 (4GB WSL'de fp32 model OOM'a yakın)."""
+    import torch
+
+    kwargs = {"model_kwargs": {"torch_dtype": torch.float16}} if torch.cuda.is_available() else {}
+    model = SentenceTransformer(CONFIG.embedding_model, **kwargs)
+    model.max_seq_length = 1024
+    return model
 
 
 @lru_cache(maxsize=1)

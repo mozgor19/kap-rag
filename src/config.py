@@ -94,7 +94,9 @@ class Config:
 
     embedding_model: str = "BAAI/bge-m3"
     embedding_dim: int = 1024
-    embedding_batch_size: int = 16
+    embedding_batch_size: int = field(
+        default_factory=lambda: int(os.getenv("KAP_EMBED_BATCH", "16"))
+    )
 
     chunk_size: int = 800
     chunk_overlap: int = 150
