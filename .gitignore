@@ -30,3 +30,8 @@ qdrant_storage/
 # OS
 .DS_Store
 Thumbs.db
+
+# Teslim/handover ciktilari (uretilmis veri — scriptlerle yeniden uretilebilir)
+handover/
+kap_key_facts_teslim_*.zip
+kap_rag_benchmark_cleaned.json
